@@ -103,6 +103,7 @@ def file_to_kbfile(kb_name: str, files: List[str]) -> List[KnowledgeFile]:
                     metadata["logoImg"] = record.get("logoImg") if record.get("logoImg") is not None else ""
                     # metadata["categories"] = record.get("categories") if record.get("categories") is not None else ""
                     return metadata
+
                 args = {}
                 args.setdefault('jq_schema', '.results[]')
                 args.setdefault('content_key', 'storeName')
@@ -152,6 +153,8 @@ def folder2db(
 
     kb_names = kb_names or list_kbs_from_folder()
     for kb_name in kb_names:
+        if kb_name != 'aime':
+            continue
         kb = KBServiceFactory.get_service(kb_name, vs_type, embed_model)
         if not kb.exists():
             kb.create_kb()

@@ -391,6 +391,7 @@ def get_kb_file_details(kb_name: str) -> List[Dict]:
 
 
 class EmbeddingsFunAdapter(Embeddings):
+
     def __init__(self, embed_model: str = EMBEDDING_MODEL):
         self.embed_model = embed_model
 
@@ -399,6 +400,8 @@ class EmbeddingsFunAdapter(Embeddings):
         return normalize(embeddings).tolist()
 
     def embed_query(self, text: str) -> List[float]:
+        import pydevd_pycharm
+        pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True)
         embeddings = embed_texts(texts=[text], embed_model=self.embed_model, to_query=True).data
         query_embed = embeddings[0]
         query_embed_2d = np.reshape(query_embed, (1, -1))  # 将一维数组转换为二维数组

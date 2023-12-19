@@ -1,0 +1,1521 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 44,
+  "pageSize": 100,
+  "totalRecords": 6585,
+  "totalPages": 66,
+  "results": [
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_29_HOUSEWARES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Kitchen_Storage_&_Organization",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656213&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_29_HOUSEWARES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Kitchen_Carts",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656214&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_29_HOUSEWARES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Food_Storage",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656215&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_29_HOUSEWARES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Pantry_Organizers",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656216&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_29_HOUSEWARES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_VEVOR",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656217&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_31_TABLETOP-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Select_Tableware_&_Bar",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656218&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_31_TABLETOP-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Dinnerware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656219&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_31_TABLETOP-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Serveware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656220&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_31_TABLETOP-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Glassware_&_Drinkware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656221&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_31_TABLETOP-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Flatware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656222&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_59_LUGGAGE-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_50_Off_Select_Luggage",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656223&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_23_MATTRESSES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Ghostbed_Mattresses",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656224&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_23_MATTRESSES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Select_Adjustable_Bases",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656225&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_23_MATTRESSES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Sealy_Mattresses",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656226&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-D25T-25_7_POWER_TOOL_ACCESSORIES-MULTI-NA-NA-AFL_Link-NA-NA-59_Off_General_Purpose_Bi_Metal_Hole_Saw",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656227&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-05 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-D29B-29_23_FIXTURES-MULTI-NA-NA-AFL_Link-NA-NA-35_Off_Frameless_Fixed_Shower_Screen",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656228&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-06 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-D29A-29_13_REFRIGERATION-MULTI-NA-NA-AFL_Link-NA-NA-33_Off_French_Door_Refrigerator",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656229&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-08 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-D28O-28_8_LIVE_GOODS-MULTI-NA-NA-AFL_Link-NA-NA-31_Off_Sprinter_Boxwood_Shrub_with_Glossy_Evergreen_Foliage",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656230&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-08 00:00:00",
+      "endDateGMT": "2023-12-09 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-D59-23_7_ORGANIZATION-MULTI-NA-NA-AFL_Link-NA-NA-25_Off_Tower_Wall_Mount_6_Shelf_Wood_Closet_System",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656231&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-09 00:00:00",
+      "endDateGMT": "2023-12-10 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-D28I-28_31_PRESSURE_WASHER-MULTI-NA-NA-AFL_Link-NA-NA-64_Off_Cold_Water_Corded_Electric_Pressure_Washer",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656232&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-Multi-Multi-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_20_off_Select_Doors,_Building_Materials_&_Paint_Supplies",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656233&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-Multi-Multi-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_60_off_Select_Bathroom_Fixtures_&_Vanities",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656234&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-06 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-Multi-Multi-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_off_Select_Appliances_&_Vacuums",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656235&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-08 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-D59-59_26_HARD_WINDOW_COVERINGS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Select_Custom_Blinds_and_Shades",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656236&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2024-02-08 00:00:00",
+      "endDateGMT": "2024-02-22 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-D59-59_26_HARD_WINDOW_COVERINGS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_35_Select_Custom_Blinds_and_Shades",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656237&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2024-02-22 00:00:00",
+      "endDateGMT": "2024-03-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Shop Jonathan Adler Sale. Save up to 65% Off Retail Price.",
+      "jumpUrl": "https://www.rewardany.com/store/jonathan-adler?couponId=105309&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-10-31 00:00:00",
+      "endDateGMT": "2028-10-31 00:00:00",
+      "storeId": 89289,
+      "storeName": "Jonathan Adler",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jonathan-adler.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Shop Jonathan Adler. Get 10% Off Your First Purchase When You Sign Up.",
+      "jumpUrl": "https://www.rewardany.com/store/jonathan-adler?couponId=105310&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-10-31 00:00:00",
+      "endDateGMT": "2028-10-31 00:00:00",
+      "storeId": 89289,
+      "storeName": "Jonathan Adler",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jonathan-adler.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy up to 60% off select autumn-winter styles at mcmworldwide.com!",
+      "jumpUrl": "https://www.rewardany.com/store/mcm?couponId=656284&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-08 00:00:00",
+      "endDateGMT": "2023-12-18 00:00:00",
+      "storeId": 89377,
+      "storeName": "MCM",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mcm-1699601445.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 50% on discounted Holiday Kits!",
+      "jumpUrl": "https://www.rewardany.com/store/living-proof?couponId=656285&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-20 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 89398,
+      "storeName": "Living Proof",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/living-proof.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Last Call - 50% on Select Items",
+      "jumpUrl": "https://www.rewardany.com/store/charles-and-colvard?couponId=656294&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-11 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89400,
+      "storeName": "Charles and Colvard",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charles-and-colvard-1701245731.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Pre-Black Friday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/charles-and-colvard?couponId=656296&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89400,
+      "storeName": "Charles and Colvard",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charles-and-colvard-1701245731.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Pre-Black Friday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/charles-and-colvard?couponId=656297&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89400,
+      "storeName": "Charles and Colvard",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charles-and-colvard-1701245731.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Pre-Black Friday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/charles-and-colvard?couponId=656298&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89400,
+      "storeName": "Charles and Colvard",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charles-and-colvard-1701245731.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Pre-Black Friday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/charles-and-colvard?couponId=656299&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89400,
+      "storeName": "Charles and Colvard",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charles-and-colvard-1701245731.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Pre-Black Friday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/charles-and-colvard?couponId=656300&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89400,
+      "storeName": "Charles and Colvard",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charles-and-colvard-1701245731.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Pre-Black Friday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/charles-and-colvard?couponId=656301&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89400,
+      "storeName": "Charles and Colvard",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charles-and-colvard-1701245731.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Pre-Black Friday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/charles-and-colvard?couponId=656302&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89400,
+      "storeName": "Charles and Colvard",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charles-and-colvard-1701245731.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Pre-Black Friday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/charles-and-colvard?couponId=656303&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89400,
+      "storeName": "Charles and Colvard",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charles-and-colvard-1701245731.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Discounted Military & Government Rates at Extended Stay America",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656396&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-14 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Stay Longer, Save Today",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656397&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-18 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Student Housing Banner - 160x600",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656398&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Student Housing Banner - 300x250",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656399&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Student Housing Banner - 300x600",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656400&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Student Housing Banner - 728x90",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656401&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Student Housing Banner - 1200x628",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656402&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "New Customers Get 20% off Sitewide + Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/1-800-contacts?couponId=151555&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-05-18 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89422,
+      "storeName": "1-800-CONTACTS",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1-800-contacts.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "New Customers Get 20% off Sitewide + Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/1-800-contacts?couponId=151557&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-10 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89422,
+      "storeName": "1-800-CONTACTS",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1-800-contacts.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 33% off Throws",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=126848&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-22 00:00:00",
+      "endDateGMT": "2029-05-21 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Up to 25% off Dining & Tableware",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=126849&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-22 00:00:00",
+      "endDateGMT": "2029-05-21 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Up to 40% off Pyjamas & Sleepwear",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=126850&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-22 00:00:00",
+      "endDateGMT": "2029-05-21 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off Quilt Covers",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=144470&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-05-22 00:00:00",
+      "endDateGMT": "2029-05-21 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off Bed Sheets",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=144471&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-05-22 00:00:00",
+      "endDateGMT": "2029-08-06 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "50% off Flannelette Bedlinen",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=144472&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-22 00:00:00",
+      "endDateGMT": "2029-05-21 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Up to 35% off Coverlets & Bedspreads",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=144473&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-22 00:00:00",
+      "endDateGMT": "2029-05-21 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Up to 40% off Quilts & Pillows",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=144474&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-22 00:00:00",
+      "endDateGMT": "2029-05-21 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off Cushions",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=144476&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-22 00:00:00",
+      "endDateGMT": "2029-05-21 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off Bath Towels",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=144477&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-05-22 00:00:00",
+      "endDateGMT": "2029-09-11 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Summer Clearance Sale - Up to 60% off",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=656435&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-17 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "30% off Beach Towels",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=656436&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-06 00:00:00",
+      "endDateGMT": "2029-11-13 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "30% off Christmas",
+      "jumpUrl": "https://www.rewardany.com/store/bed-bath-n-table?couponId=656437&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-14 00:00:00",
+      "endDateGMT": "2029-11-27 00:00:00",
+      "storeId": 89548,
+      "storeName": "Bed Bath N' Table",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bed-bath-n-table.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "PENNY 15% off Site-wide!",
+      "jumpUrl": "https://www.rewardany.com/store/deep-discount?couponId=656549&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2014-09-16 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89812,
+      "storeName": "Deep Discount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/deep-discount.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "PENNY 15% off Site-wide!",
+      "jumpUrl": "https://www.rewardany.com/store/deep-discount?couponId=656550&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89812,
+      "storeName": "Deep Discount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/deep-discount.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "PENNY 15% off Site-wide!",
+      "jumpUrl": "https://www.rewardany.com/store/deep-discount?couponId=656551&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89812,
+      "storeName": "Deep Discount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/deep-discount.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "15% off sitewide IN-STOCK items!",
+      "jumpUrl": "https://www.rewardany.com/store/deep-discount?couponId=656552&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89812,
+      "storeName": "Deep Discount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/deep-discount.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "10% off 3+ items IN-STOCK Items!",
+      "jumpUrl": "https://www.rewardany.com/store/deep-discount?couponId=656553&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89812,
+      "storeName": "Deep Discount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/deep-discount.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "10% off $40+ IN-STOCK Items!",
+      "jumpUrl": "https://www.rewardany.com/store/deep-discount?couponId=656554&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89812,
+      "storeName": "Deep Discount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/deep-discount.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "10% off IN-STOCK Items!",
+      "jumpUrl": "https://www.rewardany.com/store/deep-discount?couponId=656555&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89812,
+      "storeName": "Deep Discount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/deep-discount.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Summer 2 2023",
+      "jumpUrl": "https://www.rewardany.com/store/diyanu?couponId=656564&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-16 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89828,
+      "storeName": "D'iyanu",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/diyanu.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Ergobaby - Take 15% off your first full priced order",
+      "jumpUrl": "https://www.rewardany.com/store/ergobaby?couponId=82390&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-05-02 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89903,
+      "storeName": "Ergobaby AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ergobaby.png",
+      "categories": [
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "Fairweather Summer Sale! 50-70% Off Entire Store! + Free Shipping Over $75",
+      "jumpUrl": "https://www.rewardany.com/store/fairweather?couponId=165029&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-12 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89934,
+      "storeName": "Fairweather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/fairweather.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Free Pants When You Buy The Jacket! Save Up To $195",
+      "jumpUrl": "https://www.rewardany.com/store/george-richards-canada?couponId=637021&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-10-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90016,
+      "storeName": "George Richards CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/george-richards-canada.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "40% Off Select Outerwear",
+      "jumpUrl": "https://www.rewardany.com/store/george-richards-canada?couponId=640434&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-05 00:00:00",
+      "storeId": 90016,
+      "storeName": "George Richards CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/george-richards-canada.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "10% off first orders with newsletter sign-ups",
+      "jumpUrl": "https://www.rewardany.com/store/glenmuir?couponId=656575&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90031,
+      "storeName": "Glenmuir",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/glenmuir.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "military discount* 10% off your purchase online, in-store or by phone at 1-800-435-9237. Includes active duty, military retirees, disabled veterans, and registered dependents of active duty/retirees.",
+      "jumpUrl": "https://www.rewardany.com/store/helzberg-diamonds?couponId=656586&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90089,
+      "storeName": "Helzberg Diamonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/helzberg-diamonds.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "First responder discount* 10% off your purchase online, in-store or by phone at 1-800-435-9237. Includes police, fire and EMT professionals.",
+      "jumpUrl": "https://www.rewardany.com/store/helzberg-diamonds?couponId=656587&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90089,
+      "storeName": "Helzberg Diamonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/helzberg-diamonds.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Healthcare worker discount* 10% off your online only purchase or by phone at 1-800-435-9237. Includes nurses, doctors, healthcare practitioners, administration, and support.",
+      "jumpUrl": "https://www.rewardany.com/store/helzberg-diamonds?couponId=656588&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90089,
+      "storeName": "Helzberg Diamonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/helzberg-diamonds.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Teacher discount* 10% off your purchase online, in-store or by phone at 1-800-435-9237.",
+      "jumpUrl": "https://www.rewardany.com/store/helzberg-diamonds?couponId=656589&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90089,
+      "storeName": "Helzberg Diamonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/helzberg-diamonds.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Student discount* 10% off your online only purchase or by phone at 1-800-435-9237. Includes college students with an eligible email.",
+      "jumpUrl": "https://www.rewardany.com/store/helzberg-diamonds?couponId=656590&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90089,
+      "storeName": "Helzberg Diamonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/helzberg-diamonds.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Up To 50% Off* - T&Cs apply. 22 Nov - 2 Jan 2024",
+      "jumpUrl": "https://www.rewardany.com/store/jbl-au?couponId=656591&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-21 00:00:00",
+      "endDateGMT": "2024-01-02 00:00:00",
+      "storeId": 90176,
+      "storeName": "JBL AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jbl-au.jpg",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Up To 50% Off Selected Headphones, Speakers and Partybox* - T&Cs apply. 22 Nov - 2 Jan 2024",
+      "jumpUrl": "https://www.rewardany.com/store/jbl-au?couponId=656592&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-21 00:00:00",
+      "endDateGMT": "2024-01-02 00:00:00",
+      "storeId": 90176,
+      "storeName": "JBL AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jbl-au.jpg",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Halloween Expedited Shipping Sale",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656593&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "National Candy Corn Day",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656594&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "National Candy Day",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656595&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday 1 lb Bag Sale",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656596&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Weekend Christmas Candy Sale:",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656597&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Christmas Candy Sale",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656599&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "National Candy Corn Day",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656600&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "National Candy Day",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656601&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday 1 lb Bag Sale",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656602&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Weekend Christmas Candy Sale:",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656603&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Christmas Candy Sale",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656605&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Summer savings, get up to 70% off at Misook",
+      "jumpUrl": "https://www.rewardany.com/store/misook-us?couponId=656650&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-18 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90388,
+      "storeName": "Misook US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/misook-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Get up to 70% off select items at Misook!",
+      "jumpUrl": "https://www.rewardany.com/store/misook-us?couponId=656651&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-18 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90388,
+      "storeName": "Misook US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/misook-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Get 33% off select styles at Misook! No code required!",
+      "jumpUrl": "https://www.rewardany.com/store/misook-us?couponId=656652&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-18 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90388,
+      "storeName": "Misook US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/misook-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Select items up to 70% off at Misook!",
+      "jumpUrl": "https://www.rewardany.com/store/misook-us?couponId=656653&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-18 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90388,
+      "storeName": "Misook US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/misook-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Bundle and Save to celebrate the release of the new Starling Mattress!",
+      "jumpUrl": "https://www.rewardany.com/store/nest-bedding?couponId=656659&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-09 00:00:00",
+      "endDateGMT": "2023-12-15 00:00:00",
+      "storeId": 90466,
+      "storeName": "Nest Bedding",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/nest-bedding.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Nest Bedding's BFCM Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/nest-bedding?couponId=656660&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-14 00:00:00",
+      "endDateGMT": "2023-12-15 00:00:00",
+      "storeId": 90466,
+      "storeName": "Nest Bedding",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/nest-bedding.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "NB_Medium_Black_Friday_Sale",
+      "jumpUrl": "https://www.rewardany.com/store/nest-bedding?couponId=656661&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-14 00:00:00",
+      "endDateGMT": "2023-12-15 00:00:00",
+      "storeId": 90466,
+      "storeName": "Nest Bedding",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/nest-bedding.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "LIMITED TIME! Get 10% off* your order of $50+ when you buy online & pick up in-store.",
+      "jumpUrl": "https://www.rewardany.com/store/oshkosh-bgosh?couponId=656673&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-08-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90532,
+      "storeName": "OshKosh B'gosh",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oshkosh-bgosh.png",
+      "categories": [
+        "Clothing",
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "Now 60% off!* Comfy-cool active fits for all winter play are just a hop, skip & click away.",
+      "jumpUrl": "https://www.rewardany.com/store/oshkosh-bgosh?couponId=656679&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 90532,
+      "storeName": "OshKosh B'gosh",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oshkosh-bgosh.png",
+      "categories": [
+        "Clothing",
+        "Baby & Toddler"
+      ]
+    }
+  ]
+}

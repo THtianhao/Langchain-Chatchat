@@ -1,0 +1,1512 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 27,
+  "pageSize": 100,
+  "totalRecords": 6585,
+  "totalPages": 66,
+  "results": [
+    {
+      "couponTitle": "What can a bride wear to a wedding?",
+      "jumpUrl": "https://www.rewardany.com/store/dresslily?couponId=138554&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-12 00:00:00",
+      "endDateGMT": null,
+      "storeId": 685,
+      "storeName": "Dresslily",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dresslily_logo.gif",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "What can a bride wear to a wedding?",
+      "jumpUrl": "https://www.rewardany.com/store/dresslily?couponId=138555&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-12 00:00:00",
+      "endDateGMT": null,
+      "storeId": 685,
+      "storeName": "Dresslily",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dresslily_logo.gif",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Get 30% off when you download the Goddiva app!",
+      "jumpUrl": "https://www.rewardany.com/store/goddiva?couponId=29215&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-03-22 00:00:00",
+      "endDateGMT": "2024-07-31 00:00:00",
+      "storeId": 695,
+      "storeName": "Goddiva UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/goddiva_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Sale - All courses 95% OFF (Nov. 26 - 29)",
+      "jumpUrl": "https://www.rewardany.com/store/international-open-academy?couponId=29227&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-11-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 700,
+      "storeName": "International Open Academy",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/international-open-academy_logo.gif",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Certified TEFL Bundle",
+      "jumpUrl": "https://www.rewardany.com/store/international-open-academy?couponId=29228&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-08-11 00:00:00",
+      "endDateGMT": null,
+      "storeId": 700,
+      "storeName": "International Open Academy",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/international-open-academy_logo.gif",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "NEW! ICOES Digital Certificate",
+      "jumpUrl": "https://www.rewardany.com/store/international-open-academy?couponId=29231&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-09-28 00:00:00",
+      "endDateGMT": null,
+      "storeId": 700,
+      "storeName": "International Open Academy",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/international-open-academy_logo.gif",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Compre com cupom de 10% OFF (C\u00b4\u00f3digo: 10OFF)",
+      "jumpUrl": "https://www.rewardany.com/store/eleve-life?couponId=29252&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-09-18 00:00:00",
+      "endDateGMT": "2026-09-18 00:00:00",
+      "storeId": 710,
+      "storeName": "Eleve Life",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eleve-life_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Ganhe 30% de desconto na compra de Spirulina (C\u00f3digo: SPIRULINA)",
+      "jumpUrl": "https://www.rewardany.com/store/eleve-life?couponId=29253&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-03-07 00:00:00",
+      "endDateGMT": "2029-03-07 00:00:00",
+      "storeId": 710,
+      "storeName": "Eleve Life",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eleve-life_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Ganhe 10% de desconto na compra de qualquer produto no site (C\u00f3digo: VIDALEVE)",
+      "jumpUrl": "https://www.rewardany.com/store/eleve-life?couponId=29254&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-03-07 00:00:00",
+      "endDateGMT": "2029-03-07 00:00:00",
+      "storeId": 710,
+      "storeName": "Eleve Life",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eleve-life_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Homepage - AP",
+      "jumpUrl": "https://www.rewardany.com/store/bushnell-golf?couponId=29259&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-06-12 00:00:00",
+      "endDateGMT": "2026-07-23 00:00:00",
+      "storeId": 711,
+      "storeName": "Bushnell Golf",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bushnell-golf_logo.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Rangefinders - AP",
+      "jumpUrl": "https://www.rewardany.com/store/bushnell-golf?couponId=29260&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-06-12 00:00:00",
+      "endDateGMT": "2026-07-23 00:00:00",
+      "storeId": 711,
+      "storeName": "Bushnell Golf",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bushnell-golf_logo.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "up to 50% off face masks",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=29261&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-11-19 00:00:00",
+      "endDateGMT": "2026-11-19 00:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "UVC Wand",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=29262&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-11-23 00:00:00",
+      "endDateGMT": "2026-12-01 00:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "UVC Wand",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=29263&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-11-23 00:00:00",
+      "endDateGMT": "2026-12-01 00:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "3ply disposable procedure over 50% off",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=29264&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-11-23 00:00:00",
+      "endDateGMT": "2026-11-23 00:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "3ply disposable procedure over 50% off",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=29265&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-11-23 00:00:00",
+      "endDateGMT": "2026-11-23 00:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% Off N95 Face Masks",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=29270&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-16 00:00:00",
+      "endDateGMT": "2026-12-16 00:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% Off KN95 Face Masks",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=29271&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-16 00:00:00",
+      "endDateGMT": "2028-06-09 00:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% off face masks",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=29272&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-16 00:00:00",
+      "endDateGMT": "2026-12-16 00:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1506&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1507&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1508&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1509&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1510&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1511&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1512&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1513&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1514&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1515&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1516&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1517&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1518&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 728x90",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1519&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 468x60",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1520&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 300x250",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1521&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 250x250",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1522&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 234x60",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1523&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 180x150",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1524&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 160x600",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1525&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 125x125",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1526&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 120x600",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1527&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 120x240",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1528&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 120x90",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1529&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees - 120x60",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1530&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 70% on a round of golf. View courses at UnderPar.com!",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1532&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-03-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save on green fees in your area at UnderPar.com!",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1533&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Explore golf deals in your area at UnderPar.com!",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1534&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-09-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Up to 60% off regular rack rates at UnderPar.com",
+      "jumpUrl": "https://www.rewardany.com/store/underpar?couponId=1535&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-10-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 715,
+      "storeName": "UnderPar",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/underpar.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Get On the List! Subscribe to Our Email List and Receive Up to 75% Off Your Next Order!",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29277&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-09-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Fall fashion has arrived with MKF Collection. Shop now & save!",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29278&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-09-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop MKF Collections this Holiday Season for UP to 85% Off Select Styles & Free Shipping",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29279&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-10-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop MKF Collections this Holiday Season for UP to 85% Off Select Styles & Free Shipping",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29280&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-10-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "MKF Chelsea Hobo Bag By Mia K.",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29282&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-01-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "MKF Collection Patricia Small Wallet By Mia K.",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29283&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-01-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "MKF STEAL OF THE WEEK",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29285&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "MKF Collection Slickdeals crossbodies",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29286&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-07-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "MKF LUGGAGE ON SLICKDEALS",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29287&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-07-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop the MKF Collection Sale Section for the BEST Deals, Sale Prices Starting at $6.95 & Free Shipping. No Code Required.",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29288&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-09-01 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "BRAD DEAL MAILER #2",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29289&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-11-03 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Brads Mailer #1",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29290&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-11-03 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "BRADS DEAL OPTION 3",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29291&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-11-04 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Whoa HO HO DEALS",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29293&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-12-02 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Brads deal 60 Days X405",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29294&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-12-07 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "MKF Collection Blomming deals",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=29296&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-03-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "From our vibrant colors to our impeccable craftsmanship, we're setting the bar high and leaving our competitors in the dust!  Shop MKF Collection Today",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=106193&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-05-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "The MKF Collection is not just about style; it's about substance too! Our bags are designed to be functional, durable, and spacious enough to fit all your essentials. No more compromises, just pure perfection!",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=106194&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-05-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "MKF Exclusive Brads Handsfree",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=652608&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "MKF Exclusive Brads Deal",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=652609&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-03 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop the Biggest Sale of the Year at MKFCollection.com",
+      "jumpUrl": "https://www.rewardany.com/store/mkf-collection?couponId=652612&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": null,
+      "storeId": 716,
+      "storeName": "MKF Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mkf-collection_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Coway's Holiday Sale! Get Up To 45% Off Select Products - Valid through 12.10.23",
+      "jumpUrl": "https://www.rewardany.com/store/coway?couponId=652614&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 718,
+      "storeName": "Coway",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/coway_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "YayImages Lifetime Deal $199",
+      "jumpUrl": "https://www.rewardany.com/store/yay-images?couponId=29302&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-02-10 00:00:00",
+      "endDateGMT": null,
+      "storeId": 726,
+      "storeName": "Yay Images",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/yay-images_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "First Purchase - 20%",
+      "jumpUrl": "https://www.rewardany.com/store/andalou-naturals?couponId=29306&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-12-08 00:00:00",
+      "endDateGMT": "2026-12-09 00:00:00",
+      "storeId": 727,
+      "storeName": "Andalou Naturals",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/andalou-naturals_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "VIVAIA Referral Program",
+      "jumpUrl": "https://www.rewardany.com/store/vivaia-int?couponId=29307&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 729,
+      "storeName": "VIVAIA US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaia-int_logo.gif",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "VIVAIA Discount Program",
+      "jumpUrl": "https://www.rewardany.com/store/vivaia-int?couponId=29308&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 729,
+      "storeName": "VIVAIA US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaia-int_logo.gif",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "VIVAIA-The ideal shoes for busy mothers",
+      "jumpUrl": "https://www.rewardany.com/store/vivaia-int?couponId=29309&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 729,
+      "storeName": "VIVAIA US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaia-int_logo.gif",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "VIVAIA Bestseller: World First Hemp Flats Aria 5\u00b0 Extra 30% Off",
+      "jumpUrl": "https://www.rewardany.com/store/vivaia-int?couponId=29310&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 729,
+      "storeName": "VIVAIA US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaia-int_logo.gif",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Extra 20% OFF for each order",
+      "jumpUrl": "https://www.rewardany.com/store/vivaia-int?couponId=29311&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 729,
+      "storeName": "VIVAIA US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaia-int_logo.gif",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "32% Off Zahara Totes",
+      "jumpUrl": "https://www.rewardany.com/store/vivaia-int?couponId=29312&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 729,
+      "storeName": "VIVAIA US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaia-int_logo.gif",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Winter Shoes Up to 30% Off",
+      "jumpUrl": "https://www.rewardany.com/store/vivaia-int?couponId=29315&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 729,
+      "storeName": "VIVAIA US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaia-int_logo.gif",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Up to 60% Off Last Chance",
+      "jumpUrl": "https://www.rewardany.com/store/vivaia-int?couponId=29316&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 729,
+      "storeName": "VIVAIA US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaia-int_logo.gif",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Up to 49% off from $49 a pair",
+      "jumpUrl": "https://www.rewardany.com/store/vivaia-int?couponId=29317&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 729,
+      "storeName": "VIVAIA US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaia-int_logo.gif",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Save with Flat Rate Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/wish?couponId=29323&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-03-16 00:00:00",
+      "endDateGMT": null,
+      "storeId": 732,
+      "storeName": "Wish",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wish_logo.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop sale styles up to 50% off",
+      "jumpUrl": "https://www.rewardany.com/store/psycho-bunny?couponId=29325&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-03-07 00:00:00",
+      "endDateGMT": "2029-05-19 00:00:00",
+      "storeId": 733,
+      "storeName": "Psycho Bunny",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/psycho-bunny_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Save more than 10% on your kombucha order when you bundle 1 case of bottles and 1 case of cans!",
+      "jumpUrl": "https://www.rewardany.com/store/health-ade?couponId=652622&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-01 00:00:00",
+      "endDateGMT": null,
+      "storeId": 735,
+      "storeName": "Health-Ade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/health-ade_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sign up for our newsletter and receive 10% off at Eberjey.com!",
+      "jumpUrl": "https://www.rewardany.com/store/eberjey?couponId=29338&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-09-16 00:00:00",
+      "endDateGMT": null,
+      "storeId": 740,
+      "storeName": "Eberjey",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eberjey_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy up to 40% off select styles. Shop PJ\u0092s, swimwear, loungewear and lingerie before they\u0092re gone with code: BYESUMMER",
+      "jumpUrl": "https://www.rewardany.com/store/eberjey?couponId=29339&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-09-02 00:00:00",
+      "endDateGMT": null,
+      "storeId": 740,
+      "storeName": "Eberjey",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eberjey_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Eberjey's Bridal Collection and Say \"I Do\" to 10% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/eberjey?couponId=29348&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-03-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 740,
+      "storeName": "Eberjey",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eberjey_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy 10% off with email sign up at Eberjey! Subscribe now!",
+      "jumpUrl": "https://www.rewardany.com/store/eberjey?couponId=29349&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-03-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 740,
+      "storeName": "Eberjey",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eberjey_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Online Only Deals",
+      "jumpUrl": "https://www.rewardany.com/store/dufresne-furniture?couponId=29363&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-08-02 00:00:00",
+      "endDateGMT": "2029-11-28 00:00:00",
+      "storeId": 745,
+      "storeName": "Dufresne Furniture",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dufresne-furniture_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop the Deals",
+      "jumpUrl": "https://www.rewardany.com/store/dufresne-furniture?couponId=29364&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-01-09 00:00:00",
+      "endDateGMT": "2029-11-28 00:00:00",
+      "storeId": 745,
+      "storeName": "Dufresne Furniture",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dufresne-furniture_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Instantly Send the Surprise!",
+      "jumpUrl": "https://www.rewardany.com/store/vidday-media-inc?couponId=29387&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2021-05-13 00:00:00",
+      "endDateGMT": "2027-05-13 00:00:00",
+      "storeId": 747,
+      "storeName": "VidDay Media Inc.",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vidday-media-inc_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "60% off Vegan Nail Lacquers, use code: GOODBYE. Runs until inventory is out",
+      "jumpUrl": "https://www.rewardany.com/store/sparitual?couponId=29388&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2021-03-25 00:00:00",
+      "endDateGMT": "2027-03-25 00:00:00",
+      "storeId": 748,
+      "storeName": "Sparitual",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sparitual_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "20% off August Self Care Edit, no code necessary. Began 8/3",
+      "jumpUrl": "https://www.rewardany.com/store/sparitual?couponId=29389&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2021-08-04 00:00:00",
+      "endDateGMT": "2027-08-04 00:00:00",
+      "storeId": 748,
+      "storeName": "Sparitual",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sparitual_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Up to 60% Off Men's at Helmut Lang",
+      "jumpUrl": "https://www.rewardany.com/store/helmut-lang?couponId=29390&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-09-21 00:00:00",
+      "endDateGMT": "2026-11-03 00:00:00",
+      "storeId": 750,
+      "storeName": "Helmut Lang",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/helmut-lang_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Up to 60% Off Women's at Helmut Lang",
+      "jumpUrl": "https://www.rewardany.com/store/helmut-lang?couponId=29391&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-09-21 00:00:00",
+      "endDateGMT": "2026-11-03 00:00:00",
+      "storeId": 750,
+      "storeName": "Helmut Lang",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/helmut-lang_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Women: Holiday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/helmut-lang?couponId=652650&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-14 00:00:00",
+      "storeId": 750,
+      "storeName": "Helmut Lang",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/helmut-lang_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Men: Holiday Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/helmut-lang?couponId=652651&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-14 00:00:00",
+      "storeId": 750,
+      "storeName": "Helmut Lang",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/helmut-lang_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy 15% off* your first full price order when you sign up to our mailing list.  Free standard shipping for orders over \u00a380.",
+      "jumpUrl": "https://www.rewardany.com/store/forever-new-international?couponId=29422&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-09-15 00:00:00",
+      "endDateGMT": "2029-10-23 00:00:00",
+      "storeId": 766,
+      "storeName": "Forever New International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/forever-new-international_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Receive 10% Off First Order at BestofSigns.com!",
+      "jumpUrl": "https://www.rewardany.com/store/bestofsigns?couponId=29432&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-10-05 00:00:00",
+      "endDateGMT": null,
+      "storeId": 768,
+      "storeName": "Best Of Signs",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bestofsigns-1697522730.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Receive a 22% discount on Neon Signs by using the code: NEON22OFF!",
+      "jumpUrl": "https://www.rewardany.com/store/bestofsigns?couponId=652670&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 768,
+      "storeName": "Best Of Signs",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bestofsigns-1697522730.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    }
+  ]
+}

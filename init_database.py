@@ -11,6 +11,9 @@ import sys
 
 if __name__ == "__main__":
     import argparse
+
+    import pydevd_pycharm
+    pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
     
     parser = argparse.ArgumentParser(description="please specify only one operate method once time.")
 

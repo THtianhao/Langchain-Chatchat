@@ -1,0 +1,1510 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 43,
+  "pageSize": 100,
+  "totalRecords": 6585,
+  "totalPages": 66,
+  "results": [
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Wall_Clocks",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656109&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Memo_Boards",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656110&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_20_Off_Faux_Tiles",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656111&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Wall_Art",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656112&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Artificial_Plants",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656113&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Jewelry_Storage",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656114&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Decorative_Storage",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656115&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Poufs",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656116&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Candle_Holders",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656117&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Sculptures",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656118&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Decorative_Trays",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656119&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Vases",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656120&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Candles_and_Pura_Home_Fragrance",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656121&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Select_Small_Kitchen_Appliances",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656122&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Cookers",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656123&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Blenders",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656124&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Electric_Skillets_&_Indoor_Grills",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656125&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Select_Coffee_&_Espresso",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656126&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Select_Kitchenware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656127&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Select_Cookware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656128&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Bakeware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656129&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Select_Cutlery",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656130&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_10_Off_Caraway",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656131&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Kitchen_Storage_&_Organization",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656132&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Kitchen_Carts",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656133&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Food_Storage",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656134&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Kitchen_Storage",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656135&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_VEVOR",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656136&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_31_TABLETOP-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Select_Tableware_&_Bar",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656137&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_31_TABLETOP-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Dinnerware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656138&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_31_TABLETOP-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Glassware_&_Drinkware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656139&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_31_TABLETOP-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Serveware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656140&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_31_TABLETOP-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_20_Off_Bar_Accessories",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656141&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_59_LUGGAGE-MULTI-NA-NA-AFL_Link-NA-NA-Luggage_Deals_Only_Available_at_The_Home_Depot",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656142&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_59_LUGGAGE-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_50_off_Select_Luggage",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656143&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_59_LUGGAGE-MULTI-NA-NA-AFL_Link-NA-NA-Olympia_Luggage_Deals_at_The_Home_Depot",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656144&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_23_MATTRESSES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_off_Select_Mattresses",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656145&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_23_MATTRESSES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_off_Beautyrest_Mattresses",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656146&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_23_MATTRESSES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_off_Sealy_Mattresses",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656147&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_23_MATTRESSES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_off_Adjustable_Bases",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656148&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_23_MATTRESSES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_off_Novilla_Mattresses",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656149&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_59_LUGGAGE-MULTI-NA-NA-AFL_Link-NA-NA-Hikolayae_Luggage_up_to_60_Off",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656150&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_59_LUGGAGE-MULTI-NA-NA-AFL_Link-NA-NA-Ful_Luggage_up_to_60_Off",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656152&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_34_INTERIOR_FURNITURE-MULTI-NA-NA-AFL_Link-NA-NA-40_off_set_of_2_Bakerford_Upholstered_Dining_Chairs_at_the_Home_Depot_for_a_limited_time!",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656154&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Take_50_off_River_of_Goods_Multi_Stained_Glass_Birds_on_a_Wire_Panel!",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656155&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Buy_online,_pick_up_in_store_up_to_35_off_Vac_Sealer!",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656156&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-14 00:00:00",
+      "endDateGMT": "2023-12-09 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-CarbReduce_technology!_Buy_Online,_Pick_Up_In_Store_30_Off_Rice_Cooker.",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656157&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-14 00:00:00",
+      "endDateGMT": "2023-12-09 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Buy_Online,_Pick_Up_In_Store_Immersion_Blender_Up_To_30_Off!",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656158&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-14 00:00:00",
+      "endDateGMT": "2023-12-09 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-Save_up_to_60_off_on_Bath_Towels",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656159&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-Save_55_off_Laura_Ashley_7-piece_Full/Queen_Comforter_Set",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656160&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-Save_up_to_60_off_Bedding_Sets",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656161&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_65_off_Memory_Foam_Mattress_Toppers",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656162&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-19 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-50_of_Gel_and_Aloe_infused_Memory_foam_Mattress_Topper",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656163&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-19 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-Juicy_Couture_4-piece_Satin_Sheet_set_60_off",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656164&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-19 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-Save_up_to_60_off_Quilt_Bedding_sets",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656165&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-19 00:00:00",
+      "endDateGMT": "2023-12-07 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-D28I-28_33_CHORE-MULTI-NA-NA-AFL_Link-NA-NA-Save_41_On_YARD_FORCE_11_in._Single-Stage_Electric_Snow_Blower_Shovel_With_LED_Light",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656168&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-29 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-General-Multi-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_50_off_Select_Power_Tools_&_Accessories",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656169&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-05 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Final_Days_to_Save:_Up_to_35_Off_Select_Furniture,_Decor,_&_Mattresses",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656170&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Select_Wall_Decor",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656171&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_23_MATTRESSES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Select_Mattresses",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656172&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_35_Off_Select_Small_Kitchen_Appliances",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656173&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Home_Accents",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656174&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_34_INTERIOR_FURNITURE-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_35_Off_Select_Interior_Furniture",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656175&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_34_INTERIOR_FURNITURE-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_55_Off_Select_Massage_Chairs",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656176&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_34_INTERIOR_FURNITURE-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_35_Off_Select_Bedroom_Furniture",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656177&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_34_INTERIOR_FURNITURE-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_35_Off_Select_Kitchen_&_Dining_Furniture",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656178&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_34_INTERIOR_FURNITURE-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_35_Off_Select_Living_Room_Furniture",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656179&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_34_INTERIOR_FURNITURE-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Home_Entertainment_Furniture",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656180&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_50_Off_Select_Bedding_&_Bath_Linens",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656181&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_50_Off_Mattress_Pads_&_Toppers",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656182&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Sheet_Sets",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656183&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Bath_Towel_Sets",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656184&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_13_TEXTILES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_50_Off_Throw_Pillows",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656185&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Decorative_Mirrors",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656186&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Wall_Frames",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656187&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Decorative_Shelves",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656188&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Wall_Clocks",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656189&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Kids_Wall_Decor",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656190&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Wall_Art",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656191&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_15_Off_Select_Wallpaper",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656192&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_35_WALL_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_15_Off_Select_Faux_Tiles",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656193&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Artificial_Plants",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656194&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Vases",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656195&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Sculptures",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656196&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Storage_Baskets",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656197&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Decorative_Trays",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656198&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Candle_Holders",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656199&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Jewelry_Storage",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656200&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Poufs",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656201&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-59_6_HOME_DECOR-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Kids_Decor",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656202&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Select_Small_Kitchen_Appliances",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656203&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Cookers",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656204&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Select_Coffee_&_Espresso",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656205&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Blending",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656206&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_28_SMALL_ELECTRICS-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_30_Off_Mixers",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656207&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_29_HOUSEWARES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_40_Off_Select_Kitchenware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656208&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_29_HOUSEWARES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Dinnerware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656209&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_29_HOUSEWARES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Serveware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656210&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_29_HOUSEWARES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_10_Off_Caraway",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656211&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-HDH-29_29_HOUSEWARES-MULTI-NA-NA-AFL_Link-NA-NA-Up_to_25_Off_Flatware",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656212&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    }
+  ]
+}

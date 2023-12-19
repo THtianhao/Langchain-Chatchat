@@ -11,7 +11,7 @@ from server.knowledge_base.utils import (
 from server.knowledge_base.kb_service.base import KBServiceFactory
 from server.db.models.conversation_model import ConversationModel
 from server.db.models.message_model import MessageModel
-from server.db.repository.knowledge_file_repository import add_file_to_db # ensure Models are imported
+from server.db.repository.knowledge_file_repository import add_file_to_db  # ensure Models are imported
 from server.db.repository.knowledge_metadata_repository import add_summary_to_db
 
 from server.db.base import Base, engine
@@ -20,15 +20,12 @@ import os
 from dateutil.parser import parse
 from typing import Literal, List
 
-
 def create_tables():
     Base.metadata.create_all(bind=engine)
-
 
 def reset_tables():
     Base.metadata.drop_all(bind=engine)
     create_tables()
-
 
 def import_from_db(
         sqlite_path: str = None,
@@ -68,19 +65,58 @@ def import_from_db(
         print(f"无法读取备份数据库：{sqlite_path}。错误信息：{e}")
         return False
 
-
 def file_to_kbfile(kb_name: str, files: List[str]) -> List[KnowledgeFile]:
     kb_files = []
     for file in files:
         try:
-            kb_file = KnowledgeFile(filename=file, knowledge_base_name=kb_name)
+            kb_file = None
+            if "cashback" in file:
+                def metadata_func(record: dict, metadata: dict) -> dict:
+                    metadata["storeId"] = record.get("storeId") if record.get("storeId") is not None else ""
+                    metadata["cashbackLink"] = record.get("cashbackLink") if record.get("cashbackLink") is not None else ""
+                    metadata["logoImg"] = record.get("logoImg") if record.get("logoImg") is not None else ""
+                    metadata["domain"] = record.get("domain") if record.get("domain") is not None else ""
+                    metadata["maxCashBack"] = record.get("maxCashBack") if record.get("maxCashBack") is not None else ""
+                    metadata["country"] = record.get("country") if record.get("country") is not None else ""
+                    # metadata["caskbackDetail"] = record.get("caskbackDetail") if record.get("caskbackDetail") is not None else ""
+                    # metadata["categories"] = record.get("categories") if record.get("categories") is not None else ""
+                    metadata["upto"] = record.get("upto") if record.get("upto") is not None else ""
+                    return metadata
+
+                args = {}
+                args.setdefault('jq_schema', '.stores[]')
+                args.setdefault('content_key', 'storeName')
+                args.setdefault('metadata_func', metadata_func)
+                args.setdefault('text_content', False)
+                kb_file = KnowledgeFile(filename=file, knowledge_base_name=kb_name, loader_kwargs=args)
+            elif "coupon" in file:
+                def metadata_func(record: dict, metadata: dict) -> dict:
+                    metadata["couponTitle"] = record.get("couponTitle") if record.get("couponTitle") is not None else ""
+                    metadata["jumpUrl"] = record.get("jumpUrl") if record.get("jumpUrl") is not None else ""
+                    metadata["type"] = record.get("type") if record.get("type") is not None else ""
+                    metadata["couponCode"] = record.get("couponCode") if record.get("couponCode") is not None else ""
+                    metadata["tier"] = record.get("tier") if record.get("tier") is not None else ""
+                    metadata["startDateGMT"] = record.get("startDateGMT") if record.get("startDateGMT") is not None else ""
+                    metadata["endDateGMT"] = record.get("endDateGMT") if record.get("endDateGMT") is not None else ""
+                    metadata["storeId"] = record.get("storeId") if record.get("storeId") is not None else ""
+                    metadata["storeName"] = record.get("storeName") if record.get("storeName") is not None else ""
+                    metadata["logoImg"] = record.get("logoImg") if record.get("logoImg") is not None else ""
+                    # metadata["categories"] = record.get("categories") if record.get("categories") is not None else ""
+                    return metadata
+                args = {}
+                args.setdefault('jq_schema', '.results[]')
+                args.setdefault('content_key', 'storeName')
+                args.setdefault('metadata_func', metadata_func)
+                args.setdefault('text_content', False)
+                kb_file = KnowledgeFile(filename=file, knowledge_base_name=kb_name, loader_kwargs=args)
+            else:
+                kb_file = KnowledgeFile(filename=file, knowledge_base_name=kb_name)
             kb_files.append(kb_file)
         except Exception as e:
             msg = f"{e}，已跳过"
             logger.error(f'{e.__class__.__name__}: {msg}',
                          exc_info=e if log_verbose else None)
     return kb_files
-
 
 def folder2db(
         kb_names: List[str],
@@ -152,7 +188,6 @@ def folder2db(
         else:
             print(f"unspported migrate mode: {mode}")
 
-
 def prune_db_docs(kb_names: List[str]):
     """
     delete docs in database that not existed in local folder.
@@ -169,7 +204,6 @@ def prune_db_docs(kb_names: List[str]):
                 kb.delete_doc(kb_file, not_refresh_vs_cache=True)
                 print(f"success to delete docs for file: {kb_name}/{kb_file.filename}")
             kb.save_vector_store()
-
 
 def prune_folder_files(kb_names: List[str]):
     """

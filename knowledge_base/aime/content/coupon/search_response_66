@@ -1,0 +1,1302 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 66,
+  "pageSize": 100,
+  "totalRecords": 6585,
+  "totalPages": 66,
+  "results": [
+    {
+      "couponTitle": "Subscribe to Bleu and Get 15% Off Your First Order!",
+      "jumpUrl": "https://www.rewardany.com/store/bleurodbeattie-com?couponId=330218&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-08-09 21:04:00",
+      "endDateGMT": "2028-08-09 04:00:00",
+      "storeId": 129771,
+      "storeName": "Bleu Rod Beattie",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bleurodbeattie-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 40% Off Sale Items at Manduka!",
+      "jumpUrl": "https://www.rewardany.com/store/manduka-com?couponId=500438&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-23 23:52:00",
+      "endDateGMT": "2025-11-24 05:00:00",
+      "storeId": 139953,
+      "storeName": "Manduka",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/manduka-com.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Check it out! Enjoy 25% off on GXVE MUST-HAVE'S. Enter code: BEAUTY25 at checkout.",
+      "jumpUrl": "https://www.rewardany.com/store/gxvebeauty-com-us?couponId=330220&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-09 19:45:00",
+      "endDateGMT": "2029-05-09 00:00:00",
+      "storeId": 160969,
+      "storeName": "GXVE Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gxvebeauty-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "GXVE Beauty Xtra Sauce - LONGWEAR VINYL LIQUID LIPSTICK",
+      "jumpUrl": "https://www.rewardany.com/store/gxvebeauty-com-us?couponId=330221&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-09 20:10:00",
+      "endDateGMT": "2029-05-09 00:00:00",
+      "storeId": 160969,
+      "storeName": "GXVE Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gxvebeauty-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "GXVE Beauty Brows: MOST DEF, HELLA ON POINT",
+      "jumpUrl": "https://www.rewardany.com/store/gxvebeauty-com-us?couponId=330222&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-09 20:13:00",
+      "endDateGMT": "2029-05-09 00:00:00",
+      "storeId": 160969,
+      "storeName": "GXVE Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gxvebeauty-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "NEW! Check My Glow Highlighter & Pick It Up Bronzer Duo By GXVE By Gwen Stefani",
+      "jumpUrl": "https://www.rewardany.com/store/gxvebeauty-com-us?couponId=330223&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-17 20:43:00",
+      "endDateGMT": "2029-05-17 00:00:00",
+      "storeId": 160969,
+      "storeName": "GXVE Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gxvebeauty-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Receive 50% off brow products to create defined and sculpted brows instantly. Enter Code: GIFTFORYOU at checkout.",
+      "jumpUrl": "https://www.rewardany.com/store/gxvebeauty-com-us?couponId=330224&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-24 13:51:00",
+      "endDateGMT": "2029-05-24 00:00:00",
+      "storeId": 160969,
+      "storeName": "GXVE Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gxvebeauty-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Receive 50% off Xtra Sauce Longwear Vinyl Lipstick In 'Original Recipe' Enter Code: GIFTFORYOU at checkout.",
+      "jumpUrl": "https://www.rewardany.com/store/gxvebeauty-com-us?couponId=330225&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-24 13:53:00",
+      "endDateGMT": "2029-05-24 00:00:00",
+      "storeId": 160969,
+      "storeName": "GXVE Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gxvebeauty-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Recreate Gwen's iconic look with GXVE by Gwen Stefani's best-sellers!",
+      "jumpUrl": "https://www.rewardany.com/store/gxvebeauty-com-us?couponId=330226&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-11 15:24:00",
+      "endDateGMT": "2028-10-11 04:00:00",
+      "storeId": 160969,
+      "storeName": "GXVE Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gxvebeauty-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "GXVE Beauty Free Shipping on all orders over $49",
+      "jumpUrl": "https://www.rewardany.com/store/gxvebeauty-com-us?couponId=330227&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-27 20:46:00",
+      "endDateGMT": "2028-10-27 00:00:00",
+      "storeId": 160969,
+      "storeName": "GXVE Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gxvebeauty-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Receive 25% Off Your Order when You Refer a Friend to GXVE!",
+      "jumpUrl": "https://www.rewardany.com/store/gxvebeauty-com-us?couponId=405347&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-15 18:53:00",
+      "endDateGMT": "2029-08-15 00:00:00",
+      "storeId": 160969,
+      "storeName": "GXVE Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gxvebeauty-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping on All Orders IDR 10.000!",
+      "jumpUrl": "https://www.rewardany.com/store/jdsports-id?couponId=331732&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-25 13:57:00",
+      "endDateGMT": "2028-10-24 17:00:00",
+      "storeId": 161036,
+      "storeName": "JD Sports Indonesia",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jdsports-id.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Credit card Installment 0% as well BNPL!",
+      "jumpUrl": "https://www.rewardany.com/store/jdsports-id?couponId=331733&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-25 13:58:00",
+      "endDateGMT": "2028-10-24 17:00:00",
+      "storeId": 161036,
+      "storeName": "JD Sports Indonesia",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jdsports-id.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "1% Points Added on All of Purchase!",
+      "jumpUrl": "https://www.rewardany.com/store/jdsports-id?couponId=331734&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-25 13:58:00",
+      "endDateGMT": "2028-10-24 17:00:00",
+      "storeId": 161036,
+      "storeName": "JD Sports Indonesia",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jdsports-id.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy FREE & FAST DELIVERY on selected styles with no minimum spend! While Stocks Last!",
+      "jumpUrl": "https://www.rewardany.com/store/jdsports-my?couponId=331735&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-18 01:54:00",
+      "endDateGMT": "2027-03-17 16:00:00",
+      "storeId": 161037,
+      "storeName": "JD Sports Malaysia",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jdsports-my.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "You won't find these anywhere else! Cop the exclusive heat right here, only at JD Sports! Shop the range and enjoy Free Delivery sitewide right now!",
+      "jumpUrl": "https://www.rewardany.com/store/jdsports-my?couponId=331736&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-07 07:59:00",
+      "endDateGMT": "2029-02-06 16:00:00",
+      "storeId": 161037,
+      "storeName": "JD Sports Malaysia",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jdsports-my.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Bundle with Benji Sleep and Save $30.00 - Bed Sheets, Duvets, Pillows!",
+      "jumpUrl": "https://www.rewardany.com/store/benjisleep-com-ca?couponId=601439&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-25 03:58:00",
+      "endDateGMT": "2029-11-10 05:00:00",
+      "storeId": 163659,
+      "storeName": "Benji Sleep CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/benjisleep-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping When You Order 2 or More Items!",
+      "jumpUrl": "https://www.rewardany.com/store/benjisleep-com-ca?couponId=601440&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-25 04:00:00",
+      "endDateGMT": "2029-11-10 05:00:00",
+      "storeId": 163659,
+      "storeName": "Benji Sleep CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/benjisleep-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Take $10 off every product you add!",
+      "jumpUrl": "https://www.rewardany.com/store/benjisleep-com-ca?couponId=601441&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-13 20:11:00",
+      "endDateGMT": "2029-11-10 00:00:00",
+      "storeId": 163659,
+      "storeName": "Benji Sleep CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/benjisleep-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Only \u00a32 delivery when you spend \u00a330!",
+      "jumpUrl": "https://www.rewardany.com/store/savers-co-uk?couponId=354281&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-18 13:22:00",
+      "endDateGMT": "2029-04-17 23:00:00",
+      "storeId": 164323,
+      "storeName": "Savers UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/savers-co-uk-1698739025.png",
+      "categories": [
+        "Health & Beauty",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Half price delivery when you spend \u00a330!",
+      "jumpUrl": "https://www.rewardany.com/store/savers-co-uk?couponId=354282&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-18 13:22:00",
+      "endDateGMT": "2029-04-17 23:00:00",
+      "storeId": 164323,
+      "storeName": "Savers UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/savers-co-uk-1698739025.png",
+      "categories": [
+        "Health & Beauty",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Shop Jonathan Adler: Modern Home D\u00e9cor, Luxury Gifts, and Mid-Century Modern Furniture!",
+      "jumpUrl": "https://www.rewardany.com/store/uk-jonathanadler-com?couponId=368955&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-10 12:13:00",
+      "endDateGMT": "2028-12-09 00:00:00",
+      "storeId": 165642,
+      "storeName": "Jonathan Adler UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-jonathanadler-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Shop Jonathan Adler. Get 10% Off Your First Purchase When You Sign Up!",
+      "jumpUrl": "https://www.rewardany.com/store/uk-jonathanadler-com?couponId=368956&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-15 11:09:00",
+      "endDateGMT": "2028-12-09 00:00:00",
+      "storeId": 165642,
+      "storeName": "Jonathan Adler UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-jonathanadler-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Shop Jonathan Adler Sale. Save up to 65% Off Retail Price!",
+      "jumpUrl": "https://www.rewardany.com/store/uk-jonathanadler-com?couponId=368957&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-15 11:09:00",
+      "endDateGMT": "2028-12-09 00:00:00",
+      "storeId": 165642,
+      "storeName": "Jonathan Adler UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-jonathanadler-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Save 20% when You Build Your Own Multi Shape Grooming Kit!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-panasonic-com?couponId=663066&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-03 16:20:00",
+      "endDateGMT": "2023-12-10 00:00:00",
+      "storeId": 171591,
+      "storeName": "Panasonic",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-panasonic-com-1693537188.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Ausverkauf Sale",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-de?couponId=553972&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-17 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 175923,
+      "storeName": "Vevor DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-de-1695024998.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "50 \u20ac Rabatt f\u00fcr Bestellungen \u00fcber 999 \u20ac",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-de?couponId=569148&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-25 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 175923,
+      "storeName": "Vevor DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-de-1695024998.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "5% Rabatt auf die Bestellungen \u00fcber 99 EUR | Code: FOOD5",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-de?couponId=594890&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-09 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 175923,
+      "storeName": "Vevor DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-de-1695024998.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Neue Angebote, Mehr Einsparungen",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-de?couponId=637332&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-14 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 175923,
+      "storeName": "Vevor DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-de-1695024998.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Neu Eingetroffen, Neues Angebot",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-de?couponId=637333&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 175923,
+      "storeName": "Vevor DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-de-1695024998.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "R\u00fcsten Sie Ihr Fahrzeug jetzt auf!",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-de?couponId=637334&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-05 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 175923,
+      "storeName": "Vevor DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-de-1695024998.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "VEVOR Clearance Sale",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-ca?couponId=553973&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-17 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 175924,
+      "storeName": "Vevor CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-ca-1695025027.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "C $50 OFF for orders over C $999",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-ca?couponId=569149&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-25 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 175924,
+      "storeName": "Vevor CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-ca-1695025027.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "5% Off on Orders Over C $99 | Code: FOOD5",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-ca?couponId=594892&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-09 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 175924,
+      "storeName": "Vevor CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-ca-1695025027.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Upgrade Your Vehicle Now!",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-ca?couponId=637342&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-05 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 175924,
+      "storeName": "Vevor CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-ca-1695025027.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Get Your LuckyTail Nail Grinder Today - Save $10 on Orders Over $60",
+      "jumpUrl": "https://www.rewardany.com/store/luckytail-com?couponId=559690&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-28 16:52:00",
+      "endDateGMT": "2029-08-28 04:00:00",
+      "storeId": 179478,
+      "storeName": "LuckyTail",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/luckytail-com-1697771521.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Bundle and Save 64% On LuckyTail's Pet Nail Grinder!",
+      "jumpUrl": "https://www.rewardany.com/store/luckytail-com?couponId=559691&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-25 20:56:00",
+      "endDateGMT": "2029-08-03 04:00:00",
+      "storeId": 179478,
+      "storeName": "LuckyTail",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/luckytail-com-1697771521.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get free shipping on all US orders!",
+      "jumpUrl": "https://www.rewardany.com/store/zositech-com?couponId=637349&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-13 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 180529,
+      "storeName": "Zosi US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/zositech-com-1698225426.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Buy One Get One",
+      "jumpUrl": "https://www.rewardany.com/store/zositech-com?couponId=637353&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-20 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 180529,
+      "storeName": "Zosi US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/zositech-com-1698225426.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy 20% Off Your First Purchase at gregnormancollection.com!",
+      "jumpUrl": "https://www.rewardany.com/store/gregnormancollection-com?couponId=570769&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-01 04:00:00",
+      "endDateGMT": "2029-08-01 04:00:00",
+      "storeId": 181105,
+      "storeName": "Greg Norman Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gregnormancollection-com-1698291438.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Up To 70% Off Sale Styles",
+      "jumpUrl": "https://www.rewardany.com/store/springstepshoes-com?couponId=570775&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-15 20:20:00",
+      "endDateGMT": "2029-08-15 00:00:00",
+      "storeId": 181106,
+      "storeName": "Spring Step Shoes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/springstepshoes-com-1698292044.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Join The Natural Transformer Rewards Program Today. Free To Join!",
+      "jumpUrl": "https://www.rewardany.com/store/thenaturaltransformer-com-au?couponId=570778&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-20 00:38:00",
+      "endDateGMT": "2025-09-20 14:00:00",
+      "storeId": 181108,
+      "storeName": "The Natural Transformer",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/thenaturaltransformer-com-au-1698293190.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 10% on Your First Order of Sustainable Kids Clothes when You Sign up For the Mini Mioche Newsletter!",
+      "jumpUrl": "https://www.rewardany.com/store/minimioche-com?couponId=581960&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 19:41:00",
+      "endDateGMT": "2029-11-01 00:00:00",
+      "storeId": 181109,
+      "storeName": "Mini Mioche",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/minimioche-com-1698294373.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories",
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "Your garden shed It could be so much more Let's get started",
+      "jumpUrl": "https://www.rewardany.com/store/goodbuilds-co-uk?couponId=637360&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 181114,
+      "storeName": "Good Builds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/goodbuilds-co-uk-1698309844.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "It\u2019s time to get your garden looking its best.",
+      "jumpUrl": "https://www.rewardany.com/store/goodbuilds-co-uk?couponId=637361&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 181114,
+      "storeName": "Good Builds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/goodbuilds-co-uk-1698309844.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Your New Fence. Beautiful and secure",
+      "jumpUrl": "https://www.rewardany.com/store/goodbuilds-co-uk?couponId=637362&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 181114,
+      "storeName": "Good Builds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/goodbuilds-co-uk-1698309844.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Make your home warm and cosy",
+      "jumpUrl": "https://www.rewardany.com/store/goodbuilds-co-uk?couponId=637363&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 181114,
+      "storeName": "Good Builds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/goodbuilds-co-uk-1698309844.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "0% finance on everything over \u00a399 with PayPal",
+      "jumpUrl": "https://www.rewardany.com/store/goodbuilds-co-uk?couponId=637364&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 181114,
+      "storeName": "Good Builds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/goodbuilds-co-uk-1698309844.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Browse our NEW IN ranges",
+      "jumpUrl": "https://www.rewardany.com/store/goodbuilds-co-uk?couponId=637365&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 181114,
+      "storeName": "Good Builds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/goodbuilds-co-uk-1698309844.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Free delivery on ALL orders to UK Mainland",
+      "jumpUrl": "https://www.rewardany.com/store/theworkplacedepot-co-uk?couponId=637366&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-03 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 181115,
+      "storeName": "The Workplace Depot",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/theworkplacedepot-co-uk-1698310920.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Shop our Clearance Range",
+      "jumpUrl": "https://www.rewardany.com/store/theworkplacedepot-co-uk?couponId=637367&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-03 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 181115,
+      "storeName": "The Workplace Depot",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/theworkplacedepot-co-uk-1698310920.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Free Next Day Delivery On Safety Steps",
+      "jumpUrl": "https://www.rewardany.com/store/theworkplacedepot-co-uk?couponId=637368&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-17 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 181115,
+      "storeName": "The Workplace Depot",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/theworkplacedepot-co-uk-1698310920.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Swipe it Lip Balm Bundle: 2 for $25 or 3 for $35",
+      "jumpUrl": "https://www.rewardany.com/store/thebodyshop-com?couponId=637372&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-27 00:00:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 185735,
+      "storeName": "The Body Shop AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/thebodyshop-com-1699956656.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 3 for 2 Mini Hand Cream",
+      "jumpUrl": "https://www.rewardany.com/store/thebodyshop-com?couponId=663143&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2023-12-10 00:00:00",
+      "storeId": 185735,
+      "storeName": "The Body Shop AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/thebodyshop-com-1699956656.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Starter Kit - California Super Soil Starter Kit",
+      "jumpUrl": "https://www.rewardany.com/store/calisupersoil-com?couponId=637373&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-08 00:00:00",
+      "endDateGMT": "2024-02-28 00:00:00",
+      "storeId": 185770,
+      "storeName": "CaliSuperSoil US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/calisupersoil-com-1700642935.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Super Soil Potting Guide",
+      "jumpUrl": "https://www.rewardany.com/store/calisupersoil-com?couponId=637374&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-08 00:00:00",
+      "endDateGMT": "2024-02-28 00:00:00",
+      "storeId": 185770,
+      "storeName": "CaliSuperSoil US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/calisupersoil-com-1700642935.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Growing Guide",
+      "jumpUrl": "https://www.rewardany.com/store/calisupersoil-com?couponId=637375&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-08 00:00:00",
+      "endDateGMT": "2024-02-28 00:00:00",
+      "storeId": 185770,
+      "storeName": "CaliSuperSoil US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/calisupersoil-com-1700642935.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Organic Super Soil Recipe",
+      "jumpUrl": "https://www.rewardany.com/store/calisupersoil-com?couponId=637376&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-08 00:00:00",
+      "endDateGMT": "2024-02-28 00:00:00",
+      "storeId": 185770,
+      "storeName": "CaliSuperSoil US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/calisupersoil-com-1700642935.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Nutrient Growth Shot (2 Pack)",
+      "jumpUrl": "https://www.rewardany.com/store/calisupersoil-com?couponId=637377&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-08 00:00:00",
+      "endDateGMT": "2024-02-28 00:00:00",
+      "storeId": 185770,
+      "storeName": "CaliSuperSoil US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/calisupersoil-com-1700642935.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Concentrate Super Soil 5lbs",
+      "jumpUrl": "https://www.rewardany.com/store/calisupersoil-com?couponId=637378&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-08 00:00:00",
+      "endDateGMT": "2024-02-28 00:00:00",
+      "storeId": 185770,
+      "storeName": "CaliSuperSoil US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/calisupersoil-com-1700642935.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Sign up and SAVE 10% off of your next order",
+      "jumpUrl": "https://www.rewardany.com/store/calisupersoil-com?couponId=637379&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-17 00:00:00",
+      "endDateGMT": "2024-02-28 00:00:00",
+      "storeId": 185770,
+      "storeName": "CaliSuperSoil US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/calisupersoil-com-1700642935.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "UP TO 20% OFF + EXTRA 5% OFF ALREADY DISCOUNTED PRODUCTS WITH YOUR AFFILIATE CODE",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=637384&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save on selected LOOKFANTASTIC THE BOX: Limited Edition Beauty Boxes",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=637385&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "get your first LOOKFANTASTIC THE BOX: Monthly beauty box for 15 Euros with 1 month subscription with your affiliate code",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=637386&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "get your first LOOKFANTASTIC THE BOX: Limited edition beauty box for 291 KC with a 1 month subscription, with your affiliate code",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=637387&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "get your first LOOKFANTASTIC THE BOX: Limited edition beauty box for 55.60 RON with a 1 month subscription, with your affiliate code",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=637388&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "spend 40 Euros get 20% off and spend 60 Euros get 25% off with code SAVELF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=637389&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "10% off advent calendars Code: 10XMAS",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=637400&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Frist Monthly Beauty Box for just 56 PLN with a 1 month subscription Code: FANTASTICLF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=637402&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 20-23% off By Terry at LOOKFANTASTIC",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=663170&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "GET 10 Euros Off the LF Cracker WITH CODE JINGLE10",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=663172&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "GET 10 Euros Off the Xmas Eve Edit WITH CODE JINGLE10",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=663173&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 5 Euros off Black Friday Box WITH CODE FANTASTICLF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=663175&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop at PowerAbs.shop today!",
+      "jumpUrl": "https://www.rewardany.com/store/powerabs-shop?couponId=637414&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-08 00:00:00",
+      "endDateGMT": "2025-11-08 00:00:00",
+      "storeId": 195129,
+      "storeName": "PowerAbs US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/powerabs-shop-1700728326.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "NFD Gift Cards from $15",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637415&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "e-Vouchers from $15",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637416&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Sustainable Fashion",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637417&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop NFD Pre-Loved",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637418&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Charity Love and Charities",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637419&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "NFD Loyalty Love Rewards",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637420&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "28-day returns policy",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637421&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "12 Months of Next Day shipping subscriptions for ONLY $\u200c22.00",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637422&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "10% off first orders with newsletter sign-ups",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637423&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "NEW Petite Collection Now Available at Never Fully Dressed",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637424&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-11 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "FREE shipping to United States on ALL orders",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637425&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-16 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    }
+  ]
+}

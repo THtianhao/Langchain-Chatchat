@@ -1,0 +1,1510 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 20,
+  "pageSize": 100,
+  "totalRecords": 6585,
+  "totalPages": 66,
+  "results": [
+    {
+      "couponTitle": "Affiliate Exclusive Online Only! Get 15% off orders $100+ or 20% off orders $150+ with code AFFTIER15",
+      "jumpUrl": "https://www.rewardany.com/store/nauticacom?couponId=655044&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "AFFTIER15",
+      "tier": 2,
+      "startDateGMT": "2023-11-02 00:00:00",
+      "endDateGMT": "2023-12-18 00:00:00",
+      "storeId": 3284,
+      "storeName": "Nautica",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/nauticacom_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take 50-70% Off Great Gifts",
+      "jumpUrl": "https://www.rewardany.com/store/nauticacom?couponId=655045&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-29 00:00:00",
+      "endDateGMT": "2023-12-14 00:00:00",
+      "storeId": 3284,
+      "storeName": "Nautica",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/nauticacom_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Great Gifts Under $25",
+      "jumpUrl": "https://www.rewardany.com/store/nauticacom?couponId=655046&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-29 00:00:00",
+      "endDateGMT": "2023-12-06 00:00:00",
+      "storeId": 3284,
+      "storeName": "Nautica",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/nauticacom_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop The Best Gifts for Pet Moms at The Bradford Exchange",
+      "jumpUrl": "https://www.rewardany.com/store/the-bradford-exchange-online?couponId=107680&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-05-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3297,
+      "storeName": "The Bradford Exchange",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-bradford-exchange-online.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Top 5 Personalized Gifts For Him - The Bradford Exchange",
+      "jumpUrl": "https://www.rewardany.com/store/the-bradford-exchange-online?couponId=141467&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-06-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3297,
+      "storeName": "The Bradford Exchange",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-bradford-exchange-online.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Top 5 Personalized Gifts For Him - The Bradford Exchange",
+      "jumpUrl": "https://www.rewardany.com/store/the-bradford-exchange-online?couponId=141470&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-06-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3297,
+      "storeName": "The Bradford Exchange",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-bradford-exchange-online.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop 12 Snowglobe Gift Ideas for Special Occasions at The Bradford Exchange",
+      "jumpUrl": "https://www.rewardany.com/store/the-bradford-exchange-online?couponId=655048&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-08-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3297,
+      "storeName": "The Bradford Exchange",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-bradford-exchange-online.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Top 10 Patriotic Gifts Beaming with Red, White & Blue Pride",
+      "jumpUrl": "https://www.rewardany.com/store/the-bradford-exchange-online?couponId=655051&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-06-28 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3297,
+      "storeName": "The Bradford Exchange",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-bradford-exchange-online.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop 12 Snowglobe Gift Ideas for Special Occasions  at The Bradford Exchange",
+      "jumpUrl": "https://www.rewardany.com/store/the-bradford-exchange-online?couponId=655052&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-08-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3297,
+      "storeName": "The Bradford Exchange",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-bradford-exchange-online.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "7 Best Personalized Gifts for Grandma at The Bradford Exchange",
+      "jumpUrl": "https://www.rewardany.com/store/the-bradford-exchange-online?couponId=655053&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-08-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3297,
+      "storeName": "The Bradford Exchange",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-bradford-exchange-online.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop Christmas Gifts at The Bradford Exchange - FREE Returns Up To 365 Days and FREE Personalization on Select Items",
+      "jumpUrl": "https://www.rewardany.com/store/the-bradford-exchange-online?couponId=655054&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-27 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 3297,
+      "storeName": "The Bradford Exchange",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-bradford-exchange-online.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Unwrapping Wonder - Shop Personalized Christmas Gifts at The Bradford Exchange",
+      "jumpUrl": "https://www.rewardany.com/store/the-bradford-exchange-online?couponId=655055&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-27 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 3297,
+      "storeName": "The Bradford Exchange",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-bradford-exchange-online.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Best Personalized Christmas Gifts for Grandchildren at The Bradford Exchange",
+      "jumpUrl": "https://www.rewardany.com/store/the-bradford-exchange-online?couponId=655056&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-22 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3297,
+      "storeName": "The Bradford Exchange",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-bradford-exchange-online.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Lenovo Pro Members: Save 50% Off ThinkCentre M60q Chromebox",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655061&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CHROMEPRO",
+      "tier": 2,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-18 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Exclusive Deal: EXTRA 10% Off Custom Built Gaming PCs w/Code GAMINGCTO10",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655065&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GAMINGCTO10",
+      "tier": 2,
+      "startDateGMT": "2023-11-29 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "65% Off ThinkCentre M90a All-in-One Intel i5/8GB RAM/256GB SSD $839.65!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655068&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "LEAKEDAIO65",
+      "tier": 2,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 15% on a New Gaming Monitor w/the Purchase of a New Gaming Desktop",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655070&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GAMING15OFFER",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Extra 5% Off Legion Gaming PCs w/Code: EXTRA5",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655088&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EXTRA5",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Extra 5% Off IdeaCentre Desktops w/Code: EXTRA5",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655089&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EXTRA5",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "$320 Off IdeaPad Slim 3i Intel i3/8GB RAM/512GB SSD $559.99!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655091&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "2NDDEAL",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "60% Off ThinkPad X1 Carbon Gen 11 i7/16GB RAM/1TB SSD $1,798.99!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655093&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "THINKLASTDEALS",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "64% Off ThinkPad T14 Gen 4 Intel i5/16GB RAM/512GB SSD $1,172.99!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655094&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "THINKLASTDEALS",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "68% Off ThinkPad L14 Gen 3 Ryzen 7 Pro/16GB RAM/512GB SSD $879!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655095&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SECONDCHANCEDEAL",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "60% Off ThinkBook 14 Gen 4 Ryzen 7/16GB RAM/512GB SSD $751.60!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655096&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SECONDCHANCEDEAL",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "54% Off ThinkBook 14 Gen 6 Ryzen 7/16GB RAM/512GB SSD $873.54!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655097&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SECONDCHANCEDEAL",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "EXTRA 5% Off IdeaCentre 3i Desktop i5/8GB RAM/512GB SSD $617.49!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655098&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EXTRA5",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "50% Off ThinkPad E16 Gen 1 Ryzen 7/16GB RAM/1TB SSD $1,289.50!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655099&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SECONDCHANCEDEAL",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Up to 58% Off ThinkPad P Series & ThinkStation P Series Workstation PCs!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655100&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "WSDEAL13",
+      "tier": 2,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "LTO: 30% Off Custom Legion Pro 7i Gen 8 Laptops w/up to RTX 4090",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-canada?couponId=655101&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "LEGIONPRO7CTO",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-18 00:00:00",
+      "storeId": 3304,
+      "storeName": "Lenovo Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Bellacor Affiliate Exclusive! Save up to an extra 5% off select items with code  AFFSAVE5",
+      "jumpUrl": "https://www.rewardany.com/store/bellacor?couponId=655111&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "AFFSAVE5",
+      "tier": 2,
+      "startDateGMT": "2023-10-02 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3324,
+      "storeName": "Bellacor",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bellacor_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bellacor Affiliate Exclusive! Save up to an extra 10% off select items with code  AFFSAVE10",
+      "jumpUrl": "https://www.rewardany.com/store/bellacor?couponId=655112&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "AFFSAVE10",
+      "tier": 2,
+      "startDateGMT": "2023-10-02 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3324,
+      "storeName": "Bellacor",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bellacor_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bellacor Affiliate Exclusive! Save up to an extra 15% off select items with code  AFFSAVE15",
+      "jumpUrl": "https://www.rewardany.com/store/bellacor?couponId=655113&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "AFFSAVE15",
+      "tier": 2,
+      "startDateGMT": "2023-10-02 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3324,
+      "storeName": "Bellacor",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bellacor_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bellacor Affiliate Exclusive! Save up to an extra 10% off select items with code  AFFSAVE10",
+      "jumpUrl": "https://www.rewardany.com/store/bellacor?couponId=655117&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "AFFSAVE10",
+      "tier": 2,
+      "startDateGMT": "2023-10-01 00:00:00",
+      "endDateGMT": "2028-10-01 00:00:00",
+      "storeId": 3324,
+      "storeName": "Bellacor",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bellacor_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bellacor Affiliate Exclusive! Save up to an extra 5% off select items with code  AFFSAVE5",
+      "jumpUrl": "https://www.rewardany.com/store/bellacor?couponId=655118&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "AFFSAVE5",
+      "tier": 2,
+      "startDateGMT": "2023-10-01 00:00:00",
+      "endDateGMT": "2028-10-01 00:00:00",
+      "storeId": 3324,
+      "storeName": "Bellacor",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bellacor_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bellacor Affiliate Exclusive! Save up to an extra 15% off select items with code  AFFSAVE10",
+      "jumpUrl": "https://www.rewardany.com/store/bellacor?couponId=655119&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "AFFSAVE15",
+      "tier": 2,
+      "startDateGMT": "2023-10-01 00:00:00",
+      "endDateGMT": "2028-10-01 00:00:00",
+      "storeId": 3324,
+      "storeName": "Bellacor",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bellacor_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Gifts $20 and Under! 12/7-12/19",
+      "jumpUrl": "https://www.rewardany.com/store/maurices?couponId=655150&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 3337,
+      "storeName": "Maurices",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/maurices_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Affiliate Exclusive! Free Shipping on All Orders with code FSHIP! 12/14",
+      "jumpUrl": "https://www.rewardany.com/store/maurices?couponId=655155&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FSHIP",
+      "tier": 2,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2023-12-15 00:00:00",
+      "storeId": 3337,
+      "storeName": "Maurices",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/maurices_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Kash10",
+      "jumpUrl": "https://www.rewardany.com/store/spyassociatescom?couponId=31219&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "Kash10",
+      "tier": 2,
+      "startDateGMT": "2023-04-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3349,
+      "storeName": "SpyAssociates.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/spyassociatescom.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Kasheesh10",
+      "jumpUrl": "https://www.rewardany.com/store/spyassociatescom?couponId=107800&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "Kasheesh10",
+      "tier": 2,
+      "startDateGMT": "2023-04-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3349,
+      "storeName": "SpyAssociates.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/spyassociatescom.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping on 2+ Items with Code: HOLIDAY23 | Order by 12/14 to Receive by 12/24 at UNIONBAY!  Valid 11/28-12/14",
+      "jumpUrl": "https://www.rewardany.com/store/unionbay?couponId=655163&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "HOLIDAY23",
+      "tier": 2,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-14 00:00:00",
+      "storeId": 3353,
+      "storeName": "UNIONBAY",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/unionbay_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week Sale - Up To 50% Off Entire Site, Code WLGIFTS",
+      "jumpUrl": "https://www.rewardany.com/store/wilsons-leather?couponId=655164&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "WLGIFTS",
+      "tier": 2,
+      "startDateGMT": "2023-11-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3358,
+      "storeName": "Wilsons Leather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wilsons-leather_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week Sale - Up To 50% Off Entire Site, Code WLGIFTS",
+      "jumpUrl": "https://www.rewardany.com/store/wilsons-leather?couponId=655166&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "WLGIFTS",
+      "tier": 2,
+      "startDateGMT": "2023-11-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3358,
+      "storeName": "Wilsons Leather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wilsons-leather_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Our Entire Site",
+      "jumpUrl": "https://www.rewardany.com/store/black-halo?couponId=107819&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BHPJ15",
+      "tier": 2,
+      "startDateGMT": "2023-04-24 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3370,
+      "storeName": "Black Halo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/black-halo_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Entire Site Including Sale Items",
+      "jumpUrl": "https://www.rewardany.com/store/black-halo?couponId=107820&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BHPJ15",
+      "tier": 2,
+      "startDateGMT": "2023-04-24 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3370,
+      "storeName": "Black Halo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/black-halo_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Sale On Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/black-halo?couponId=655167&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "PJSALE25",
+      "tier": 2,
+      "startDateGMT": "2023-09-18 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3370,
+      "storeName": "Black Halo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/black-halo_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Sale On Sale",
+      "jumpUrl": "https://www.rewardany.com/store/black-halo?couponId=655168&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "PJSALE25",
+      "tier": 2,
+      "startDateGMT": "2023-09-18 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3370,
+      "storeName": "Black Halo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/black-halo_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop For A Cause",
+      "jumpUrl": "https://www.rewardany.com/store/black-halo?couponId=655169&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "PINK20",
+      "tier": 2,
+      "startDateGMT": "2023-10-03 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3370,
+      "storeName": "Black Halo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/black-halo_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Early Black Friday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/black-halo?couponId=655172&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EARLY30",
+      "tier": 2,
+      "startDateGMT": "2023-11-14 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3370,
+      "storeName": "Black Halo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/black-halo_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "23GIFT - Free Shipping on Any - Banner Link",
+      "jumpUrl": "https://www.rewardany.com/store/botanic-choice?couponId=655187&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-27 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3383,
+      "storeName": "Botanic Choice",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/botanic-choice_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "23GIFT - Free Shipping on Any - Text Link",
+      "jumpUrl": "https://www.rewardany.com/store/botanic-choice?couponId=655188&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-27 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3383,
+      "storeName": "Botanic Choice",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/botanic-choice_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Give the gift of hair care technology this holiday. In Blue Blush with exclusive gift sets & accessories. Only at Dyson. (EN)",
+      "jumpUrl": "https://www.rewardany.com/store/dyson-canada?couponId=655230&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-13 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3406,
+      "storeName": "Dyson CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dyson-canada_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Give the Gift of Invention. Complimentary gifts valued up to $80 with a purchase of Dyson Airwrap\u2122 in Blue Blush. (EN)",
+      "jumpUrl": "https://www.rewardany.com/store/dyson-canada?couponId=655231&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-13 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3406,
+      "storeName": "Dyson CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dyson-canada_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Give the gift of healthy hair with the Dyson Supersonic\u2122 in special edition Blue Blush. Includes complimentary accessories. (EN)",
+      "jumpUrl": "https://www.rewardany.com/store/dyson-canada?couponId=655232&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-13 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3406,
+      "storeName": "Dyson CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dyson-canada_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Give the gift of beautiful hair with the Dyson Corrale\u2122 in special edition Blue Blush. Includes complimentary accessories valued up to $90. (EN)",
+      "jumpUrl": "https://www.rewardany.com/store/dyson-canada?couponId=655233&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-13 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3406,
+      "storeName": "Dyson CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dyson-canada_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Give the gift of healthier hair with the Dyson Airstrait\u2122. Wet to dry straightening with air. No hot plates. No heat damage.",
+      "jumpUrl": "https://www.rewardany.com/store/dyson-canada?couponId=655234&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-20 00:00:00",
+      "endDateGMT": "2029-10-20 00:00:00",
+      "storeId": 3406,
+      "storeName": "Dyson CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dyson-canada_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "3 days only 20% off! The Cyber Event: Save on Little Planet essential pieces, cozy sets, timeless gifts and more online.",
+      "jumpUrl": "https://www.rewardany.com/store/carters?couponId=655245&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-12-02 00:00:00",
+      "endDateGMT": "2023-12-05 00:00:00",
+      "storeId": 3414,
+      "storeName": "Carter's",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/carters_logo.jpg",
+      "categories": [
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "FOR YOU: Up to 70% off* holiday styles, gifts & more for the whole family\u2014adults, too! Ends 12/4.\u200b",
+      "jumpUrl": "https://www.rewardany.com/store/carters?couponId=655246&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-05 00:00:00",
+      "storeId": 3414,
+      "storeName": "Carter's",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/carters_logo.jpg",
+      "categories": [
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "THE GIFT EVENT. Get up to 60% OFF* SITE & STOREWIDE right now! Psst... These deals are just as good whether you\u2019re gifting or keeping. Hurry, ends 12/12.",
+      "jumpUrl": "https://www.rewardany.com/store/carters?couponId=655247&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-13 00:00:00",
+      "storeId": 3414,
+      "storeName": "Carter's",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/carters_logo.jpg",
+      "categories": [
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "A can\u2019t-miss deal for new and expecting parents! Our ultimate collection of baby must-haves is up to 60% OFF* for a limited time. Psst... These make GREAT gifts. Ends 12/25.",
+      "jumpUrl": "https://www.rewardany.com/store/carters?couponId=655250&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 3414,
+      "storeName": "Carter's",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/carters_logo.jpg",
+      "categories": [
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "End-of-year PJ savings! America\u2019s Favorite Jammies are now up to 60% off*. Pro tip: Gift a few now, keep a few for later. Hurry, ends 12/25.",
+      "jumpUrl": "https://www.rewardany.com/store/carters?couponId=655252&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 3414,
+      "storeName": "Carter's",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/carters_logo.jpg",
+      "categories": [
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "THE GIFT EVENT. Get up to 60% OFF* SITE & STOREWIDE right now! Psst... These deals are just as good whether you\u2019re gifting or keeping. Hurry, ends 12/12.",
+      "jumpUrl": "https://www.rewardany.com/store/carters?couponId=655253&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-13 00:00:00",
+      "storeId": 3414,
+      "storeName": "Carter's",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/carters_logo.jpg",
+      "categories": [
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "Celebrate Your Love Story with Engagement Rings at 12% Off. Code - AFFENGAGEMENT",
+      "jumpUrl": "https://www.rewardany.com/store/angaracom?couponId=655257&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-09-23 00:00:00",
+      "endDateGMT": "2029-09-23 00:00:00",
+      "storeId": 3423,
+      "storeName": "Angara",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/angaracom-1700212291.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Celebrate an Eternal Bond Wedding Rings at 12% Off. Code - AFFWEDDING",
+      "jumpUrl": "https://www.rewardany.com/store/angaracom?couponId=655258&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-09-23 00:00:00",
+      "endDateGMT": "2029-09-23 00:00:00",
+      "storeId": 3423,
+      "storeName": "Angara",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/angaracom-1700212291.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "12% OFF on Brilliant Birthstone Jewelry. Code - AFFBIRTHSTONE",
+      "jumpUrl": "https://www.rewardany.com/store/angaracom?couponId=655259&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-09-23 00:00:00",
+      "endDateGMT": "2029-09-23 00:00:00",
+      "storeId": 3423,
+      "storeName": "Angara",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/angaracom-1700212291.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Necklaces As Unique As You Starting at $50. Code AFFPERSONAL",
+      "jumpUrl": "https://www.rewardany.com/store/angaracom?couponId=655260&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-09-23 00:00:00",
+      "endDateGMT": "2029-09-23 00:00:00",
+      "storeId": 3423,
+      "storeName": "Angara",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/angaracom-1700212291.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "12% OFF on Most-Loved Evergreen Styles. Code - AFFEVERGREEN",
+      "jumpUrl": "https://www.rewardany.com/store/angaracom?couponId=655261&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-09-23 00:00:00",
+      "endDateGMT": "2029-09-23 00:00:00",
+      "storeId": 3423,
+      "storeName": "Angara",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/angaracom-1700212291.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Columbus Day Sale 12.12% Off on All Jewelry. Code - AFFCOLUMBUS",
+      "jumpUrl": "https://www.rewardany.com/store/angaracom?couponId=655262&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-09-23 00:00:00",
+      "endDateGMT": "2023-12-13 00:00:00",
+      "storeId": 3423,
+      "storeName": "Angara",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/angaracom-1700212291.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Sale - Up to 15% OFF*",
+      "jumpUrl": "https://www.rewardany.com/store/angaracom?couponId=655263&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-19 00:00:00",
+      "endDateGMT": "2023-12-17 00:00:00",
+      "storeId": 3423,
+      "storeName": "Angara",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/angaracom-1700212291.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday Sale - Up to 15% OFF*",
+      "jumpUrl": "https://www.rewardany.com/store/angaracom?couponId=655264&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-19 00:00:00",
+      "endDateGMT": "2023-12-17 00:00:00",
+      "storeId": 3423,
+      "storeName": "Angara",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/angaracom-1700212291.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Thanksgiving Day Sale - Up to 15% OFF*",
+      "jumpUrl": "https://www.rewardany.com/store/angaracom?couponId=655265&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-19 00:00:00",
+      "endDateGMT": "2023-12-17 00:00:00",
+      "storeId": 3423,
+      "storeName": "Angara",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/angaracom-1700212291.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Use Code ELVES for 15% off plus FREE 2-Day Shipping on +$100",
+      "jumpUrl": "https://www.rewardany.com/store/cufflinkscom?couponId=655280&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "ELVES",
+      "tier": 2,
+      "startDateGMT": "2023-12-19 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 3428,
+      "storeName": "Cufflinks.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cufflinkscom_logo.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Ole's Holiday Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/ole-henriksen?couponId=655281&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-20 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3430,
+      "storeName": "Ole Henriksen",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ole-henriksen-1700719459.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Give a gift, get a gift (12/8-12/11)",
+      "jumpUrl": "https://www.rewardany.com/store/ole-henriksen?couponId=655283&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-08 00:00:00",
+      "storeId": 3430,
+      "storeName": "Ole Henriksen",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ole-henriksen-1700719459.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "2021 Back to School Sale_620x250",
+      "jumpUrl": "https://www.rewardany.com/store/inkcartridgescom?couponId=177430&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "INKCBTS",
+      "tier": 2,
+      "startDateGMT": "2023-06-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3442,
+      "storeName": "InkCartridges.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/inkcartridgescom.jpg",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Affiliate Exclusive Offer! Holiday Deals! Use Code SAVE22 to get 22% Off Sitewide. Shop now to grab something unique before this deal goes away!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-lc?couponId=655320&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SAVE22",
+      "tier": 2,
+      "startDateGMT": "2023-08-21 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3463,
+      "storeName": "Shop LC",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-lc_logo.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop LC's Early Black Friday Celebration! Get ready for incredible savings! Unlock an exclusive 15% discount on our entire collection of $1 Auctions by using code \"WIN15\" at checkout.",
+      "jumpUrl": "https://www.rewardany.com/store/shop-lc?couponId=655321&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "WIN15",
+      "tier": 2,
+      "startDateGMT": "2023-11-22 00:00:00",
+      "endDateGMT": "2023-12-16 00:00:00",
+      "storeId": 3463,
+      "storeName": "Shop LC",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-lc_logo.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Affiliate Exclusive Offer! Jewelry Deals! Use Code SAVE22 for extra 22% off on select items.",
+      "jumpUrl": "https://www.rewardany.com/store/shop-lc?couponId=655324&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SAVE22",
+      "tier": 2,
+      "startDateGMT": "2023-10-14 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3463,
+      "storeName": "Shop LC",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-lc_logo.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Affiliate Exclusive Offer! Shop LC brings Loose Gemstone Deals! Use Code SHOPLC20 for extra 20% off on select items.",
+      "jumpUrl": "https://www.rewardany.com/store/shop-lc?couponId=660810&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SHOPLC20",
+      "tier": 2,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3463,
+      "storeName": "Shop LC",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-lc_logo.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Affiliate Exclusive Offer! Shop our Hottest Deals Now! Use HOTDEAL25 to enjoy 25% off!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-lc?couponId=660812&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "HOTDEAL25",
+      "tier": 2,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3463,
+      "storeName": "Shop LC",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-lc_logo.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop LC's Best Sellers are here! See what everyone is raving about with amazing 25% discount to enjoy. Use code \"BEST25\" to avail the offer. What are you waiting for? Start your shopping spree now!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-lc?couponId=660813&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BEST25",
+      "tier": 2,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3463,
+      "storeName": "Shop LC",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-lc_logo.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Affiliate Exclusive Holiday Offer! Start your holiday shopping with Shop LC\u0092s Lifestyle collection. Use code STYLE25 for amazing 25% off the selection. Grab Now!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-lc?couponId=660814&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "STYLE25",
+      "tier": 2,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3463,
+      "storeName": "Shop LC",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-lc_logo.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Affiliate Exclusive Offer! Shop LC brings Loose Gemstone Deals! Use Code SHOPLC20 for extra 20% off on select items.",
+      "jumpUrl": "https://www.rewardany.com/store/shop-lc?couponId=660821&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SHOPLC20",
+      "tier": 2,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3463,
+      "storeName": "Shop LC",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-lc_logo.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Affiliate Exclusive Holiday Offer! Start your holiday shopping with Shop LC\u0092s Lifestyle collection. Use code STYLE25 for amazing 25% off the selection. Grab Now!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-lc?couponId=660822&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "STYLE25",
+      "tier": 2,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3463,
+      "storeName": "Shop LC",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-lc_logo.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Get 15% Off Best Stocking Stuffer Ever- Best Last Minute Gifts with code: 15OFF",
+      "jumpUrl": "https://www.rewardany.com/store/magickitchencom?couponId=655348&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-18 00:00:00",
+      "endDateGMT": "2023-12-27 00:00:00",
+      "storeId": 3486,
+      "storeName": "MagicKitchen.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magickitchencom_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sportstyle Limited Spring Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mizuno?couponId=107894&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SportStyle30",
+      "tier": 2,
+      "startDateGMT": "2023-04-26 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3512,
+      "storeName": "Mizuno",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mizuno_logo.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Get 30% Off Mizuno's Limited Sportstyle City Wind Sneaker With Code SPORTSTYLE30",
+      "jumpUrl": "https://www.rewardany.com/store/mizuno?couponId=107895&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SportStyle30",
+      "tier": 2,
+      "startDateGMT": "2023-05-03 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3512,
+      "storeName": "Mizuno",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mizuno_logo.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Get an Extra 10% off already discounted Unlikely Hikers Footwear and Merchandise for 40% off total, using code UHEXTRA10 at Merrell.com!",
+      "jumpUrl": "https://www.rewardany.com/store/merrell?couponId=141946&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "UHEXTRA10",
+      "tier": 2,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3513,
+      "storeName": "Merrell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/merrell_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Gifting",
+      "jumpUrl": "https://www.rewardany.com/store/vince-camuto?couponId=655358&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3543,
+      "storeName": "Vince Camuto",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vince-camuto_logo.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Buy 2, Save 40%",
+      "jumpUrl": "https://www.rewardany.com/store/vince-camuto?couponId=655360&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-08 00:00:00",
+      "endDateGMT": "2023-12-12 00:00:00",
+      "storeId": 3543,
+      "storeName": "Vince Camuto",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vince-camuto_logo.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Lenovo Pro Members: Save 50% Off ThinkCentre M60q Chromebox",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-usa?couponId=655393&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CHROMEPRO",
+      "tier": 2,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-18 00:00:00",
+      "storeId": 3591,
+      "storeName": "Lenovo USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-usa.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Hot Deal! 67% Off 23.8\u201d ThinkVision T24i-30 Monitor, Only $99!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-usa?couponId=655397&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "LEAKEDBF",
+      "tier": 2,
+      "startDateGMT": "2023-11-08 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3591,
+      "storeName": "Lenovo USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-usa.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Exclusive Deal: EXTRA 10% Off Custom Built Gaming PCs w/Code GAMINGCTO10",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-usa?couponId=655398&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GAMINGCTO10",
+      "tier": 2,
+      "startDateGMT": "2023-11-29 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3591,
+      "storeName": "Lenovo USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-usa.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 15% on a New Gaming Monitor w/the Purchase of a New Gaming Desktop",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-usa?couponId=655402&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GAMING15OFFER",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3591,
+      "storeName": "Lenovo USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-usa.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "$350 Off IdeaPad Slim 5i Intel i5/16GB RAM/512GB SSD $579.99!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-usa?couponId=655410&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "IDEA5DB2",
+      "tier": 2,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2023-12-05 00:00:00",
+      "storeId": 3591,
+      "storeName": "Lenovo USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-usa.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "$400 Off Yoga 6 2-in-1 Ryzen 7/16GB RAM/1TB SSD $699.99!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-usa?couponId=655411&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "YOGA6DB2",
+      "tier": 2,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2023-12-05 00:00:00",
+      "storeId": 3591,
+      "storeName": "Lenovo USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-usa.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "12PM ET DROP: $700 Off IdeaPad Pro 5i RTX 3050/16GB RAM/1TB SSD $799.99!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-usa?couponId=655413&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "IDEA5DB3",
+      "tier": 2,
+      "startDateGMT": "2023-11-27 00:00:00",
+      "endDateGMT": "2023-12-05 00:00:00",
+      "storeId": 3591,
+      "storeName": "Lenovo USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-usa.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Extra 5% Off Legion Gaming PCs w/Code: EXTRA5",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-usa?couponId=655418&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EXTRA5",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3591,
+      "storeName": "Lenovo USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-usa.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Extra 5% Off IdeaCentre Desktops w/Code: EXTRA5",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-usa?couponId=655419&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EXTRA5",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3591,
+      "storeName": "Lenovo USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-usa.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "$240 Off IdeaPad Slim 3i Intel i3/8GB RAM/512GB SSD $419.99!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-usa?couponId=655421&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "2NDDEAL",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 3591,
+      "storeName": "Lenovo USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-usa.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "60% Off ThinkPad X1 Carbon Gen 11 Intel i7/16GB RAM/1TB SSD $1,326.99!",
+      "jumpUrl": "https://www.rewardany.com/store/lenovo-usa?couponId=655423&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "THINKLASTDEALS",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-11 00:00:00",
+      "storeId": 3591,
+      "storeName": "Lenovo USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lenovo-usa.png",
+      "categories": [
+        "Electronics"
+      ]
+    }
+  ]
+}

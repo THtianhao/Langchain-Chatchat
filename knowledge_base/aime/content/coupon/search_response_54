@@ -1,0 +1,1529 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 54,
+  "pageSize": 100,
+  "totalRecords": 6585,
+  "totalPages": 66,
+  "results": [
+    {
+      "couponTitle": "Save up to $500 on Surface Laptop Studio. Valid 10/6 - 12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=558469&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-19 17:30:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $100 on select Surface Go 3. Valid 10/20 - 12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=558470&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-20 04:00:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save $500 on Surface Laptop 5 i7/16/512. Valid 11/17 - 12/4!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=609001&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-17 05:00:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $200 on Surface Pro 9. Valid 11/17 - 12/4!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=609003&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-17 05:00:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save $500 on Surface Pro 7+ & Type Cover Hard Bundle i5/16/256. Valid 11/7-12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=613536&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-17 17:08:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up To $600 on Surface Pro 9. Valid 11/23 - 12/7!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=628247&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-23 05:00:00",
+      "endDateGMT": "2023-12-08 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $475 on Surface Laptop 5. Valid through 12/20!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=639361&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-27 22:00:00",
+      "endDateGMT": "2023-12-21 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $500 on Surface Laptop 5. Valid 12/1 - 12/14!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=650208&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 05:00:00",
+      "endDateGMT": "2023-12-15 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Refer a Friend - Give 20%, Get $20 (give Friends 20% Off Their First Order, and When They Make a Purchase, You'll Get $20 Off a Purchase of $75 or More.)",
+      "jumpUrl": "https://www.rewardany.com/store/kipling?couponId=367389&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-26 18:14:00",
+      "endDateGMT": "2028-04-26 04:00:00",
+      "storeId": 3279,
+      "storeName": "Kipling",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kipling_logo.PNG",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Save Up to 60% Off Outlet!",
+      "jumpUrl": "https://www.rewardany.com/store/kipling?couponId=617877&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-20 10:00:00",
+      "endDateGMT": "2024-01-01 10:00:00",
+      "storeId": 3279,
+      "storeName": "Kipling",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kipling_logo.PNG",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "National Business Furniture - Save up to 50% off list! Lifetime Guarantee. Fast Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/national-business-furniture,-inc?couponId=224624&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-14 00:00:00",
+      "endDateGMT": "2026-02-13 00:00:00",
+      "storeId": 3321,
+      "storeName": "National Business Furniture, Inc",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/national-business-furniture,-inc_logo.jpg",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Buy More Save More! Enjoy up to 10% Off when you buy these hand-picked favorites in quantities of 2 or more!",
+      "jumpUrl": "https://www.rewardany.com/store/national-business-furniture,-inc?couponId=224625&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-16 16:01:00",
+      "endDateGMT": "2028-06-16 04:00:00",
+      "storeId": 3321,
+      "storeName": "National Business Furniture, Inc",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/national-business-furniture,-inc_logo.jpg",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Save 9% Site Wide when You Sign up For Email Newsletters!",
+      "jumpUrl": "https://www.rewardany.com/store/national-business-furniture,-inc?couponId=224626&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-19 20:54:00",
+      "endDateGMT": "2028-09-19 04:00:00",
+      "storeId": 3321,
+      "storeName": "National Business Furniture, Inc",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/national-business-furniture,-inc_logo.jpg",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Sign up today and get 10% off your entire order!",
+      "jumpUrl": "https://www.rewardany.com/store/the-perfect-rug?couponId=259862&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-10-08 00:00:00",
+      "endDateGMT": "2025-10-08 00:00:00",
+      "storeId": 3325,
+      "storeName": "The Perfect Rug",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-perfect-rug_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get a Layflat Imagewrap Hardcover Photobook Starting At US $8.99 -- Over a 75% Savings! Several Options Available!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385632&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-10-30 00:00:00",
+      "endDateGMT": "2025-10-28 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Luggage Tags from $6.99 -- Shop Photobook America Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385633&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Readybooks -- Photobook templates for every occasion. Shop Photobook America Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385634&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Magnets from $3.99 -- Shop Photobook America Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385635&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Wooden Standing Calendars from $18.99 -- Shop Photobook America Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385636&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Pocket-Sized Photo Cards from $11.28 -- Shop Photobook America Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385637&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Canvas Prints for Every Occasion -- Shop Photobook America Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385638&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Tumbler Mugs from $24.99 -- Shop Photobook America Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385639&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Notebooks from $14.99 -- Shop Photobook America Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385640&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Phone Cases from $34.99 -- Shop Photobook America Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385641&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Luggage Tags from $7.99 -- Shop Photobook Canada Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385642&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Readybooks -- Photobook templates for every occasion. Shop Photobook Canada Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385643&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Magnets from $4.99 -- Shop Photobook Canada Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385644&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Wooden Standing Calendars from $18.99 -- Shop Photobook Canada Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385645&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Pocket-Sized Photo Cards from $11.48 -- Shop Photobook Canada Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385646&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Canvas Prints for Every Occasion -- Shop Photobook Canada Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385647&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Tumbler Mugs from $34.99 -- Shop Photobook Canada Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385648&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Notebooks from $14.99 -- Shop Photobook Canada Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385649&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Personalized Phone Cases from $39.99 -- Shop Photobook Canada Today!",
+      "jumpUrl": "https://www.rewardany.com/store/photobook-worldwide-us-?couponId=385650&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-25 00:00:00",
+      "endDateGMT": "2026-01-22 00:00:00",
+      "storeId": 3330,
+      "storeName": "Photobook Worldwide US & CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/photobook-worldwide-us-.png",
+      "categories": [
+        "Digital Services & Streaming",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Tires for Military Members. Free Same Day Shipping Available!",
+      "jumpUrl": "https://www.rewardany.com/store/tirebuyercom?couponId=169809&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-05-06 01:36:00",
+      "endDateGMT": "2027-05-06 00:00:00",
+      "storeId": 3347,
+      "storeName": "TireBuyer.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tirebuyercom_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Tires for Teachers. Free Same Day Shipping Available!",
+      "jumpUrl": "https://www.rewardany.com/store/tirebuyercom?couponId=169810&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-05-06 01:36:00",
+      "endDateGMT": "2027-05-06 00:00:00",
+      "storeId": 3347,
+      "storeName": "TireBuyer.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tirebuyercom_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Tires for First Responders. Free Same Day Shipping Available!",
+      "jumpUrl": "https://www.rewardany.com/store/tirebuyercom?couponId=169811&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-05-06 01:36:00",
+      "endDateGMT": "2027-05-06 00:00:00",
+      "storeId": 3347,
+      "storeName": "TireBuyer.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tirebuyercom_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Get your first Kobo Audiobook for free!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328890&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-28 17:47:00",
+      "endDateGMT": "2028-01-07 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Thrill yourself: Access all the mystery eBooks you want. Subscribe to Kobo Plus Read for only $9.99/month. Start free trial!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328894&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-10-22 16:15:00",
+      "endDateGMT": "2027-10-22 04:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Love's in The Air: Access All the Romance E Books You Want. Subscribe to Kobo Plus Read for Only $9.99/month!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328900&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-03 02:20:00",
+      "endDateGMT": "2028-02-02 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Get 12% OFF your first order!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=216568&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-12 17:03:00",
+      "endDateGMT": "2029-05-12 04:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "FREE shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=216569&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-12 17:04:00",
+      "endDateGMT": "2029-05-12 04:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop our Best Sellers!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=216570&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-12 17:05:00",
+      "endDateGMT": "2029-05-12 04:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "$15 Off Everything for Newsletter Signup!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330691&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2016-11-17 00:00:00",
+      "endDateGMT": "2028-11-17 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "New! Sound Forge Pro 365. 12 or 3 month plan for The complete audio editing package from only $14.99/month!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330692&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2018-04-05 00:00:00",
+      "endDateGMT": "2024-04-04 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "New! ACID Pro 8. The Creative Digital Audio Workstation for Only $149!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330693&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2018-04-30 00:00:00",
+      "endDateGMT": "2024-04-23 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "New! ACID Pro 365. 12 or 3 Month Plan for a Creative Digital Audio Workstation from Only $7.99/Month!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330694&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2018-04-30 00:00:00",
+      "endDateGMT": "2024-04-23 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "ACID Music Studio 11: Make music in your own recording studio - only $59.99!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330695&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-02-06 00:00:00",
+      "endDateGMT": "2025-02-06 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "New VEGAS Post 365 - The smart alternative for video editing & postproduction. Get started for just $21.00/month",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330696&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-08-13 00:00:00",
+      "endDateGMT": "2025-08-12 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Vegas Pro Creator Bundle for Only $499 Instead of $2196!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330697&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-31 01:00:00",
+      "endDateGMT": "2024-06-27 23:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Vegas Collector's Edition for Only $799 Instead of $3551.9!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330698&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-31 01:00:00",
+      "endDateGMT": "2025-06-27 23:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "MAGIX SALE. Discover the best deals MAGIX has to offer. Save up to 86%!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=354949&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-28 04:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Bake Me A Wish | Subscribe and Enjoy 15% Off Your Next Order | Shop Now!",
+      "jumpUrl": "https://www.rewardany.com/store/bake-me-a-wish?couponId=207470&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-10 19:26:00",
+      "endDateGMT": "2029-03-10 05:00:00",
+      "storeId": 3407,
+      "storeName": "Bake Me A Wish",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bake-me-a-wish_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bake Me A Wish | BMAW Gifting Rewards Program, $1=1 Point | Shop Now",
+      "jumpUrl": "https://www.rewardany.com/store/bake-me-a-wish?couponId=207471&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-06 16:29:00",
+      "endDateGMT": "2025-04-07 04:00:00",
+      "storeId": 3407,
+      "storeName": "Bake Me A Wish",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bake-me-a-wish_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up To 60% on Ink and Toners!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439923&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Canon Ink as Low as $10.87 Each!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439924&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Save Over 80% on Bulk Items!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439925&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Binders up To 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439926&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Air Can Dusters as Low as $2.86/each!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439927&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Save 80% on Paper!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439928&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Save 65% on Binders!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439929&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Save Over 50% on Select Home & Office Furniture!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439930&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Get Face Masks up To 30% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439931&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Boot Sale - Select Styles at $119.99 (prices as Marked)!",
+      "jumpUrl": "https://www.rewardany.com/store/naturalizerca?couponId=646809&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 05:00:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3415,
+      "storeName": "Naturalizer CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/naturalizerca.jpg",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Become a Collector and Save 10%. Exclusions Apply!",
+      "jumpUrl": "https://www.rewardany.com/store/allen-edmonds?couponId=169950&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-03-31 15:46:00",
+      "endDateGMT": "2028-03-31 04:00:00",
+      "storeId": 3424,
+      "storeName": "Allen Edmonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/allen-edmonds_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Military Discount! Save 15% Off Full Price Styles!",
+      "jumpUrl": "https://www.rewardany.com/store/allen-edmonds?couponId=169954&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-09 16:36:00",
+      "endDateGMT": "2028-05-09 00:00:00",
+      "storeId": 3424,
+      "storeName": "Allen Edmonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/allen-edmonds_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 60% Off on Men's Shoes and Boots!",
+      "jumpUrl": "https://www.rewardany.com/store/allen-edmonds?couponId=365281&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-31 13:53:00",
+      "endDateGMT": "2029-07-31 00:00:00",
+      "storeId": 3424,
+      "storeName": "Allen Edmonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/allen-edmonds_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Get up To 75% Off on Clearance Items at Eastern Mountain Sports! Shop Today for Great Deals!",
+      "jumpUrl": "https://www.rewardany.com/store/eastern-mountain-sports?couponId=625534&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-07-16 20:16:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3427,
+      "storeName": "Eastern Mountain Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eastern-mountain-sports-1700820094.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Shop the Outlet at Eastern Mountain Sports and Save up To 70 - 80% on Gear and Apparel!",
+      "jumpUrl": "https://www.rewardany.com/store/eastern-mountain-sports?couponId=625535&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-08 19:00:00",
+      "endDateGMT": "2025-01-01 05:00:00",
+      "storeId": 3427,
+      "storeName": "Eastern Mountain Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eastern-mountain-sports-1700820094.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save 10% in Rewards if You are an EMS Rewards Member!",
+      "jumpUrl": "https://www.rewardany.com/store/eastern-mountain-sports?couponId=625536&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-20 00:20:00",
+      "endDateGMT": "2027-01-28 05:00:00",
+      "storeId": 3427,
+      "storeName": "Eastern Mountain Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eastern-mountain-sports-1700820094.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save 25-70% Off All EMS Clothing!",
+      "jumpUrl": "https://www.rewardany.com/store/eastern-mountain-sports?couponId=625539&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-14 22:31:00",
+      "endDateGMT": "2029-11-14 05:00:00",
+      "storeId": 3427,
+      "storeName": "Eastern Mountain Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eastern-mountain-sports-1700820094.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save 25-70% Off All EMS Clothing!",
+      "jumpUrl": "https://www.rewardany.com/store/eastern-mountain-sports?couponId=625540&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-14 22:35:00",
+      "endDateGMT": "2029-11-14 05:00:00",
+      "storeId": 3427,
+      "storeName": "Eastern Mountain Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eastern-mountain-sports-1700820094.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Order Today! Save 10% Plus No Sales Tax!",
+      "jumpUrl": "https://www.rewardany.com/store/flowershoppingcom?couponId=207483&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-10-30 00:00:00",
+      "endDateGMT": "2025-10-29 00:00:00",
+      "storeId": 3431,
+      "storeName": "FlowerShopping.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flowershoppingcom.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Best Sellers!",
+      "jumpUrl": "https://www.rewardany.com/store/flowershoppingcom?couponId=207484&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-21 00:00:00",
+      "endDateGMT": "2026-01-20 00:00:00",
+      "storeId": 3431,
+      "storeName": "FlowerShopping.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flowershoppingcom.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Cheap Flowers Under $40!",
+      "jumpUrl": "https://www.rewardany.com/store/flowershoppingcom?couponId=207485&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-21 00:00:00",
+      "endDateGMT": "2026-01-20 00:00:00",
+      "storeId": 3431,
+      "storeName": "FlowerShopping.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flowershoppingcom.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Affiliate Exclusive! Save 10% Off Sitewide at DavidsCookies.com. Use Code: AFF10 (Valid: 10/27- 12/31)",
+      "jumpUrl": "https://www.rewardany.com/store/davids-cookies?couponId=573098&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-27 19:59:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3453,
+      "storeName": "David's Cookies",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/davids-cookies.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sign Up For Our Newsletter And Get 10% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/naturepedic?couponId=216667&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-09 18:25:00",
+      "endDateGMT": "2027-03-09 00:00:00",
+      "storeId": 3467,
+      "storeName": "Naturepedic",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/naturepedic.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 15% When You Purchase 3 or More 26oz Village Candle Large Apothecary Candles!",
+      "jumpUrl": "https://www.rewardany.com/store/stonewall-kitchen?couponId=312736&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-31 13:20:00",
+      "endDateGMT": "2027-08-31 04:00:00",
+      "storeId": 3470,
+      "storeName": "Stonewall Kitchen",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/stonewall-kitchen_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 60% off items in our Barn Sale",
+      "jumpUrl": "https://www.rewardany.com/store/stonewall-kitchen?couponId=312737&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-16 19:55:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3470,
+      "storeName": "Stonewall Kitchen",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/stonewall-kitchen_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy 15% Off Your First Order",
+      "jumpUrl": "https://www.rewardany.com/store/stonewall-kitchen?couponId=312738&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-16 20:03:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3470,
+      "storeName": "Stonewall Kitchen",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/stonewall-kitchen_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "View Shower Head Filters at Aquasana.com!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=170063&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-02 16:42:00",
+      "endDateGMT": "2027-06-02 04:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Drink with confidence. Our under-sink water filters remove up to 99% of 88 contaminants to instantly transform ordinary tap water into clean, healthy water!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=170064&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-02 16:42:00",
+      "endDateGMT": "2027-06-02 04:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "60% Off Whole House Systems and Tanks. No Code Needed!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=622780&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-21 18:24:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Claryum Direct Connect only $114.99 (reg. $249.99). No Code Needed!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=622781&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-21 18:25:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Claryum 3-Stage Max Flow Under-Sink Filter only $179.99. No Code Needed!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=622782&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-21 18:26:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Claryum 3-Stage Under-Sink Filter only $147.99. No Code Needed!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=622783&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-21 18:27:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Reverse Osmosis System only $199.99 ($189.99 for No Faucet Version). No Code Needed!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=622784&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-21 18:28:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Clean Water Machine only $169.99 Plus Free Additional Replacement Filter. No Code Needed!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=622785&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-21 19:36:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shower Head Filters as Low as $58.99. No Code Needed!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=622786&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-21 19:36:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Stainless Steel Clean Water Bottle. No Code Needed!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=622787&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-21 19:38:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop with PetPlus! Get up to 40% off sitewide, unlimited free shipping and more with the annual savings program only at PetCareRx.com!",
+      "jumpUrl": "https://www.rewardany.com/store/petcarerx?couponId=639535&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-18 19:22:00",
+      "endDateGMT": "2029-01-18 00:00:00",
+      "storeId": 3475,
+      "storeName": "PetCareRx",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petcarerx-1701139684.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "AAA Car Rental Savings. Up to 8% Off* the Base Rate with Your AAA Club Discount Code!",
+      "jumpUrl": "https://www.rewardany.com/store/thrifty-rent-a-car-system?couponId=260021&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-20 17:55:00",
+      "endDateGMT": "2029-03-20 04:00:00",
+      "storeId": 3536,
+      "storeName": "Thrifty Rent-A-Car System, Inc.",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/thrifty-rent-a-car-system.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Shop our Special Offers!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636811&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-17 00:00:00",
+      "endDateGMT": "2026-01-01 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Share the love! Refer a friend and you can both enjoy $10 off when you shop online!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636812&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-23 00:00:00",
+      "endDateGMT": "2026-01-01 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Bath and Body Products!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636813&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop all Makeup!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636814&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop all Gifts!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636815&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop New Products!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636816&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Body Butters!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636817&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Haircare!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636818&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Choose any 2 samples on orders over $50",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636820&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-10 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    }
+  ]
+}

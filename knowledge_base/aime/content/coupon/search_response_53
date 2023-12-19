@@ -1,0 +1,1527 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 53,
+  "pageSize": 100,
+  "totalRecords": 6585,
+  "totalPages": 66,
+  "results": [
+    {
+      "couponTitle": "Save up To $175 per Person on Vacations with Car, Air, Hotel and More Included!",
+      "jumpUrl": "https://www.rewardany.com/store/great-value-vacations?couponId=650068&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 05:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3111,
+      "storeName": "Great Value Vacations",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/great-value-vacations_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "New Nutrisystem Offer! $30 Off Your First Month!",
+      "jumpUrl": "https://www.rewardany.com/store/nutrisystem?couponId=604420&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-15 10:00:00",
+      "endDateGMT": "2023-12-15 05:00:00",
+      "storeId": 3115,
+      "storeName": "NutriSystem",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/nutrisystem_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "$30 Off 28-Day Plans with Meals Made in Minutes and Portioned for Healthy Weight Loss!",
+      "jumpUrl": "https://www.rewardany.com/store/nutrisystem?couponId=604421&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-15 05:00:00",
+      "endDateGMT": "2029-11-15 05:00:00",
+      "storeId": 3115,
+      "storeName": "NutriSystem",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/nutrisystem_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save $30 on High-Protein Nutrition for Proven Weight Loss. Meals Delivered Free to You.!",
+      "jumpUrl": "https://www.rewardany.com/store/nutrisystem?couponId=604422&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-15 05:00:00",
+      "endDateGMT": "2029-11-15 05:00:00",
+      "storeId": 3115,
+      "storeName": "NutriSystem",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/nutrisystem_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "$30 Off Plans W/ Meals and More!",
+      "jumpUrl": "https://www.rewardany.com/store/nutrisystem?couponId=604423&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-15 05:00:00",
+      "endDateGMT": "2029-11-15 05:00:00",
+      "storeId": 3115,
+      "storeName": "NutriSystem",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/nutrisystem_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sign up for the SNIPES Newsletter and Receive $5.00 Off Your Next Order!",
+      "jumpUrl": "https://www.rewardany.com/store/kicksusa?couponId=593513&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2015-08-27 00:00:00",
+      "endDateGMT": "2026-11-13 00:00:00",
+      "storeId": 3121,
+      "storeName": "Snipes US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kicksusa-1700119734.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "21% Off For New Customers",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-uk?couponId=131992&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3155,
+      "storeName": "LOOKFANTASTIC UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-uk_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Introducing the LOOKFANTASTIC Foundation Finder!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-uk?couponId=421423&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-23 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3155,
+      "storeName": "LOOKFANTASTIC UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-uk_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "LOOKFANTASTIC Science Meets Skincare Edit (Worth over \u00a3144)!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-uk?couponId=439699&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-29 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3155,
+      "storeName": "LOOKFANTASTIC UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-uk_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "LOOKFANTASTIC Science Meets Skincare Edit!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-uk?couponId=439700&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-29 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3155,
+      "storeName": "LOOKFANTASTIC UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-uk_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "LOOKFANTASTIC Christmas Cracker 2023 (worth over \u00a3123, yours for \u00a340)",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-uk?couponId=636785&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-13 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3155,
+      "storeName": "LOOKFANTASTIC UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-uk_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "The LOOKFANTASTIC Christmas Present 2023 (worth over \u00a3150, yours for \u00a350)",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-uk?couponId=636786&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-13 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3155,
+      "storeName": "LOOKFANTASTIC UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-uk_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "LOOKFANTASTIC Christmas Eve Edit 2023 (worth over \u00a3190, yours for \u00a350)",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-uk?couponId=650088&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3155,
+      "storeName": "LOOKFANTASTIC UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-uk_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "LOOKFANTASTIC THE BOX: December Edit (worth over \u00a350)",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-uk?couponId=650089&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3155,
+      "storeName": "LOOKFANTASTIC UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-uk_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 30% Off Selected",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-uk?couponId=660329&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-06 00:00:00",
+      "storeId": 3155,
+      "storeName": "LOOKFANTASTIC UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-uk_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Student Appreciation Discount - 25% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/steve-madden?couponId=625245&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-28 18:24:00",
+      "endDateGMT": "2028-07-28 04:00:00",
+      "storeId": 3214,
+      "storeName": "Steve Madden",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/steve-madden_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Teacher Appreciation Discount - 25% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/steve-madden?couponId=625246&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-28 18:24:00",
+      "endDateGMT": "2028-07-28 04:00:00",
+      "storeId": 3214,
+      "storeName": "Steve Madden",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/steve-madden_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Military Appreciation Discount - 25% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/steve-madden?couponId=625247&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-28 18:24:00",
+      "endDateGMT": "2028-07-28 04:00:00",
+      "storeId": 3214,
+      "storeName": "Steve Madden",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/steve-madden_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Flat 24% OFF On Combo Packs/ Site Wide Plus Add-on Cashback & FREE Delivery! Order Now!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224221&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-12-12 04:27:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Want to save BIG? Shop on 12.12 *Single Day Sale, Up To 60% OFF Plus Flat 24% OFF Plus FREE Shipping and Cashbacks!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224222&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-12-12 04:34:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Brushing Up on Pet Dental Health Month! 20% OFF + Free Finger Brush Today",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224223&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-31 06:46:00",
+      "endDateGMT": "2024-02-28 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "100% Effectiveness Against Fleas for 30 Days. Starting at Just $17.09 Plus Extra 10% Site Discount. Hurry!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224224&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-28 06:57:00",
+      "endDateGMT": "2025-03-29 04:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Shop at BudgetPetCare.com for affordable flea and tick treatments, heartworm preventives, and more. Plus, enjoy huge discounts, free shipping, 10% cashback, and auto-order discounts.",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224225&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-09 06:36:00",
+      "endDateGMT": "2025-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Happy Mother's Day To All Wonderful Pet Moms! 20% Off Your Order + Free Shipping. Use Coupon: MOTHER",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224226&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-12 09:35:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Spoil Pet Mum with 22% Extra Off All Flea & Tick + Free Shipping! Use Coupon: MOTHER",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224227&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-12 12:30:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Mom Knows the Best! 22% Off Bravecto, Nexgard, Frontline Plus, Seresto & More. Use Coupon: MOTHER",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224228&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-12 12:35:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Celebrating and Honoring Juneteenth with 20% Off Your Order & Free Shipping! Use Coupon: FREEJUNE",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224229&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-14 06:58:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Celebrate Juneteenth With Us! Get 20% Extra Discount & Free Shipping on All Orders. Use Coupon: FREEJUNE",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224230&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-14 07:05:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Happy Juneteenth Day! Get 20% Extra Off & Free Shipping on Everything. Use Coupon: FREEJUNE",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224231&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-14 07:05:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Celebrating Freedom with 20% Extra Discount & Free Shipping on All Orders. Use Coupon: FREEJUNE",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224232&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-14 07:05:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Sneak a Peek at Our Black Friday Deals! up To 22% Discount, Free Doses, Combo Offers and Free Shipping Sitewide!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=625284&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-23 05:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Next Black Friday's a Year Away! Get up To 22% Extra Discount, Free Doses, Bogo Deals and Free Shipping on Everything!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=625287&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-23 05:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday's Coming to a Close! Up To 25% Off plus Free Doses, Combo Deals & Free Shipping on Everything!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=631032&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-26 05:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "It's ON. Cyber Monday SALE. Shop Today for 25% Extra Off, Free Doses, Combo Offers & Free Shipping Sitewide!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=631033&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-26 05:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week is Better Than a Monday! Up To 25% Off plus Free Doses, Combo Deals & Free Shipping on All Orders!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=631034&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-26 05:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Up to 60% OFF on Quality Jewelry!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360673&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2016-03-29 00:00:00",
+      "endDateGMT": "2028-03-29 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 30% Off on Printing Design Service!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360674&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2018-07-20 00:00:00",
+      "endDateGMT": "2024-07-31 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 86% Off on Big Sale on Pendants and Charms!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360676&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-03-07 00:00:00",
+      "endDateGMT": "2025-03-06 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "61% Off Sandy Brown Elastic Fibre Wire for $0.56!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360678&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-10-14 00:00:00",
+      "endDateGMT": "2025-10-13 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 80% OFF on Beads Spacers",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360679&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-10 00:00:00",
+      "endDateGMT": "2026-01-08 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 60% OFF on Stud Earring Findings",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360680&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-10 00:00:00",
+      "endDateGMT": "2026-01-08 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 80% Off on Tibetan Style Alloy Beads!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360681&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-03-08 00:00:00",
+      "endDateGMT": "2026-03-06 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 86% Off on Metal European Beads!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360682&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-03-08 00:00:00",
+      "endDateGMT": "2026-03-06 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 54% OFF on Chandelier Component Links!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360683&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-03-28 00:00:00",
+      "endDateGMT": "2026-03-26 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 54% OFF on Cubic Zirconia Pendants!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360684&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-03-28 00:00:00",
+      "endDateGMT": "2026-03-26 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 55% OFF on Elastic Cords!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360685&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-17 00:00:00",
+      "endDateGMT": "2026-04-15 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 82% OFF on Wooden Buttons!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360686&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-17 00:00:00",
+      "endDateGMT": "2026-04-15 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Stay Safe-Personal protection!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360687&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-17 00:00:00",
+      "endDateGMT": "2026-04-15 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Stay Safe-Personal protection!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360688&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-17 00:00:00",
+      "endDateGMT": "2026-04-15 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Stay Safe-Personal protection!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360689&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-17 00:00:00",
+      "endDateGMT": "2026-04-15 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Stay Safe-Personal protection!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360690&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-17 00:00:00",
+      "endDateGMT": "2026-04-15 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Stay Safe-Personal protection!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360691&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-17 00:00:00",
+      "endDateGMT": "2026-04-15 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Free Gift, US $0 Buy a Freebie!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360692&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-07-01 00:00:00",
+      "endDateGMT": "2026-06-29 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 91% OFF on Jewelry Beads & Findings Online!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360693&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-06-19 00:00:00",
+      "endDateGMT": "2026-06-17 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 90% OFF on Diy Jewelry Kits!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360694&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-06-22 00:00:00",
+      "endDateGMT": "2026-06-21 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Halloween Special Topic for Jewelry Beads!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360695&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-10-23 07:36:00",
+      "endDateGMT": "2026-10-23 04:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Halloween Special Topic for Jewelry Beads!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360696&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-10-23 07:36:00",
+      "endDateGMT": "2026-10-23 04:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Halloween Special Topic for Jewelry Beads!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360697&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-10-23 07:46:00",
+      "endDateGMT": "2026-10-23 04:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Hot, 304 Stainless Steel Hoop Earrings with Natural Pearls $3.87!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360698&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-04 02:00:00",
+      "endDateGMT": "2026-11-03 05:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 66% OFF on Tibetan Style Pendants!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360699&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-15 08:33:00",
+      "endDateGMT": "2027-01-15 05:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 73% OFF on Hot Pendant Cabochon Settings!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360700&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-15 08:36:00",
+      "endDateGMT": "2027-01-15 05:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Get $5 Coupon for Order Over $20 for New Members Only",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360701&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-11-24 08:56:00",
+      "endDateGMT": "2027-11-24 05:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Get Rewarded for First Login! $40 Coupons Await in APP!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360703&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-08 10:48:00",
+      "endDateGMT": "2024-06-09 04:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "$5 Sales Beads!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360704&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2014-07-04 00:00:00",
+      "endDateGMT": "2026-07-04 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Get $5 Coupon for New Register!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360705&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2014-07-16 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Products with Very Limited Stock Are on Clearance. up To 90% Off.!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=426316&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-24 09:53:00",
+      "endDateGMT": "2029-08-24 04:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "All Product Is Under Five Dollars.!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=426317&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-24 09:56:00",
+      "endDateGMT": "2029-08-24 04:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Save $15 on order over $139! Only for PandaHall New Users.!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=545092&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-13 06:12:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop Best-Selling Favorites Under $50 at Viva Terra!",
+      "jumpUrl": "https://www.rewardany.com/store/vivaterra?couponId=216165&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-07-31 00:00:00",
+      "endDateGMT": "2025-07-31 00:00:00",
+      "storeId": 3255,
+      "storeName": "Vivaterra",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaterra_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Discover New Deals and Savings on Decor, Gifts and More- All Made in The Usa!",
+      "jumpUrl": "https://www.rewardany.com/store/vivaterra?couponId=216166&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-07-02 20:16:00",
+      "endDateGMT": "2027-07-02 04:00:00",
+      "storeId": 3255,
+      "storeName": "Vivaterra",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaterra_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop new outdoor furniture at VivaTerra and elevate your outdoor living space!",
+      "jumpUrl": "https://www.rewardany.com/store/vivaterra?couponId=216168&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-14 15:46:00",
+      "endDateGMT": "2029-03-14 04:00:00",
+      "storeId": 3255,
+      "storeName": "Vivaterra",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaterra_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Let your garden take flight with VivaTerra's new collection of garden accents!",
+      "jumpUrl": "https://www.rewardany.com/store/vivaterra?couponId=216170&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-14 15:46:00",
+      "endDateGMT": "2029-03-14 04:00:00",
+      "storeId": 3255,
+      "storeName": "Vivaterra",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaterra_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop VivaTerra for sustainable wood decor that will create an eco-zen environment indoors and out!",
+      "jumpUrl": "https://www.rewardany.com/store/vivaterra?couponId=216172&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-14 15:46:00",
+      "endDateGMT": "2029-03-14 04:00:00",
+      "storeId": 3255,
+      "storeName": "Vivaterra",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaterra_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Hundreds of Items Now on Sale- up to 70% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/vivaterra?couponId=216174&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-14 15:47:00",
+      "endDateGMT": "2029-03-14 04:00:00",
+      "storeId": 3255,
+      "storeName": "Vivaterra",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaterra_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Join VivaTerra's Email Newsletter & Save 10% Off Your First Purchase!",
+      "jumpUrl": "https://www.rewardany.com/store/vivaterra?couponId=216175&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-24 17:08:00",
+      "endDateGMT": "2029-03-24 04:00:00",
+      "storeId": 3255,
+      "storeName": "Vivaterra",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaterra_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sign Up to Receive Deals via Text and Get 20% off Your First Order!",
+      "jumpUrl": "https://www.rewardany.com/store/vivaterra?couponId=485712&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-15 16:40:00",
+      "endDateGMT": "2029-09-15 04:00:00",
+      "storeId": 3255,
+      "storeName": "Vivaterra",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaterra_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Limited Stock Specials on Sale at Wind and Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=216200&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-08-08 00:00:00",
+      "endDateGMT": "2025-08-07 00:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Discover Great Gifts $25-$50 at Wind and Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=216202&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-03-12 00:00:00",
+      "endDateGMT": "2025-02-08 00:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Discover Great Gifts $50-$75 at Wind and Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=216203&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-03-12 00:00:00",
+      "endDateGMT": "2025-02-08 00:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Discover Great Gifts over $100 at Wind and Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=216204&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-03-12 00:00:00",
+      "endDateGMT": "2025-02-08 00:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Find Great Bargains on Home and Garden Decor Under $20 at Wind and Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=216205&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-03-12 00:00:00",
+      "endDateGMT": "2025-02-04 00:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Whimsical and Unique Garden Accent Statues at Wind & Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=216206&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-02-11 20:51:00",
+      "endDateGMT": "2027-02-11 05:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up To 70% Off Yard & Garden Accents on Sale at Wind & Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=216208&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-06-13 00:00:00",
+      "endDateGMT": "2025-06-12 00:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up To 70% Off Home Decor & Accents on Sale at Wind & Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=216209&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-06-13 00:00:00",
+      "endDateGMT": "2025-06-12 00:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up To 70% Off Weather Instruments on Sale at Wind & Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=216210&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-06-13 00:00:00",
+      "endDateGMT": "2025-06-12 00:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Discover New Best Sellers Now on Sale at Wind & Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=216211&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-06-13 00:00:00",
+      "endDateGMT": "2025-06-12 00:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Browse Amazing Metal Yard Art & Sculptures at Wind & Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=216212&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-06-13 00:00:00",
+      "endDateGMT": "2025-06-12 00:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up To 60% Off Fall Clearance Sale Specials at Wind and Weather!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=464527&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-08-01 04:00:00",
+      "endDateGMT": "2029-09-07 04:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sign Up To Receive Wind & Weather Deals via Text and Receive 20% Off Your First Order!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=476645&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-12 19:47:00",
+      "endDateGMT": "2029-09-12 04:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "College and University Students get Microsoft 365 Personal for $2.99 per month!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=369565&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-08-24 16:12:00",
+      "endDateGMT": "2028-08-24 04:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $180.00 on the Surface Duo 2 through the Microsoft Workplace Discount Program. Open two screens and discover limitless possibilities for apps, email, meetings, and calls that never leaves your side with the Surface Duo 2!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=369566&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 04:00:00",
+      "endDateGMT": "2029-06-09 00:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 10% on select Surface devices and accessories every day through the Microsoft Workplace Discount Program!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=369567&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 04:00:00",
+      "endDateGMT": "2029-06-09 00:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 10% on new Surface Pro 8 through the Microsoft Workplace Discount Program. Surface Pro 8 combines the power of a laptop with the flexibility of a tablet, and every angle in between!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=369568&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 04:00:00",
+      "endDateGMT": "2029-06-09 00:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 10% off select Surface devices and 30% off Microsoft 365 subscriptions through the Microsoft Workplace Discount Program!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=369569&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 04:00:00",
+      "endDateGMT": "2029-06-09 00:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Get premium Microsoft apps, 1 TB of cloud storage, advanced security, and more, with Microsoft 365. Save 30% on select subscriptions through the Microsoft Workplace Discount Program!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=369570&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 04:00:00",
+      "endDateGMT": "2029-06-09 00:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "The Microsoft Workplace Discount Program provides the opportunity to save 30% on select Microsoft 365 subscriptions!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=369571&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-09 04:00:00",
+      "endDateGMT": "2029-06-09 00:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $560 on select Surface Laptop 4. Valid 8/26 - 12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=558465&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-19 17:27:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $1000/$1325 Off Surface Laptop 4 13\" i5/16/512 and i7/32/1TB. Valid 5/10 - 12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=558466&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-19 17:28:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save $75 on Surface Go 3 4/64. Valid 10/1 - 12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=558467&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-19 17:29:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $200 on Surface Laptop Go 2. Valid 10/6 - 12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft-canada?couponId=558468&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-19 17:29:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3276,
+      "storeName": "Microsoft CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft-canada_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    }
+  ]
+}

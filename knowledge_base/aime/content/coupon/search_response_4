@@ -1,0 +1,1535 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 4,
+  "pageSize": 100,
+  "totalRecords": 6585,
+  "totalPages": 66,
+  "results": [
+    {
+      "couponTitle": "Kobo Sage is the immersive eReader: read, write, and listen!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-australia?couponId=341686&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-04-14 14:28:00",
+      "endDateGMT": "2028-04-14 14:00:00",
+      "storeId": 3004,
+      "storeName": "Kobo AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-australia.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Read, write, and listen on our most immersive eReader yet. Kobo Sage lets you listen to Kobo Audiobooks and is compatible with the Kobo Stylus!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-australia?couponId=341687&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-04-14 14:28:00",
+      "endDateGMT": "2028-04-14 14:00:00",
+      "storeId": 3004,
+      "storeName": "Kobo AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-australia.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Mark up your eBooks and documents with the Kobo Elipsa Pack!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-australia?couponId=341688&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-04-14 14:28:00",
+      "endDateGMT": "2028-04-14 14:00:00",
+      "storeId": 3004,
+      "storeName": "Kobo AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-australia.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "The Kobo Elipsa Pack has all you need to mark up your eBooks and documents, and create your own notebooks. Includes a Kobo Stylus and SleepCover!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-australia?couponId=341689&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-04-14 14:28:00",
+      "endDateGMT": "2028-04-14 14:00:00",
+      "storeId": 3004,
+      "storeName": "Kobo AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-australia.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Read day or night with Kobo Clara HD\u2019s ComfortLight PRO!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-australia?couponId=341690&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-04-14 14:28:00",
+      "endDateGMT": "2028-04-14 14:00:00",
+      "storeId": 3004,
+      "storeName": "Kobo AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-australia.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Read day or night on Kobo Clara HD\u2019s 6\" E ink touchscreen with ComfortLight PRO and blue light reduction. With 8GB of storage for up to 6,000 eBooks!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-australia?couponId=341691&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-04-14 14:28:00",
+      "endDateGMT": "2028-04-14 14:00:00",
+      "storeId": 3004,
+      "storeName": "Kobo AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-australia.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Big deal. Small package. Kobo Nia carries up to 6,000 eBooks!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-australia?couponId=341692&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-04-14 14:28:00",
+      "endDateGMT": "2028-04-14 14:00:00",
+      "storeId": 3004,
+      "storeName": "Kobo AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-australia.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Kobo Nia is a big deal in a small package. Carry up to 6,000 eBooks with 8GB of storage, and read any time of day thanks to adjustable ComfortLight!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-australia?couponId=341693&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-04-14 14:28:00",
+      "endDateGMT": "2028-04-14 14:00:00",
+      "storeId": 3004,
+      "storeName": "Kobo AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-australia.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Kobo Nia is a big deal in a small package. Carry up to 6,000 eBooks at once!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-uk?couponId=403430&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-04-08 16:07:00",
+      "endDateGMT": "2028-04-07 23:00:00",
+      "storeId": 3025,
+      "storeName": "Kobo UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-uk.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "With a Kobo Plus subscription, enjoy unlimited access to eBooks, audiobooks, or even both! Try it for FREE for 30 days.",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-uk?couponId=403431&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-04-04 23:00:00",
+      "endDateGMT": "2029-04-04 23:00:00",
+      "storeId": 3025,
+      "storeName": "Kobo UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-uk.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Big reader on a budget? Subscribe to Kobo Plus for endless eBooks and audiobooks. Start your FREE 30-day trial.",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-uk?couponId=403432&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-04-04 23:00:00",
+      "endDateGMT": "2029-04-04 23:00:00",
+      "storeId": 3025,
+      "storeName": "Kobo UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-uk.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Discover the new LEGO\u00ae Orient Express. Shop now!",
+      "jumpUrl": "https://www.rewardany.com/store/lego-canada?couponId=660202&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-12-01 05:00:00",
+      "endDateGMT": "2024-03-01 05:00:00",
+      "storeId": 3040,
+      "storeName": "LEGO CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lego-canada.png",
+      "categories": [
+        "Toys & Games"
+      ]
+    },
+    {
+      "couponTitle": "HorseLoverZ Daily Deals & Sales",
+      "jumpUrl": "https://www.rewardany.com/store/horseloverzcom?couponId=654741&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-11-22 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3081,
+      "storeName": "HorseLoverZ.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/horseloverzcom_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "HorseLoverZ Flash Sale - New Deals Everyday",
+      "jumpUrl": "https://www.rewardany.com/store/horseloverzcom?couponId=654742&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-11-22 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3081,
+      "storeName": "HorseLoverZ.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/horseloverzcom_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "30% Off All Mens Underwear. from 4 December \u2013 10 December!",
+      "jumpUrl": "https://www.rewardany.com/store/bonds?couponId=660261&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-12-03 13:00:00",
+      "endDateGMT": "2023-12-10 13:00:00",
+      "storeId": 3093,
+      "storeName": "Bonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bonds.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "40% Off All Socks. from 4 December \u2013 10 December!",
+      "jumpUrl": "https://www.rewardany.com/store/bonds?couponId=660262&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-12-03 13:00:00",
+      "endDateGMT": "2023-12-10 13:00:00",
+      "storeId": 3093,
+      "storeName": "Bonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bonds.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Get 50% Off the K-Supreme Plus Smart, Plus 25% Off Beverages with Enrollment in Smart Auto-Delivery, and Up to 4 Free Boxes in Your First Order. Cancellation Fees and Restrictions Apply!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=533848&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-09-08 14:00:00",
+      "endDateGMT": "2028-09-08 04:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 50% Off Our New K-Caf\u00e9 Smart Brewer, Plus 25% Off Beverages with Enrollment in Smart Delivery, and Up to 4 Free Boxes in Your First Order on Keurig.Com! Cancellation Fees and Restrictions Apply!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=533849&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-09-08 14:00:00",
+      "endDateGMT": "2028-09-08 04:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 50% Off Our New K-Supreme Smart Brewer, Plus 25% Off Beverages with Enrollment in Smart Delivery, and Up to 4 Free Boxes in Your First Order on Keurig.Com! Cancellation Fees and Restrictions Apply!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=533850&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-09-08 14:00:00",
+      "endDateGMT": "2028-09-08 04:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Explore the Keurig Outlet and Save! Use Code OUTLET40 for 40% off Select Coffee on Keurig.com!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=533855&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "OUTLET40",
+      "tier": 1,
+      "startDateGMT": "2023-07-11 15:27:00",
+      "endDateGMT": "2029-07-11 04:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Outlet Savings on Keurig.com! Get 40% off Barista Prima Coffeehouse\u00ae Italian Roast Coffee With Code OUTLET40!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=533864&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "OUTLET40",
+      "tier": 1,
+      "startDateGMT": "2023-08-22 15:43:00",
+      "endDateGMT": "2029-08-22 04:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get a FREE Box of Pods with the Purchase of Select Brewers! Use Code FREEBOX4ME on Keurig.com!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=541287&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "FREEBOX4ME",
+      "tier": 1,
+      "startDateGMT": "2023-10-10 18:35:00",
+      "endDateGMT": "2023-12-31 08:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Cleaning and Maintenance Accessories with Code BREWLIKENEW30 on Keurig.com!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=541288&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BREWLIKENEW30",
+      "tier": 1,
+      "startDateGMT": "2023-10-10 18:38:00",
+      "endDateGMT": "2023-12-31 08:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Perfect for The Holidays, and Packed with Seasonal Favorites, the Keurig\u00ae K-Cup\u00ae Pod Stocking Stuffer Is Here! Save 20% with Code COFFEE2023 on Keurig.com.!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=571226&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "COFFEE2023",
+      "tier": 1,
+      "startDateGMT": "2023-10-26 21:42:00",
+      "endDateGMT": "2023-12-25 08:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 20% Off Sitewide! Use Code MERRYSAVINGS on Keurig.com to Save! Restrictions Apply. (11/30/23 \u2013 12/11/23)!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=643006&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "MERRYSAVINGS",
+      "tier": 1,
+      "startDateGMT": "2023-11-30 13:00:00",
+      "endDateGMT": "2023-12-12 08:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "The Perfect Gift for Coffee Lovers! Get 20% Off Beverages with Code COFEE2023 on Keurig.com! Offer Ends 12/30!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=646552&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "COFEE2023",
+      "tier": 1,
+      "startDateGMT": "2023-12-01 13:00:00",
+      "endDateGMT": "2023-12-31 08:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "The Perfect Gift for Coffee Lovers! Get 20% Off Popular Coffee Makers with Code BREWER2023 on Keurig.com! Offer Ends 12/30!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=646553&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BREWER2023",
+      "tier": 1,
+      "startDateGMT": "2023-12-01 13:00:00",
+      "endDateGMT": "2023-12-31 08:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get $4.00 off 20-24 Count Boxes of K-Cup\u00ae Pods! Use Code SAVE4ONBEVS on Keurig.com to Save!",
+      "jumpUrl": "https://www.rewardany.com/store/keurig?couponId=654773&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SAVE4ONBEVS",
+      "tier": 1,
+      "startDateGMT": "2023-12-02 08:00:00",
+      "endDateGMT": "2023-12-07 03:00:00",
+      "storeId": 3102,
+      "storeName": "Keurig",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/keurig_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week Sale! Save up To $250 Sitewide with Code EXPLORECW",
+      "jumpUrl": "https://www.rewardany.com/store/great-value-vacations?couponId=643012&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EXPLORECW",
+      "tier": 1,
+      "startDateGMT": "2023-11-29 05:00:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3111,
+      "storeName": "Great Value Vacations",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/great-value-vacations_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Eligible Full Priced Products! Use Code EXTRA10 Shop now at store.nytimes.com!",
+      "jumpUrl": "https://www.rewardany.com/store/the-new-york-times-company-store?couponId=224091&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EXTRA10",
+      "tier": 1,
+      "startDateGMT": "2022-09-06 22:29:00",
+      "endDateGMT": "2028-09-06 00:00:00",
+      "storeId": 3116,
+      "storeName": "The New York Times Company Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-new-york-times-company-store_logo.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Free Pressman Wrapping Paper with Purchases Over $75! Shop Now at The New York Times Store!",
+      "jumpUrl": "https://www.rewardany.com/store/the-new-york-times-company-store?couponId=643018&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-11-30 05:00:00",
+      "endDateGMT": "2023-12-06 05:00:00",
+      "storeId": 3116,
+      "storeName": "The New York Times Company Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-new-york-times-company-store_logo.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Celebrate the Haul-idays with Ulta Beauty! Shop the Happy Haul-iday Sale event and get up to 50% off weekly deals",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654846&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Celebrate the Haul-idays with Ulta Beauty! Shop the Happy Haul-iday Sale event and get up to 50% off weekly deals",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=660402&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224178&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224179&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224180&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224181&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224182&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224183&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224184&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224185&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224186&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224187&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224188&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224189&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Get Lucky, Save More on Green's on This St. Paddy's Day! Avail Free Doses Plus 7% Extra Off and Free Shipping! Use Coupon: GREEN7!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224190&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GREEN7",
+      "tier": 1,
+      "startDateGMT": "2018-03-14 00:00:00",
+      "endDateGMT": "2024-03-13 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Easter\u2019s Early: Are You Ready? Get 12% Discount on All Orders Plus Free Shipping! Extra 10% Instant Cashback.   Use Coupon: EASTR12",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224191&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EASTR12",
+      "tier": 1,
+      "startDateGMT": "2019-04-02 00:00:00",
+      "endDateGMT": "2024-11-30 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Easter Treats | Get 12% Off Discount on All Orders. Free Shipping 10% Cashback Use Coupon Code: EASTR12",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224192&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EASTR12",
+      "tier": 1,
+      "startDateGMT": "2019-04-02 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Don\u2019t Miss Out on These Eggs-traordinary Offers. Savings on Frontline Plus For Dogs and 12% Extra Off Free Shipping 10% Cashback Use Coupon Code: EASTR12",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=224193&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EASTR12",
+      "tier": 1,
+      "startDateGMT": "2019-04-02 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Star-Spangled Savings: 15% Off Your Order & Free Shipping this Independence Day! Use Coupon: FREEDOM",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=330574&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FREEDOM",
+      "tier": 1,
+      "startDateGMT": "2023-06-30 10:17:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Flag this: Extra 15% Off Plus Free Shipping on All Orders. Use Coupon: FREEDOM",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=330575&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FREEDOM",
+      "tier": 1,
+      "startDateGMT": "2023-06-30 10:17:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Stars, Stripes, and Savings! 15% Off Your Order Plus Free Shipping on Everything. Use Coupon: FREEDOM",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=330576&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FREEDOM",
+      "tier": 1,
+      "startDateGMT": "2023-06-30 10:17:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday in July BLOWOUT: Save 23% Sitewide Plus Free Shipping Today. Use Coupon: BLACKF23",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=330577&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BLACKF23",
+      "tier": 1,
+      "startDateGMT": "2023-07-13 04:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Came Early in July! 23% Extra Off Plus Free Shipping Sitewide. Use Coupon: BLACKF23",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=330578&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BLACKF23",
+      "tier": 1,
+      "startDateGMT": "2023-07-13 04:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "It\u2019s Black Fri-Yay in July! Extra 23% Off and Free Shipping on All Orders. Use Coupon: BLACKF23",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=330579&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BLACKF23",
+      "tier": 1,
+      "startDateGMT": "2023-07-13 04:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Blink & You\u2019ll Miss 23% Off Your Order and Free Shipping Sitewide. Use Coupon: BLACKF23",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=330580&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BLACKF23",
+      "tier": 1,
+      "startDateGMT": "2023-07-13 04:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Just Got Bigger with 22% Extra Discount, Free Doses and Bogo Offers. Use Code: BFRIDAY for Free Shipping Sitewide!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=625285&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BFRIDAY",
+      "tier": 1,
+      "startDateGMT": "2023-11-23 05:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday, Best Deals of The Year! 20% Extra Discount, Combo Deals and Free Doses. Use Code: BFRIDAY to Get Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=625286&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BFRIDAY",
+      "tier": 1,
+      "startDateGMT": "2023-11-23 05:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Free Jewelry Maker's Catalog of Hot Sellers for 2018!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360675&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2018-09-06 00:00:00",
+      "endDateGMT": "2024-09-06 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Free Gift for September, US $0 Buy a Freebie!",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=360677&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-09-05 00:00:00",
+      "endDateGMT": "2025-09-04 00:00:00",
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Save 20% Off Sitewide at Viva Terra! Use Code LSWINTER at Checkout. Offer Expires 12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/vivaterra?couponId=650175&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "LSWINTER",
+      "tier": 1,
+      "startDateGMT": "2023-12-01 05:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3255,
+      "storeName": "Vivaterra",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vivaterra_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 20% Off Sitewide at Wind and Weather! Use Code LSWINTER at Checkout. Offer Expires 12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=650184&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "LSWINTER",
+      "tier": 1,
+      "startDateGMT": "2023-12-01 05:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Gift Shop w/ Code MERRY",
+      "jumpUrl": "https://www.rewardany.com/store/kipling?couponId=646722&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "MERRY",
+      "tier": 1,
+      "startDateGMT": "2023-12-01 10:00:00",
+      "endDateGMT": "2023-12-12 10:00:00",
+      "storeId": 3279,
+      "storeName": "Kipling",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kipling_logo.PNG",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "BTS Bundle - Pick 3 for $150 w/ Code TRIO",
+      "jumpUrl": "https://www.rewardany.com/store/kipling?couponId=646723&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "TRIO",
+      "tier": 1,
+      "startDateGMT": "2023-12-01 10:00:00",
+      "endDateGMT": "2023-12-06 10:00:00",
+      "storeId": 3279,
+      "storeName": "Kipling",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kipling_logo.PNG",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Craftsman Blowout Savings! Shop Our Deepest Discounts on Craftsman Tools While Supplies Last!",
+      "jumpUrl": "https://www.rewardany.com/store/cpo-commerce?couponId=406003&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-08-15 23:20:00",
+      "endDateGMT": "2029-08-15 07:00:00",
+      "storeId": 3313,
+      "storeName": "CPO Commerce",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cpo-commerce_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Now and Get $50 Off when You Spend $550 Using Code OND23! Now through 12/31.!",
+      "jumpUrl": "https://www.rewardany.com/store/national-business-furniture,-inc?couponId=532196&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "OND23",
+      "tier": 1,
+      "startDateGMT": "2023-10-05 20:37:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3321,
+      "storeName": "National Business Furniture, Inc",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/national-business-furniture,-inc_logo.jpg",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Give the gift of reading. Make a reader's day with the perfect present!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-inc?couponId=365208&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-11-15 17:51:00",
+      "endDateGMT": "2028-11-15 05:00:00",
+      "storeId": 3323,
+      "storeName": "Kobo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-inc.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Can\u2019t Get Enough Audiobooks? Kobo Plus Offers Over 100,000 Titles in All-You-Can-Listen Subscripions. Get 30 Days Free!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-inc?couponId=365209&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-04-13 20:07:00",
+      "endDateGMT": "2029-04-13 04:00:00",
+      "storeId": 3323,
+      "storeName": "Kobo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-inc.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "For the reader who believes in love. Find the best romance eBooks and audiobooks with Kobo Plus. Start your free trial!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-inc?couponId=365210&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-07-20 21:49:00",
+      "endDateGMT": "2029-07-20 00:00:00",
+      "storeId": 3323,
+      "storeName": "Kobo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-inc.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Reach for the stars with a Kobo Plus subscription, and access all the science fiction you want every month. Enjoy all-you-can-read eBooks and audiobooks, FREE for 30 days!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-inc?couponId=365211&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-07-28 18:32:00",
+      "endDateGMT": "2029-07-28 00:00:00",
+      "storeId": 3323,
+      "storeName": "Kobo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-inc.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Ready Made Sale with Code: QUICKSHIP",
+      "jumpUrl": "https://www.rewardany.com/store/the-perfect-rug?couponId=639385&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "QUICKSHIP",
+      "tier": 1,
+      "startDateGMT": "2023-11-28 05:00:00",
+      "endDateGMT": "2024-01-02 05:00:00",
+      "storeId": 3325,
+      "storeName": "The Perfect Rug",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-perfect-rug_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Ready Made Sale with Code QUICKSHIP",
+      "jumpUrl": "https://www.rewardany.com/store/the-perfect-rug?couponId=639386&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "QUICKSHIP",
+      "tier": 1,
+      "startDateGMT": "2023-11-28 05:00:00",
+      "endDateGMT": "2024-01-03 05:00:00",
+      "storeId": 3325,
+      "storeName": "The Perfect Rug",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-perfect-rug_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 10% on any set of 4 wheels on TireBuyer.com with code WHEELS10.",
+      "jumpUrl": "https://www.rewardany.com/store/tirebuyercom?couponId=169808&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "WHEELS10",
+      "tier": 1,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2025-12-18 00:00:00",
+      "storeId": 3347,
+      "storeName": "TireBuyer.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tirebuyercom_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Save 10% on Select Tires with Promo Code: Thankyou10",
+      "jumpUrl": "https://www.rewardany.com/store/tirebuyercom?couponId=169812&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "THANKYOU10",
+      "tier": 1,
+      "startDateGMT": "2022-01-26 14:00:00",
+      "endDateGMT": "2028-04-28 00:00:00",
+      "storeId": 3347,
+      "storeName": "TireBuyer.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tirebuyercom_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Pirelli Sale: $25 Off per Tire (or $100 Off a Set of 4) on Installed Parelli Tires with Code: INSTALLPIRELLI",
+      "jumpUrl": "https://www.rewardany.com/store/tirebuyercom?couponId=646761&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "INSTALLPIRELLI",
+      "tier": 1,
+      "startDateGMT": "2023-11-30 13:30:00",
+      "endDateGMT": "2023-12-13 00:00:00",
+      "storeId": 3347,
+      "storeName": "TireBuyer.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tirebuyercom_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Kobo eReaders are carefully crafted to deliver a superior reading experience!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328891&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-11-19 20:02:00",
+      "endDateGMT": "2027-11-18 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Get your first bestseller on us. Your first Kobo Audiobook is FREE",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328893&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "FREE",
+      "tier": 1,
+      "startDateGMT": "2021-08-19 19:12:00",
+      "endDateGMT": "2027-08-19 04:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "On a Run? You Could Be Reading, Too. Listen to Kobo Audiobooks. only $12.99 a Month. Start Your Free Trial!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328895&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-12-21 16:21:00",
+      "endDateGMT": "2027-12-21 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "On a Drive? You Could Be Reading, Too. Listen to Kobo Audiobooks. only $12.99 a Month. Start Your Free Trial!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328896&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-12-21 16:21:00",
+      "endDateGMT": "2027-12-21 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Tidying Up? You Could Be Reading, Too. Listen to Kobo Audiobooks. only $12.99 a Month. Start Your Free Trial!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328897&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-12-21 16:21:00",
+      "endDateGMT": "2027-12-21 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Relaxing at Home? You Could Be Reading, Too. Listen to Kobo Audiobooks. only $12.99 a Month. Start Your Free Trial!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328898&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-12-21 16:21:00",
+      "endDateGMT": "2027-12-21 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "For the Reader Who Believes in Love. Find the Best Romance E Books with Kobo Plus Read. Start Your Free Trial!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328899&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-02-03 02:20:00",
+      "endDateGMT": "2028-02-02 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy all the eBooks you can read for just $0.00 when you start your FREE Kobo Plus trial. After 30 days, it's only $9.99/mo!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328901&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-09-09 14:05:00",
+      "endDateGMT": "2028-09-09 04:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Start a Free Kobo Plus Trial and Indulge in Unlimited E Books and Audiobooks!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328902&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-11-15 05:00:00",
+      "endDateGMT": "2028-11-15 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Read and Listen for Free for 30 Days with A Kobo Plus Trial!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328903&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-11-15 05:00:00",
+      "endDateGMT": "2028-11-15 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Choose the Kobo Plus Subscription That\u2019s Right for You: E Books, Audiobooks, or Both Together in One Plan. Try It Free for 30 Days!.",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328904&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-11-15 05:00:00",
+      "endDateGMT": "2028-11-15 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Fit more reading into your life with unlimited eBooks & audiobooks. Get your first 30 days FREE!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=328905&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-01-20 14:37:00",
+      "endDateGMT": "2029-01-20 05:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "For the reader who believes in love. Find the best romance eBooks and audiobooks with Kobo Plus. Start your free trial!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=334040&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-07-20 21:56:00",
+      "endDateGMT": "2029-07-20 00:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "For the reader who believes in love. Find the best romance eBooks and audiobooks with Kobo Plus. Start your free trial!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=336601&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-07-21 17:00:00",
+      "endDateGMT": "2029-07-21 00:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Reach for the stars with a Kobo Plus subscription, and access all the science fiction you want every month. Enjoy all-you-can-read eBooks and audiobooks, FREE for 30 days!",
+      "jumpUrl": "https://www.rewardany.com/store/kobo-canada?couponId=354913&pubId=10427&subId={your tracking code}",
+      "type": "freeTrial",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-07-28 18:37:00",
+      "endDateGMT": "2029-07-28 00:00:00",
+      "storeId": 3390,
+      "storeName": "Kobo CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kobo-canada.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Take 17% Off on Cyber Week Gift Guide - Code- Expires on December 4th!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=628374&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CW17",
+      "tier": 1,
+      "startDateGMT": "2023-11-24 21:22:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Take 17% Off on Cyber Week Gift Guide Solid Gold Essentials - Code- Expires on December 4th!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=628375&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CW17",
+      "tier": 1,
+      "startDateGMT": "2023-11-24 21:22:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Take 17% Off on Cyber Week Gift Guide Mined Diamond Jewelry - Code- Expires on December 4th!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=628376&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CW17",
+      "tier": 1,
+      "startDateGMT": "2023-11-24 21:22:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Take 17% Off on Cyber Week Gift Guide Lab Grown Diamond Jewelry - Code- Expires on December 4th!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=628377&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CW17",
+      "tier": 1,
+      "startDateGMT": "2023-11-24 21:22:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Take 17% Off on Cyber Week Gift Guide Colorful Gemstone Jewelry - Code- Expires on December 4th!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=628378&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CW17",
+      "tier": 1,
+      "startDateGMT": "2023-11-24 21:22:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Take 17% Off on Cyber Week Gift Guide Luxury Diamond Gifts - Code- Expires on December 4th!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=628379&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CW17",
+      "tier": 1,
+      "startDateGMT": "2023-11-24 21:22:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Take 17% Off on Cyber Week Gift Guide Personalized Diamond Gifts - Code- Expires on December 4th!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=628380&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CW17",
+      "tier": 1,
+      "startDateGMT": "2023-11-24 21:22:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Doorbuster! Take 17% Off on Cyber Week Gift Guide Gold Filled Jewelry - Code- Expires on December 4th!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=628381&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CW17",
+      "tier": 1,
+      "startDateGMT": "2023-11-24 21:22:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Take 17% Off on Cyber Week Gift Guide Lab Grown Diamond Solitaire Jewelry - Code- Expires on December 4th!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=628382&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CW17",
+      "tier": 1,
+      "startDateGMT": "2023-11-24 21:22:00",
+      "endDateGMT": "2023-12-05 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Bake Me a Wish! | Save 15% on Gifts with Code: GIFT | Shop Now!",
+      "jumpUrl": "https://www.rewardany.com/store/bake-me-a-wish?couponId=650298&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "GIFT",
+      "tier": 1,
+      "startDateGMT": "2023-12-01 05:00:00",
+      "endDateGMT": "2024-01-03 05:00:00",
+      "storeId": 3407,
+      "storeName": "Bake Me A Wish",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bake-me-a-wish_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    }
+  ]
+}

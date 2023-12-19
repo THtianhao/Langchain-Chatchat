@@ -1,0 +1,1510 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 33,
+  "pageSize": 100,
+  "totalRecords": 6585,
+  "totalPages": 66,
+  "results": [
+    {
+      "couponTitle": "Get 10% off when you buy the Galaxy S23+ or S23 at Samsung",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653319&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-25 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Get up to 60% off in the big sale! at ProCook",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653321&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% OFF on students' first order only! at Cheapest Essay",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653323&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount on all Beats Headphones & Earbuds at Currys",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653326&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-11 00:00:00",
+      "endDateGMT": "2023-12-19 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Save up to \u00a310 per person on your flight at Trip.com",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653330&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-17 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Save \u00a3125 when you spend \u00a33,000 at Virgin Atlantic Holidays",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653331&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% off full priced at Marc Darcy",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653332&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 30% off on Small Kitchen Appliances at John Lewis",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653334&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "18% Student Discount at Fossil",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653336&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2024-11-30 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "14% off Airport Lounges at Purple Parking",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653342&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-30 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 20% off on selected Bags & Purses at John Lewis",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653343&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Montirex",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653344&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% off full price items when you spend \u00a3150 at Hawes & Curtis",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653346&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% off Prepaid Memberships at WHOOP",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653349&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-18 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Save \u00a38 when you buy Pixel 8 and Pixel 8 Case at Google Store",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653350&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-16 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Tech21",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653351&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Evri",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653352&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "50% Student Discount at Domino's Pizza",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653353&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off footwear +  an extra 15% Student Discount at Trespass",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653354&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "5% Graduate Discount at Bed Kingdom",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653355&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Jewellery under \u00a310 + Extra 10% Student Discount at jewellerybox",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653356&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-13 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% off your order at Jabra",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653358&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "5% Student Discount at Toolstation",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653359&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at NO GUNK",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653363&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at FFS",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653364&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "11% Student Discount on Bras at Brastop",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653366&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Dockers",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653367&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-29 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at LullaBellz",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653368&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 65% off + Extra 5% Student Discount at Emma Mattress",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653370&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "30% off selected lines + 10% Student Discount at Cernucci",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653371&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-03 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount on orders over \u00a340 at EasyToys",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653373&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "50% Student Discount at Luminar Neo",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653374&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to \u00a320 off any handset upfront cost deal at Fonehouse",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653375&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-04 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Save over 65% on your Pro Annual Plan at Codecademy",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653377&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-20 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "3.25% Student Discount at Evri",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=653378&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans (UK)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Abrand Jeans",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=30759&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-19 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Kollyy",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=30760&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off at FARFETCH",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=106641&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-29 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at L'Occitane",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=106642&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-11 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "11% Off Experiences at Tripadvisor",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=106643&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Google Store",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=106646&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Cotton On",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=139319&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-20 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy up to 10% off on Emirates Economy Class fares at Emirates",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=139323&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Factorie",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=139324&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-20 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Cotton On Body",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=139327&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Typo",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=139330&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-18 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Exclusive 5% Student Discount at Omio",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=160390&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "2 years of NordVPN with 64% off ($2.97/month) at NordVPN",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=167283&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 40% OFF + $20 Student Discount* at The Good Guys",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=167284&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 30% off Gaming PCs at HP",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653379&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% Students Discount at Sennheiser",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653380&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount at Review",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653382&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-13 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "30% Student Discount at Cisdem",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653383&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% off Full Price at Le Specs",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653384&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "19% Student Discount at Beauty Amora",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653385&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "5% Student Discount at ELEGOO",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653387&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 25% off Desktops at HP",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653388&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 31% off Monitors at HP",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653389&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Joseph Joseph",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653390&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at FILA",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653391&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-13 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at My Muscle Chef",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653393&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Superdry",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653394&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-29 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 35% Off at Vesta Sleep",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653395&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Save an additional 5% site-wide at The WOD Life",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653396&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-11 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Cupshe",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653397&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at TruTravels",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653398&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 85% Off + Extra 15% Student Discount at SHEIN",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653399&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-09 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "17% off Everything at Proviz",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653400&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Oakley",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653401&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "18% Student Discount at Popilush",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653402&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-02 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Graduate Discount at Percival",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653403&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Nordace",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653404&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 65% + extra 12% off at MICAS",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653406&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Charles & Keith",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653407&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "50% Student Discount at Luminar Neo",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653408&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "17% Student Discount at thesupermade",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653409&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at HUGO BOSS",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653413&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Percival",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653414&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-07 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% OFF on students' first order only! at Cheapest Essay",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653415&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Chicwish",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653416&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Reebok",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653417&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "50% Student Discount after 1 week free trial at Setapp",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653418&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Sunglass Hut",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653419&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% Student Discount at Chegg",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653420&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Skin Virtue",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653422&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-30 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 30% off Laptops at HP",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653423&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "6% Student Discount at Creality",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653424&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% off Prepaid Memberships at WHOOP",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653425&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2023-12-18 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% on full price items only at Tigerlily",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653426&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Rollie Nation",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653429&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Fast Cover",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653430&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Emma Sleep",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653431&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-27 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Ray-Ban",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=653433&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Sale - Up to 50% Off Sitewide at SokoGlam",
+      "jumpUrl": "https://www.rewardany.com/store/soko-glam?couponId=653440&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-24 00:00:00",
+      "endDateGMT": "2023-12-09 00:00:00",
+      "storeId": 1305,
+      "storeName": "Soko Glam",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/soko-glam_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Sale! Up to 50% at SokoGlam!",
+      "jumpUrl": "https://www.rewardany.com/store/soko-glam?couponId=653441&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-24 00:00:00",
+      "endDateGMT": "2023-12-09 00:00:00",
+      "storeId": 1305,
+      "storeName": "Soko Glam",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/soko-glam_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Subscribe and Save 15% | Shop Now",
+      "jumpUrl": "https://www.rewardany.com/store/gaia-herbs?couponId=139353&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-05-16 00:00:00",
+      "endDateGMT": "2029-05-16 00:00:00",
+      "storeId": 1326,
+      "storeName": "Gaia Herbs",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gaia-herbs_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "20% Off Ashwagandha Products | Shop Now",
+      "jumpUrl": "https://www.rewardany.com/store/gaia-herbs?couponId=653465&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 1326,
+      "storeName": "Gaia Herbs",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gaia-herbs_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Deals at Focus Camera",
+      "jumpUrl": "https://www.rewardany.com/store/focus-camera-and-lifestyle-by-focus?couponId=653469&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1335,
+      "storeName": "Focus Camera & Lifestyle by Focus",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/focus-camera-and-lifestyle-by-focus_logo.gif",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Deals at Lifestyle by Focus",
+      "jumpUrl": "https://www.rewardany.com/store/focus-camera-and-lifestyle-by-focus?couponId=653470&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1335,
+      "storeName": "Focus Camera & Lifestyle by Focus",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/focus-camera-and-lifestyle-by-focus_logo.gif",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "70% Off Sage Business Cloud Accounting For 6 Months",
+      "jumpUrl": "https://www.rewardany.com/store/sage?couponId=653471&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-14 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1345,
+      "storeName": "Sage",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sage_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    }
+  ]
+}

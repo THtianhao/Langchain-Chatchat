@@ -1,0 +1,1518 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 47,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "LOOKFANTASTIC The Box: Christmas Collection",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-uk?couponId=645156&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 23:59:00",
+      "storeId": 3155,
+      "storeName": "LOOKFANTASTIC UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-uk-1702977249.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Cinco de Style Celebration  Up to 50% + Free Shipping  Code \u0096 FREESHIP  5 Ways To Save",
+      "jumpUrl": "https://www.rewardany.com/store/boston-proper?couponId=107470&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-05 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3168,
+      "storeName": "Boston Proper",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/boston-proper.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cinco de Style Celebration  Up to 50% + Free Shipping  Code \u0096 FREESHIP  5 Ways To Save",
+      "jumpUrl": "https://www.rewardany.com/store/boston-proper?couponId=107471&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-05 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3168,
+      "storeName": "Boston Proper",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/boston-proper.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cinco de Style Celebration  Up to 50% + Free Shipping  Code \u0096 FREESHIP  5 Ways To Save",
+      "jumpUrl": "https://www.rewardany.com/store/boston-proper?couponId=107472&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-05 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3168,
+      "storeName": "Boston Proper",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/boston-proper.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Good news for your closet! Sale is on sale.",
+      "jumpUrl": "https://www.rewardany.com/store/boston-proper?couponId=107473&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3168,
+      "storeName": "Boston Proper",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/boston-proper.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Good news for your closet! Sale is on sale.",
+      "jumpUrl": "https://www.rewardany.com/store/boston-proper?couponId=107474&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3168,
+      "storeName": "Boston Proper",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/boston-proper.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Deals under \u00a3100",
+      "jumpUrl": "https://www.rewardany.com/store/red-letter-days?couponId=680277&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-12 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3174,
+      "storeName": "Red Letter Days",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/red-letter-days_logo.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Up to 52% Off Women's Sale Styles at G.H.Bass",
+      "jumpUrl": "https://www.rewardany.com/store/gh-bass?couponId=107476&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2021-10-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3180,
+      "storeName": "G.H. Bass",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gh-bass_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Up to 55% Off Men's Sale Styles at G.H.Bass",
+      "jumpUrl": "https://www.rewardany.com/store/gh-bass?couponId=107477&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2021-10-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3180,
+      "storeName": "G.H. Bass",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gh-bass_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "OS Shop Sale - 20% off almost everything!",
+      "jumpUrl": "https://www.rewardany.com/store/ordnance-survey?couponId=684842&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-15 00:00:00",
+      "endDateGMT": "2024-01-03 00:00:00",
+      "storeId": 3186,
+      "storeName": "Ordnance Survey",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ordnance-survey_logo.jpg",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "10% off when you sign up to the Newsletter",
+      "jumpUrl": "https://www.rewardany.com/store/craft-company?couponId=684855&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 3198,
+      "storeName": "Craft Company",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/craft-company_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "50% off printed cake boxes",
+      "jumpUrl": "https://www.rewardany.com/store/craft-company?couponId=684856&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2024-07-31 00:00:00",
+      "storeId": 3198,
+      "storeName": "Craft Company",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/craft-company_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Extra 30% off Sale for Savings over 50% (12/15 ground shipping cutoff)",
+      "jumpUrl": "https://www.rewardany.com/store/steve-madden?couponId=654827&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-15 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 3214,
+      "storeName": "Steve Madden",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/steve-madden_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": " Up to 50% OFF Sitewide",
+      "jumpUrl": "https://www.rewardany.com/store/steve-madden?couponId=698419&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-12-13 00:00:00",
+      "endDateGMT": "2023-12-25 23:59:00",
+      "storeId": 3214,
+      "storeName": "Steve Madden",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/steve-madden_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Online Only Purchase 2 Joico Shampoo or Conditioner jumbos and get 15% off (valid thru 12/23/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654829&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-10 00:00:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "20% off Olaplex select Liters",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654832&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-17 00:00:00",
+      "endDateGMT": "2024-01-28 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "50% off UBC Velvet Matte Foundation",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654833&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-01 00:00:00",
+      "endDateGMT": "2024-07-16 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "ABOUT FACE Matte Fluid Eye Paint Kits 40% off",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654835&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-01 00:00:00",
+      "endDateGMT": "2024-01-02 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "KISS - 50% OFF Select Kiss lashes",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654836&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-22 00:00:00",
+      "endDateGMT": "2024-01-21 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "50% off Ahava entire brand",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654840&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-29 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "75% off Volition Beauty Palo Azul Hydra-Bounce Pressed Serum with Niacinamide + Vegan Squalane",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654841&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-05 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "TOO FACED 50% off Sunset Stripped Palette",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654842&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-12 00:00:00",
+      "endDateGMT": "2024-01-04 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Mix & Match! Select Prestige Hair Buy 1 Get 1 50% off (valid thru 12/23/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654849&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Hero Cosmetics Buy 1 Get 1 40% off. Excludes holiday items, acne patches, dots and nose patches (valid thru 12/24/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654850&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Cetaphil Buy 1 Get 1 40% off (valid thru 12/24/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654851&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "St. Tropez 40% off",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654852&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "First Aid Beauty 50% Off Ultra Repair Cream",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654854&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Heritage Store Buy 1 Get 1 40% off (valid thru 12/24/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654872&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Carbon Theory Buy 1 Get 1 40% off (valid thru 12/24/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654873&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "RoC Buy 1 Get 1 40% off. Excludes kits (valid thru 12/24/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654874&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "No7 Buy 1 Get 1 40% off. Excludes kits (valid thru 12/24/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654875&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Aveeno Buy 1 Get 1 40% off (valid thru 12/24/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654876&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Freeman Buy 1 Get 1 40% off (valid thru 12/24/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654877&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Mad Hippie Skincare Buy 1 Get 1 40% off. Excludes kits (valid thru 12/24/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654878&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Covergirl Buy 1 Get 1 40% off (valid thru 12/24/23)",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654883&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Undone - 75% off Select Undone Beauty",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=654886&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-26 00:00:00",
+      "endDateGMT": "2024-01-14 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "50% off UBC fall candles",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=660408&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-01-07 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "75% off Select Lashfood",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=660418&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-02-04 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Loli Beauty 50% off Select Items",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=660419&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-02-04 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Skinfood 50% off Entire brand",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=660420&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "30% Off TRB THE NIGHT NIGHT EYES - PM Retinoid/Retinol Eye Cream",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=660421&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-02-04 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Loli Beauty 75% off Get Glowing All Over Nourishing Miracle Duo",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=660422&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-02-04 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "50% off Arcona Gentle solution 35mL",
+      "jumpUrl": "https://www.rewardany.com/store/ulta-beauty?couponId=660423&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2024-02-04 00:00:00",
+      "storeId": 3217,
+      "storeName": "ULTA Beauty",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ulta_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Keep your furry friend healthy without breaking the bank!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=107597&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-09 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Have a Blessed Mother's Day!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=107598&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "20% Mother's Day Special",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=107599&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Happy Mother\u2019s Day!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=107600&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Happy Juneteenth Day!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=162348&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Happy Juneteenth Day!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=162349&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Happy Juneteenth Day!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=162350&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Happy Juneteenth Day!",
+      "jumpUrl": "https://www.rewardany.com/store/budgetpetcarecom?couponId=162351&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3219,
+      "storeName": "BudgetPetCare.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budgetpetcarecom_logo.jpg",
+      "categories": [
+        "Health & Beauty",
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Fat Bikes & Cold Weather Biking",
+      "jumpUrl": "https://www.rewardany.com/store/moosejaw?couponId=654929&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-02 00:00:00",
+      "endDateGMT": "2024-01-15 00:00:00",
+      "storeId": 3221,
+      "storeName": "Moosejaw",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/moosejaw_logo.gif",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Les autocollants en papier sur la fiert\u00e9 de LGBT",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=31153&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Pendentif \u00e9toile de mer en r\u00e9sine",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107605&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Papillons tiss\u00e9s en organza",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107606&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Pendentif de coeur pour la f\u00eate des m\u00e8res",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107607&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Masseur de visage",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107608&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Glitter Pink Tulle Fabric Rolls",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107610&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Smooth Surface Flat Round Blank Stamping Tags",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107611&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Alloy Shirt Collar Brooch",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107612&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Aluminium Blank Name Cards",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107613&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Perles en verre \u00e0 poisson",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107614&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Half Round/Dome Four Leaf Clover Glass Cabochons",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107615&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Autocollants en papier mauvais \u0153il",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107616&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Compra Ahora y Ahorra en Mayo",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107617&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Compra Ahora y Ahorra en Mayo",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107618&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Compra Ahora y Ahorra en Mayo",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107619&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Compra Ahora y Ahorra en Mayo",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107620&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Compra Ahora y Ahorra en Mayo",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107621&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Compra Ahora y Ahorra en Mayo",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107622&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Compra Ahora y Ahorra en Mayo",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107623&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Perlenketten",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107624&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "\u900f\u660e\u30a2\u30af\u30ea\u30eb\u30d3\u30fc\u30ba",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107639&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "\u30af\u30ea\u30a2\u6a39\u8102\u30ab\u30dc\u30b7\u30e7\u30f3",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=107640&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Malerei K\u00e4tzchen Anh\u00e4nger",
+      "jumpUrl": "https://www.rewardany.com/store/pandahall?couponId=141286&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 3228,
+      "storeName": "PandaHall",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/pandahall.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Save Up to 50% Off Select Toys!",
+      "jumpUrl": "https://www.rewardany.com/store/adam-and-eve?couponId=654970&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-03 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3235,
+      "storeName": "Adam & Eve",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adam-and-eve-1700114919.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Shop Lingerie for 25% Off Select Styles!",
+      "jumpUrl": "https://www.rewardany.com/store/adam-and-eve?couponId=654971&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-03 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3235,
+      "storeName": "Adam & Eve",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adam-and-eve-1700114919.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Shop Now for 25% Lingerie! (some exclusions apply)",
+      "jumpUrl": "https://www.rewardany.com/store/adam-and-eve?couponId=654974&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-03 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3235,
+      "storeName": "Adam & Eve",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adam-and-eve-1700114919.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 50% Off Select Toys!",
+      "jumpUrl": "https://www.rewardany.com/store/adam-and-eve?couponId=654975&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-03 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3235,
+      "storeName": "Adam & Eve",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adam-and-eve-1700114919.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "20% off Birthday Rewards at Bealls Florida! Valid entire month of birthday!",
+      "jumpUrl": "https://www.rewardany.com/store/bealls-florida?couponId=654980&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-05-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 3252,
+      "storeName": "Bealls Florida",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bealls-florida-1696649655.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Winter Sale Preview Event: Up to 50% Off Sale Styles. Restrictions Apply. Ends 12/25.",
+      "jumpUrl": "https://www.rewardany.com/store/banana-republic?couponId=680495&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-12 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 3257,
+      "storeName": "Banana Republic",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/banana-republic-1695016113.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "We've added 100+ styles to our Outlet collection! Shop styles up to 75% off.",
+      "jumpUrl": "https://www.rewardany.com/store/bcbg-max-azria?couponId=141358&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-17 00:00:00",
+      "endDateGMT": "2029-05-17 00:00:00",
+      "storeId": 3262,
+      "storeName": "BCBG Max Azria",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bcbg-max-azria_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop New & Best Sellers!",
+      "jumpUrl": "https://www.rewardany.com/store/wind-and-weather?couponId=162482&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-13 00:00:00",
+      "endDateGMT": "2029-06-13 00:00:00",
+      "storeId": 3268,
+      "storeName": "Wind and Weather",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wind-and-weather_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 34.01% on 6R524UA#ABL OMEN 16-k0000ca + HP 3 year Warranty with Accidental Damage andAbsolute Theft Protection (U7C97E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685098&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 47.08% on 374V6UA#ABL Victus 15-fb0010ca + HP 2 year Warranty with Accidental Damage and Absolute Protection (U7C96E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685099&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 38.23% on 6M799UA#ABL OMEN 17-ck1010ca + HP 3 year Warranty with Accidental Damage andAbsolute Theft Protection (U7C97E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685100&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 16.30% on 7X7B8UA#ABL OMEN 17-ck2010ca + HP 3 Year Warranty with Accidental Damage & Absolute Theft Protection (U7C97E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685101&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 35.56% on 7X7A3UA#ABL Victus 15-fa1000ca + HP 2 year Warranty with Accidental Damage and Absolute Protection (U7C96E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685102&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 35.56% on 7X7B1UA#ABL Victus 16-s0000ca + HP 2 year Warranty with Accidental Damage and Absolute Protection (U7C96E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685103&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 26.93% on 7X7B2UA#ABL Victus 16-s0010ca + HP 2 year Warranty with Accidental Damage and Absolute Protection (U7C96E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685104&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 35.90% on 7X7B3UA#ABL OMEN 16-wd0000ca + HP 3 Year Warranty with Accidental Damage & Absolute Theft Protection (U7C97E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685105&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 28.03% on 7X7B4UA#ABL OMEN 16-wd0010ca + HP 3 Year Warranty with Accidental Damage & Absolute Theft Protection (U7C97E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685106&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 26.06% on 7X7B5UA#ABL OMEN 16-wd0020ca + + HP 3 Year Warranty with Accidental Damage & Absolute Theft Protection (U7C97E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685107&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 14.12% on 7X7B7UA#ABL OMEN 17-CK2000CA + + HP 3 year Warranty with Accidental Damage andAbsolute Theft Protection (U7C97E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685108&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 21.51% on 7X979UA#ABL OMEN 16-xf0000ca + HP 3 Year Warranty with Accidental Damage & Absolute Theft Protection (U7C97E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685109&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 29.13% on 7X7B6UA#ABL OMEN 16-XD0000CA + HP 3 Year Warranty with Accidental Damage & Absolute Theft Protection (U7C97E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685111&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 33.04% on 7X8D4UA#ABL OMEN 16-xd0010ca + HP 3 Year Warranty with Accidental Damage & Absolute Theft Protection (U7C97E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685112&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 43.95% on 7Y809UA#ABL Victus 15-fa1010ca + HP 2 Year Warranty with Accidental Damage & Absolute Theft Protection (U7C96E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685113&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 41.00% on 89A37UA#ABL Victus 15-fb0000ca + HP 2 Year Warranty with Accidental Damage & Absolute Theft Protection (U7C96E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685114&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save 42.25% on 8G9J0UA#ABL Victus 15-fb1000ca + HP 2 Year Warranty with Accidental Damage & Absolute Theft Protection (U7C96E)!",
+      "jumpUrl": "https://www.rewardany.com/store/hp-canada?couponId=685115&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 3272,
+      "storeName": "HP CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hp-canada-1699868556.png",
+      "categories": [
+        "Electronics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1510 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 66,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "20% Student Discount at The Skinny Food!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700242&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-10-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Echor!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700243&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-12-18 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "All Inclusive 7 Night Beach Breaks from under \u00a31000pp at British Airways Holidays",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700244&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-27 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Nordace!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700245&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount on Polos at Lacoste!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700246&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-13 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Manchester United!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700247&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Kickers",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700248&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-10-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Ruby and Oscar!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700249&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Extra 15% off sale when you spend \u00a330+ on sale at boohoo!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700250&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-12-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "5% Student Discount at Perfume's Club!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700251&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-31 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "67% off unlimited digital access at inews!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700252&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy 20% off Womanizer at Lovehoney",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700253&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Whistles!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700254&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Smile Time!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700255&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-08-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "5% off Plumbing & Heating at ManoMano",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700256&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Benefit Cosmetics!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700257&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-03 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "50% Student Discount on all Cheltenham tickets at The Jockey Club!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700258&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Trouva",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700259&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Free Professional Microsoft Certifications, webinars, exam practice and Azure credit worth \u00a3100 at Microsoft",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700260&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% off Nike Air Force at schuh!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700261&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Daye!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700262&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at 180 Nutrition",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700263&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-09 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Bows Boutiques!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700264&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-12-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Get 50% off all Spotlight Oral Care Sonics Plus 30% Student Discount at Spotlight Oral Care!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700265&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-03-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Raw Powders!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700267&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "FREE Trial for 2 months at tastecard",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700268&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "24 Month SIM Only plan with 160GB data for \u00a318.00 per month at EE!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700269&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-27 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% off UGG at schuh!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700270&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Off when You Spend \u00a3125 at Stone Refurb!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700271&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-07-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at UNice!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700272&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "58% Student Discount on 2 for 1 Blissful Spa Day Choice at Buyagift!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700274&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Extra 10% Off Womenswear at Cernucci!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700275&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "5% Additional Uplift and Must Have a Minimum Trade-In Value of \u00a350 at We Buy Any Phone!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700276&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "25% off Full Priced Synthetics at LullaBellz",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700277&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "50% off Annual Plans at Squarespace!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700278&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Scarosso!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700279&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-03-04 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Off on The Entire Website At MiiN Cosmetics!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700280&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-30 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% off all phones at Lenovo!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700281&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Festive Gifting at Joma Jewellery!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700282&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at inov-8!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700283&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-03-04 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount on Morphe and Morphe X full price products at Morphe!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700284&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-08-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% off Gaming: all Legion notebooks and desktops at Lenovo",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700285&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at SCRIBBLER!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700286&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-12-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount on Sushi Making Workshop for Two at Buyagift!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700287&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Up to 4 % Inspiron DT and NB, DG, Vostro DT and NB at Dell!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700288&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-03 00:00:00",
+      "endDateGMT": "2024-08-03 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Land Rover Explore!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700289&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "5% off batteries at Kwik Fit!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700290&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Chicwish!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700291&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-27 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount at Caffin8 Coffee!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700292&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "65% Student Discount at McAfee",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700293&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Dogsy!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700295&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-10-17 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Jack Wolfskin!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700296&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Voidu!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700297&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Glow Hub!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700298&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-30 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Off High Street Dining Experience Box at Buyagift",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700299&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-11-04 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "2% Student Discount on Microsoft Gift Cards at Startselect!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700300&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-19 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount at Facebook Portal!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700301&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-07-09 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Sculpted By Aimee!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700302&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Up to 40% Off Sale Plus 10% Student Discount at Shark Clean!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700303&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Free 10GB data Boost at 1pMobile!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700304&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Typo!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700305&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-05-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Save up to \u00a380 with 10% Student Discount at Geekbuying!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700306&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-05-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Hunkem\u00f6ller!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700307&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Get 10% Off when You Buy the Galaxy S23 FE, S23 plus or S23 at Samsung!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700308&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-10 00:00:00",
+      "endDateGMT": "2024-01-25 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Up to 5% Monitors G, AW Series and AW Accessories at Dell!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700309&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-31 00:00:00",
+      "endDateGMT": "2024-08-03 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at jewellerybox!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700311&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-18 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "3 FOR 2 Student Discount at Indytute!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700312&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-03-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Summer Sale: Up to 50% off at NET\u2011A\u2011PORTER",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700313&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Durex!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700314&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at RDX Sports",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700315&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-07 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount Plus Free Delivery at Myvegan!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700316&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Furn!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700317&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Goddiva!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700318&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-27 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "40% Student Discount on Womens Sweatshirts & Hoodies at DeFacto",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700319&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% off full price items at Liverpool FC!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700320&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Get Free Shipping at Lorna Jane!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700321&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "50% Off Then 30% Off X 3 at Grubby!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700322&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-11-03 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Healthspan Elite!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700323&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "48% Off Almost Everything at Myprotein!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700324&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Student Steals, \u00a310 and Under at boohooMAN",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700325&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "12% off on Moodtropics at WeAreFeel!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700326&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-06-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Extra 20% Student Discount at Oasis!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700327&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "3 for 2 on Student Essentials Plus Extra 10% Student Discount at WHSmith!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700328&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "50% Off ALL Clothing! at Myprotein!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700329&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "12.5% off Yankee Candle and WoodWick Candle at Yankee Candle!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700330&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Scotts!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700331&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-29 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% off Bobbi Brown at LOOKFANTASTIC!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700332&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "30% Student Discount at DeFacto!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700333&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-07-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Offers - up To 50% Off at HIP!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700334&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Protect Your Bubble!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700335&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-03 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Revolution Beauty!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700336&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount on accessories at OPPO!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700337&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-02 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% off The Legend of Zelda: Tears of the Kingdom at My Nintendo Store",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700338&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "5% Student Discount at VEVOR!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700339&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-19 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Up to 80% Off Everything Plus Extra 10% Onsite at Boohoo.com!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700340&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-12-07 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "First Month Free on \u00a315 Plan at VOXI!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700341&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-07-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Levi's!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700343&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-08-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Locks at Tredz!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700344&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-09-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Hussle!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700345&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Up to 44% on selected laptops at Lenovo!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=700346&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-11 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1510 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 4,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "15% Student Discount at Hawes & Curtis!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701438&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at H&M!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701439&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-05-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Crop Shop Boutique",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701440&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-02-04 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Koi Footwear!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701441&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-12-11 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Nike Outlet at catch.com.au!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701442&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-02-10 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Sitewide* at 2XU",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701443&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-02-02 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 35% Off at Vesta Sleep!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701444&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-06-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Vision Direct",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701445&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-02-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% off when you spend $120 at Ben Sherman",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701446&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-03-31 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% Students Discount at Sennheiser!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701447&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Koala!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701448&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-10-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "12% Student Discount at Outdoor Master!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701449&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-04-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "$10 Usd Off on $100 Usd Purchase at Florasis!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701450&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-03-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Selenichast!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701451&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-08-10 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at NET\u2011A\u2011PORTER",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701452&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-08-13 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "50% Student Discount at PDFelement!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701453&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-08-07 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Extra Student Discount on 1-year plan at NordVPN!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701454&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-02-07 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Angus & Robertson!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701455&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-01-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Save an additional 5% site-wide at The WOD Life!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701456&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% Off Sale Plus 5% Student Discount at Wiggle!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701457&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-01-17 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Students Get 5% off Hotel Bookings at Expedia!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701458&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-02-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "50% off Vimeo Plus, Pro, Business or Premium membership at Vimeo!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701459&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-01-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Lovehoney!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701460&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-05-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at The Book of Everyone",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701461&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount Sitewide at Gymshark!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701462&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-05-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "17% off full priced items at Foreo!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701463&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-05-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Siren!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701464&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-08-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Cupshe!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701465&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Booktopia",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701466&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-11-30 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "33% Student Discount on A 12-Month Subscription at Binge!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701467&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-08-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at TruTravels!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701468&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Modibodi!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701469&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-08-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Happy Socks",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701470&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-11-29 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "45% Student Discount at PrettyLittleThing",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701471&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-11-29 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Nourished Life!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701472&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-08-30 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Crocs!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701473&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-06-09 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at J.ING!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701474&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-09-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Htvront!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701475&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-08-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 30% off Gaming PCs at HP!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701476&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "16% Student Discount at Zolucky!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701477&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-05-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Superga!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701478&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-04-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "17% off Everything at Proviz!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701479&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at esmi!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701480&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-02-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% off Surface devices at Microsoft!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701481&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-01-13 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Oakley!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701482&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-10-18 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at R.M.Williams!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701483&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-10-13 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "18% Student Discount at Popilush!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701484&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-09-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 80% Off + Extra 10% Off at LovelyWholesale!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701485&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-11-09 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Subsequent Purchases at Pedro!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701486&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-08-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Riders by Lee!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701487&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount on Monthly Binge Subscription for 6 Mths at Binge!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701488&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-08-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Cotton On",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701489&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-06-07 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount at Review!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701490&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-07-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "30% Student Discount at Cisdem!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701491&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Love, Bonito!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701492&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-10-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at 180 Nutrition",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701493&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Charles & Keith!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701494&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 60% Student Discount at Wondershare Uniconverter!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701495&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-04-27 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at FARFETCH!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701496&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-10-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Get Over 40% Off Your First Box, 10% Off Every Box After at Hello Fresh!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701497&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-09-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Jo Mercer",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701498&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-05-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Graduate Discount at Percival!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701499&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-10-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Nordace!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701500&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-07-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Eva!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701501&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-02-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Factorie",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701502&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-06-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "33% Student Discount at Ergoflex!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701503&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-07-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Full Price at Le Specs!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701504&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-08-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Kiehl's!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701505&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-05-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Elite Supps",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701506&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-11-29 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Elite Eleven!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701507&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-02-17 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at BURGA!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701508&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-07-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "12% Student Discount at MICAS!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701509&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-08-03 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "8% Student Discount at Hotels.com!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701510&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-06-03 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Cider!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701511&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-08-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Sand & Sky!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701512&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "45% Student Discount at Missguided!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701513&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-10-04 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "5% Student Discount at realme!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701514&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-09-19 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Fresh Fragrances",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701515&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-02-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Brava Lingerie",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701516&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Get 40% Off an Annual All Trails+ Subscription! at All Trails!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701517&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-02-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Sportitude!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701518&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-02-10 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Anastasia Beverly Hills!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701519&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-03-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "5% Student Discount at Dyson!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701520&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-06-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Charles & Keith!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701521&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-09-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Volley!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701522&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-05-20 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at ESR!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701523&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-04-09 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at RY!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701524&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount + free delivery at Charles Tyrwhitt",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701525&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Princess Polly!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701526&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-01-13 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Valleygirl!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701527&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-02-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping at Clinique",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701528&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-02-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 75% off sale Plus 10% student discount at yd!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701529&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-06-04 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Deus Ex Machina",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701530&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Catch.Com.Au!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701531&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-05-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at YP Threads!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701532&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "30% Student Discount at MobileTrans!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701533&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-11-29 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "50% Student Discount at Luminar Neo!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701534&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-09-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "8% Student Discount at SocialEras",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701535&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2020-02-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Esther & Co!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701536&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2021-02-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at H&M!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701537&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2022-07-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    }
+  ]
+}

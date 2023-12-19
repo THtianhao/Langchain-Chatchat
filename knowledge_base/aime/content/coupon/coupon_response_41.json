@@ -1,0 +1,1510 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 41,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "25% Off Kids Lunch Boxes - Canary",
+      "jumpUrl": "https://www.rewardany.com/store/hydro-flask?couponId=139674&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1904,
+      "storeName": "Hydro Flask",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hydro-flask_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "25% Off Kids Lunch Boxes - Firefly",
+      "jumpUrl": "https://www.rewardany.com/store/hydro-flask?couponId=139675&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1904,
+      "storeName": "Hydro Flask",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hydro-flask_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "The Trail Series Collection",
+      "jumpUrl": "https://www.rewardany.com/store/hydro-flask?couponId=653789&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1904,
+      "storeName": "Hydro Flask",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hydro-flask_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 20% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 50\u20ac, utilizando el c\u00f3digo LORES20 \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=106832&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 35% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo LORES35 \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=139686&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 35% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo LORES35 \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=139687&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 35% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo LORES35 \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=139688&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 35% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo LORES35 \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=139689&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 35% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo LORES35 \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=139690&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 35% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo LORES35 \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=139691&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 35% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo LORES35 \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=139692&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 35% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo LORES35 \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=139693&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 20% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo 45LORXMAS \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=679194&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 20% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo 45LORXMAS \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=679195&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 20% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo 45LORXMAS \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=679196&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 20% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo 45LORXMAS \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=679197&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 20% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo 45LORXMAS \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=679198&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 20% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo 45LORXMAS \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=679199&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 20% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo 45LORXMAS \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=679200&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Disfruta de un 20% de descuento en tus C\u00e1psulas L'OR por la compra m\u00ednima de 70\u20ac, utilizando el c\u00f3digo 45LORXMAS \u00a1No te lo pierdas!",
+      "jumpUrl": "https://www.rewardany.com/store/lor-es?couponId=679201&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 1956,
+      "storeName": "L'OR ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lor-es_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "End of Season Sale Starts Now - Explore Bags, Ready-to-Wear & Shoes Now Up to 65% Off.",
+      "jumpUrl": "https://www.rewardany.com/store/proenza-schouler-llc?couponId=139703&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-23 00:00:00",
+      "endDateGMT": "2029-06-14 00:00:00",
+      "storeId": 1968,
+      "storeName": "Proenza Schouler",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/proenza-schouler-llc-1701229182.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Buy 2 & Save on Closet Essentials",
+      "jumpUrl": "https://www.rewardany.com/store/rodd-and-gunn-us?couponId=653799&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2018-08-10 00:00:00",
+      "endDateGMT": "2029-10-05 00:00:00",
+      "storeId": 1971,
+      "storeName": "Rodd & Gunn US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rodd-and-gunn-us_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "10% Off First Order with Email and Text Sign-up",
+      "jumpUrl": "https://www.rewardany.com/store/herbivore-botanicals?couponId=139710&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-05-01 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1973,
+      "storeName": "Herbivore Botanicals",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbivore-botanicals_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 55% on Skincare Sets",
+      "jumpUrl": "https://www.rewardany.com/store/herbivore-botanicals?couponId=154090&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-13 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1973,
+      "storeName": "Herbivore Botanicals",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbivore-botanicals_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Wrinkle-Fighting Duo",
+      "jumpUrl": "https://www.rewardany.com/store/herbivore-botanicals?couponId=154091&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-13 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1973,
+      "storeName": "Herbivore Botanicals",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbivore-botanicals_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Clearly Bright Duo",
+      "jumpUrl": "https://www.rewardany.com/store/herbivore-botanicals?couponId=154092&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-13 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1973,
+      "storeName": "Herbivore Botanicals",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbivore-botanicals_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 20% on the New Blemish Busters Set",
+      "jumpUrl": "https://www.rewardany.com/store/herbivore-botanicals?couponId=653804&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1973,
+      "storeName": "Herbivore Botanicals",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbivore-botanicals_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 20% on the New Mommy Glow Pregnancy-Safe Set",
+      "jumpUrl": "https://www.rewardany.com/store/herbivore-botanicals?couponId=653805&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-22 00:00:00",
+      "endDateGMT": null,
+      "storeId": 1973,
+      "storeName": "Herbivore Botanicals",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbivore-botanicals_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sale Page (evergreen)",
+      "jumpUrl": "https://www.rewardany.com/store/mac-cosmetics?couponId=653807&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-08-17 00:00:00",
+      "endDateGMT": "2029-08-17 00:00:00",
+      "storeId": 2005,
+      "storeName": "MAC Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mac-cosmetics_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "MAC Lover - Evergreen",
+      "jumpUrl": "https://www.rewardany.com/store/mac-cosmetics?couponId=653808&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-09-12 00:00:00",
+      "endDateGMT": "2029-09-12 00:00:00",
+      "storeId": 2005,
+      "storeName": "MAC Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mac-cosmetics_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Foxcroft Sale Winter 2023",
+      "jumpUrl": "https://www.rewardany.com/store/foxcroft?couponId=664864&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-26 00:00:00",
+      "endDateGMT": "2024-01-15 00:00:00",
+      "storeId": 2027,
+      "storeName": "Foxcroft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/foxcroft_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Semi Annual Sale Acceleration",
+      "jumpUrl": "https://www.rewardany.com/store/foxcroft?couponId=664865&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2024-01-20 00:00:00",
+      "endDateGMT": "2024-01-29 00:00:00",
+      "storeId": 2027,
+      "storeName": "Foxcroft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/foxcroft_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SS23 Sale (40% Men)",
+      "jumpUrl": "https://www.rewardany.com/store/belstaff-de?couponId=205562&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-25 00:00:00",
+      "endDateGMT": "2029-05-24 00:00:00",
+      "storeId": 2029,
+      "storeName": "Belstaff DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/belstaff-de_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SS23 Sale (30% Women)",
+      "jumpUrl": "https://www.rewardany.com/store/belstaff-de?couponId=205563&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-25 00:00:00",
+      "endDateGMT": "2029-05-24 00:00:00",
+      "storeId": 2029,
+      "storeName": "Belstaff DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/belstaff-de_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SS23 Sale (30%)",
+      "jumpUrl": "https://www.rewardany.com/store/belstaff-de?couponId=205564&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-25 00:00:00",
+      "endDateGMT": "2029-05-24 00:00:00",
+      "storeId": 2029,
+      "storeName": "Belstaff DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/belstaff-de_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SS23 Sale (40%)",
+      "jumpUrl": "https://www.rewardany.com/store/belstaff-de?couponId=205565&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-09 00:00:00",
+      "endDateGMT": "2029-06-09 00:00:00",
+      "storeId": 2029,
+      "storeName": "Belstaff DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/belstaff-de_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SS23 Sale (40% Men)",
+      "jumpUrl": "https://www.rewardany.com/store/belstaff-de?couponId=205566&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-09 00:00:00",
+      "endDateGMT": "2029-06-08 00:00:00",
+      "storeId": 2029,
+      "storeName": "Belstaff DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/belstaff-de_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SS23 Sale (40% Women)",
+      "jumpUrl": "https://www.rewardany.com/store/belstaff-de?couponId=205567&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-09 00:00:00",
+      "endDateGMT": "2029-06-08 00:00:00",
+      "storeId": 2029,
+      "storeName": "Belstaff DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/belstaff-de_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "AW23 SALE - 40% (MEN)",
+      "jumpUrl": "https://www.rewardany.com/store/belstaff-de?couponId=653811&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2029-11-29 00:00:00",
+      "storeId": 2029,
+      "storeName": "Belstaff DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/belstaff-de_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "AW23 SALE - 40% (WOMEN)",
+      "jumpUrl": "https://www.rewardany.com/store/belstaff-de?couponId=653812&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2029-11-29 00:00:00",
+      "storeId": 2029,
+      "storeName": "Belstaff DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/belstaff-de_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "AW23 SALE - 40% (MAIN)",
+      "jumpUrl": "https://www.rewardany.com/store/belstaff-de?couponId=653813&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2029-11-29 00:00:00",
+      "storeId": 2029,
+      "storeName": "Belstaff DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/belstaff-de_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "LovelyWholesale",
+      "jumpUrl": "https://www.rewardany.com/store/lovelywholesale?couponId=106850&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2064,
+      "storeName": "LovelyWholesale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lovelywholesale_logo.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Athletics Event: Save Up to 40% off adidas, Vans, Puma, and Under Armour.",
+      "jumpUrl": "https://www.rewardany.com/store/famous-footwear-canada?couponId=653842&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2076,
+      "storeName": "Famous Footwear CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/famous-footwear-canada_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Boots Event: Take Up to 40% off Women\u2019s Boots for a limited time.",
+      "jumpUrl": "https://www.rewardany.com/store/famous-footwear-canada?couponId=653844&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-16 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2076,
+      "storeName": "Famous Footwear CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/famous-footwear-canada_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Select OGIO Golf Bags!",
+      "jumpUrl": "https://www.rewardany.com/store/ogio?couponId=106857&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2080,
+      "storeName": "OGIO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ogio_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Up to 40% Off OGIO Snow Gear | End of Season Sale",
+      "jumpUrl": "https://www.rewardany.com/store/ogio?couponId=106858&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2080,
+      "storeName": "OGIO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ogio_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "50% Off XIX Collection | OGIO Bags!",
+      "jumpUrl": "https://www.rewardany.com/store/ogio?couponId=106859&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2080,
+      "storeName": "OGIO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ogio_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "ATN FACTORY REFURBISHED OPTICS SALE! Like New! Save up to $1,000 on select refurbished optics!",
+      "jumpUrl": "https://www.rewardany.com/store/atn?couponId=679245&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-24 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 2109,
+      "storeName": "ATN",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/atn_logo.jpg",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Refurbished Units: Save up to $150 on X-Sight 4K Pro - Smart Ultra HD",
+      "jumpUrl": "https://www.rewardany.com/store/atn?couponId=679246&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-26 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2109,
+      "storeName": "ATN",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/atn_logo.jpg",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Refurbished Units: Save up to $120 on X-Sight LTV - Ultra Lightweight",
+      "jumpUrl": "https://www.rewardany.com/store/atn?couponId=679247&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-26 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2109,
+      "storeName": "ATN",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/atn_logo.jpg",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Refurbished Units: Save up to $300 on ThOR LT - Ultra Light",
+      "jumpUrl": "https://www.rewardany.com/store/atn?couponId=679248&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-26 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2109,
+      "storeName": "ATN",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/atn_logo.jpg",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Refurbished Units: Save up to $500 on ThOR 4 - Smart HD",
+      "jumpUrl": "https://www.rewardany.com/store/atn?couponId=679249&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-26 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2109,
+      "storeName": "ATN",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/atn_logo.jpg",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $250 on ThOR LT!",
+      "jumpUrl": "https://www.rewardany.com/store/atn?couponId=679250&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-26 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2109,
+      "storeName": "ATN",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/atn_logo.jpg",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $500 on ThOR 4!",
+      "jumpUrl": "https://www.rewardany.com/store/atn?couponId=679251&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2109,
+      "storeName": "ATN",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/atn_logo.jpg",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Vogue Online Shopping Night: 25% off selected full price styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=30852&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Vogue Online Shopping Night: 25% off selected full price styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=106867&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Vogue Online Shopping Night: 25% off selected full price styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=106868&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Vogue Online Shopping Night: 25% off selected full price styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=106869&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Vogue Online Shopping Night: 25% off selected full price styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=106870&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Vogue Online Shopping Night: 25% off selected full price styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=106871&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Vogue Online Shopping Night: 25% off selected full price styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=106872&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Vogue Online Shopping Night: 25% off selected full price styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=106873&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Vogue Online Shopping Night: 25% off selected full price styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=106874&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Vogue Online Shopping Night: 25% off selected full price styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=106876&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Vogue Online Shopping Night: 25% off selected full price styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=106877&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take a Further 25% off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167830&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take a Further 25% off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167831&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take a Further 25% off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167832&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take a Further 25% off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167833&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take a Further 25% off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167834&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Selected Full Price",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167841&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Selected Full Price",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167842&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Selected Full Price",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167843&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Selected Full Price",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167844&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Selected Full Price",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167845&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Selected Full Price",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167846&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Selected Full Price",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167847&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Selected Full Price",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167848&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Selected Full Price",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167849&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take a Further 25% off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167850&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take a Further 25% off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167851&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take a Further 25% off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167852&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Selected Full Price",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167855&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Selected Full Price",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167856&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take a Further 25% off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167857&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take a Further 25% off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167858&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Take a Further 25% off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=167859&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "M.J. Bale - Schmick Clicks: Take a further 25% off markdown styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679264&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "M.J. Bale - Schmick Clicks: Take a further 25% off markdown styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679265&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "M.J. Bale - Schmick Clicks: Take a further 25% off markdown styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679266&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "M.J. Bale - Schmick Clicks: Take a further 25% off markdown styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679267&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "M.J. Bale - Schmick Clicks: Take a further 25% off markdown styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679268&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week special offer: 25% off selected full-priced styles, both store and site-wide.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679269&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week special offer: 25% off selected full-priced styles, both store and site-wide.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679270&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday 2023- Take 50% off available on 50 styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679271&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday 2023- Take 50% off available on 50 styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679272&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday 2023- Take 50% off available on 50 styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679273&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday 2023- Take 50% off available on 50 styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679274&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday 2023- Take 50% off available on 50 styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679275&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday 2023- Take 50% off available on 50 styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679276&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    }
+  ]
+}

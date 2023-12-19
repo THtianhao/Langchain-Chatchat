@@ -1,0 +1,1544 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 94,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "PRODUTOS TOP A PRE\u00c7OS TOP*",
+      "jumpUrl": "https://www.rewardany.com/store/sephora-pt?couponId=704014&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-12 00:00:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 99577,
+      "storeName": "Sephora PT",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sephora-pt.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "OFERTA SEPHORA COLLECTION",
+      "jumpUrl": "https://www.rewardany.com/store/sephora-pt?couponId=704015&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-12 00:00:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 99577,
+      "storeName": "Sephora PT",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sephora-pt.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Fall Favorites Sale: Save 20% on MW08 Active Noise-Cancelling True Wireless Earphones and MH40 Wireless Headphones!",
+      "jumpUrl": "https://www.rewardany.com/store/masterdynamic-co-uk?couponId=261663&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-06 19:34:00",
+      "endDateGMT": "2028-10-05 23:00:00",
+      "storeId": 99670,
+      "storeName": "Master & Dynamic UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/masterdynamic-co-uk.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Flash Sale: Save 30% on MW50 Plus!",
+      "jumpUrl": "https://www.rewardany.com/store/masterdynamic-co-uk?couponId=261664&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-09 18:55:00",
+      "endDateGMT": "2028-11-09 00:00:00",
+      "storeId": 99670,
+      "storeName": "Master & Dynamic UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/masterdynamic-co-uk.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Flash Sale: 25% Off MH40 Wireless Plus MW08 True Wireless Earphones!",
+      "jumpUrl": "https://www.rewardany.com/store/masterdynamic-co-uk?couponId=261665&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-12-14 15:56:00",
+      "endDateGMT": "2028-12-14 00:00:00",
+      "storeId": 99670,
+      "storeName": "Master & Dynamic UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/masterdynamic-co-uk.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Get 10% Off Your First Purchase on MasterDynamic.com!",
+      "jumpUrl": "https://www.rewardany.com/store/masterdynamic-co-uk?couponId=261667&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-06-08 00:00:00",
+      "endDateGMT": "2025-06-04 00:00:00",
+      "storeId": 99670,
+      "storeName": "Master & Dynamic UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/masterdynamic-co-uk.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Erase signs of fatigue with our best-selling Prime Renewing Pack. Shop Now at Valmont Cosmetics!",
+      "jumpUrl": "https://www.rewardany.com/store/valmontcosmetics-com?couponId=343293&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-27 12:53:00",
+      "endDateGMT": "2028-11-02 04:00:00",
+      "storeId": 99679,
+      "storeName": "La Maison Valmont",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/valmontcosmetics-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Erase signs of fatigue with our best-selling Prime Renewing Pack. Shop Now at Valmont Cosmetics!",
+      "jumpUrl": "https://www.rewardany.com/store/valmontcosmetics-com?couponId=343294&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-27 12:53:00",
+      "endDateGMT": "2028-11-02 04:00:00",
+      "storeId": 99679,
+      "storeName": "La Maison Valmont",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/valmontcosmetics-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop La Maison Valmont\u00a9 Now to Benefit from A Gift with Your Purchase of $250 or More!",
+      "jumpUrl": "https://www.rewardany.com/store/valmontcosmetics-com?couponId=343295&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-08-13 00:00:00",
+      "endDateGMT": "2026-07-28 00:00:00",
+      "storeId": 99679,
+      "storeName": "La Maison Valmont",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/valmontcosmetics-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Restore skin radiance with our DETO2X Cream from Valmont Cosmetics!",
+      "jumpUrl": "https://www.rewardany.com/store/valmontcosmetics-com?couponId=343296&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-27 12:53:00",
+      "endDateGMT": "2028-11-02 04:00:00",
+      "storeId": 99679,
+      "storeName": "La Maison Valmont",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/valmontcosmetics-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Restore skin radiance with our DETO2X Cream from Valmont Cosmetics!",
+      "jumpUrl": "https://www.rewardany.com/store/valmontcosmetics-com?couponId=343297&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-27 12:53:00",
+      "endDateGMT": "2028-11-02 04:00:00",
+      "storeId": 99679,
+      "storeName": "La Maison Valmont",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/valmontcosmetics-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Revitalize your skin with our Moisturing Booster from Valmont Cosmetics!",
+      "jumpUrl": "https://www.rewardany.com/store/valmontcosmetics-com?couponId=343298&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-27 12:53:00",
+      "endDateGMT": "2028-11-02 04:00:00",
+      "storeId": 99679,
+      "storeName": "La Maison Valmont",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/valmontcosmetics-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Revitalize your skin with our Moisturing Booster from Valmont Cosmetics!",
+      "jumpUrl": "https://www.rewardany.com/store/valmontcosmetics-com?couponId=343299&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-27 12:53:00",
+      "endDateGMT": "2028-11-02 04:00:00",
+      "storeId": 99679,
+      "storeName": "La Maison Valmont",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/valmontcosmetics-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Valmont Cosmetics Home Page!",
+      "jumpUrl": "https://www.rewardany.com/store/valmontcosmetics-com?couponId=343300&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-27 12:56:00",
+      "endDateGMT": "2028-11-02 04:00:00",
+      "storeId": 99679,
+      "storeName": "La Maison Valmont",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/valmontcosmetics-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Valmont Cosmetics Home Page!",
+      "jumpUrl": "https://www.rewardany.com/store/valmontcosmetics-com?couponId=343301&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-27 12:56:00",
+      "endDateGMT": "2028-11-02 04:00:00",
+      "storeId": 99679,
+      "storeName": "La Maison Valmont",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/valmontcosmetics-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bundle & Save 20% on 3 or More Styles",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=172803&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-12-13 22:20:00",
+      "endDateGMT": "2028-12-13 08:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Your First Order when You Sign Up",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=172804&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-12-13 22:20:00",
+      "endDateGMT": "2028-12-13 08:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Connected Apparel | up To 65% Off Women's Dresses & Jumpsuits | Shop Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=172805&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-09 09:31:00",
+      "endDateGMT": "2029-01-09 00:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Connected Apparel | Get 25% Back On Your First Purchase | Shop Now!",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=172806&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-03 17:53:00",
+      "endDateGMT": "2029-04-03 04:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Connected Apparel | New to Sale > Up to 30% Off | Shop Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=172807&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-13 18:59:00",
+      "endDateGMT": "2029-04-13 04:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Connected Apparel | Regular Size Sale > Up to 60% Off | Shop Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=172808&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-13 18:59:00",
+      "endDateGMT": "2029-04-13 04:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Connected Apparel | Petite Size Sale > Up to 60% Off | Shop Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=172809&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-13 19:04:00",
+      "endDateGMT": "2029-04-13 04:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Connected Apparel | Plus Size Sale > Up to 60% Off | Shop Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=172810&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-13 19:04:00",
+      "endDateGMT": "2029-04-13 04:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Connected Apparel | Final Sale > Up to 60% Off | Shop Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=172811&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-13 19:04:00",
+      "endDateGMT": "2029-04-13 04:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Up to 65% Off Sale Styles from Connected Apparel",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=172812&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-12-13 22:20:00",
+      "endDateGMT": "2028-12-13 08:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Connected Apparel | Shop New To Sale Styles: Up to 40% Off | Shop Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=603402&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-13 17:11:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Connected Apparel | the End of Season Sale: 50% Off All Sale Items  |  Shop Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/connectedapparel-com?couponId=736324&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-19 05:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 108155,
+      "storeName": "Connected Apparel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/connectedapparel-com.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "SAVE UP TO 60% OFF SALE JEWELRY!",
+      "jumpUrl": "https://www.rewardany.com/store/jamesmichelle-com?couponId=220724&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-13 19:56:00",
+      "endDateGMT": "2029-06-13 07:00:00",
+      "storeId": 108170,
+      "storeName": "James Michelle",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jamesmichelle-com.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "FREE SHIPPING ON ORDERS OVER $100!",
+      "jumpUrl": "https://www.rewardany.com/store/jamesmichelle-com?couponId=220725&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-09 17:57:00",
+      "endDateGMT": "2029-05-23 04:00:00",
+      "storeId": 108170,
+      "storeName": "James Michelle",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jamesmichelle-com.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "15% OFF YOUR FIRST ORDER WITH EMAIL SIGNUP!",
+      "jumpUrl": "https://www.rewardany.com/store/jamesmichelle-com?couponId=220726&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-18 22:20:00",
+      "endDateGMT": "2029-06-02 04:00:00",
+      "storeId": 108170,
+      "storeName": "James Michelle",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jamesmichelle-com.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Receive 15% Off Your First Order when Sign Up For Bare Minerals Emails!",
+      "jumpUrl": "https://www.rewardany.com/store/bareminerals-com?couponId=431441&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-04-09 00:00:00",
+      "endDateGMT": "2025-04-08 00:00:00",
+      "storeId": 110230,
+      "storeName": "bareMinerals",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bareminerals-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "10% Off your first order!",
+      "jumpUrl": "https://www.rewardany.com/store/signalrelief-com?couponId=212597&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-16 15:22:00",
+      "endDateGMT": "2029-05-16 00:00:00",
+      "storeId": 110232,
+      "storeName": "Signal Relief",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/signalrelief-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 45% off!",
+      "jumpUrl": "https://www.rewardany.com/store/signalrelief-com?couponId=212598&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-16 15:22:00",
+      "endDateGMT": "2029-05-16 00:00:00",
+      "storeId": 110232,
+      "storeName": "Signal Relief",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/signalrelief-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bundle and save $200!",
+      "jumpUrl": "https://www.rewardany.com/store/signalrelief-com?couponId=212599&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-16 15:22:00",
+      "endDateGMT": "2029-05-16 00:00:00",
+      "storeId": 110232,
+      "storeName": "Signal Relief",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/signalrelief-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Hismile Today",
+      "jumpUrl": "https://www.rewardany.com/store/uk-hismileteeth-com?couponId=494572&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-09 03:18:00",
+      "endDateGMT": "2029-03-09 00:00:00",
+      "storeId": 112285,
+      "storeName": "HiSmile UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-hismileteeth-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bundle and Save a Minimum 20%",
+      "jumpUrl": "https://www.rewardany.com/store/uk-hismileteeth-com?couponId=494573&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-09 03:18:00",
+      "endDateGMT": "2029-03-09 00:00:00",
+      "storeId": 112285,
+      "storeName": "HiSmile UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-hismileteeth-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "10% off your next order when you sign up for our email list",
+      "jumpUrl": "https://www.rewardany.com/store/uk-hismileteeth-com?couponId=494574&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-09 03:18:00",
+      "endDateGMT": "2029-03-09 00:00:00",
+      "storeId": 112285,
+      "storeName": "HiSmile UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-hismileteeth-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bundle and Save a Minimum 20%",
+      "jumpUrl": "https://www.rewardany.com/store/uk-hismileteeth-com?couponId=494575&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-09 03:24:00",
+      "endDateGMT": "2029-03-09 00:00:00",
+      "storeId": 112285,
+      "storeName": "HiSmile UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-hismileteeth-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Hismile Today",
+      "jumpUrl": "https://www.rewardany.com/store/uk-hismileteeth-com?couponId=494576&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-09 03:25:00",
+      "endDateGMT": "2029-03-09 00:00:00",
+      "storeId": 112285,
+      "storeName": "HiSmile UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-hismileteeth-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "10% off your next order when you sign up for our email list",
+      "jumpUrl": "https://www.rewardany.com/store/uk-hismileteeth-com?couponId=494577&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-09 03:26:00",
+      "endDateGMT": "2029-03-09 00:00:00",
+      "storeId": 112285,
+      "storeName": "HiSmile UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-hismileteeth-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop the Christmas Sale at Hismile! Bundle and Save up To 60%. Valid December 4 \u2013 25!",
+      "jumpUrl": "https://www.rewardany.com/store/uk-hismileteeth-com?couponId=662766&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 112285,
+      "storeName": "HiSmile UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-hismileteeth-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Take our Hair quiz and get 15% off",
+      "jumpUrl": "https://www.rewardany.com/store/verbproducts-com?couponId=220754&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-14 17:20:00",
+      "endDateGMT": "2029-02-14 00:00:00",
+      "storeId": 112294,
+      "storeName": "Verb Products",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/verbproducts-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Smooth travels kit - great hair on the go at an affordable $26  (a $47 value)!",
+      "jumpUrl": "https://www.rewardany.com/store/verbproducts-com?couponId=220755&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-10 17:05:00",
+      "endDateGMT": "2029-03-10 00:00:00",
+      "storeId": 112294,
+      "storeName": "Verb Products",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/verbproducts-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping on orders $40 Plus!",
+      "jumpUrl": "https://www.rewardany.com/store/verbproducts-com?couponId=220756&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-11 23:38:00",
+      "endDateGMT": "2028-10-11 04:00:00",
+      "storeId": 112294,
+      "storeName": "Verb Products",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/verbproducts-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Value Kits and Save up to 35%!",
+      "jumpUrl": "https://www.rewardany.com/store/verbproducts-com?couponId=220757&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-11 23:38:00",
+      "endDateGMT": "2028-10-11 04:00:00",
+      "storeId": 112294,
+      "storeName": "Verb Products",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/verbproducts-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "New Verb Holiday Kits: Gift Great Hair and Save up To 40%!",
+      "jumpUrl": "https://www.rewardany.com/store/verbproducts-com?couponId=546189&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-12 17:15:00",
+      "endDateGMT": "2023-12-25 23:00:00",
+      "storeId": 112294,
+      "storeName": "Verb Products",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/verbproducts-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 25% on RV Insurance with Roamly!",
+      "jumpUrl": "https://www.rewardany.com/store/roamly-com?couponId=220758&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-08-23 19:03:00",
+      "endDateGMT": "2028-11-10 05:00:00",
+      "storeId": 112296,
+      "storeName": "Roamly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/roamly-com.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Your First Purchase!",
+      "jumpUrl": "https://www.rewardany.com/store/mineralfusion-com?couponId=220759&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-16 20:46:00",
+      "endDateGMT": "2026-11-17 08:00:00",
+      "storeId": 112298,
+      "storeName": "Mineral Fusion",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mineralfusion-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sign Up To Our Newsletter And Receive 15% Discount!",
+      "jumpUrl": "https://www.rewardany.com/store/buddhapowerstore-com?couponId=220760&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-20 20:54:00",
+      "endDateGMT": "2028-04-20 00:00:00",
+      "storeId": 112299,
+      "storeName": "Buddha Power Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/buddhapowerstore-com.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Spring Is Here! Save Big on Our Best-Selling Feng Shui Black Obsidian Wealth Bracelet!",
+      "jumpUrl": "https://www.rewardany.com/store/buddhapowerstore-com?couponId=220762&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-21 18:28:00",
+      "endDateGMT": "2028-04-21 00:00:00",
+      "storeId": 112299,
+      "storeName": "Buddha Power Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/buddhapowerstore-com.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "For a Limited Time Only, Pi Yao Obsidian Wealth Bracelet Is Available Starting at Only $75.00!",
+      "jumpUrl": "https://www.rewardany.com/store/buddhapowerstore-com?couponId=220763&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-21 18:28:00",
+      "endDateGMT": "2028-04-21 00:00:00",
+      "storeId": 112299,
+      "storeName": "Buddha Power Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/buddhapowerstore-com.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Shop Hair Thickening Fibers!",
+      "jumpUrl": "https://www.rewardany.com/store/yourhairlossexpert-com?couponId=220764&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-07 17:49:00",
+      "endDateGMT": "2028-11-07 05:00:00",
+      "storeId": 112301,
+      "storeName": "Dr. Yates MD Hair Care",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/yourhairlossexpert-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Dr. Yates MD Hair Care!",
+      "jumpUrl": "https://www.rewardany.com/store/yourhairlossexpert-com?couponId=220765&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-07 17:35:00",
+      "endDateGMT": "2028-11-07 05:00:00",
+      "storeId": 112301,
+      "storeName": "Dr. Yates MD Hair Care",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/yourhairlossexpert-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Dr. Yates MD Hair Care!",
+      "jumpUrl": "https://www.rewardany.com/store/yourhairlossexpert-com?couponId=220766&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-07 17:35:00",
+      "endDateGMT": "2028-11-07 05:00:00",
+      "storeId": 112301,
+      "storeName": "Dr. Yates MD Hair Care",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/yourhairlossexpert-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Thickening Hair Care Products!",
+      "jumpUrl": "https://www.rewardany.com/store/yourhairlossexpert-com?couponId=220767&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-07 17:38:00",
+      "endDateGMT": "2028-11-07 05:00:00",
+      "storeId": 112301,
+      "storeName": "Dr. Yates MD Hair Care",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/yourhairlossexpert-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop All Hair Care!",
+      "jumpUrl": "https://www.rewardany.com/store/yourhairlossexpert-com?couponId=220768&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-07 17:49:00",
+      "endDateGMT": "2028-11-07 05:00:00",
+      "storeId": 112301,
+      "storeName": "Dr. Yates MD Hair Care",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/yourhairlossexpert-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Handy Folding Knife - only $10!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220775&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-10-25 00:00:00",
+      "endDateGMT": "2025-10-25 00:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Flashlight Special $7.95 - no code needed",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220776&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-11-11 00:00:00",
+      "endDateGMT": "2025-11-08 00:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "High Quality Garden Tools- Up to 20% Off on Select Items!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220777&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-05-28 00:00:00",
+      "endDateGMT": "2026-05-27 00:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Dependable Woodworking Tools- 15-20% Off Select Items!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220778&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-05-28 00:00:00",
+      "endDateGMT": "2026-05-27 00:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Personal Nail Brush Reg $7.75 Now $4.00!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220779&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-03 14:41:00",
+      "endDateGMT": "2027-08-03 04:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Four Hammer Set Special Reg $24.50 Now $10.00!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220780&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-03 14:42:00",
+      "endDateGMT": "2027-08-03 04:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Garrett Wade Bypass Pruner Special Reg. $21.50 Now $10.00!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220781&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-03 14:49:00",
+      "endDateGMT": "2027-08-03 04:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Garrett Wade | Razor Scraper Tool Reg $7.95 Now $6.00!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220782&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-03 14:54:00",
+      "endDateGMT": "2027-08-03 04:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Garrett Wade | Traditional Detailing Brush Special Reg $9.95 Now $5.00!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220783&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-03 14:58:00",
+      "endDateGMT": "2027-08-03 04:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Garrett Wade | 9 in 1 Pen Screwdriver Special Reg $5.95 Now $3.00!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220784&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-03 14:59:00",
+      "endDateGMT": "2027-08-03 04:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Garrett Wade | Elegant Steel Pen Knife Special Reg $149.75 Now $92.95!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220785&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-03 16:55:00",
+      "endDateGMT": "2027-08-03 04:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Garrett Wade | Multi Function Scissors Special - Reg $22.75 Now $10.00!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220786&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-03 17:02:00",
+      "endDateGMT": "2027-08-03 04:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Garrett Wade | Drop - Point Knife Special Reg $15.50 Sale $8.00!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220787&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-03 17:03:00",
+      "endDateGMT": "2027-08-03 04:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "The Official Coupons and Promotions Page | Up to 10% Off | Garrett Wade!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220788&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-09-08 17:47:00",
+      "endDateGMT": "2027-09-08 04:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Service Members, Veterans and Their Spouses: Take 10% Off Your Order All Year Long! Verification Required on Site!",
+      "jumpUrl": "https://www.rewardany.com/store/garrettwade-com?couponId=220789&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-11-09 20:28:00",
+      "endDateGMT": "2027-11-09 05:00:00",
+      "storeId": 112304,
+      "storeName": "Garrett Wade",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/garrettwade-com.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Extra 15% Off Added to The Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/agentprovocateur-com-us?couponId=220793&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-07-17 00:00:00",
+      "endDateGMT": "2026-07-16 00:00:00",
+      "storeId": 112305,
+      "storeName": "Agent Provocateur US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/agentprovocateur-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Military and Veterans Discount Codes for 15% Off with ID.me!",
+      "jumpUrl": "https://www.rewardany.com/store/marathonsports-com?couponId=228956&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-02 14:01:00",
+      "endDateGMT": "2028-11-18 00:00:00",
+      "storeId": 112311,
+      "storeName": "Marathon Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/marathonsports-com.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Students and Teachers Discount Codes for 10% Off with ID.me!",
+      "jumpUrl": "https://www.rewardany.com/store/marathonsports-com?couponId=228957&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-02 14:02:00",
+      "endDateGMT": "2028-11-18 00:00:00",
+      "storeId": 112311,
+      "storeName": "Marathon Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/marathonsports-com.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Medical Providers, Nurses, and First Responders Discount Codes for 15% Off with ID.me!",
+      "jumpUrl": "https://www.rewardany.com/store/marathonsports-com?couponId=228958&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-02 14:02:00",
+      "endDateGMT": "2028-11-18 00:00:00",
+      "storeId": 112311,
+      "storeName": "Marathon Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/marathonsports-com.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 54% on Clearance Running Shoes!",
+      "jumpUrl": "https://www.rewardany.com/store/marathonsports-com?couponId=228959&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-18 20:47:00",
+      "endDateGMT": "2028-11-18 00:00:00",
+      "storeId": 112311,
+      "storeName": "Marathon Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/marathonsports-com.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Get 10% Off Your First Purchase on LOLSurprise.com! Use WELCOMELOL at checkout.",
+      "jumpUrl": "https://www.rewardany.com/store/lolsurprise-com?couponId=517929&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-13 18:09:00",
+      "endDateGMT": "2029-02-13 05:00:00",
+      "storeId": 112313,
+      "storeName": "LOL Surprise",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lolsurprise-com.png",
+      "categories": [
+        "Toys & Games"
+      ]
+    },
+    {
+      "couponTitle": "LearnWorlds is your one-stop platform to create, sell, promote and monetize your digital content. Start your free trial today!",
+      "jumpUrl": "https://www.rewardany.com/store/learnworlds-com?couponId=228963&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-03-01 13:59:00",
+      "endDateGMT": "2028-02-29 22:00:00",
+      "storeId": 112315,
+      "storeName": "Learnworlds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/learnworlds-com.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Careerist Summer Sale. Discounts Up to 50%",
+      "jumpUrl": "https://www.rewardany.com/store/careerist-com?couponId=447317&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-23 18:46:00",
+      "endDateGMT": "2029-06-23 04:00:00",
+      "storeId": 112316,
+      "storeName": "Careerist",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/careerist-com.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Get $10 Off when You Sign Up!",
+      "jumpUrl": "https://www.rewardany.com/store/drop-com?couponId=228964&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-06 18:39:00",
+      "endDateGMT": "2029-04-06 00:00:00",
+      "storeId": 112317,
+      "storeName": "Drop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/drop-com.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Exclusive Deals - Up to 65% Off",
+      "jumpUrl": "https://www.rewardany.com/store/drop-com?couponId=270754&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-26 14:40:00",
+      "endDateGMT": "2029-06-26 00:00:00",
+      "storeId": 112317,
+      "storeName": "Drop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/drop-com.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "ChloBo Gifts from \u00a335",
+      "jumpUrl": "https://www.rewardany.com/store/chlobo-co-uk?couponId=624043&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-31 08:35:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 112321,
+      "storeName": "ChloBo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chlobo-co-uk.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "10% Off when You Sign Up!",
+      "jumpUrl": "https://www.rewardany.com/store/sorel-com?couponId=228971&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-02 17:05:00",
+      "endDateGMT": "2029-02-02 00:00:00",
+      "storeId": 112322,
+      "storeName": "Sorel UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sorel-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping on all orders $60 Plus at Jurlique!",
+      "jumpUrl": "https://www.rewardany.com/store/jurlique-com?couponId=257297&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-12 13:00:00",
+      "endDateGMT": "2028-09-12 04:00:00",
+      "storeId": 112325,
+      "storeName": "Jurlique US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jurlique-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Welcome Email Offer - Receive 10% off your first order when you sign up to become a Jurlique Insider!",
+      "jumpUrl": "https://www.rewardany.com/store/jurlique-com?couponId=257298&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-12 13:02:00",
+      "endDateGMT": "2028-09-12 04:00:00",
+      "storeId": 112325,
+      "storeName": "Jurlique US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jurlique-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get $10 for Every Friend Who Funds Their Account!",
+      "jumpUrl": "https://www.rewardany.com/store/jackpocket-com?couponId=257300&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-28 16:18:00",
+      "endDateGMT": "2028-10-28 00:00:00",
+      "storeId": 112326,
+      "storeName": "Jackpocket",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jackpocket-com.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "When Your Friend Funds Your Account, Jackpocket Credits You a Free $10!",
+      "jumpUrl": "https://www.rewardany.com/store/jackpocket-com?couponId=257301&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-28 16:18:00",
+      "endDateGMT": "2028-10-28 00:00:00",
+      "storeId": 112326,
+      "storeName": "Jackpocket",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jackpocket-com.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Subscribe & Save Up to 30% OFF On Hotel-inspired products",
+      "jumpUrl": "https://www.rewardany.com/store/hotelcollection-com?couponId=657404&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-03 18:01:00",
+      "endDateGMT": "2029-05-03 00:00:00",
+      "storeId": 112327,
+      "storeName": "Hotel Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hotelcollection-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Up to 60% Off Luxury Scents, Travel and Wine!",
+      "jumpUrl": "https://www.rewardany.com/store/hotelcollection-com?couponId=657405&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-29 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 112327,
+      "storeName": "Hotel Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hotelcollection-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "30% Off - Laundry Pods 30 Pack Subscription!",
+      "jumpUrl": "https://www.rewardany.com/store/hotelcollection-com?couponId=657406&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-13 23:05:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 112327,
+      "storeName": "Hotel Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hotelcollection-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "40% Off - Laundry Pods 45 Pack Subscription!",
+      "jumpUrl": "https://www.rewardany.com/store/hotelcollection-com?couponId=657407&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-13 23:05:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 112327,
+      "storeName": "Hotel Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hotelcollection-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "40% - 60% Off Sitewide!",
+      "jumpUrl": "https://www.rewardany.com/store/hotelcollection-com?couponId=657408&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 16:35:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 112327,
+      "storeName": "Hotel Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hotelcollection-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Shop Hotel Collection Today",
+      "jumpUrl": "https://www.rewardany.com/store/hotelcollection-com?couponId=657409&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-03 18:01:00",
+      "endDateGMT": "2029-05-03 00:00:00",
+      "storeId": 112327,
+      "storeName": "Hotel Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hotelcollection-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping on Orders Over $275",
+      "jumpUrl": "https://www.rewardany.com/store/hotelcollection-com?couponId=657410&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-03 18:01:00",
+      "endDateGMT": "2029-05-03 00:00:00",
+      "storeId": 112327,
+      "storeName": "Hotel Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hotelcollection-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Sale  40% - 60% Off Sitewide!",
+      "jumpUrl": "https://www.rewardany.com/store/hotelcollection-com?couponId=676974&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-06 20:07:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 112327,
+      "storeName": "Hotel Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hotelcollection-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Last Minute Gifts up To 60% Off Luxury Scenting, Travel, Wine and More!",
+      "jumpUrl": "https://www.rewardany.com/store/hotelcollection-com?couponId=709524&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 112327,
+      "storeName": "Hotel Collection",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hotelcollection-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "DERMAdoctor Skin Care - Save 15% With Auto-Delivery!",
+      "jumpUrl": "https://www.rewardany.com/store/dermadoctor-com?couponId=257306&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2017-05-17 00:00:00",
+      "endDateGMT": "2026-03-20 00:00:00",
+      "storeId": 112328,
+      "storeName": "DERMAdoctor ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermadoctor-com.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save Up To 30% Off Half Zip Women's Jumpers!",
+      "jumpUrl": "https://www.rewardany.com/store/uk-ryderwear-com?couponId=257317&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-13 06:45:00",
+      "endDateGMT": "2028-09-13 23:00:00",
+      "storeId": 112331,
+      "storeName": "Ryderwear UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-ryderwear-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Up to 60% Off Men's Jackets!",
+      "jumpUrl": "https://www.rewardany.com/store/uk-ryderwear-com?couponId=257318&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-13 06:45:00",
+      "endDateGMT": "2028-09-13 23:00:00",
+      "storeId": 112331,
+      "storeName": "Ryderwear UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-ryderwear-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Up To 40% Off Mens Tanks!",
+      "jumpUrl": "https://www.rewardany.com/store/uk-ryderwear-com?couponId=257319&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-13 06:45:00",
+      "endDateGMT": "2028-09-13 23:00:00",
+      "storeId": 112331,
+      "storeName": "Ryderwear UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/uk-ryderwear-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    }
+  ]
+}

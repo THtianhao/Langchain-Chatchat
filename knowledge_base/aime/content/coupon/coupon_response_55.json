@@ -1,0 +1,1511 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 55,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "Hunter Boots Top Sellers Up to 59% Off plus Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=677798&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-07 18:37:00",
+      "endDateGMT": "2023-12-20 05:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Up to Extra 40% Off This Event Plus Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=710267&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 18:40:00",
+      "endDateGMT": "2024-01-02 00:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Puma Private Sale up To 60% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=710313&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 18:40:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Winter Fashion Wonderland Up to 65% Off (Curated Assortment)!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=726424&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "APC Winter Fashion Up to extra 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=726425&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Pompeii3 Winter Fashion Up to 80% Off Price as Marked!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=726429&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Accuratime Winter Fashion Up to Extra 20% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=726431&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Kids Atelier up To Extra 25% Off Designer Kids Apparel!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=726432&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Campus Sutra Winter Fashion up To 55% Off Price as Marked!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=726433&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Members only Winter Fashion up To 50% Off Price as Marked!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=726434&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Vir Jewels Winter Fashion Up to Extra 35% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=726438&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Parda, Burberry, Kate Spade and More Sunglasses. No Code Needed. Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=731840&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 20:48:00",
+      "endDateGMT": "2023-12-25 05:00:00",
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Couples and Family Bundle Now: $71.77!",
+      "jumpUrl": "https://www.rewardany.com/store/the-adventure-challenge?couponId=403060&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-02-02 21:00:00",
+      "endDateGMT": "2027-02-02 00:00:00",
+      "storeId": 569,
+      "storeName": "The Adventure Challenge",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-adventure-challenge.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "$1,390 in Savings: Advanced Pmp Exam Prep Boot Camp! Includes a 1 Year Subscription to Our Pdu Library!",
+      "jumpUrl": "https://www.rewardany.com/store/project-management-academy?couponId=221614&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-09 19:48:00",
+      "endDateGMT": "2027-06-09 00:00:00",
+      "storeId": 583,
+      "storeName": "Project Management Academy",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/project-management-academy.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "$2,760 in Savings: Premium Pmp Exam Prep Boot Camp! Get Everything You Need to Pass & Enhance Your Skills!",
+      "jumpUrl": "https://www.rewardany.com/store/project-management-academy?couponId=221615&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-09 19:48:00",
+      "endDateGMT": "2027-06-09 00:00:00",
+      "storeId": 583,
+      "storeName": "Project Management Academy",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/project-management-academy.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Up To 40% Off Eichholtz Furniture, Lighting & Decor",
+      "jumpUrl": "https://www.rewardany.com/store/oroa?couponId=166287&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-25 19:29:00",
+      "endDateGMT": "2027-01-25 05:00:00",
+      "storeId": 607,
+      "storeName": "OROA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oroa_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Little White Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166346&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:32:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "New Floral Dresses Arriving Daily at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166347&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:32:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Formal Jumpsuits at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166348&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:32:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Cocktail Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166349&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:32:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop City Hall Wedding Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166350&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:38:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Find Bridal Jumpsuits at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166351&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:38:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "In Stock Plus Size Wedding Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166352&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:38:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "In Stock Wedding Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166353&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:38:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Hand Beaded Bridesmaid Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166354&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:38:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Discover Velvet Bridesmaid Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166355&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:38:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Find Plus Size Bridesmaid Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166356&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:38:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Emerald Green Bridesmaid Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166357&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:38:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Find Floral Bridesmaid Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166358&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:38:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Mother of the Bride Bridal Shower Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166359&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:38:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Ready to Ship Knee Length Mother of the Bride Dresses!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166360&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:46:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Cocktail Dresses for the Mother of the Bride at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166361&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:46:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Mother of the Bride Dresses with Sleeves at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166362&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:46:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Plus Size Mother of the Bride Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166363&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:46:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Shapewear at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166364&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:46:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop New Spring Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166365&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:46:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Wear Life Beautifully!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166366&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:26:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Formal Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166367&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:46:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Hand Beaded Bridesmaid Dresses Under $200 at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166368&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:46:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Bridesmaid Dresses Unde $200 at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166369&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:46:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Mother of the Bride Dresses Under $400!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166370&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:46:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Up to 40% off Sale Styles!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166372&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:29:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "$20 Off your first order at AdriannaPapell.com!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166373&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-26 15:59:00",
+      "endDateGMT": "2028-01-26 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Find Prom Dresses at Adrianna Papell: Sizes 0-30!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166374&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-26 16:02:00",
+      "endDateGMT": "2028-01-26 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "New Arrivals Added Daily, Sizes 0-26W!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166375&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:29:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Plus Size Dresses, Sizes 14W - 26W!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166376&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:29:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Mother of the Bride Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166377&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:29:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Save up To 70% Off Last Chance Styles!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166378&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-18 16:53:00",
+      "endDateGMT": "2028-10-18 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Find Wedding Guest Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166379&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:32:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Find Party Dresses at Adrianna Papell!",
+      "jumpUrl": "https://www.rewardany.com/store/adrianna-papell?couponId=166380&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-22 13:32:00",
+      "endDateGMT": "2028-01-22 00:00:00",
+      "storeId": 675,
+      "storeName": "Adrianna Papell",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/adrianna-papell_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping on All Kn95 Face Mask Orders!",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213686&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-19 13:54:00",
+      "endDateGMT": "2026-11-19 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bulk Pricing on N95 Face Masks as Low as $2.79 a Mask!",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213687&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-19 13:54:00",
+      "endDateGMT": "2026-11-19 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% Off Face Masks!",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213688&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-19 14:22:00",
+      "endDateGMT": "2026-11-19 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Over 50% off 59S UVC sanitizing wand. Kill up to 99.9%* of germs!",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213689&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-23 15:23:00",
+      "endDateGMT": "2026-11-23 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Super Black Friday Sale Over 50% off 59s UVC Sanitizing Wand!",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213690&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-23 15:23:00",
+      "endDateGMT": "2026-11-23 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Over 50% Off UV Wands!",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213691&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-23 15:23:00",
+      "endDateGMT": "2026-11-23 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Take 50% Off #1 Selling UVC Wand. The 59S X Sanitizing Wand.",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213692&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-23 15:23:00",
+      "endDateGMT": "2026-11-23 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Over 50% Off 3 Ply Disposable Procedure Masks",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213693&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-23 15:34:00",
+      "endDateGMT": "2026-11-23 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Over 50% Off 3 Ply Disposable Procedure Masks!",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213694&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-23 15:34:00",
+      "endDateGMT": "2026-11-23 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% Off N95 Face Masks!",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213699&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-12-16 19:52:00",
+      "endDateGMT": "2026-12-16 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% Off N95 Face Masks!",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213700&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-12-16 19:52:00",
+      "endDateGMT": "2026-12-16 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% Off Face Masks!",
+      "jumpUrl": "https://www.rewardany.com/store/bona-fide-masks?couponId=213701&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-12-16 19:52:00",
+      "endDateGMT": "2026-12-16 05:00:00",
+      "storeId": 712,
+      "storeName": "Bona Fide Masks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bona-fide-masks_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "20% off your first purchase!",
+      "jumpUrl": "https://www.rewardany.com/store/andalou-naturals?couponId=166574&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-12-08 18:03:00",
+      "endDateGMT": "2026-12-09 08:00:00",
+      "storeId": 727,
+      "storeName": "Andalou Naturals",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/andalou-naturals_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Join our Auto-Delivery Monthly Subscription & Enjoy 20% Off plus Free Shipping on $45 or More at Community Coffee!",
+      "jumpUrl": "https://www.rewardany.com/store/community-coffee?couponId=343742&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-09-03 00:00:00",
+      "endDateGMT": "2026-08-03 00:00:00",
+      "storeId": 775,
+      "storeName": "Community Coffee",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/community-coffee.png",
+      "categories": [
+        "Health & Beauty",
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Stay 40% Cooler with Coolwick Bowling Apparel!",
+      "jumpUrl": "https://www.rewardany.com/store/coolwickcom?couponId=251921&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-08-28 00:26:00",
+      "endDateGMT": "2026-08-27 04:00:00",
+      "storeId": 784,
+      "storeName": "Coolwick.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/coolwickcom_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Save 10% Off When You Sign Up for Email",
+      "jumpUrl": "https://www.rewardany.com/store/zwilling-ca?couponId=497742&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-05-25 00:00:00",
+      "endDateGMT": "2026-05-10 00:00:00",
+      "storeId": 874,
+      "storeName": "Zwilling CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/zwilling-ca_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save Up to 40% Off Knives, Cookware, Kitchen Tools, Electrics and More!",
+      "jumpUrl": "https://www.rewardany.com/store/zwilling-ca?couponId=497743&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-05-25 00:00:00",
+      "endDateGMT": "2026-05-20 00:00:00",
+      "storeId": 874,
+      "storeName": "Zwilling CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/zwilling-ca_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Canvas Art starts at $49 plus!",
+      "jumpUrl": "https://www.rewardany.com/store/artcom?couponId=579067&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-31 19:43:00",
+      "endDateGMT": "2029-10-31 07:00:00",
+      "storeId": 878,
+      "storeName": "Art.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/artcom_logo.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop Museum Quality Large Canvas Art for $120 plus!",
+      "jumpUrl": "https://www.rewardany.com/store/artcom?couponId=579068&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-31 19:45:00",
+      "endDateGMT": "2023-12-31 08:00:00",
+      "storeId": 878,
+      "storeName": "Art.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/artcom_logo.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Framed Art starts at $69 plus!",
+      "jumpUrl": "https://www.rewardany.com/store/artcom?couponId=579069&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-31 19:46:00",
+      "endDateGMT": "2023-12-31 08:00:00",
+      "storeId": 878,
+      "storeName": "Art.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/artcom_logo.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Sign up & Save 10% - New Email Subscribers Exclusive!",
+      "jumpUrl": "https://www.rewardany.com/store/mdesign?couponId=204782&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-09 22:35:00",
+      "endDateGMT": "2029-03-09 05:00:00",
+      "storeId": 913,
+      "storeName": "mDesign",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mdesign_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop mDesign Deals. Save Up to 20% Best Selling Home Storage, Organization & D\u00e9cor!",
+      "jumpUrl": "https://www.rewardany.com/store/mdesign?couponId=204784&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-09 22:35:00",
+      "endDateGMT": "2029-03-09 05:00:00",
+      "storeId": 913,
+      "storeName": "mDesign",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mdesign_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save Up to 40% on 8 Packs of Best-Selling Clear Storage Bins. Get Organized Today!",
+      "jumpUrl": "https://www.rewardany.com/store/mdesign?couponId=204785&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-09 22:35:00",
+      "endDateGMT": "2029-03-09 05:00:00",
+      "storeId": 913,
+      "storeName": "mDesign",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mdesign_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Coltorti Winter Sales up To 50% Off FW23 Collection - Us, China, Korea, Row - Star Items Excluded!",
+      "jumpUrl": "https://www.rewardany.com/store/coltorti-boutique-eu?couponId=638344&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2024-01-10 00:00:00",
+      "storeId": 966,
+      "storeName": "Coltorti Boutique EU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/coltorti-boutique-eu_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in London.  Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636342&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-09-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Paris - Eiffel Tower, Moulin Rouge, Seine + More.  Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636343&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-12-08 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in New York - Statue of Liberty, Museums and More . Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636344&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-12-08 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy savings of up to 50% off on worldwide tours, activities and things to do",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636345&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-12-15 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "New 24 Hour cancellation policy",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636346&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-12-15 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Las Vegas - Grand Canyon, Hoover Damn and More.  Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636347&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-21 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Amsterdam - Museums, River Cruises and More.  Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636348&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Barcelona - Sagrada Familia, Casa Batllo and More.  Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636349&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Venice - Basilica, Doge's Palace, Canal Cruise and More , River Cruises and More.  Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636350&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Planning a trip to Italy?  Discover places to visit and top things to do.  Plus Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636351&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Planning a trip to France?  Discover places to visits and top things to do.  Plus Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636352&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Planning a trip to Spain?  Discover places to visit and top things to do.  Plus Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636353&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Planning a trip to United States?  Discover places to visit and top things to do.  Plus Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636354&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Planning trip to Europe?  Discover top places to visit and save on things to do. Reserve now and pay later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636355&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Book the best food and drinks experiences by destination",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636356&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save and book on top cultural experiences",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636357&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do this weekend.  Plus save on Viator experiences",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636358&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Rome - Vatican, Colosseum, Day Trips and More.  Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636359&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Florence - Galleries, Day Trips and More.  Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636360&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Edinburgh - Loch Ness, Day Trips and More. Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636361&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-21 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Budapest - Evening Tours, Day Trips and More. Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636362&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-21 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Dubrovnik - Boat Trips, Day Trips and More. Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636363&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-21 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 30% off tours and activities on Viator",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636364&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-03-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Top things to do with kids",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636365&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-03-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Reserve Now & Pay Later! Keep your plans flexible with Viator",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636368&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-08-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save time and money with Viator's low-price guarantee",
+      "jumpUrl": "https://www.rewardany.com/store/viator-uk?couponId=636369&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-08-12 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 997,
+      "storeName": "Viator UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-uk_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    }
+  ]
+}

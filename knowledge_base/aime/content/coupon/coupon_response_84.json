@@ -1,0 +1,1524 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 84,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "Save Big on 1 Carat plus Luxury Diamond Deals from Just $156.20",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=675086&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-06 20:00:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop Our Exclusive Mined Diamond Jewelry Deals from Just $102.20",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=675087&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-06 20:00:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop Our Fancy Lab Grown Diamond Jewelry Deals from Just $58.38",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=675088&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-06 20:00:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop Our Colorful Gemstone and Diamond Jewelry Deals from Just $82.60",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=675089&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-06 20:00:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop Our Doorbuster Gold-Filled Jewelry Deals from Just $18.84",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=675090&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-06 20:00:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop our $99 Jewelry Deals - Free Guaranteed Delivery Before Christmas! Get the MOM Diamond Heart Pendant 10K Yellow Gold!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=713716&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 00:22:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop our $99 Jewelry Deals - Free Guaranteed Delivery Before Christmas! Get the 1/4 Carat Diamond Solitaire Stud Earrings in 14K White Gold!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=713717&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 00:22:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop our $99 Jewelry Deals - Free Guaranteed Delivery Before Christmas! Get the 1/4 CTW Genuine Diamond Cascading Pendant in 10K White Gold!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=713718&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 00:23:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop our $99 Jewelry Deals - Free Guaranteed Delivery Before Christmas! Get the .05 Carat Diamond Cross Ring in 10K White Gold!",
+      "jumpUrl": "https://www.rewardany.com/store/szulcom?couponId=713719&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 00:24:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3396,
+      "storeName": "Szul",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/szulcom.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "$15 Off Everything for Newsletter Signup!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330691&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2016-11-17 00:00:00",
+      "endDateGMT": "2028-11-17 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "New! Sound Forge Pro 365. 12 or 3 month plan for The complete audio editing package from only $14.99/month!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330692&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2018-04-05 00:00:00",
+      "endDateGMT": "2024-04-04 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "New! ACID Pro 8. The Creative Digital Audio Workstation for Only $149!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330693&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2018-04-30 00:00:00",
+      "endDateGMT": "2024-04-23 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "New! ACID Pro 365. 12 or 3 Month Plan for a Creative Digital Audio Workstation from Only $7.99/Month!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330694&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2018-04-30 00:00:00",
+      "endDateGMT": "2024-04-23 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "ACID Music Studio 11: Make music in your own recording studio - only $59.99!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330695&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-02-06 00:00:00",
+      "endDateGMT": "2025-02-06 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "New VEGAS Post 365 - The smart alternative for video editing & postproduction. Get started for just $21.00/month",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330696&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-08-13 00:00:00",
+      "endDateGMT": "2025-08-12 00:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Vegas Pro Creator Bundle for Only $499 Instead of $2196!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330697&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-31 01:00:00",
+      "endDateGMT": "2024-06-27 23:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Vegas Collector's Edition for Only $799 Instead of $3551.9!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=330698&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-31 01:00:00",
+      "endDateGMT": "2025-06-27 23:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "MAGIX SALE. Discover the best deals MAGIX has to offer. Save up to 86%!",
+      "jumpUrl": "https://www.rewardany.com/store/magix-software-and-vegas-creative-software?couponId=354949&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-28 04:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3405,
+      "storeName": "MAGIX Software & VEGAS Creative Software",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magix-software-and-vegas-creative-software_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Bake Me A Wish | Subscribe and Enjoy 15% Off Your Next Order | Shop Now!",
+      "jumpUrl": "https://www.rewardany.com/store/bake-me-a-wish?couponId=207470&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-10 19:26:00",
+      "endDateGMT": "2029-03-10 05:00:00",
+      "storeId": 3407,
+      "storeName": "Bake Me A Wish",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bake-me-a-wish_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Bake Me A Wish | BMAW Gifting Rewards Program, $1=1 Point | Shop Now",
+      "jumpUrl": "https://www.rewardany.com/store/bake-me-a-wish?couponId=207471&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-06 16:29:00",
+      "endDateGMT": "2025-04-07 04:00:00",
+      "storeId": 3407,
+      "storeName": "Bake Me A Wish",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bake-me-a-wish_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up To 60% on Ink and Toners!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439923&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Canon Ink as Low as $10.87 Each!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439924&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Save Over 80% on Bulk Items!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439925&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Binders up To 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439926&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Air Can Dusters as Low as $2.86/each!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439927&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Save 80% on Paper!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439928&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Save 65% on Binders!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439929&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Save Over 50% on Select Home & Office Furniture!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439930&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Get Face Masks up To 30% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/bulk-office-supply?couponId=439931&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-22 18:51:00",
+      "endDateGMT": "2027-01-22 05:00:00",
+      "storeId": 3409,
+      "storeName": "Bulk Office Supply",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bulk-office-supply-1701065419.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "FREE Standard USA Shipping on ANY Angara Jewelry purchase Plus FREE Returns Plus 30-Day Guarantee - CUSTOMIZED, HANDCRAFTED, DIRECT From Source, 100% Conflict-FREE, Lifetime WARRANTY - SHOP NOW!",
+      "jumpUrl": "https://www.rewardany.com/store/angaracom?couponId=735241&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-30 20:22:00",
+      "endDateGMT": "2023-12-31 08:00:00",
+      "storeId": 3423,
+      "storeName": "Angara",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/angaracom-1702977426.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "FREE INTERNATIONAL Shipping on $500 Angara Jewelry purchase (select destinations) Plus 30-Day Guarantee - CUSTOMIZED, HANDCRAFTED, DIRECT From Source, 100% Conflict-FREE, Lifetime WARRANTY - SHOP NOW!",
+      "jumpUrl": "https://www.rewardany.com/store/angaracom?couponId=735242&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-30 20:22:00",
+      "endDateGMT": "2023-12-31 08:00:00",
+      "storeId": 3423,
+      "storeName": "Angara",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/angaracom-1702977426.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Become a Collector and Save 10%. Exclusions Apply!",
+      "jumpUrl": "https://www.rewardany.com/store/allen-edmonds?couponId=169950&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-03-31 15:46:00",
+      "endDateGMT": "2028-03-31 04:00:00",
+      "storeId": 3424,
+      "storeName": "Allen Edmonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/allen-edmonds_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Military Discount! Save 15% Off Full Price Styles!",
+      "jumpUrl": "https://www.rewardany.com/store/allen-edmonds?couponId=169954&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-09 16:36:00",
+      "endDateGMT": "2028-05-09 00:00:00",
+      "storeId": 3424,
+      "storeName": "Allen Edmonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/allen-edmonds_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 60% Off on Men's Shoes and Boots!",
+      "jumpUrl": "https://www.rewardany.com/store/allen-edmonds?couponId=365281&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-31 13:53:00",
+      "endDateGMT": "2029-07-31 00:00:00",
+      "storeId": 3424,
+      "storeName": "Allen Edmonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/allen-edmonds_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Sale Is Here. Save up To 40% on Luxe Gifts and Classics You\u2019ll Want for Yourself!",
+      "jumpUrl": "https://www.rewardany.com/store/allen-edmonds?couponId=708407&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-13 16:26:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 3424,
+      "storeName": "Allen Edmonds",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/allen-edmonds_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Get up To 75% Off on Clearance Items at Eastern Mountain Sports! Shop Today for Great Deals!",
+      "jumpUrl": "https://www.rewardany.com/store/eastern-mountain-sports?couponId=625534&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-07-16 20:16:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3427,
+      "storeName": "Eastern Mountain Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eastern-mountain-sports-1700820094.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Shop the Outlet at Eastern Mountain Sports and Save up To 70 - 80% on Gear and Apparel!",
+      "jumpUrl": "https://www.rewardany.com/store/eastern-mountain-sports?couponId=625535&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-08 19:00:00",
+      "endDateGMT": "2025-01-01 05:00:00",
+      "storeId": 3427,
+      "storeName": "Eastern Mountain Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eastern-mountain-sports-1700820094.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save 10% in Rewards if You are an EMS Rewards Member!",
+      "jumpUrl": "https://www.rewardany.com/store/eastern-mountain-sports?couponId=625536&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-20 00:20:00",
+      "endDateGMT": "2027-01-28 05:00:00",
+      "storeId": 3427,
+      "storeName": "Eastern Mountain Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eastern-mountain-sports-1700820094.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save 25-70% Off All EMS Clothing!",
+      "jumpUrl": "https://www.rewardany.com/store/eastern-mountain-sports?couponId=625539&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-14 22:31:00",
+      "endDateGMT": "2029-11-14 05:00:00",
+      "storeId": 3427,
+      "storeName": "Eastern Mountain Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eastern-mountain-sports-1700820094.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Save 25-70% Off All EMS Clothing!",
+      "jumpUrl": "https://www.rewardany.com/store/eastern-mountain-sports?couponId=625540&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-14 22:35:00",
+      "endDateGMT": "2029-11-14 05:00:00",
+      "storeId": 3427,
+      "storeName": "Eastern Mountain Sports",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eastern-mountain-sports-1700820094.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Order Today! Save 10% Plus No Sales Tax!",
+      "jumpUrl": "https://www.rewardany.com/store/flowershoppingcom?couponId=207483&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-10-30 00:00:00",
+      "endDateGMT": "2025-10-29 00:00:00",
+      "storeId": 3431,
+      "storeName": "FlowerShopping.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flowershoppingcom.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Best Sellers!",
+      "jumpUrl": "https://www.rewardany.com/store/flowershoppingcom?couponId=207484&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-21 00:00:00",
+      "endDateGMT": "2026-01-20 00:00:00",
+      "storeId": 3431,
+      "storeName": "FlowerShopping.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flowershoppingcom.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Cheap Flowers Under $40!",
+      "jumpUrl": "https://www.rewardany.com/store/flowershoppingcom?couponId=207485&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-21 00:00:00",
+      "endDateGMT": "2026-01-20 00:00:00",
+      "storeId": 3431,
+      "storeName": "FlowerShopping.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flowershoppingcom.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Affiliate Exclusive! Save 10% Off Sitewide at DavidsCookies.com. Use Code: AFF10 (Valid: 10/27- 12/31)",
+      "jumpUrl": "https://www.rewardany.com/store/davids-cookies?couponId=573098&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-27 19:59:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3453,
+      "storeName": "David's Cookies",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/davids-cookies.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sign Up For Our Newsletter And Get 10% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/naturepedic?couponId=216667&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-09 18:25:00",
+      "endDateGMT": "2027-03-09 00:00:00",
+      "storeId": 3467,
+      "storeName": "Naturepedic",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/naturepedic.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 15% When You Purchase 3 or More 26oz Village Candle Large Apothecary Candles!",
+      "jumpUrl": "https://www.rewardany.com/store/stonewall-kitchen?couponId=312736&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-31 13:20:00",
+      "endDateGMT": "2027-08-31 04:00:00",
+      "storeId": 3470,
+      "storeName": "Stonewall Kitchen",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/stonewall-kitchen_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 60% off items in our Barn Sale",
+      "jumpUrl": "https://www.rewardany.com/store/stonewall-kitchen?couponId=312737&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-16 19:55:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3470,
+      "storeName": "Stonewall Kitchen",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/stonewall-kitchen_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy 15% Off Your First Order",
+      "jumpUrl": "https://www.rewardany.com/store/stonewall-kitchen?couponId=312738&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-16 20:03:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3470,
+      "storeName": "Stonewall Kitchen",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/stonewall-kitchen_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "View Shower Head Filters at Aquasana.com!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=170063&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-02 16:42:00",
+      "endDateGMT": "2027-06-02 04:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Drink with confidence. Our under-sink water filters remove up to 99% of 88 contaminants to instantly transform ordinary tap water into clean, healthy water!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=170064&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-02 16:42:00",
+      "endDateGMT": "2027-06-02 04:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "60% Off Whole House Systems and Tanks. No code needed. Ends 12/21!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=719150&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-15 15:10:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "50% Off Claryum Direct Connect Under-Sink Filter. No code needed. Ends 12/21!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=719151&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-15 15:10:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "50% Off Claryum 2-Stage Under-Sink Filter. No code needed. Ends 12/21!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=719152&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-15 15:11:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Claryum 3-Stage Max Flow Under-Sink Filter only $179.99. No code needed!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=719153&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-15 15:11:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Claryum 3-Stage Under-Sink Filter only $154.99. No code needed!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=719154&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-15 15:12:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Reverse Osmosis System only $199.99 ($189.99 without faucet). No code needed. Ends 12/21!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=719155&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-15 15:13:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Clean Water Machine only $184.99 plus Free Additional Replacement Filter. No code needed!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=719156&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-15 15:14:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shower Head Filters as low as $64.99. No code needed. Ends 12/21!",
+      "jumpUrl": "https://www.rewardany.com/store/aquasana-home-water-filters?couponId=719157&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-15 15:16:00",
+      "endDateGMT": "2023-12-22 05:00:00",
+      "storeId": 3472,
+      "storeName": "Aquasana Home Water Filters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aquasana-home-water-filters_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop with PetPlus! Get up to 40% off sitewide, unlimited free shipping and more with the annual savings program only at PetCareRx.com!",
+      "jumpUrl": "https://www.rewardany.com/store/petcarerx?couponId=639535&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-18 19:22:00",
+      "endDateGMT": "2029-01-18 00:00:00",
+      "storeId": 3475,
+      "storeName": "PetCareRx",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petcarerx-1701139684.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "AAA Car Rental Savings. Up to 8% Off* the Base Rate with Your AAA Club Discount Code!",
+      "jumpUrl": "https://www.rewardany.com/store/thrifty-rent-a-car-system?couponId=260021&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-20 17:55:00",
+      "endDateGMT": "2029-03-20 04:00:00",
+      "storeId": 3536,
+      "storeName": "Thrifty Rent-A-Car System, Inc.",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/thrifty-rent-a-car-system.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Shop our Special Offers!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636811&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-17 00:00:00",
+      "endDateGMT": "2026-01-01 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-1702020440.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Share the love! Refer a friend and you can both enjoy $10 off when you shop online!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636812&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-23 00:00:00",
+      "endDateGMT": "2026-01-01 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-1702020440.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Bath and Body Products!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636813&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-1702020440.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop all Makeup!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636814&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-1702020440.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop all Gifts!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636815&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-1702020440.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop New Products!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636816&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-1702020440.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Body Butters!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636817&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-1702020440.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Haircare!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636818&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-19 00:00:00",
+      "endDateGMT": "2025-12-31 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-1702020440.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Choose any 2 samples on orders over $50",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636820&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-10 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-1702020440.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "All 2023 Advent Calendars Now Available!",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop?couponId=636822&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3544,
+      "storeName": "The Body Shop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-1702020440.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Nourish and Plump Skin with The Hyaluronic Acid-Infused Formula that Delivers Lasting Hydration. Holy Hydration! Face Cream, $13",
+      "jumpUrl": "https://www.rewardany.com/store/elf-cosmetics?couponId=530583&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-04 22:34:00",
+      "endDateGMT": "2024-01-01 08:00:00",
+      "storeId": 3596,
+      "storeName": "e.l.f. Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/elf-cosmetics_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Keep Your Under-Eyes Hydrated While Minimizing the Appearance of Dark Circles. Holy Hydration! Eye Cream, $10",
+      "jumpUrl": "https://www.rewardany.com/store/elf-cosmetics?couponId=530584&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-04 22:34:00",
+      "endDateGMT": "2024-01-01 08:00:00",
+      "storeId": 3596,
+      "storeName": "e.l.f. Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/elf-cosmetics_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Melt Away Makeup and Cleanse Skin of Impurities (without the Waste!) with Holy Hydration! Makeup Melting Cleansing Balm, $11.",
+      "jumpUrl": "https://www.rewardany.com/store/elf-cosmetics?couponId=530585&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-04 22:34:00",
+      "endDateGMT": "2024-01-01 08:00:00",
+      "storeId": 3596,
+      "storeName": "e.l.f. Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/elf-cosmetics_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "New! Glow Reviver Lip Oil. Drench Lips in An Addictive Sheer Wash of Ultra-Glossy Color. Available in 7 High-Shine Shades. only $8!",
+      "jumpUrl": "https://www.rewardany.com/store/elf-cosmetics?couponId=545298&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-13 06:12:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3596,
+      "storeName": "e.l.f. Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/elf-cosmetics_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Beauty Squad Exclusive! Save 60% Off Clearance at e.l.f. Cosmetics! Valid: 12/18-1/1!",
+      "jumpUrl": "https://www.rewardany.com/store/elf-cosmetics?couponId=729926&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 08:00:00",
+      "endDateGMT": "2024-01-02 08:00:00",
+      "storeId": 3596,
+      "storeName": "e.l.f. Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/elf-cosmetics_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Find Flights under $49 !!!!",
+      "jumpUrl": "https://www.rewardany.com/store/onetravelcom?couponId=349284&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2018-12-28 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 3598,
+      "storeName": "OneTravel.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/onetravelcom-1697525863.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Find Flights under $29 !!!",
+      "jumpUrl": "https://www.rewardany.com/store/onetravelcom?couponId=349285&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2018-12-28 00:00:00",
+      "endDateGMT": "2023-12-31 23:00:00",
+      "storeId": 3598,
+      "storeName": "OneTravel.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/onetravelcom-1697525863.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Book Cheap Hotels and Get up to 35% Off on Published Hotel Rates!! Book Now.",
+      "jumpUrl": "https://www.rewardany.com/store/onetravelcom?couponId=349286&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-12-26 12:34:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 3598,
+      "storeName": "OneTravel.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/onetravelcom-1697525863.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Book Cheap Flights Under $30",
+      "jumpUrl": "https://www.rewardany.com/store/onetravelcom?couponId=349287&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-20 15:20:00",
+      "endDateGMT": "2023-12-31 23:00:00",
+      "storeId": 3598,
+      "storeName": "OneTravel.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/onetravelcom-1697525863.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Book Cheap Flights Under $50",
+      "jumpUrl": "https://www.rewardany.com/store/onetravelcom?couponId=349288&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-20 15:22:00",
+      "endDateGMT": "2023-12-31 23:00:00",
+      "storeId": 3598,
+      "storeName": "OneTravel.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/onetravelcom-1697525863.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "PRO - Get 5% Extra Off All Pre-Owned, Collectibles, Clearance and More!",
+      "jumpUrl": "https://www.rewardany.com/store/gamestop?couponId=620356&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-27 18:20:00",
+      "endDateGMT": "2029-10-30 00:00:00",
+      "storeId": 3603,
+      "storeName": "GameStop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gamestop-1702979251.png",
+      "categories": [
+        "Electronics",
+        "Events & Entertainment",
+        "Toys & Games"
+      ]
+    },
+    {
+      "couponTitle": "Save Up To $50 Off Meta Quest 2 Headsets!",
+      "jumpUrl": "https://www.rewardany.com/store/gamestop?couponId=620360&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-12 17:20:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 3603,
+      "storeName": "GameStop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gamestop-1702979251.png",
+      "categories": [
+        "Electronics",
+        "Events & Entertainment",
+        "Toys & Games"
+      ]
+    },
+    {
+      "couponTitle": "Save Up To 30% Off Logitech PC Accessories!",
+      "jumpUrl": "https://www.rewardany.com/store/gamestop?couponId=693204&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-10 05:00:00",
+      "endDateGMT": "2023-12-25 05:00:00",
+      "storeId": 3603,
+      "storeName": "GameStop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gamestop-1702979251.png",
+      "categories": [
+        "Electronics",
+        "Events & Entertainment",
+        "Toys & Games"
+      ]
+    },
+    {
+      "couponTitle": "Save Up To $10 Off Wireless Xbox Controllers!",
+      "jumpUrl": "https://www.rewardany.com/store/gamestop?couponId=708467&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-13 05:00:00",
+      "endDateGMT": "2023-12-26 05:00:00",
+      "storeId": 3603,
+      "storeName": "GameStop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gamestop-1702979251.png",
+      "categories": [
+        "Electronics",
+        "Events & Entertainment",
+        "Toys & Games"
+      ]
+    },
+    {
+      "couponTitle": "Save Up To $10 Off Wireless Xbox Controllers!",
+      "jumpUrl": "https://www.rewardany.com/store/gamestop?couponId=719190&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-15 05:00:00",
+      "endDateGMT": "2023-12-26 05:00:00",
+      "storeId": 3603,
+      "storeName": "GameStop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gamestop-1702979251.png",
+      "categories": [
+        "Electronics",
+        "Events & Entertainment",
+        "Toys & Games"
+      ]
+    },
+    {
+      "couponTitle": "Pro Members - Pokemon Trading Card Game $24.99",
+      "jumpUrl": "https://www.rewardany.com/store/gamestop?couponId=729944&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-17 05:00:00",
+      "endDateGMT": "2023-12-25 05:00:00",
+      "storeId": 3603,
+      "storeName": "GameStop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gamestop-1702979251.png",
+      "categories": [
+        "Electronics",
+        "Events & Entertainment",
+        "Toys & Games"
+      ]
+    },
+    {
+      "couponTitle": "Pro Members - Save $30 Off Pre-Owned Nintendo Switch Original Consoles!",
+      "jumpUrl": "https://www.rewardany.com/store/gamestop?couponId=729945&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-17 05:00:00",
+      "endDateGMT": "2023-12-25 05:00:00",
+      "storeId": 3603,
+      "storeName": "GameStop",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gamestop-1702979251.png",
+      "categories": [
+        "Electronics",
+        "Events & Entertainment",
+        "Toys & Games"
+      ]
+    },
+    {
+      "couponTitle": "Students and Parents Save 10% Everyday Plus Free Shipping and Returns!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=369720&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2018-07-02 00:00:00",
+      "endDateGMT": "2028-05-25 00:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Students, Parents, and Educators Are Eligible for Up to 10% Off Select Products, Including Select Surface Devices. Exclusions Apply!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=369721&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-25 17:09:00",
+      "endDateGMT": "2028-05-25 04:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Play Hi-Fi RUSH on PC, cloud and console. Available today Day One with PC Game Pass. Join for $1!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=369722&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-30 21:01:00",
+      "endDateGMT": "2029-01-31 05:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Active, former, and retired military and their families get up to 10% Off select products and services at Microsoft!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=369723&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-23 01:29:00",
+      "endDateGMT": "2029-02-22 05:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Get premium Microsoft apps, 1 TB of cloud storage, advanced security, and more, with Microsoft 365. Save 30% on select subscriptions through the Microsoft Workplace Discount Program.",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=369724&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-19 19:40:00",
+      "endDateGMT": "2029-05-19 00:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "The Microsoft Workplace Discount Program provides the opportunity to save 30% on select Microsoft 365 subscriptions.",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=369725&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-19 19:40:00",
+      "endDateGMT": "2029-05-19 00:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $180.00 on the Surface Duo 2 through the Microsoft Workplace Discount Program. Open two screens and discover limitless possibilities for apps, email, meetings, and calls that never leaves your side with the Surface Duo 2.",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=369726&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-22 04:00:00",
+      "endDateGMT": "2029-05-22 00:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 10% on select Surface devices and accessories every day through the Microsoft Workplace Discount Program.",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=369727&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-22 04:00:00",
+      "endDateGMT": "2029-05-22 00:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 10% on new Surface Pro 8 through the Microsoft Workplace Discount Program. Surface Pro 8 combines the power of a laptop with the flexibility of a tablet, and every angle in between.",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=369728&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-22 04:00:00",
+      "endDateGMT": "2029-05-22 00:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 10% Off select Surface devices and 30% off Microsoft 365 subscriptions through the Microsoft Workplace Discount Program!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=369729&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-22 04:00:00",
+      "endDateGMT": "2029-05-22 00:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $500 on select Surface Laptop 4. Valid 9/12 - 12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=558642&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-19 16:09:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $1000/$1325 Off Surface Laptop 4 13\" i5/16/512 and i7/32/1TB. Valid 5/10 - 12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=558643&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-19 16:10:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Surface Pro 7 plus and Type Cover Bundle. Valid 8/21 - 12/31!",
+      "jumpUrl": "https://www.rewardany.com/store/microsoft?couponId=558644&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-19 16:11:00",
+      "endDateGMT": "2024-01-01 05:00:00",
+      "storeId": 3609,
+      "storeName": "Microsoft",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/microsoft_logo.gif",
+      "categories": [
+        "Electronics"
+      ]
+    }
+  ]
+}

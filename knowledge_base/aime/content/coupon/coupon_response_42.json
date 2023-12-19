@@ -1,0 +1,1512 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 42,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "Cyber Monday- Take 50% off available on 50 styles.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679277&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday- Take 50% off available on 50 styles.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679278&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday- Take 50% off available on 50 styles.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679279&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save -  5th December 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679280&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save -  5th December 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679281&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save -  5th December 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679282&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy M.J. Bale\u2019s swelter belter Bale Sale. Up to 50% off selected styles, limited time only",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679283&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy M.J. Bale\u2019s swelter belter Bale Sale. Up to 50% off selected styles, limited time only",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679284&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy M.J. Bale\u2019s swelter belter Bale Sale. Up to 50% off selected styles, limited time only",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679285&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend and Save Nov 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679286&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "M.J. Bale - Schmick Clicks: Take a further 25% off markdown styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679287&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "M.J. Bale - Schmick Clicks: Take a further 25% off markdown styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679288&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "M.J. Bale - Schmick Clicks: Take a further 25% off markdown styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679289&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "M.J. Bale - Schmick Clicks: Take a further 25% off markdown styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679290&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week special offer: 25% off selected full-priced styles, both store and site-wide.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679291&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week special offer: 25% off selected full-priced styles, both store and site-wide.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679292&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week special offer: 25% off selected full-priced styles, both store and site-wide.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679293&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week special offer: 25% off selected full-priced styles, both store and site-wide.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679294&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday 2023- Take 50% off available on 50 styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679295&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday 2023- Take 50% off available on 50 styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679296&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday 2023- Take 50% off available on 50 styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679297&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday- Take 50% off available on 50 styles.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679298&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday- Take 50% off available on 50 styles.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679299&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday- Take 50% off available on 50 styles.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679300&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday- Take 50% off available on 50 styles.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679301&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save -  5th December 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679302&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save -  5th December 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679303&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save -  5th December 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679304&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save -  5th December 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679305&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy M.J. Bale\u2019s swelter belter Bale Sale. Up to 50% off selected styles, limited time only",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679306&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy M.J. Bale\u2019s swelter belter Bale Sale. Up to 50% off selected styles, limited time only",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679307&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy M.J. Bale\u2019s swelter belter Bale Sale. Up to 50% off selected styles, limited time only",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679308&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy M.J. Bale\u2019s swelter belter Bale Sale. Up to 50% off selected styles, limited time only",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679309&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy M.J. Bale\u2019s swelter belter Bale Sale. Up to 50% off selected styles, limited time only",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679310&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "M.J. Bale - Schmick Clicks: Take a further 25% off markdown styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679311&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "M.J. Bale - Schmick Clicks: Take a further 25% off markdown styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679312&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week special offer: 25% off selected full-priced styles, both store and site-wide.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679313&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week special offer: 25% off selected full-priced styles, both store and site-wide.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679314&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week special offer: 25% off selected full-priced styles, both store and site-wide.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679315&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week special offer: 25% off selected full-priced styles, both store and site-wide.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679316&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Week special offer: 25% off selected full-priced styles, both store and site-wide.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679317&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday 2023- Take 50% off available on 50 styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679318&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday 2023- Take 50% off available on 50 styles",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679319&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday- Take 50% off available on 50 styles.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679320&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday- Take 50% off available on 50 styles.",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679321&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save -  5th December 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679322&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save -  5th December 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679323&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save -  5th December 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679324&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save -  5th December 2023",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679325&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy M.J. Bale\u2019s swelter belter Bale Sale. Up to 50% off selected styles, limited time only",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679326&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy M.J. Bale\u2019s swelter belter Bale Sale. Up to 50% off selected styles, limited time only",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679327&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy M.J. Bale\u2019s swelter belter Bale Sale. Up to 50% off selected styles, limited time only",
+      "jumpUrl": "https://www.rewardany.com/store/mj-bale?couponId=679328&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2135,
+      "storeName": "M.J. Bale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mj-bale_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off RRP on selected palettes and sets",
+      "jumpUrl": "https://www.rewardany.com/store/bobbi-brown-uk?couponId=653859&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2029-11-07 00:00:00",
+      "storeId": 2136,
+      "storeName": "Bobbi Brown UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bobbi-brown-uk-1693803083.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off RRP on selected palettes and sets",
+      "jumpUrl": "https://www.rewardany.com/store/bobbi-brown-uk?couponId=653860&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2029-11-07 00:00:00",
+      "storeId": 2136,
+      "storeName": "Bobbi Brown UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bobbi-brown-uk-1693803083.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Subscribe & Save Up to 20% Off Your Order | Exclusive Subscription Perks | Modify, Skip, or Cancel Anytime",
+      "jumpUrl": "https://www.rewardany.com/store/fulton-fish-market?couponId=653863&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2141,
+      "storeName": "Fulton Fish Market",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/fulton-fish-market_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "New Markdowns - December",
+      "jumpUrl": "https://www.rewardany.com/store/vineyard-vines?couponId=653866&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2154,
+      "storeName": "vineyard vines",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vineyard-vines_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop 15% off Curl",
+      "jumpUrl": "https://www.rewardany.com/store/leatherman?couponId=653888&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2186,
+      "storeName": "Leatherman",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/leatherman_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop 15% off BOLSTER\u00ae",
+      "jumpUrl": "https://www.rewardany.com/store/leatherman?couponId=653889&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-26 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2186,
+      "storeName": "Leatherman",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/leatherman_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop 50% Off Leatherman's Customization Shop",
+      "jumpUrl": "https://www.rewardany.com/store/leatherman?couponId=653890&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2186,
+      "storeName": "Leatherman",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/leatherman_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop 50% Off Leatherman's Customization Shop",
+      "jumpUrl": "https://www.rewardany.com/store/leatherman?couponId=653891&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2186,
+      "storeName": "Leatherman",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/leatherman_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop 15% off Curl",
+      "jumpUrl": "https://www.rewardany.com/store/leatherman?couponId=653893&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2186,
+      "storeName": "Leatherman",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/leatherman_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop 15% off BOLSTER\u00ae",
+      "jumpUrl": "https://www.rewardany.com/store/leatherman?couponId=653894&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-26 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2186,
+      "storeName": "Leatherman",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/leatherman_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop 50% Off Leatherman's Customization Shop",
+      "jumpUrl": "https://www.rewardany.com/store/leatherman?couponId=653895&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2186,
+      "storeName": "Leatherman",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/leatherman_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Kate Spade Sale (Up to 40% off)",
+      "jumpUrl": "https://www.rewardany.com/store/kate-spade-uk?couponId=653911&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-21 00:00:00",
+      "endDateGMT": "2029-06-20 00:00:00",
+      "storeId": 2196,
+      "storeName": "Kate Spade UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kate-spade-uk_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Shop The Sports Edit Sale UP TO 60% OFF",
+      "jumpUrl": "https://www.rewardany.com/store/the-sports-edit?couponId=139889&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2197,
+      "storeName": "The Sports Edit",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-sports-edit_logo.jpg",
+      "categories": [
+        "Clothing",
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Refer a friend - Give 15%, Get \u00a315 with The Sports Edit",
+      "jumpUrl": "https://www.rewardany.com/store/the-sports-edit?couponId=139890&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-17 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2197,
+      "storeName": "The Sports Edit",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-sports-edit_logo.jpg",
+      "categories": [
+        "Clothing",
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Join our membership today and enjoy great perks like free shipping, early access to new releases, exclusive deals, and much more.",
+      "jumpUrl": "https://www.rewardany.com/store/cole-haan?couponId=653916&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-08 00:00:00",
+      "endDateGMT": "2029-09-08 00:00:00",
+      "storeId": 2215,
+      "storeName": "Cole Haan",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cole-haan-1702978798.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Sign up for email and enjoy 10% off your first order.",
+      "jumpUrl": "https://www.rewardany.com/store/cole-haan?couponId=653917&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-13 00:00:00",
+      "endDateGMT": "2029-09-13 00:00:00",
+      "storeId": 2215,
+      "storeName": "Cole Haan",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cole-haan-1702978798.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Sign up for email + SMS text messages and get a 15% off promo code that can be used on your next purchase.",
+      "jumpUrl": "https://www.rewardany.com/store/cole-haan?couponId=653918&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-13 00:00:00",
+      "endDateGMT": "2029-10-31 00:00:00",
+      "storeId": 2215,
+      "storeName": "Cole Haan",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cole-haan-1702978798.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Sign up and Receive 15% Off Your First Full Price Order!",
+      "jumpUrl": "https://www.rewardany.com/store/st-john-knits?couponId=653942&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-20 00:00:00",
+      "endDateGMT": "2029-07-20 00:00:00",
+      "storeId": 2233,
+      "storeName": "St. John Knits",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/st-john-knits_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SMS Sign Up",
+      "jumpUrl": "https://www.rewardany.com/store/st-john-knits?couponId=653943&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2024-01-04 00:00:00",
+      "storeId": 2233,
+      "storeName": "St. John Knits",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/st-john-knits_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Upgrade your holiday style! St. John's now 40% off.",
+      "jumpUrl": "https://www.rewardany.com/store/st-john-knits?couponId=653944&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-14 00:00:00",
+      "endDateGMT": "2024-02-01 00:00:00",
+      "storeId": 2233,
+      "storeName": "St. John Knits",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/st-john-knits_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Fall 2023 40% Off",
+      "jumpUrl": "https://www.rewardany.com/store/st-john-knits?couponId=653945&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2024-03-01 00:00:00",
+      "storeId": 2233,
+      "storeName": "St. John Knits",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/st-john-knits_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Site Wide - Black Friday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/stadium-goods?couponId=679383&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2262,
+      "storeName": "Stadium Goods",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/stadium-goods_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "10% OFF YOUR FIRST ORDER(when subscribe)!",
+      "jumpUrl": "https://www.rewardany.com/store/healthspan?couponId=30875&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-04-21 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2294,
+      "storeName": "Healthspan",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/healthspan_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up to \u00a36 per pack plus ongoing free delivery with Subscribe & Save",
+      "jumpUrl": "https://www.rewardany.com/store/healthspan?couponId=106930&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-04-21 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2294,
+      "storeName": "Healthspan",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/healthspan_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Vitamin D3 400iu (Short-Dated) RRP: \u00a39.95 | Offer Price: \u00a37.46 | -25% OFF",
+      "jumpUrl": "https://www.rewardany.com/store/healthspan?couponId=175385&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-06-16 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2294,
+      "storeName": "Healthspan",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/healthspan_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "50% Off on Selected Styles at Jarlo London",
+      "jumpUrl": "https://www.rewardany.com/store/jarlo-london?couponId=106931&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-04-17 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2299,
+      "storeName": "Jarlo London",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jarlo-london_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Boxing Day: Up to 75% off Sitewide",
+      "jumpUrl": "https://www.rewardany.com/store/smashbox?couponId=653955&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-21 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2309,
+      "storeName": "Smashbox",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/smashbox_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "JAFF18",
+      "jumpUrl": "https://www.rewardany.com/store/justfashionnow-us?couponId=653957&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2313,
+      "storeName": "JustFashionNow US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/justfashionnow-us-1699335040.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Gemondo Winter Sale up to 30% off",
+      "jumpUrl": "https://www.rewardany.com/store/gemondo-jewellery?couponId=679398&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-25 00:00:00",
+      "storeId": 2326,
+      "storeName": "Gemondo Jewellery",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gemondo-jewellery_logo.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Gemondo Winter Sale up to 40% off",
+      "jumpUrl": "https://www.rewardany.com/store/gemondo-jewellery?couponId=679399&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2024-01-25 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2326,
+      "storeName": "Gemondo Jewellery",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gemondo-jewellery_logo.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Gemondo Festive Season discount up to 20%",
+      "jumpUrl": "https://www.rewardany.com/store/gemondo-jewellery?couponId=679400&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-22 00:00:00",
+      "storeId": 2326,
+      "storeName": "Gemondo Jewellery",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gemondo-jewellery_logo.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "ADVANCED PURCHASE SAVINGS",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=140112&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-01 00:00:00",
+      "endDateGMT": "2024-01-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "ADVANCED PURCHASE SAVINGS",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=140115&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-01 00:00:00",
+      "endDateGMT": "2024-01-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "ADVANCED PURCHASE SAVINGS",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=140118&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-01 00:00:00",
+      "endDateGMT": "2024-01-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "ADVANCED PURCHASE SAVINGS",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=140121&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-01 00:00:00",
+      "endDateGMT": "2024-03-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "ADVANCED PURCHASE SAVINGS",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=140123&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-01 00:00:00",
+      "endDateGMT": "2024-03-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "ADVANCED PURCHASE SAVINGS",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=140125&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-01 00:00:00",
+      "endDateGMT": "2024-03-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Advanced Purchase Savings",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=168187&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Advanced Purchase Savings",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=168188&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Advanced Purchase Savings",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=168189&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Advanced Purchase Savings",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=168190&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Advanced Purchase Savings",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=168191&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Advanced Purchase Savings",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=168192&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Advanced Purchase Savings",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=168193&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Advanced Purchase Savings",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=168194&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Advanced Purchase Savings",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=168195&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Advanced Purchase Savings",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=168196&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "LAUGHLIN 35TH ANNIVERSARY SALE",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards-global-?couponId=679439&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-29 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2340,
+      "storeName": "Caesars Rewards (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards-global-_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    }
+  ]
+}

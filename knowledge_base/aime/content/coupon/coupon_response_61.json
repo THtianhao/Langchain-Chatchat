@@ -1,0 +1,1510 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 61,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "15% Off $100 at U.S. Polo Assn.!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699731&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at tentree!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699732&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-10-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Stackable Discount at Forever 21",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699733&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "12% Student Discount at Event Tickets Center!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699734&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at mnml!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699735&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-17 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Hunter!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699736&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-10-04 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "35% Student Discount at I SAW IT FIRST!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699737&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-05-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Silk Maison",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699738&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-07-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 25% Student Discount at Linksys!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699739&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at The Met Store!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699740&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-10-04 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "30% Student Discount at Keeper",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699741&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Barner!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699742&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-10-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "5% Student Discount at MPB",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699743&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "8% storewide Plus up to 60% Off selected items at Zaful!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699744&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-20 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Free standard delivery over $75 and free returns at Bluebella",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699745&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-20 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% off Sitewide + Free Silk Hair Ties at Remilia Hair",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699746&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Helly Hansen!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699747&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "5% Off Course Upgrades at FutureLearn!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699748&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-09-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at COSMEDIX!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699749&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-09-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "50% Off 30-Day Personalized Trials at Geologie",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699750&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "40% Student Discount at OYO Hotels & Homes!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699751&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Songmics!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699752&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-09-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Student Exclusive! Get 20% Off Sitewide at The Bouqs Co.!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699753&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-02 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "$300 Off Data Analytics Career Track at Springboard!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699754&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-06-17 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "50% off sitewide plus Extra 20% Student Discount at Ego Shoes!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699755&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Joseph Joseph!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699756&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-12-11 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Save Up to 40% Off New Markdowns at Nike!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699757&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-12-07 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% Off selected Lovehoney Toys Plus Extra 20% Student Discount at Lovehoney!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699758&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Skinnydip London!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699759&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-07-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "13% Student Discount at 111SKIN!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699760&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-10 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off on big brands Plus Extra 20% Student Discount at Lovehoney!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699761&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Girlfriend Collective!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699762&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 40% off sitewide Plus extra 15% Student Discount Plus free mascara on orders $35Plus at Winky Lux!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699763&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-12-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Zavvi!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699764&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount At COS",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699765&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount + Free Shipping at Corkcicle!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699766&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-07-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "17% off Everything at Proviz!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699767&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-07 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Student Offer at Los Angeles Apparel!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699768&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-02-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Jack Rogers!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699769&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "$100 Off Any Ebike Purchase at Aventon Bikes!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699770&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-12-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "83% off a 2 year plan at AtlasVPN",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699771&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Schutz Shoes",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699772&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount  at Something Navy",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699773&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount at Cernucci!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699774&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Off for all items at Newchic",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699775&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Paula's Choice!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699776&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Footaction",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699778&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-12-04 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Super Sparrow!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699779&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "$50 Base Fare Discount at Emirates!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699780&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at AirPop!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699781&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-12-02 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Down to 1 USD + Extra 15% Student Discount at Jurllyshe",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699782&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-13 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount Plus Free Shipping at K\u00e9rastase!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699783&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-27 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 33% Off Plus Extra $20 Off Student Discount at Laifen!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699784&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-11 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "$300 Off Data Science Career Track at Springboard!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699785&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-07-17 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "40% Student Discount Plus free shipping at Myprotein!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699786&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-12-01 00:00:00",
+      "endDateGMT": "2080-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% Off DIY Online Tax Filing Products at H&R Block",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699787&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-03 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at ViewSonic!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699788&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-13 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "$10 USD Off on $100 USD Purchase at Florasis!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699789&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-03-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Joules!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699790&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% off your textbook subscription at Perlego",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699791&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Mio Skincare!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699792&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount at SkinStore!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699794&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-02-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at State Cashmere!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699795&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Beginning Boutique",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699796&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Humanscale",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699797&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-10 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "$25 Off select phones at Tracfone!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699798&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-01-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "30% Off\u00a0Entire Order (Frames plus Lenses) for\u00a0Eyeglasses and Sunglasses at GlassesUSA.com!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699799&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-08 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Nest New York!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699800&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-05-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount at Every Man Jack!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699801&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Off Student Tickets at Baltimore Orioles!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699802&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Loot Crate!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699803&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "12% Off Travel Spray & Sample Items Plus Free Shipping on Orders Over $20 at Micro Perfumes!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699804&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-11-02 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Ivory Ella!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699805&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "$110 off\u00a0+ Free shipping on your first box at Blue Apron",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699806&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-08-13 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Princess Polly!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699807&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "40% Student Discount at Missguided!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699808&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-11-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount for New Customers at Move With Us",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699809&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Sigma Beauty",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699810&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Students get $15 Off $70 at Hair.com",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699811&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "33% off Cleo Credit Builder subscription at Cleo!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699812&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-03-02 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "5% Student Discount at ELEGOO!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699813&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-15 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "100% FREE month for the Most Popular Phone Plans at Tello Mobile!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699814&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-03-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Blush Mark",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699815&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-09-02 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Jabra!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699816&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Free Standard Shipping at boohoo!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699817&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-10-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Any Subscription at Numerade!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699818&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-10 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at NAKTO!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699819&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Jurllyshe!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699820&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "12% Student Discount at VIVAIA!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699821&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-07-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at The Gym King!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699822&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-05-17 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "16% Student Discount at Noracora!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699823&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-05-06 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at philosophy!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699824&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-05-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "18% Student Discount at J.Crew Factory!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699825&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at The Sak!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699826&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-03 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Students Save an Additional 10% Off Select Items at Nike",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699827&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-27 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at My Favourite Magazines!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699828&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Book Outlet!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699829&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-11-16 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "$4.99 DashPass Student Plan at DoorDash!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699830&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-08-05 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount on Select Bikes at Aventon Bikes",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699831&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-18 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "50% Off WooCommerce Managed Hosting at Nexcess",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-us-?couponId=699832&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1293,
+      "storeName": "Student Beans (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-us-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    }
+  ]
+}

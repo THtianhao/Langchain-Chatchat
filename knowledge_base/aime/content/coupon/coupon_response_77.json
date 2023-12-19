@@ -1,0 +1,1510 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 77,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "10% Student Discount at Timberland",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701402&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "70% MSRP off Kaspersky Internet Security, 3 devices 12months at Kaspersky!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701403&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-10-02 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Snugzy!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701404&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Get Office 365 Personal with 50% Discount if you spend over \u00a3250 at Acer!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701405&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Extra 10% Student Discount at Femme Luxe!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701406&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-10-04 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "\u00a325 off when you spend \u00a360 at Ocado!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701407&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-09 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% off everything at PrettyLittleThing!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701408&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Buy 7 gel polishes and 1 free at Mylee!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701409&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-07-03 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "40% Student Discount at PrettyLittleThing!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701410&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Wilkinson Sword!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701411&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-27 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at The Fragrance Shop!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701412&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-08-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Luke 1977",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701413&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-16 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "40% Student Discount at Low Cost Glasses!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701414&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-07-22 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "25% Student Discount at Christy!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701415&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-10-04 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Off the Clips and Accessories at Hair Choice!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701416&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-01 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Nigel Cabourn!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701417&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-10-07 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "iPhone 11 \u2013 only \u00a329.00 upfront cost at \u00a346.00 per month for 18GB data on Vodafone at Carphone Warehouse!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701418&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-05-25 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at GO Outdoors!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701419&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-04-28 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount on the Casa Pop Up Desk at Logitech!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701420&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-29 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at Colorful Standard!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701421&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-10-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Whoop Membership at Whoop!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701422&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-29 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Student Discount at DELSEY!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701423&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-12-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Innermost!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701424&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-10-24 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "5% student discount on refresher driving courses at PassMeFast!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701425&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-10-26 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Collectif!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701426&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-21 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Gymversus!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701427&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-12 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Extra 10% Off Menswear at Cernucci!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701428&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Cotton On Body!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701429&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-05-08 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Exclusive 10% Student Discount off all products online at Lakeland",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701430&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Student Discount at Mountain Warehouse!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=701431&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-10-03 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at OMNES!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=711530&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Save up To 40% on Breakdown Cover at The AA!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=711840&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "15% Graduate Discount at Suit Direct!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=712118&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "20% Student Discount at Hairburst!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=712474&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% Off Selected plus Extra 6% Student Discount at Lookfantastic!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=727607&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "End Of Season Sale \u2013 Up to 50% Off at HIP!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=727696&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-17 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Extra 10% Off All Sale at Levi's!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=728182&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% Off eTextbooks at Pearson!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=728236&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-17 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "43% Off Best Sellers at Myprotein!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=728348&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Extra 10% Off All Sale for Members at Levi's!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=728500&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% Off Accessories at JD Sports!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-uk-?couponId=728564&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-17 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1294,
+      "storeName": "Student Beans UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-uk-_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "First Time Purchasers Enjoy a Bonus 3-Piece Kiehl\u2019s Starter Set at Kiehl's!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701544&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-02-19 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping at M\u00b7A\u00b7C Cosmetics!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701550&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-10-04 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "First Order, $0 Delivery Fee at DoorDash!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701597&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-30 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Free Delivery on Couple's Sex Toy Advent Calendar at Lovehoney!",
+      "jumpUrl": "https://www.rewardany.com/store/student-beans-au-?couponId=701650&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-09-23 00:00:00",
+      "endDateGMT": "2100-01-01 00:00:00",
+      "storeId": 1295,
+      "storeName": "Student Beans (AU)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/student-beans-au-_logo.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Take 20% off pre-made open for business signs. Let the whole block know you're back up and running!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214435&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-26 17:13:00",
+      "endDateGMT": "2027-01-26 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Premium Custom T-Shirts, Starting At $9.76 - Get Noticed With Our Ultra-Soft Tees!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214436&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-09-14 00:00:00",
+      "endDateGMT": "2025-07-30 00:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "The warmth of a personalized mug is more than the contents inside of it. Shop custom mugs, starting at just $6!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214452&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:15:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Business Cards - 500 qty Price - (NEW) 2!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214454&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:20:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Order 500 4\" x 6\" custom postcards for only $40! Print promotional material, invitations, and much more!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214455&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:20:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Order your next set of Business Cards with a QR Code for an efficient way to include more information!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214456&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:20:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Print high-quality disposable restaurant & service menus that won't break the bank! Browse a wide selection of sizes & folds!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214457&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:20:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "For all bookworms and book club attendees alike, design & print your own custom bookmarks today!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214458&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:20:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Print important presentations, welcome signs, and more on eco-friendly Cardboard signs. Offered with a brown kraft or white core!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214459&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:20:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "A recycled sign with an eco-conscious look. Starting at just under $12, print on Cardboard signs with a brown kraft core to show your support of the environment!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214460&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:20:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Design and print yard signs in minutes, directly from your phone or tablet. Download the GotPrint app on the App store today to get started!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214461&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:20:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Create simple & quick real estate signs such as For Sale & Open House directly on your phone or tablet with the GotPrint app!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214462&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:20:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Design and order custom t-shirts in men's, women's, youth, or toddler sizes, now on the GotPrint App. Download today to get started!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214463&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:20:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Print professional business cards in no time, right from your phone! Download the GotPrint App today to get started!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214464&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 18:20:00",
+      "endDateGMT": "2029-01-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Your New Favorite T-Shirt for Under $10!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=214465&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-03-25 00:00:00",
+      "endDateGMT": "2026-03-24 00:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Gifts Under $10, Like a Mug! Gifts Under $15, Like a Custom Tee! Gifts Under $25, Like a Custom Hat & More. Shop Holiday Gifts!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=515450&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-28 17:41:00",
+      "endDateGMT": "2023-12-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Gifts for Everyone, Starting at Just $6! Shop Our Collection of Holiday Merch, Decor and More to Save This Season.!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=515451&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-28 17:41:00",
+      "endDateGMT": "2023-12-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Starting at Just $10, Shop Fun and Festive Christmas T-Shirts for The Whole Family. Perfect for Holiday Portraits, Parties, and More!",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=580625&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 07:00:00",
+      "endDateGMT": "2023-12-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "The Perfect Holiday Gift: Make Someone's Morning with A Joke Printed on A Mug! Starting at Just $6",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=580626&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 07:00:00",
+      "endDateGMT": "2023-12-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "The Pefect Gift Starts with A Custom Mug. Print a Photo, Design, Logo, or A Cute Quote. Starting at Just $6",
+      "jumpUrl": "https://www.rewardany.com/store/gotprint?couponId=580627&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 07:00:00",
+      "endDateGMT": "2023-12-23 08:00:00",
+      "storeId": 1322,
+      "storeName": "GotPrint",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/gotprint_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Get your first LOOKFANTASTIC THE BOX: Monthly Beauty Box for just 13 Euros with a 1 month rolling subscription, with your affiliate code",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=263159&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 10% off all Advent Calendars at LOOKFANTASTIC! With the code: 10XMAS",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=589018&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 5\u20ac off with your exclusive code or FANTASTICLF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=589019&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "40% off the Kiehl's Daily Hydrators Set!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=589021&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "GET UP TO 50% OFF TREATS OF THE WEEK AT LOOKFANTASTIC!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=589022&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save - 25% off when you spend \u20ac50 or 30% when you spend \u20ac75 | Code: SAVELF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=589023&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "OUTLET: Up to 50% OFF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=589024&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "BLACK FRIDAY! Up to 50% off + extra 11% with FANTASTICLF or BESPOKE code",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=636409&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 10% off all Advent Calendars at LOOKFANTASTIC! With the code: 10XMAS",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=636410&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 5\u20ac off Black Friday Box",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=636411&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save - 25% off when you spend \u20ac50 or 30% when you spend \u20ac75 | Code: SAVELF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=636413&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "OUTLET: Up to 50% OFF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=636414&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Gift with Purchase Philip Kingsley Treatment Trio gift with any LOOKFANTASTIC order over 80Euros",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=636424&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-21 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "10 Eur OFF Treat Yourself BB",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-nl?couponId=707817&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1419,
+      "storeName": "LOOKFANTASTIC NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-nl_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "$1.99 Shipping on $30+ orders!   Exp. 2/28. Use code AFLIR250",
+      "jumpUrl": "https://www.rewardany.com/store/colorful-images?couponId=252444&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-01 00:00:00",
+      "endDateGMT": "2025-09-20 00:00:00",
+      "storeId": 1440,
+      "storeName": "Colorful Images",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/colorful-images_logo.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping on orders $50+",
+      "jumpUrl": "https://www.rewardany.com/store/caudalie-ca?couponId=292408&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-22 16:40:00",
+      "endDateGMT": "2028-07-22 04:00:00",
+      "storeId": 1498,
+      "storeName": "Caudalie CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caudalie-ca.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Livraison gratuite d\u00e8s 50$ d'achats",
+      "jumpUrl": "https://www.rewardany.com/store/caudalie-ca?couponId=292409&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-22 16:40:00",
+      "endDateGMT": "2028-07-22 04:00:00",
+      "storeId": 1498,
+      "storeName": "Caudalie CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caudalie-ca.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "15% off when you sign up",
+      "jumpUrl": "https://www.rewardany.com/store/caudalie-ca?couponId=292410&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-22 16:40:00",
+      "endDateGMT": "2028-07-22 04:00:00",
+      "storeId": 1498,
+      "storeName": "Caudalie CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caudalie-ca.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "15% de RABAIS sur votre premi\u00e8re commande",
+      "jumpUrl": "https://www.rewardany.com/store/caudalie-ca?couponId=292411&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-22 16:40:00",
+      "endDateGMT": "2028-07-22 04:00:00",
+      "storeId": 1498,
+      "storeName": "Caudalie CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caudalie-ca.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Buy Tru Niagen Today! Save up To 30% with A Subscription!",
+      "jumpUrl": "https://www.rewardany.com/store/tru-niagen?couponId=624823&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-08-30 15:21:00",
+      "endDateGMT": "2028-08-30 04:00:00",
+      "storeId": 1531,
+      "storeName": "Tru Niagen",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tru-niagen.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Fall Favorites Sale: Save 20% on MW08 Active Noise-Cancelling True Wireless Earphones and MH40 Wireless Headphones!",
+      "jumpUrl": "https://www.rewardany.com/store/master-and-dynamic-eu?couponId=258580&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-06 19:33:00",
+      "endDateGMT": "2028-10-05 22:00:00",
+      "storeId": 1542,
+      "storeName": "Master & Dynamic EU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/master-and-dynamic-eu.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Flash Sale: Save 30% on MW50 Plus!",
+      "jumpUrl": "https://www.rewardany.com/store/master-and-dynamic-eu?couponId=258581&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-11-09 18:52:00",
+      "endDateGMT": "2028-11-08 23:00:00",
+      "storeId": 1542,
+      "storeName": "Master & Dynamic EU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/master-and-dynamic-eu.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Flash Sale: 25% Off MH40 Wireless Plus MW08 True Wireless Earphones!",
+      "jumpUrl": "https://www.rewardany.com/store/master-and-dynamic-eu?couponId=258582&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-12-14 15:54:00",
+      "endDateGMT": "2028-12-13 23:00:00",
+      "storeId": 1542,
+      "storeName": "Master & Dynamic EU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/master-and-dynamic-eu.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Get 10% Off Your First Purchase on MasterDynamic.com!",
+      "jumpUrl": "https://www.rewardany.com/store/master-and-dynamic-eu?couponId=258584&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-06-08 00:00:00",
+      "endDateGMT": "2025-06-04 00:00:00",
+      "storeId": 1542,
+      "storeName": "Master & Dynamic EU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/master-and-dynamic-eu.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Click & Collect: Buy online and collect your order in store",
+      "jumpUrl": "https://www.rewardany.com/store/foot-locker-uk?couponId=636432&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-23 00:00:00",
+      "endDateGMT": "2024-01-23 00:00:00",
+      "storeId": 1552,
+      "storeName": "Foot Locker UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/foot-locker-uk.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Shop Turtle Wax Products!",
+      "jumpUrl": "https://www.rewardany.com/store/turtle-wax?couponId=258588&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-28 09:52:00",
+      "endDateGMT": "2028-06-27 23:00:00",
+      "storeId": 1560,
+      "storeName": "Turtle Wax UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/turtle-wax_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Free & Fast Delivery On All Orders!",
+      "jumpUrl": "https://www.rewardany.com/store/turtle-wax?couponId=258592&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-28 09:52:00",
+      "endDateGMT": "2028-06-27 23:00:00",
+      "storeId": 1560,
+      "storeName": "Turtle Wax UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/turtle-wax_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Save 10% Off Your First Order!",
+      "jumpUrl": "https://www.rewardany.com/store/turtle-wax?couponId=258593&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-28 09:52:00",
+      "endDateGMT": "2028-06-27 23:00:00",
+      "storeId": 1560,
+      "storeName": "Turtle Wax UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/turtle-wax_logo.jpg",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "GET UP TO 50% OFF TREATS OF THE WEEK AT LOOKFANTASTIC!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-es?couponId=565617&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-23 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 1607,
+      "storeName": "LOOKFANTASTIC ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-es_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Get 35% off ESPA Advent + EXTRA 10%",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-es?couponId=610911&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1607,
+      "storeName": "LOOKFANTASTIC ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-es_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Get a Free Yves Saint Laurent Men Y Aftershave Set when you spend 60 Euros on Men\u2019s",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-es?couponId=610918&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1607,
+      "storeName": "LOOKFANTASTIC ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-es_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Get 10% off all Advent Calendars at LOOKFANTASTIC! Code 10XMAS",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-es?couponId=636443&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-06 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1607,
+      "storeName": "LOOKFANTASTIC ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-es_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Get 20-23% off By Terry at LOOKFANTASTIC",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-es?couponId=646036&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1607,
+      "storeName": "LOOKFANTASTIC ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-es_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Get 10 Euros off the Revolution Pro Miracle Advent Calendar. CODE: 10XMAS",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-es?couponId=646037&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1607,
+      "storeName": "LOOKFANTASTIC ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-es_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Get 5 Euros off Black Friday Box. CODE: FANTASTICLF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-es?couponId=646038&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 1607,
+      "storeName": "LOOKFANTASTIC ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-es_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    }
+  ]
+}

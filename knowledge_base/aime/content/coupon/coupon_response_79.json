@@ -1,0 +1,1510 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 79,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "Disneyland Resort - Limited-Time Kids Special Offer - Save up To $194 on 2-Day Park Hopper with Genie plus Service!",
+      "jumpUrl": "https://www.rewardany.com/store/ares-travel?couponId=582255&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-02 02:37:00",
+      "endDateGMT": "2024-03-09 00:00:00",
+      "storeId": 1831,
+      "storeName": "aRes Travel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ares-travel_logo.PNG",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Disneyland Resort - Limited-Time Kids Special Offer - Save up To $232 on A 3-Day Park Hopper with Genie plus Service!",
+      "jumpUrl": "https://www.rewardany.com/store/ares-travel?couponId=582256&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-02 02:37:00",
+      "endDateGMT": "2024-03-09 00:00:00",
+      "storeId": 1831,
+      "storeName": "aRes Travel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ares-travel_logo.PNG",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save Over $15 on 1 and 2-Day Admission to Kennedy Space Center Visitor Complex!",
+      "jumpUrl": "https://www.rewardany.com/store/ares-travel?couponId=582257&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-02 02:52:00",
+      "endDateGMT": "2024-03-31 07:00:00",
+      "storeId": 1831,
+      "storeName": "aRes Travel",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ares-travel_logo.PNG",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Order Today to Get 15% Off Your First Subscription Order With Vital Proteins.",
+      "jumpUrl": "https://www.rewardany.com/store/vital-proteins?couponId=214731&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-04 17:02:00",
+      "endDateGMT": "2029-05-08 04:00:00",
+      "storeId": 1863,
+      "storeName": "Vital Proteins",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vital-proteins_logo.PNG",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Free Delivery on Orders Over $150!",
+      "jumpUrl": "https://www.rewardany.com/store/foot-locker-au?couponId=302693&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-01-31 07:00:00",
+      "endDateGMT": "2027-11-18 13:00:00",
+      "storeId": 1879,
+      "storeName": "Foot Locker AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/foot-locker-au.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "For a Limited Time, Sign up And Receive 15% Off Your Next Purchase. Visit Aninebing.Com to Shop Now!",
+      "jumpUrl": "https://www.rewardany.com/store/anine-bing?couponId=669629&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-05 08:00:00",
+      "endDateGMT": "2024-01-04 08:00:00",
+      "storeId": 1891,
+      "storeName": "ANINE BING",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/anine-bing_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy 10% Off Your First Order when You Subscribe!",
+      "jumpUrl": "https://www.rewardany.com/store/dean-davidson?couponId=512583&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-26 21:16:00",
+      "endDateGMT": "2024-09-27 00:00:00",
+      "storeId": 1914,
+      "storeName": "Dean Davidson",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dean-davidson_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Year-End Sale: Save up To 60% Off Select Styles!",
+      "jumpUrl": "https://www.rewardany.com/store/dean-davidson?couponId=707910&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-12 21:57:00",
+      "endDateGMT": "2024-01-04 00:00:00",
+      "storeId": 1914,
+      "storeName": "Dean Davidson",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dean-davidson_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "The Future is Plant-Based - Shop New Plant Core Grips Now!",
+      "jumpUrl": "https://www.rewardany.com/store/popsockets?couponId=622196&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-10 18:11:00",
+      "endDateGMT": "2028-10-10 04:00:00",
+      "storeId": 2048,
+      "storeName": "PopSockets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/popsockets_logo.jpg",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 50% Off + Free Cancellation",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636560&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-09-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in New York. Save on activities + Reserve now and pay later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636561&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-02-19 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 50% off NYC experiences",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636562&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-11-22 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Big savings on your adventure",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636563&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-12-16 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in London.  Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636564&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Florence.  Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636565&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover & save on things to do this weekend with Viator",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636566&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Planning trip to Europe?  Discover top places to visit and save on things to do. Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636567&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Planning a trip to Italy?  Discover places to visits and top things to do.  Plus Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636568&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Planning a trip to France?  Discover places to visits and top things to do.  Plus Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636569&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-09 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Chicago. Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636570&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-21 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in New Orleans. Save on activities + Reserve Now and Pay Later",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636571&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-21 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Discover things to do in Barcelona.",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636572&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-21 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Reserve Now & Pay Later on all Viator tours. Secure your spot whilst keeping your plans flexible",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636573&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-03-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Explore things to do in Mexico",
+      "jumpUrl": "https://www.rewardany.com/store/viator-us?couponId=636574&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-08-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2063,
+      "storeName": "Viator US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/viator-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "DRESSES FOR $6 & CO-ORDS FOR $12?!",
+      "jumpUrl": "https://www.rewardany.com/store/ego-shoes-us-and-ca-?couponId=646184&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-29 00:00:00",
+      "storeId": 2071,
+      "storeName": "Ego Shoes (US & CA)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ego-shoes-us-and-ca-_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Shop Sub Zero at Ego",
+      "jumpUrl": "https://www.rewardany.com/store/ego-shoes-us-and-ca-?couponId=646185&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-29 00:00:00",
+      "storeId": 2071,
+      "storeName": "Ego Shoes (US & CA)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ego-shoes-us-and-ca-_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Shop Unholy Collection at Ego",
+      "jumpUrl": "https://www.rewardany.com/store/ego-shoes-us-and-ca-?couponId=646186&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-29 00:00:00",
+      "storeId": 2071,
+      "storeName": "Ego Shoes (US & CA)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ego-shoes-us-and-ca-_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Shop Cosy Slippers and Boots at Ego",
+      "jumpUrl": "https://www.rewardany.com/store/ego-shoes-us-and-ca-?couponId=646187&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-29 00:00:00",
+      "storeId": 2071,
+      "storeName": "Ego Shoes (US & CA)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ego-shoes-us-and-ca-_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Boots From $11!",
+      "jumpUrl": "https://www.rewardany.com/store/ego-shoes-us-and-ca-?couponId=646189&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-29 00:00:00",
+      "storeId": 2071,
+      "storeName": "Ego Shoes (US & CA)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ego-shoes-us-and-ca-_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "GET 55% OFF WHEN OVER 99 USD WITH CODE:\tXX9955",
+      "jumpUrl": "https://www.rewardany.com/store/chicme?couponId=258839&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-01 10:04:00",
+      "endDateGMT": "2029-05-31 16:00:00",
+      "storeId": 2129,
+      "storeName": "ChicMe",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chicme_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "GET 50% OFF WHEN OVER 66 USD WITH CODE: XX6650",
+      "jumpUrl": "https://www.rewardany.com/store/chicme?couponId=258840&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-01 10:04:00",
+      "endDateGMT": "2029-05-31 16:00:00",
+      "storeId": 2129,
+      "storeName": "ChicMe",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chicme_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "CHICME SITEWIDE 40% OFF NO CODE NEEDED",
+      "jumpUrl": "https://www.rewardany.com/store/chicme?couponId=258841&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-18 09:12:00",
+      "endDateGMT": "2029-05-28 16:00:00",
+      "storeId": 2129,
+      "storeName": "ChicMe",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chicme_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SHOP THE CHICME LOOK,DOWN TO $10.99",
+      "jumpUrl": "https://www.rewardany.com/store/chicme?couponId=258842&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-18 09:12:00",
+      "endDateGMT": "2029-05-28 16:00:00",
+      "storeId": 2129,
+      "storeName": "ChicMe",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chicme_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "45% OFF orders US$59+",
+      "jumpUrl": "https://www.rewardany.com/store/chicme?couponId=258843&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-24 13:51:00",
+      "endDateGMT": "2029-05-28 16:00:00",
+      "storeId": 2129,
+      "storeName": "ChicMe",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chicme_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "50% OFF orders US$89+",
+      "jumpUrl": "https://www.rewardany.com/store/chicme?couponId=258844&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-24 13:51:00",
+      "endDateGMT": "2029-05-28 16:00:00",
+      "storeId": 2129,
+      "storeName": "ChicMe",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chicme_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "55% OFF orders US$159+",
+      "jumpUrl": "https://www.rewardany.com/store/chicme?couponId=258845&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-04-24 13:51:00",
+      "endDateGMT": "2029-05-28 16:00:00",
+      "storeId": 2129,
+      "storeName": "ChicMe",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chicme_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "BLACK FRIDAY UP TO 60% OFF!",
+      "jumpUrl": "https://www.rewardany.com/store/chicme?couponId=582268&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-26 07:02:00",
+      "endDateGMT": "2029-10-25 16:00:00",
+      "storeId": 2129,
+      "storeName": "ChicMe",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chicme_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Sale up To 85% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/chicme?couponId=604216&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-15 06:00:00",
+      "endDateGMT": "2029-11-14 16:00:00",
+      "storeId": 2129,
+      "storeName": "ChicMe",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chicme_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Sale up To 90% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/chicme?couponId=622201&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-21 16:00:00",
+      "endDateGMT": "2023-12-20 16:00:00",
+      "storeId": 2129,
+      "storeName": "ChicMe",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chicme_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% off Microscope Cameras at Amscope Plus Free Shipping in the US. Shop Now!",
+      "jumpUrl": "https://www.rewardany.com/store/united-scope?couponId=175172&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-07-18 00:00:00",
+      "endDateGMT": "2025-07-17 00:00:00",
+      "storeId": 2157,
+      "storeName": "United Scope",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/united-scope_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% off Digital Microscopes at Amscope Plus Free Shipping in the US. Shop Now!",
+      "jumpUrl": "https://www.rewardany.com/store/united-scope?couponId=175173&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-07-18 00:00:00",
+      "endDateGMT": "2025-07-17 00:00:00",
+      "storeId": 2157,
+      "storeName": "United Scope",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/united-scope_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% off Industrial Inspection Microscopes at Amscope Plus Free Shipping in the US. Shop Now!",
+      "jumpUrl": "https://www.rewardany.com/store/united-scope?couponId=175174&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-07-18 00:00:00",
+      "endDateGMT": "2025-07-17 00:00:00",
+      "storeId": 2157,
+      "storeName": "United Scope",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/united-scope_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% off Microscopes at Amscope Plus Free Shipping in the US. Shop Now!",
+      "jumpUrl": "https://www.rewardany.com/store/united-scope?couponId=175175&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-07-18 00:00:00",
+      "endDateGMT": "2025-07-17 00:00:00",
+      "storeId": 2157,
+      "storeName": "United Scope",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/united-scope_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "The Perfect Holiday Wines\u201412 Acclaimed Bottles for $69.99",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580711&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "The Holiday Wines You Need to Have\u201412 Bottles for $69.99",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580712&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Best Wines for The Holiday Season\u201412 Bottles for Only $69.99",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580713&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Best Wines for Holiday Entertaining\u201412 Bottles for Only $69.99",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580714&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Award-Winning Holiday Wines\u201412 Bottles for $69.99 Plus Bonus Gifts",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580715&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Serve 12 Award-Winning Holiday Wines\u2014all for $69.99",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580716&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Stock up For the Holidays: Award-Winning Wines for Under $10 a Bottle!",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580717&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Award-Winning Holiday Wines at A Friendly Price\u201412 Bottles for $69.99!",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580719&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Prize-Winning Holiday Wines at A Friendly Price\u201412 Bottles for $69.99!",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580720&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Entertain in Style with 12 Award-Winning Wines for Only $69.99",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580721&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Award-Winning Bordeaux, Malbec, Cabernet and More\u2013only $69.99",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580722&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "12 Award-Winning Wines for Only $69.99",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580723&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Taste 12 Award-Winning Wines for Only $69.99",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580724&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Discover 12 Acclaimed Wines for Only $69.99",
+      "jumpUrl": "https://www.rewardany.com/store/laithwaites-wine-us-?couponId=580725&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-01 15:35:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2190,
+      "storeName": "Laithwaite's Wine (US)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/laithwaites-wine-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Don't Miss Out: Up To 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/aldo-usa?couponId=729367&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 06:00:00",
+      "endDateGMT": "2023-12-21 06:00:00",
+      "storeId": 2322,
+      "storeName": "Aldo US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aldo-usa-1698725058.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "15EUR OFF the GLOSSY BOX Advent Calendar With the code: FANTASTICLF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=589139&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 10% off all Advent Calendars at LOOKFANTASTIC! With the code: 10XMAS",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=589140&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 5\u20ac off with your exclusive code or FANTASTICLF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=589141&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "40% off the Kiehl's Daily Hydrators Set!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=589143&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "GET UP TO 50% OFF TREATS OF THE WEEK AT LOOKFANTASTIC!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=589144&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save - 25% off when you spend \u20ac50 or 30% when you spend \u20ac75 | Code:  SAVELF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=589145&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "OUTLET: Up to 50% OFF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=589146&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 10% off all Advent Calendars at LOOKFANTASTIC! | Code: 10XMAS",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=636606&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 5\u20ac off with your exclusive code or FANTASTICLF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=636607&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "LOOKFANTASTIC Black Friday Edit (Worth Over 130EUR)",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=636608&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "GET UP TO 50% OFF TREATS OF THE WEEK AT LOOKFANTASTIC!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=636609&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Spend & Save - 25% off when you spend \u20ac50 or 30% when you spend \u20ac75 | Code: SAVELF",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=636610&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "R\u00e9duction sur la box Black Friday",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=636611&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-22 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday: Offre SCENT EDIT",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-fr?couponId=636612&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-22 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2330,
+      "storeName": "LOOKFANTASTIC FR",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-fr_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Tiles by Wickes",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696032&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Bathroom Wall & Floor Tiles",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696033&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Kitchen Wall & Floor Tiles",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696034&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Floor Tiles",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696035&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Wall Tiles",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696036&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Boutique Tiles",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696037&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Mosaic Tiles",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696038&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Outdoor Tiles and Paving",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696039&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-30 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Natural Stone Tiles",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696040&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Tile Tools and Accessories",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696041&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Deck Tiles",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696042&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Underfloor Heating",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696043&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Tile Samples",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696044&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Tiles Clearance",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696045&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Tile Grout",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696046&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Tile Adhesives",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696047&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Wickes Lifestyle Kitchens (WLK)",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696048&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Garden, Fencing & Sheds (GFS)",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696049&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Flooring",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696050&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Tiles",
+      "jumpUrl": "https://www.rewardany.com/store/wickes?couponId=696051&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 2353,
+      "storeName": "Wickes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wickes-1702296265.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "OUR ADVENT CALENDARS HAVE LANDED",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop-uk?couponId=636622&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-08-29 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2403,
+      "storeName": "The Body Shop UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-uk-1702977705.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "FREE CHANGEMAKER'S GIFT (WORTH \u00a325) WHEN YOU SPEND \u00a339*",
+      "jumpUrl": "https://www.rewardany.com/store/the-body-shop-uk?couponId=636624&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2403,
+      "storeName": "The Body Shop UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-body-shop-uk-1702977705.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Welcome Offer - US!",
+      "jumpUrl": "https://www.rewardany.com/store/eve-lom?couponId=622230&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-11-12 15:55:00",
+      "endDateGMT": "2026-11-12 00:00:00",
+      "storeId": 2424,
+      "storeName": "Eve Lom",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eve-lom_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Now 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/eve-lom?couponId=622232&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-29 20:16:00",
+      "endDateGMT": "2029-03-29 04:00:00",
+      "storeId": 2424,
+      "storeName": "Eve Lom",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eve-lom_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Receive 15% Off, Plus Free Shipping on All Recurring Orders!",
+      "jumpUrl": "https://www.rewardany.com/store/eve-lom?couponId=622234&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-12 13:31:00",
+      "endDateGMT": "2029-10-11 23:00:00",
+      "storeId": 2424,
+      "storeName": "Eve Lom",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eve-lom_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get your first LOOKFANTASTIC THE BOX: Monthly Beauty Box for 52.50 PLN when you subscribe to 1 month rolling subscription, with your affiliate code",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-dach?couponId=263751&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2494,
+      "storeName": "LOOKFANTASTIC DACH",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-dach_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "LOOKFANTASTIC Autumn Fragrance and Beauty Edit",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-dach?couponId=622245&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-23 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2494,
+      "storeName": "LOOKFANTASTIC DACH",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-dach_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "First Monthly Beauty Box for just 13 Euros with a 1 month subscription",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-dach?couponId=636648&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-13 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2494,
+      "storeName": "LOOKFANTASTIC DACH",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-dach_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    }
+  ]
+}

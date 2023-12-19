@@ -1,0 +1,1568 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 27,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "FY23 Holiday - Jennifer Amarteifio (3854955) - Home Accents Holiday 4.5 ft. Tinsel LED Stacked Gift Boxes Holiday Yard Decoration Internet #324875639",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656089&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "FY23 Orange Tank - Tara Ladd (4593452) - Grout Solutions Color Sample Kit - 40 Colors",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656151&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "AFL-B-F_AllDeptAffiliate-Multi-D29A-29_16_FLOORCARE-MULTI-NA-NA-AFL_Link-NA-NA-Buy_One_Get_One_50_off_select_Dyson_vacuums",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=656238&pubId=10427&subId={your tracking code}",
+      "type": "buy1Get1",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-29 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "FY23 HDH AON - Jodi Bond (1804904) - Twine Wood with Slate Cheese Board and Chalk Set, Acacia Wood and Natural Slate Cutting Board, Soapstone Chalk, Gift Set 3412 - The Home Depot",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=681624&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "FY23 HDH AON - Jodi Bond (1804904) - Viski 8 oz. Footed Crystal Scotch Glasses Lead-Free Premium Crystal, Scotch Glass Gift Set (Set of 2) 4290 - The Home Depot",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=681625&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "FY23 HDH AON - Jodi Bond (1804904) - Ivation Electric Wine Opener, 7-Piece Wine Gift Set, Electric Bottle Opener IVAWS30SS - The Home Depot ($45)",
+      "jumpUrl": "https://www.rewardany.com/store/home-depot-us?couponId=681626&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 77974,
+      "storeName": "Home Depot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/home-depot-us-1693468658.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Gift Guide- NL",
+      "jumpUrl": "https://www.rewardany.com/store/dr-martens-de?couponId=656249&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-02 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 88234,
+      "storeName": "Dr Martens DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dr-martens-de.png",
+      "categories": [
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Engraving US",
+      "jumpUrl": "https://www.rewardany.com/store/rado-us-uk?couponId=656255&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2020-06-22 00:00:00",
+      "endDateGMT": "2027-10-19 00:00:00",
+      "storeId": 89286,
+      "storeName": "Rado WW",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rado-us-uk-1696745644.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Diamond Watches",
+      "jumpUrl": "https://www.rewardany.com/store/rado-us-uk?couponId=656256&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2021-02-05 00:00:00",
+      "endDateGMT": "2027-02-05 00:00:00",
+      "storeId": 89286,
+      "storeName": "Rado WW",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rado-us-uk-1696745644.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Shop Jonathan Adler:  Modern Home D\u00e9cor, Luxury Gifts, and Mid-Century Modern Furniture.",
+      "jumpUrl": "https://www.rewardany.com/store/jonathan-adler?couponId=105308&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2022-10-31 00:00:00",
+      "endDateGMT": "2028-10-31 00:00:00",
+      "storeId": 89289,
+      "storeName": "Jonathan Adler",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jonathan-adler.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Shop Jonathan Adler GIFTS!",
+      "jumpUrl": "https://www.rewardany.com/store/jonathan-adler?couponId=172118&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2029-06-14 00:00:00",
+      "storeId": 89289,
+      "storeName": "Jonathan Adler",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jonathan-adler.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681679&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Gifts For Her - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681680&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Gifts For Him - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681681&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Stocking Fillers - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681682&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made In Ireland - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681683&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Mens Knitwear - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681684&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Mens Jackets - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681685&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Mens Shirts - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681686&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Mens Caps - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681687&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Women's Coats - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681688&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Women's Jackets - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681689&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Women's Knitwear - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681690&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Women's Shirts & Tops - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681691&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Women's Dresses - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681692&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Women's Trousers - Christmas Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681693&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas Gifts from \u00a339/\u20ac39",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681694&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas E-Gift Vouchers",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681695&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas E-Gift Vouchers from \u00a320/\u20ac20",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681696&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas E-Gift Vouchers from \u00a350/\u20ac50",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681697&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas E-Gift Vouchers from \u00a3100/\u20ac100",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681698&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas E-Gift Vouchers from \u00a3200/\u20ac200",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681699&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas E-Gift Vouchers from \u00a3300/\u20ac300",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681700&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas E-Gift Vouchers from \u00a3400/\u20ac400",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681701&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas E-Gift Vouchers from \u00a3500/\u20ac500",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681702&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas E-Gift Vouchers from \u00a3600/\u20ac600",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681703&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas E-Gift Vouchers from \u00a3800/\u20ac800",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681704&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Christmas E-Gift Vouchers from \u00a31000/\u20ac1000",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681705&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made To Measure Suits - Christmas E-Gift Vouchers",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681706&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made To Measure Suits - Christmas E-Gift Vouchers from \u00a3250/\u20ac250",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681707&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made To Measure Suits - Christmas E-Gift Vouchers from \u00a3500/\u20ac500",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681708&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made To Measure Suits - Christmas E-Gift Vouchers from \u00a31000/\u20ac1000",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681709&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made To Measure Suits - Christmas E-Gift Vouchers from \u00a31500/\u20ac1500",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681710&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made To Measure Suits - Christmas E-Gift Vouchers from \u00a32000/\u20ac2000",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681711&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made In Ireland - Christmas Gifts",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681715&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made In Ireland - Baby Christmas Gifts",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681716&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made In Ireland - Candle & Diffuser Christmas Gifts",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681717&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made In Ireland - Throw Christmas Gifts",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681718&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made In Ireland - Pashmina Christmas Gifts",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681719&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Made In Ireland - Scarf Christmas Gifts",
+      "jumpUrl": "https://www.rewardany.com/store/magee-1866?couponId=681720&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89346,
+      "storeName": "Magee 1866",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magee-1866.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "MCM Holiday Gift Guide 2023: A curated selection of timeless classics and bold new favorites, only at mcmworldwide.com!",
+      "jumpUrl": "https://www.rewardany.com/store/mcm?couponId=656281&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-08 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89377,
+      "storeName": "MCM",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mcm-1699601445.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "MCM Holiday Gift Guide 2023: Shop gifts for her!",
+      "jumpUrl": "https://www.rewardany.com/store/mcm?couponId=656282&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-16 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89377,
+      "storeName": "MCM",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/mcm-1699601445.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Shop Living Proof's Holiday Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/living-proof?couponId=656286&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 89398,
+      "storeName": "Living Proof",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/living-proof.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "October Flash Sale Banner 300x600",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656403&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "OCT23",
+      "tier": 2,
+      "startDateGMT": "2023-09-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "October Flash Sale Banner 160x600",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656404&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "OCT23",
+      "tier": 2,
+      "startDateGMT": "2023-09-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "October Flash Sale Banner 300x250",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656405&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "OCT23",
+      "tier": 2,
+      "startDateGMT": "2023-09-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "October Flash Sale Banner 728x90",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656406&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "OCT23",
+      "tier": 2,
+      "startDateGMT": "2023-09-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "October Flash Sale Banner 1200x628",
+      "jumpUrl": "https://www.rewardany.com/store/extended-stay-america?couponId=656407&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "OCT23",
+      "tier": 2,
+      "startDateGMT": "2023-09-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89413,
+      "storeName": "Extended Stay America",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/extended-stay-america.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Shop 20% off first order",
+      "jumpUrl": "https://www.rewardany.com/store/antipodes?couponId=703355&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SAVE20",
+      "tier": 2,
+      "startDateGMT": "2023-12-12 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 89488,
+      "storeName": "Antipodes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/antipodes.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Avis Australia - 3rd Weekend Day Free - Code: TPLA010",
+      "jumpUrl": "https://www.rewardany.com/store/avis-au?couponId=656431&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "TPLA010",
+      "tier": 2,
+      "startDateGMT": "2023-06-22 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 89523,
+      "storeName": "Avis AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/avis-au.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "20% off selected lines with code BBGET20DECEMBER",
+      "jumpUrl": "https://www.rewardany.com/store/bluebella-au?couponId=681888&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BBGET20DECEMBER",
+      "tier": 2,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 89602,
+      "storeName": "Bluebella AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bluebella-au.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Save 10% off your Bunches orders!",
+      "jumpUrl": "https://www.rewardany.com/store/bunches-uk?couponId=686510&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BUNDEC23",
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89642,
+      "storeName": "Bunches UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bunches-uk.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "10% off all Watch orders",
+      "jumpUrl": "https://www.rewardany.com/store/cw-sellors-uk?couponId=686598&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CWS10AFF",
+      "tier": 2,
+      "startDateGMT": "2023-10-25 00:00:00",
+      "endDateGMT": "2024-01-07 00:00:00",
+      "storeId": 89789,
+      "storeName": "C.W. Sellors UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cw-sellors-uk.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "15% off orders over \u00a31,000",
+      "jumpUrl": "https://www.rewardany.com/store/cw-sellors-uk?couponId=686599&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CWS15SAVE",
+      "tier": 2,
+      "startDateGMT": "2023-10-25 00:00:00",
+      "endDateGMT": "2024-01-07 00:00:00",
+      "storeId": 89789,
+      "storeName": "C.W. Sellors UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cw-sellors-uk.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "FREE E-Gift Card \u2013 Up to \u00a3500 with selected products",
+      "jumpUrl": "https://www.rewardany.com/store/cw-sellors-uk?couponId=686600&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 89789,
+      "storeName": "C.W. Sellors UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cw-sellors-uk.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Ergobaby - KANGA ADELAIDE HILLS",
+      "jumpUrl": "https://www.rewardany.com/store/ergobaby?couponId=82389&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "KANGAADELAIDEHILLS",
+      "tier": 2,
+      "startDateGMT": "2022-06-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89903,
+      "storeName": "Ergobaby AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ergobaby.png",
+      "categories": [
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "Get exclusive offers and first access to new arrivals straight to your inbox. New email subscribers get 10% OFF their first online purchase. New text subscribers get entered to win a $100 gift card.",
+      "jumpUrl": "https://www.rewardany.com/store/george-richards-canada?couponId=637022&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": "2024-01-19 00:00:00",
+      "storeId": 90016,
+      "storeName": "George Richards CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/george-richards-canada.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Gift Giving 50% Off",
+      "jumpUrl": "https://www.rewardany.com/store/george-richards-canada?couponId=640433&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90016,
+      "storeName": "George Richards CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/george-richards-canada.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Take 20% off your purchase of 2+ sale items.  Use code M20SALECA.",
+      "jumpUrl": "https://www.rewardany.com/store/marciano-canada?couponId=656583&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "M20SALECA",
+      "tier": 2,
+      "startDateGMT": "2023-08-24 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90063,
+      "storeName": "Marciano CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/marciano-canada.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656598&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Cyber Monday Sale",
+      "jumpUrl": "https://www.rewardany.com/store/jellybelly?couponId=656604&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90178,
+      "storeName": "JellyBelly",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/jellybelly.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% Off Sitewide; Code KLPGIFT",
+      "jumpUrl": "https://www.rewardany.com/store/karl-lagerfeld?couponId=656611&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "KLPGIFT",
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90209,
+      "storeName": "Karl Lagerfeld Paris",
+      "logoImg": null,
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Up To 50% Off Sitewide; Code KLPGIFT",
+      "jumpUrl": "https://www.rewardany.com/store/karl-lagerfeld?couponId=656612&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "KLPGIFT",
+      "tier": 2,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90209,
+      "storeName": "Karl Lagerfeld Paris",
+      "logoImg": null,
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Why wait until the last-last minute when you can score up to 60% off* trending \u2018fits, legendary gifts & more right now?!",
+      "jumpUrl": "https://www.rewardany.com/store/oshkosh-bgosh?couponId=656678&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 90532,
+      "storeName": "OshKosh B'gosh",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oshkosh-bgosh.png",
+      "categories": [
+        "Clothing",
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "It\u2019s giving up to 60% off* vibes. Gift the tops + pants they\u2019ll want to (love to) wear all season.",
+      "jumpUrl": "https://www.rewardany.com/store/oshkosh-bgosh?couponId=656680&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 90532,
+      "storeName": "OshKosh B'gosh",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oshkosh-bgosh.png",
+      "categories": [
+        "Clothing",
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "25% Off Aircon Regas",
+      "jumpUrl": "https://www.rewardany.com/store/protyre-uk?couponId=686712&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "MAWEBAIR25",
+      "tier": 2,
+      "startDateGMT": "2023-07-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90613,
+      "storeName": "Protyre UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/protyre-uk.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Get Instant Money Back On Your MOT with a Silver or Gold service",
+      "jumpUrl": "https://www.rewardany.com/store/protyre-uk?couponId=686713&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "MASVSMOTFREE",
+      "tier": 2,
+      "startDateGMT": "2023-07-31 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90613,
+      "storeName": "Protyre UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/protyre-uk.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Get \u00a320 Off Any Silver or Gold Service",
+      "jumpUrl": "https://www.rewardany.com/store/protyre-uk?couponId=686714&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "MASERV20",
+      "tier": 2,
+      "startDateGMT": "2023-07-31 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90613,
+      "storeName": "Protyre UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/protyre-uk.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Get \u00a35 Off Wheel Alignment",
+      "jumpUrl": "https://www.rewardany.com/store/protyre-uk?couponId=686715&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "TRACKING5",
+      "tier": 2,
+      "startDateGMT": "2023-08-08 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90613,
+      "storeName": "Protyre UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/protyre-uk.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Get \u00a35 Off Aircon Re-gas",
+      "jumpUrl": "https://www.rewardany.com/store/protyre-uk?couponId=686716&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "AIRCON5",
+      "tier": 2,
+      "startDateGMT": "2023-08-08 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90613,
+      "storeName": "Protyre UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/protyre-uk.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "50% Off Wheel Alignment When You Buy 2 Or More Tyres",
+      "jumpUrl": "https://www.rewardany.com/store/protyre-uk?couponId=686717&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "MAADALIGN50",
+      "tier": 2,
+      "startDateGMT": "2023-08-31 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90613,
+      "storeName": "Protyre UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/protyre-uk.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Get \u00a320 OFF Any 2 Pirelli and Goodyear Tyres",
+      "jumpUrl": "https://www.rewardany.com/store/protyre-uk?couponId=686718&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "MATYRE20",
+      "tier": 2,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90613,
+      "storeName": "Protyre UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/protyre-uk.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "sass & bide - Enjoy 10% off your first full price online order when you create an account.",
+      "jumpUrl": "https://www.rewardany.com/store/sass-and-bide?couponId=101748&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SBWC10XV",
+      "tier": 2,
+      "startDateGMT": "2021-06-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90687,
+      "storeName": "Sass & Bide",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sass-and-bide.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Snap, Cracker & Socks! | Shop Festive Gift Sets",
+      "jumpUrl": "https://www.rewardany.com/store/sock-shop-uk?couponId=686746&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 90781,
+      "storeName": "Sock Shop UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sock-shop-uk.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "15% Off",
+      "jumpUrl": "https://www.rewardany.com/store/swanson-health?couponId=656746&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SWANSON15",
+      "tier": 2,
+      "startDateGMT": "2023-07-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90855,
+      "storeName": "Swanson Health",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/swanson-health.png",
+      "categories": [
+        "Health & Beauty",
+        "Events & Entertainment"
+      ]
+    },
+    {
+      "couponTitle": "15% Off 125 x 125",
+      "jumpUrl": "https://www.rewardany.com/store/swanson-health?couponId=656747&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SWANSON15",
+      "tier": 2,
+      "startDateGMT": "2023-07-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90855,
+      "storeName": "Swanson Health",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/swanson-health.png",
+      "categories": [
+        "Health & Beauty",
+        "Events & Entertainment"
+      ]
+    },
+    {
+      "couponTitle": "15% Off 300 x 250",
+      "jumpUrl": "https://www.rewardany.com/store/swanson-health?couponId=656748&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SWANSON15",
+      "tier": 2,
+      "startDateGMT": "2023-07-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90855,
+      "storeName": "Swanson Health",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/swanson-health.png",
+      "categories": [
+        "Health & Beauty",
+        "Events & Entertainment"
+      ]
+    },
+    {
+      "couponTitle": "15% Off 468 x 60",
+      "jumpUrl": "https://www.rewardany.com/store/swanson-health?couponId=656749&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SWANSON15",
+      "tier": 2,
+      "startDateGMT": "2023-07-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90855,
+      "storeName": "Swanson Health",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/swanson-health.png",
+      "categories": [
+        "Health & Beauty",
+        "Events & Entertainment"
+      ]
+    },
+    {
+      "couponTitle": "15% Off 728 x 90",
+      "jumpUrl": "https://www.rewardany.com/store/swanson-health?couponId=656750&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SWANSON15",
+      "tier": 2,
+      "startDateGMT": "2023-07-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 90855,
+      "storeName": "Swanson Health",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/swanson-health.png",
+      "categories": [
+        "Health & Beauty",
+        "Events & Entertainment"
+      ]
+    },
+    {
+      "couponTitle": "Body Serum + Body Brush GWP",
+      "jumpUrl": "https://www.rewardany.com/store/tata-harper?couponId=656760&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-26 00:00:00",
+      "endDateGMT": "2024-01-02 00:00:00",
+      "storeId": 90865,
+      "storeName": "Tata Harper",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tata-harper.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "15% Off your order",
+      "jumpUrl": "https://www.rewardany.com/store/tfnc-uk?couponId=671877&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "15NEW",
+      "tier": 2,
+      "startDateGMT": "2023-09-22 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90875,
+      "storeName": "TFNC UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tfnc-uk-1693809357.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Yankee Candle Holiday Scents* Buy One Get One 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/the-paper-store?couponId=656764&pubId=10427&subId={your tracking code}",
+      "type": "buy1Get1",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90901,
+      "storeName": "The Paper Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-paper-store.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Alight & Hallmark 14-16oz Candles Buy One Get One FREE",
+      "jumpUrl": "https://www.rewardany.com/store/the-paper-store?couponId=656765&pubId=10427&subId={your tracking code}",
+      "type": "buy1Get1",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90901,
+      "storeName": "The Paper Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-paper-store.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Winter Scarves, Hats and Mittens* Buy One Get One 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/the-paper-store?couponId=656766&pubId=10427&subId={your tracking code}",
+      "type": "buy1Get1",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 90901,
+      "storeName": "The Paper Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-paper-store.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Thread Wallets Neck Lanyards and Elastic Wallets Buy One Get One Free",
+      "jumpUrl": "https://www.rewardany.com/store/the-paper-store?couponId=656770&pubId=10427&subId={your tracking code}",
+      "type": "buy1Get1",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-24 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 90901,
+      "storeName": "The Paper Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-paper-store.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "FREE Inis Shell Bracelet with $60+* Inis Purchase",
+      "jumpUrl": "https://www.rewardany.com/store/the-paper-store?couponId=656771&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "INIS60",
+      "tier": 2,
+      "startDateGMT": "2023-11-21 00:00:00",
+      "endDateGMT": "2024-06-02 00:00:00",
+      "storeId": 90901,
+      "storeName": "The Paper Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-paper-store.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Get Extra 7% discount for Video & Audio Products on Tomtop.com",
+      "jumpUrl": "https://www.rewardany.com/store/tomtop-uk?couponId=671902&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "TP7VIDEO",
+      "tier": 2,
+      "startDateGMT": "2023-06-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90934,
+      "storeName": "Tomtop UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tomtop-uk-1693812461.png",
+      "categories": [
+        "Electronics",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Get Extra 7% discount for Sports & Outdoor on Tomtop.com",
+      "jumpUrl": "https://www.rewardany.com/store/tomtop-uk?couponId=671903&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "TP7SPORT",
+      "tier": 2,
+      "startDateGMT": "2023-06-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90934,
+      "storeName": "Tomtop UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tomtop-uk-1693812461.png",
+      "categories": [
+        "Electronics",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Get Extra 8% discount for Smart Device & Safety Products on Tomtop.com",
+      "jumpUrl": "https://www.rewardany.com/store/tomtop-uk?couponId=671904&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "TP8SAFE",
+      "tier": 2,
+      "startDateGMT": "2023-06-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90934,
+      "storeName": "Tomtop UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tomtop-uk-1693812461.png",
+      "categories": [
+        "Electronics",
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Get Extra 8% discount for Health & Beauty on Tomtop.com",
+      "jumpUrl": "https://www.rewardany.com/store/tomtop-uk?couponId=671905&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "TP8HEALTH",
+      "tier": 2,
+      "startDateGMT": "2023-06-30 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90934,
+      "storeName": "Tomtop UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tomtop-uk-1693812461.png",
+      "categories": [
+        "Electronics",
+        "Home & Garden"
+      ]
+    }
+  ]
+}

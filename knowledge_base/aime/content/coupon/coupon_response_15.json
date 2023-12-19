@@ -1,0 +1,1529 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 15,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "5% OFF CAD199+",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-ca?couponId=637341&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "VTOFF5",
+      "tier": 1,
+      "startDateGMT": "2023-06-20 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 175924,
+      "storeName": "Vevor CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-ca-1695025027.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "C$5 orders over C$99",
+      "jumpUrl": "https://www.rewardany.com/store/vevor-ca?couponId=731227&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "WINTER5",
+      "tier": 1,
+      "startDateGMT": "2023-12-18 00:00:00",
+      "endDateGMT": "2024-02-01 00:00:00",
+      "storeId": 175924,
+      "storeName": "Vevor CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vevor-ca-1695025027.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Anxiety Free Paw-Dicures!",
+      "jumpUrl": "https://www.rewardany.com/store/luckytail-com?couponId=559689&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-08-04 16:51:00",
+      "endDateGMT": "2029-08-04 04:00:00",
+      "storeId": 179478,
+      "storeName": "LuckyTail",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/luckytail-com-1697771521.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "10% Off with Code PAWYAH",
+      "jumpUrl": "https://www.rewardany.com/store/luckytail-com?couponId=559692&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "PAWYAH",
+      "tier": 1,
+      "startDateGMT": "2023-08-03 13:51:00",
+      "endDateGMT": "2029-08-03 04:00:00",
+      "storeId": 179478,
+      "storeName": "LuckyTail",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/luckytail-com-1697771521.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Anxiety Free Pet Nail Grinding!",
+      "jumpUrl": "https://www.rewardany.com/store/luckytail-com?couponId=559693&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 1,
+      "startDateGMT": "2023-08-04 16:50:00",
+      "endDateGMT": "2029-08-04 04:00:00",
+      "storeId": 179478,
+      "storeName": "LuckyTail",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/luckytail-com-1697771521.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy $80 OFF on C182 4K 8CH 4-Cam System",
+      "jumpUrl": "https://www.rewardany.com/store/zositech-com?couponId=637352&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "ZOSIC182",
+      "tier": 1,
+      "startDateGMT": "2023-08-31 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 180529,
+      "storeName": "Zosi US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/zositech-com-1698225426.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save $50 Off Orders $500+",
+      "jumpUrl": "https://www.rewardany.com/store/zositech-com?couponId=668518&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "50OFF500",
+      "tier": 1,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2024-02-29 00:00:00",
+      "storeId": 180529,
+      "storeName": "Zosi US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/zositech-com-1698225426.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save $10 Off Orders $100+",
+      "jumpUrl": "https://www.rewardany.com/store/zositech-com?couponId=668519&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "10OFF100",
+      "tier": 1,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2024-02-29 00:00:00",
+      "storeId": 180529,
+      "storeName": "Zosi US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/zositech-com-1698225426.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save $20 Off Orders $200+",
+      "jumpUrl": "https://www.rewardany.com/store/zositech-com?couponId=668520&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "20OFF200",
+      "tier": 1,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2024-02-29 00:00:00",
+      "storeId": 180529,
+      "storeName": "Zosi US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/zositech-com-1698225426.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save $100 Off Orders $1000+",
+      "jumpUrl": "https://www.rewardany.com/store/zositech-com?couponId=672808&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "HAPPY100",
+      "tier": 1,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2024-02-29 00:00:00",
+      "storeId": 180529,
+      "storeName": "Zosi US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/zositech-com-1698225426.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save $30 Off Orders $300+",
+      "jumpUrl": "https://www.rewardany.com/store/zositech-com?couponId=672809&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "30OFF300",
+      "tier": 1,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2024-02-29 00:00:00",
+      "storeId": 180529,
+      "storeName": "Zosi US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/zositech-com-1698225426.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Your First Order with Code: WELCOME",
+      "jumpUrl": "https://www.rewardany.com/store/springstepshoes-com?couponId=570776&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "WELCOME",
+      "tier": 1,
+      "startDateGMT": "2023-08-15 20:20:00",
+      "endDateGMT": "2029-08-15 00:00:00",
+      "storeId": 181106,
+      "storeName": "Spring Step Shoes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/springstepshoes-com-1698292044.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Take 20% Off with Code PRODEGE20 only At Spring Step Shoes!",
+      "jumpUrl": "https://www.rewardany.com/store/springstepshoes-com?couponId=641455&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "PRODEGE20",
+      "tier": 1,
+      "startDateGMT": "2023-11-27 20:06:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 181106,
+      "storeName": "Spring Step Shoes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/springstepshoes-com-1698292044.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy 5% off on the entire KitchenAid website",
+      "jumpUrl": "https://www.rewardany.com/store/kitchenaid-es?couponId=637369&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "KAES05AFF",
+      "tier": 1,
+      "startDateGMT": "2023-06-22 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 183791,
+      "storeName": "Kitchenaid ES",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kitchenaid-es-1699325621.gif",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "SUNDAY SHOPPING: 35% OFF AT LOOKFANTASTIC!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=637397&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SUNDAY",
+      "tier": 1,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "25% off New Customer",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=637398&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "NC25",
+      "tier": 1,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "22 PLN off Black Friday Box",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=637399&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FANTASTICLF",
+      "tier": 1,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "GET 10 Euros Off the LF Present",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=663171&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "JINGLE10",
+      "tier": 1,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 10 Euros off the Revolution Pro Miracle Advent Calendar",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-com?couponId=663174&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "10XMAS",
+      "tier": 1,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 195128,
+      "storeName": "LOOKFANTASTIC International",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-com-1700725164.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "5% off sitewide",
+      "jumpUrl": "https://www.rewardany.com/store/neverfullydressed-com?couponId=637426&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "THANKFUL",
+      "tier": 1,
+      "startDateGMT": "2023-11-21 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 195677,
+      "storeName": "Never Fully Dressed US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/neverfullydressed-com-1700816674.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Baseline 10% - OHANA10",
+      "jumpUrl": "https://www.rewardany.com/store/xcel-wetsuits?couponId=351363&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "ohana10",
+      "tier": 2,
+      "startDateGMT": "2023-07-27 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 1,
+      "storeName": "XCEL Wetsuits",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/xcel-wetsuits_logo.gif",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Hawaii Coffee Club Gift Subscriptions",
+      "jumpUrl": "https://www.rewardany.com/store/big-island-coffee-roasters?couponId=28423&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2022-05-26 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 14,
+      "storeName": "Big Island Coffee Roasters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/big-island-coffee-roasters-1699335164.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Free Miir Travel Bottle",
+      "jumpUrl": "https://www.rewardany.com/store/big-island-coffee-roasters?couponId=28428&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "bicr200affil",
+      "tier": 2,
+      "startDateGMT": "2022-08-17 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 14,
+      "storeName": "Big Island Coffee Roasters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/big-island-coffee-roasters-1699335164.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "10% off with code 10OFFAFFIL",
+      "jumpUrl": "https://www.rewardany.com/store/big-island-coffee-roasters?couponId=635789&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "10offaffil",
+      "tier": 2,
+      "startDateGMT": "2023-10-19 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 14,
+      "storeName": "Big Island Coffee Roasters",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/big-island-coffee-roasters-1699335164.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "2023 Spring Best Seller Women Top",
+      "jumpUrl": "https://www.rewardany.com/store/bellezeke?couponId=61380&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BZ15",
+      "tier": 2,
+      "startDateGMT": "2023-05-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 22,
+      "storeName": "Bellezeke",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bellezeke_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Winter Clothing Sale! Take an Extra 25% Off Using Code WINTER25",
+      "jumpUrl": "https://www.rewardany.com/store/baxterboo?couponId=715076&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "WINTER25",
+      "tier": 2,
+      "startDateGMT": "2023-12-15 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 29,
+      "storeName": "BaxterBoo",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/baxterboo_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop the best gifting deals for your loved ones this December on Vestiaire Collective.",
+      "jumpUrl": "https://www.rewardany.com/store/vestiaire-collective-apac?couponId=687865&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-08 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 47,
+      "storeName": "Vestiaire Collective APAC",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vestiaire-collective-apac_logo.png",
+      "categories": [
+        "Clothing",
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "Early Black Friday Deals",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=28568&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EBF2022",
+      "tier": 2,
+      "startDateGMT": "2022-11-14 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Thanksgiving Day",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=28569&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "TGD2022",
+      "tier": 2,
+      "startDateGMT": "2022-11-18 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Fall Specials",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=28571&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FS2022",
+      "tier": 2,
+      "startDateGMT": "2022-12-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Merry Christmas",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=28572&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "MC2022",
+      "tier": 2,
+      "startDateGMT": "2022-12-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Skin Care Special",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=28575&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SC2023",
+      "tier": 2,
+      "startDateGMT": "2023-01-19 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Children's Cold, Flu & Cough",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=28578&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CC2023",
+      "tier": 2,
+      "startDateGMT": "2023-01-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "International Shipping1",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=28583&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "INT150",
+      "tier": 2,
+      "startDateGMT": "2023-02-28 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Father's Day Special",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=127294&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FATHERSDAY23",
+      "tier": 2,
+      "startDateGMT": "2023-06-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Hydration Boost Special",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=127295&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "HYDRATE15",
+      "tier": 2,
+      "startDateGMT": "2023-06-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sun Protection Special",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=127296&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SUNSAFE15",
+      "tier": 2,
+      "startDateGMT": "2023-06-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Summer Wellness Special",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=127297&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SUMMERWELL15",
+      "tier": 2,
+      "startDateGMT": "2023-06-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Allergy Relief Special",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=127298&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "ALLERGY15",
+      "tier": 2,
+      "startDateGMT": "2023-06-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "New Customer",
+      "jumpUrl": "https://www.rewardany.com/store/herbspro?couponId=130196&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "WELCOME",
+      "tier": 2,
+      "startDateGMT": "2023-06-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 53,
+      "storeName": "Herbspro",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/herbspro_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "The Blue Space - Buy 9 Momo Handles, Get the 10th Free",
+      "jumpUrl": "https://www.rewardany.com/store/the-blue-space?couponId=92269&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FREEHANDLE",
+      "tier": 2,
+      "startDateGMT": "2023-05-01 00:00:00",
+      "endDateGMT": null,
+      "storeId": 63,
+      "storeName": "The Blue Space",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-blue-space_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "The Blue Space - Receive 25% Off Any Shaving Cabinet with Purchase of Any Vanity*",
+      "jumpUrl": "https://www.rewardany.com/store/the-blue-space?couponId=92272&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "CABINET25",
+      "tier": 2,
+      "startDateGMT": "2023-05-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 63,
+      "storeName": "The Blue Space",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-blue-space_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop the Perfect Mother's Day Gifts and Get Free Shipping on orders $40+ at MeritBeauty.com!",
+      "jumpUrl": "https://www.rewardany.com/store/merit?couponId=28631&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-04-20 00:00:00",
+      "endDateGMT": null,
+      "storeId": 89,
+      "storeName": "MERIT",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/merit_logo.png",
+      "categories": null
+    },
+    {
+      "couponTitle": "Save 35% on Daytime and Night-time Fly LINQ Zipline tickets",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards:-shows-and-attractions-global-?couponId=65717&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FLAFFD",
+      "tier": 2,
+      "startDateGMT": "2023-05-10 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 93,
+      "storeName": "Caesars Rewards: Shows & Attractions (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards:-shows-and-attractions-global-_logo.gif",
+      "categories": [
+        "Events & Entertainment"
+      ]
+    },
+    {
+      "couponTitle": "Eiffel Tower Viewing Deck Experience - Buy online and save 35% off admission!",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards:-shows-and-attractions-global-?couponId=65718&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "ETAFFD",
+      "tier": 2,
+      "startDateGMT": "2023-05-10 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 93,
+      "storeName": "Caesars Rewards: Shows & Attractions (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards:-shows-and-attractions-global-_logo.gif",
+      "categories": [
+        "Events & Entertainment"
+      ]
+    },
+    {
+      "couponTitle": "Dino Safari",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards:-shows-and-attractions-global-?couponId=124394&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "HSAFF",
+      "tier": 2,
+      "startDateGMT": "2023-06-06 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 93,
+      "storeName": "Caesars Rewards: Shows & Attractions (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards:-shows-and-attractions-global-_logo.gif",
+      "categories": [
+        "Events & Entertainment"
+      ]
+    },
+    {
+      "couponTitle": "HYPROV: IMPROV UNDER HYPNOSIS",
+      "jumpUrl": "https://www.rewardany.com/store/caesars-rewards:-shows-and-attractions-global-?couponId=635823&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "HYAFF",
+      "tier": 2,
+      "startDateGMT": "2023-07-19 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 93,
+      "storeName": "Caesars Rewards: Shows & Attractions (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caesars-rewards:-shows-and-attractions-global-_logo.gif",
+      "categories": [
+        "Events & Entertainment"
+      ]
+    },
+    {
+      "couponTitle": "25% off sitewide with code SHARE25",
+      "jumpUrl": "https://www.rewardany.com/store/dr-hauschka?couponId=28641&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SHARE25",
+      "tier": 2,
+      "startDateGMT": "2022-02-11 00:00:00",
+      "endDateGMT": null,
+      "storeId": 104,
+      "storeName": "Dr. Hauschka",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dr-hauschka_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "SUMMER SALE: Shop New Arrivals and take 15% off with code SUMMER15!",
+      "jumpUrl": "https://www.rewardany.com/store/caden-lane?couponId=183392&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SUMMER15",
+      "tier": 2,
+      "startDateGMT": "2023-06-13 00:00:00",
+      "endDateGMT": "2029-06-13 00:00:00",
+      "storeId": 105,
+      "storeName": "Caden Lane",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caden-lane-1702961987.png",
+      "categories": [
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "SALE ON SALE: Take an extra 20% off sale items with code EXTRA20!",
+      "jumpUrl": "https://www.rewardany.com/store/caden-lane?couponId=183393&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EXTRA20",
+      "tier": 2,
+      "startDateGMT": "2023-06-13 00:00:00",
+      "endDateGMT": "2029-06-13 00:00:00",
+      "storeId": 105,
+      "storeName": "Caden Lane",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caden-lane-1702961987.png",
+      "categories": [
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "Top 9 Personalized Christmas Gifts for the Women in Your Life",
+      "jumpUrl": "https://www.rewardany.com/store/bradford-exchange-ca?couponId=28644&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2022-11-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 106,
+      "storeName": "Bradford Exchange CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bradford-exchange-ca-1695798396.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop Mother's Day Gifts",
+      "jumpUrl": "https://www.rewardany.com/store/bradford-exchange-ca?couponId=28647&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-03-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 106,
+      "storeName": "Bradford Exchange CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bradford-exchange-ca-1695798396.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop the Latest Personalized Gifts from Bradford Exchange!",
+      "jumpUrl": "https://www.rewardany.com/store/bradford-exchange-ca?couponId=28650&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2022-04-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 106,
+      "storeName": "Bradford Exchange CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bradford-exchange-ca-1695798396.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Find the Best Gifts At The Bradford Exchange for Mother's Day 2022",
+      "jumpUrl": "https://www.rewardany.com/store/bradford-exchange-ca?couponId=28651&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2022-04-27 00:00:00",
+      "endDateGMT": null,
+      "storeId": 106,
+      "storeName": "Bradford Exchange CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bradford-exchange-ca-1695798396.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Bradford Exchange Canada offers is the premier source for a vast array of unique collectibles and fine gifts that offer a high level of artistry, innovation and enduring value.",
+      "jumpUrl": "https://www.rewardany.com/store/bradford-exchange-ca?couponId=28652&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2022-06-24 00:00:00",
+      "endDateGMT": null,
+      "storeId": 106,
+      "storeName": "Bradford Exchange CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bradford-exchange-ca-1695798396.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop Personalized Christmas Gifts This Holiday!",
+      "jumpUrl": "https://www.rewardany.com/store/bradford-exchange-ca?couponId=28653&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2022-11-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 106,
+      "storeName": "Bradford Exchange CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bradford-exchange-ca-1695798396.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop The Bradford Exchange Canada for truly unique Christmas gifts no matter your budget",
+      "jumpUrl": "https://www.rewardany.com/store/bradford-exchange-ca?couponId=28654&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2022-11-17 00:00:00",
+      "endDateGMT": null,
+      "storeId": 106,
+      "storeName": "Bradford Exchange CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bradford-exchange-ca-1695798396.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Shop Mother's Day Gifts at The Bradford Exchange Canada",
+      "jumpUrl": "https://www.rewardany.com/store/bradford-exchange-ca?couponId=28655&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-03-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 106,
+      "storeName": "Bradford Exchange CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bradford-exchange-ca-1695798396.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Top 10 Christmas Gifts From the Bradford Exchange Canada",
+      "jumpUrl": "https://www.rewardany.com/store/bradford-exchange-ca?couponId=635839&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-06 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 106,
+      "storeName": "Bradford Exchange CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bradford-exchange-ca-1695798396.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "US - Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/denon-uk?couponId=677413&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 111,
+      "storeName": "Denon UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/denon-uk-1701924122.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "CA - Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/denon-uk?couponId=677414&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 111,
+      "storeName": "Denon UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/denon-uk-1701924122.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Happy Box is your one stop shop for a gift for everyone on your list! Check out our new curated boxes today.",
+      "jumpUrl": "https://www.rewardany.com/store/happy-box-store?couponId=28672&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2022-04-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 125,
+      "storeName": "Happy Box Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/happy-box-store_logo.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "Give The Gift Of Choice",
+      "jumpUrl": "https://www.rewardany.com/store/happy-box-store?couponId=108862&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-05-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 125,
+      "storeName": "Happy Box Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/happy-box-store_logo.png",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "The SW Outlet: Extra 20% Off sitewide + free shipping with code PLUS20.",
+      "jumpUrl": "https://www.rewardany.com/store/stuart-weitzman-outlet?couponId=648696&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "PLUS20",
+      "tier": 2,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2024-12-12 00:00:00",
+      "storeId": 135,
+      "storeName": "Stuart Weitzman Outlet",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/stuart-weitzman-outlet_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "The SW Outlet: Extra 20% off sitewide + free shipping with code PLUS20.",
+      "jumpUrl": "https://www.rewardany.com/store/stuart-weitzman-outlet?couponId=672954&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "PLUS20",
+      "tier": 2,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2024-12-21 00:00:00",
+      "storeId": 135,
+      "storeName": "Stuart Weitzman Outlet",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/stuart-weitzman-outlet_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "BBQTEN60 for $10 off any purchase of $60 or more",
+      "jumpUrl": "https://www.rewardany.com/store/all-things-barbecue?couponId=635847&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BBQTEN60",
+      "tier": 2,
+      "startDateGMT": "2022-03-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 139,
+      "storeName": "All Things Barbecue",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/all-things-barbecue_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get up to 15% Off plus Free Shipping and a Free Gift when you subscribe for auto-delivery at ChamberlainCoffee.com",
+      "jumpUrl": "https://www.rewardany.com/store/chamberlain-coffee?couponId=124424&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-06-06 00:00:00",
+      "endDateGMT": "2029-06-07 00:00:00",
+      "storeId": 156,
+      "storeName": "Chamberlain Coffee",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chamberlain-coffee-1701744594.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Get coffee gifts for $15 or less at ChamberlainCoffee.com",
+      "jumpUrl": "https://www.rewardany.com/store/chamberlain-coffee?couponId=635850&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 156,
+      "storeName": "Chamberlain Coffee",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chamberlain-coffee-1701744594.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Find the gift for the coffee and tea lover in your life at ChamberlainCoffee.com",
+      "jumpUrl": "https://www.rewardany.com/store/chamberlain-coffee?couponId=635851&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 156,
+      "storeName": "Chamberlain Coffee",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chamberlain-coffee-1701744594.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Get a $15 gift card with purchases of $75 or more at ChamberlainCoffee.com. No Code Necessary.",
+      "jumpUrl": "https://www.rewardany.com/store/chamberlain-coffee?couponId=635852&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-24 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 156,
+      "storeName": "Chamberlain Coffee",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/chamberlain-coffee-1701744594.jpg",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "25% Off Holiday Sets",
+      "jumpUrl": "https://www.rewardany.com/store/darphin?couponId=687980&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-18 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 171,
+      "storeName": "DARPHIN",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/darphin-1699432726.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Boxing Day",
+      "jumpUrl": "https://www.rewardany.com/store/darphin?couponId=687981&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-26 00:00:00",
+      "endDateGMT": "2023-12-29 00:00:00",
+      "storeId": 171,
+      "storeName": "DARPHIN",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/darphin-1699432726.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Boxing Day 2",
+      "jumpUrl": "https://www.rewardany.com/store/darphin?couponId=687982&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-29 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 171,
+      "storeName": "DARPHIN",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/darphin-1699432726.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "This Is J | The Gift Of Comfort, Shop Matching Pjs",
+      "jumpUrl": "https://www.rewardany.com/store/this-is-j?couponId=709863&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-13 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 178,
+      "storeName": "This Is J",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/this-is-j_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "New! Chocolate Macaron Gift Box",
+      "jumpUrl": "https://www.rewardany.com/store/patisserie-valerie?couponId=635872&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-06 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 182,
+      "storeName": "Patisserie Valerie",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/patisserie-valerie_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off Christmas gifting",
+      "jumpUrl": "https://www.rewardany.com/store/spotlight-oral-care?couponId=709865&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-13 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 184,
+      "storeName": "Spotlight Oral Care",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/spotlight-oral-care_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy a 5% discount on your first EatWith culinary experience!",
+      "jumpUrl": "https://www.rewardany.com/store/eatwith-us-?couponId=635875&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "ETW5_FB",
+      "tier": 2,
+      "startDateGMT": "2023-10-10 00:00:00",
+      "endDateGMT": "2025-10-10 00:00:00",
+      "storeId": 201,
+      "storeName": "Eatwith US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/eatwith-us-_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "SALE UP TO 50% OFF & EXTRA 10% CODE",
+      "jumpUrl": "https://www.rewardany.com/store/collectif-us-?couponId=715213&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EXEX10",
+      "tier": 2,
+      "startDateGMT": "2023-12-15 00:00:00",
+      "endDateGMT": "2023-12-27 00:00:00",
+      "storeId": 203,
+      "storeName": "Collectif US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/collectif-us-_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SALE UP TO 60% OFF + FREE DEIVERY",
+      "jumpUrl": "https://www.rewardany.com/store/collectif-us-?couponId=715214&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SHIPEE",
+      "tier": 2,
+      "startDateGMT": "2023-12-16 00:00:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 203,
+      "storeName": "Collectif US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/collectif-us-_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SALE UP TO 60% + EXTRA 5%",
+      "jumpUrl": "https://www.rewardany.com/store/collectif-us-?couponId=715215&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "EXEX05",
+      "tier": 2,
+      "startDateGMT": "2023-12-20 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 203,
+      "storeName": "Collectif US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/collectif-us-_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SALE UP TO 60% OFF + FREE DELIVERY",
+      "jumpUrl": "https://www.rewardany.com/store/collectif-us-?couponId=715216&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "DELME",
+      "tier": 2,
+      "startDateGMT": "2023-12-27 00:00:00",
+      "endDateGMT": "2024-01-07 00:00:00",
+      "storeId": 203,
+      "storeName": "Collectif US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/collectif-us-_logo.gif",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Save \u00a320 of \u00a3550 orders on Buyshedsdirect",
+      "jumpUrl": "https://www.rewardany.com/store/buy-sheds-direct?couponId=635881&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BSD20OFF",
+      "tier": 2,
+      "startDateGMT": "2023-07-31 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 206,
+      "storeName": "Buy Sheds Direct",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/buy-sheds-direct_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save \u00a310 of \u00a3350 orders on Buyshedsdirect",
+      "jumpUrl": "https://www.rewardany.com/store/buy-sheds-direct?couponId=635882&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BSD10OFF",
+      "tier": 2,
+      "startDateGMT": "2023-07-31 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 206,
+      "storeName": "Buy Sheds Direct",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/buy-sheds-direct_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save \u00a330 of \u00a3750 orders on Buyshedsdirect",
+      "jumpUrl": "https://www.rewardany.com/store/buy-sheds-direct?couponId=635884&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "BSD30OFF",
+      "tier": 2,
+      "startDateGMT": "2023-08-31 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 206,
+      "storeName": "Buy Sheds Direct",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/buy-sheds-direct_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get a 4-piece gift free with every $80+ order at Marcelle!",
+      "jumpUrl": "https://www.rewardany.com/store/marcelle?couponId=635886&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-09-01 00:00:00",
+      "endDateGMT": "2029-09-29 00:00:00",
+      "storeId": 209,
+      "storeName": "Marcelle",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/marcelle_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get $10 Off on all orders over $100+ with Code 10OFF100 at Marcelle! (Valid Until Dec 31, 2023) (Some Exclusions Apply)",
+      "jumpUrl": "https://www.rewardany.com/store/marcelle?couponId=635887&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "10OFF100",
+      "tier": 2,
+      "startDateGMT": "2023-10-01 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 209,
+      "storeName": "Marcelle",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/marcelle_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 20% off sitewide with code MARCELLE20 at Marcelle! (Valid until Dec 31, 2023) - Some exclusions apply",
+      "jumpUrl": "https://www.rewardany.com/store/marcelle?couponId=635888&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "MARCELLE20",
+      "tier": 2,
+      "startDateGMT": "2023-10-01 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 209,
+      "storeName": "Marcelle",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/marcelle_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Discover Holiday Gift Guide at Marcelle!",
+      "jumpUrl": "https://www.rewardany.com/store/marcelle?couponId=635889&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 209,
+      "storeName": "Marcelle",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/marcelle_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 20% on all orders with code HOLIDAY20 at Marcelle! - Some exclusions may apply",
+      "jumpUrl": "https://www.rewardany.com/store/marcelle?couponId=668712&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "HOLIDAY20",
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 209,
+      "storeName": "Marcelle",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/marcelle_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop limited edition holiday gift sets at Marcelle!",
+      "jumpUrl": "https://www.rewardany.com/store/marcelle?couponId=668713&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 209,
+      "storeName": "Marcelle",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/marcelle_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "2023 Summer Trend! 60%-80% Off",
+      "jumpUrl": "https://www.rewardany.com/store/loragal?couponId=28759&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "NY80",
+      "tier": 2,
+      "startDateGMT": "2023-05-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 211,
+      "storeName": "Loragal US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/loragal-1699335393.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Dresses for Party, 15% Off Sitewide",
+      "jumpUrl": "https://www.rewardany.com/store/loragal?couponId=28760&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "IMPL15",
+      "tier": 2,
+      "startDateGMT": "2023-05-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 211,
+      "storeName": "Loragal US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/loragal-1699335393.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Vacation Sale! 60% Off",
+      "jumpUrl": "https://www.rewardany.com/store/loragal?couponId=28762&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "IMPL15",
+      "tier": 2,
+      "startDateGMT": "2023-05-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 211,
+      "storeName": "Loragal US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/loragal-1699335393.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "NEW ARRIVALS\uff01BUY 3 GET 22% OFF",
+      "jumpUrl": "https://www.rewardany.com/store/loragal?couponId=28763&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "LBB30",
+      "tier": 2,
+      "startDateGMT": "2023-05-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 211,
+      "storeName": "Loragal US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/loragal-1699335393.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Final Clearance Sale! Buy 2 Get 1 Free",
+      "jumpUrl": "https://www.rewardany.com/store/loragal?couponId=28766&pubId=10427&subId={your tracking code}",
+      "type": "buy1Get1",
+      "couponCode": "ETFREE",
+      "tier": 2,
+      "startDateGMT": "2023-04-14 00:00:00",
+      "endDateGMT": null,
+      "storeId": 211,
+      "storeName": "Loragal US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/loragal-1699335393.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Mystery Gift Box! $59 for 10 items",
+      "jumpUrl": "https://www.rewardany.com/store/loragal?couponId=28767&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-05-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 211,
+      "storeName": "Loragal US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/loragal-1699335393.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Sweet Mother's Day Special Dress ! 15% OFF",
+      "jumpUrl": "https://www.rewardany.com/store/loragal?couponId=28768&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "IMPL15",
+      "tier": 2,
+      "startDateGMT": "2023-04-18 00:00:00",
+      "endDateGMT": null,
+      "storeId": 211,
+      "storeName": "Loragal US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/loragal-1699335393.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "High School PROM Dresses Special! 75% off, down to $29.99",
+      "jumpUrl": "https://www.rewardany.com/store/loragal?couponId=36695&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "IMPL15",
+      "tier": 2,
+      "startDateGMT": "2023-05-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 211,
+      "storeName": "Loragal US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/loragal-1699335393.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "NEW IN",
+      "jumpUrl": "https://www.rewardany.com/store/loragal?couponId=59800&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "T20",
+      "tier": 2,
+      "startDateGMT": "2023-05-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 211,
+      "storeName": "Loragal US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/loragal-1699335393.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "New this week 5",
+      "jumpUrl": "https://www.rewardany.com/store/loragal?couponId=59801&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "B10",
+      "tier": 2,
+      "startDateGMT": "2023-05-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 211,
+      "storeName": "Loragal US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/loragal-1699335393.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    }
+  ]
+}

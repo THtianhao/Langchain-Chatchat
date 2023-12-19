@@ -1,0 +1,1510 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 17,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "Flybirdfitness Xmas Sale 728-90",
+      "jumpUrl": "https://www.rewardany.com/store/flybird-fitness?couponId=710101&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "xmas40af",
+      "tier": 2,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2024-01-16 00:00:00",
+      "storeId": 461,
+      "storeName": "Flybird Fitness",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flybird-fitness_logo.gif",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Flybirdfitness Xmas Sale 500-500",
+      "jumpUrl": "https://www.rewardany.com/store/flybird-fitness?couponId=710102&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "xmas40af",
+      "tier": 2,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2024-01-16 00:00:00",
+      "storeId": 461,
+      "storeName": "Flybird Fitness",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flybird-fitness_logo.gif",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Flybirdfitness Xmas Sale 300-600",
+      "jumpUrl": "https://www.rewardany.com/store/flybird-fitness?couponId=710103&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "xmas40af",
+      "tier": 2,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2024-01-16 00:00:00",
+      "storeId": 461,
+      "storeName": "Flybird Fitness",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flybird-fitness_logo.gif",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Flybird Xmas Sale",
+      "jumpUrl": "https://www.rewardany.com/store/flybird-fitness?couponId=710104&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "xmas40af",
+      "tier": 2,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2024-01-16 00:00:00",
+      "storeId": 461,
+      "storeName": "Flybird Fitness",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flybird-fitness_logo.gif",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "$200 Off Over $500, Use code: AFF200.",
+      "jumpUrl": "https://www.rewardany.com/store/flybird-fitness?couponId=710105&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "aff200",
+      "tier": 2,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 461,
+      "storeName": "Flybird Fitness",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flybird-fitness_logo.gif",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "$400 Off Over $1000, Use code: AFF400.",
+      "jumpUrl": "https://www.rewardany.com/store/flybird-fitness?couponId=710106&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "aff400",
+      "tier": 2,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 461,
+      "storeName": "Flybird Fitness",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flybird-fitness_logo.gif",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "$500 Off Over $1300, Use code: AFF500.",
+      "jumpUrl": "https://www.rewardany.com/store/flybird-fitness?couponId=710107&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "aff500",
+      "tier": 2,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 461,
+      "storeName": "Flybird Fitness",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flybird-fitness_logo.gif",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "$1000 Off Over $2500, Use code: AFF1000.",
+      "jumpUrl": "https://www.rewardany.com/store/flybird-fitness?couponId=710108&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "aff1000",
+      "tier": 2,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 461,
+      "storeName": "Flybird Fitness",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flybird-fitness_logo.gif",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "NEWHOME - 1456x180",
+      "jumpUrl": "https://www.rewardany.com/store/namecom?couponId=636079&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "NEWHOME",
+      "tier": 2,
+      "startDateGMT": "2023-08-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 463,
+      "storeName": "Name.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/namecom_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "NEWHOME - 320x1200",
+      "jumpUrl": "https://www.rewardany.com/store/namecom?couponId=636080&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "NEWHOME",
+      "tier": 2,
+      "startDateGMT": "2023-08-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 463,
+      "storeName": "Name.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/namecom_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "NEWHOME - 360x300",
+      "jumpUrl": "https://www.rewardany.com/store/namecom?couponId=636081&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "NEWHOME",
+      "tier": 2,
+      "startDateGMT": "2023-08-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 463,
+      "storeName": "Name.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/namecom_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "NEWHOME - 600x500",
+      "jumpUrl": "https://www.rewardany.com/store/namecom?couponId=636082&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "NEWHOME",
+      "tier": 2,
+      "startDateGMT": "2023-08-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 463,
+      "storeName": "Name.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/namecom_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "SAVE15_600x500",
+      "jumpUrl": "https://www.rewardany.com/store/namecom?couponId=688225&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SAVE15",
+      "tier": 2,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 463,
+      "storeName": "Name.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/namecom_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "SAVE15_320x1200",
+      "jumpUrl": "https://www.rewardany.com/store/namecom?couponId=688226&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SAVE15",
+      "tier": 2,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 463,
+      "storeName": "Name.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/namecom_logo.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "10% off all orders",
+      "jumpUrl": "https://www.rewardany.com/store/bloom-and-blossom?couponId=636083&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "WEAREFAMILY",
+      "tier": 2,
+      "startDateGMT": "2023-10-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 473,
+      "storeName": "Bloom and Blossom",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bloom-and-blossom_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "20% off orders over \u00a330",
+      "jumpUrl": "https://www.rewardany.com/store/bloom-and-blossom?couponId=636084&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "20AFF30BB",
+      "tier": 2,
+      "startDateGMT": "2023-10-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 473,
+      "storeName": "Bloom and Blossom",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bloom-and-blossom_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "20% off Christmas Gifts",
+      "jumpUrl": "https://www.rewardany.com/store/bloom-and-blossom?couponId=636085&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "XMAS20AFF",
+      "tier": 2,
+      "startDateGMT": "2023-10-27 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 473,
+      "storeName": "Bloom and Blossom",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bloom-and-blossom_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Time to unwind | Lights out gift set",
+      "jumpUrl": "https://www.rewardany.com/store/bloom-and-blossom?couponId=636086&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-06 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 473,
+      "storeName": "Bloom and Blossom",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bloom-and-blossom_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "FREE Bath Oil Cracker on orders over \u00a315",
+      "jumpUrl": "https://www.rewardany.com/store/bloom-and-blossom?couponId=695280&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FREESLEEPTIGHT",
+      "tier": 2,
+      "startDateGMT": "2023-12-11 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 473,
+      "storeName": "Bloom and Blossom",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bloom-and-blossom_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "40% off membership in January 2024, plus free trial",
+      "jumpUrl": "https://www.rewardany.com/store/secret-flight-club?couponId=731639&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FLYAWAY2024",
+      "tier": 2,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-30 00:00:00",
+      "storeId": 474,
+      "storeName": "Secret Flight Club",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/secret-flight-club_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "40% off membership in January 2024, plus free trial",
+      "jumpUrl": "https://www.rewardany.com/store/secret-flight-club?couponId=731640&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FLYAWAYUS2024",
+      "tier": 2,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-30 00:00:00",
+      "storeId": 474,
+      "storeName": "Secret Flight Club",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/secret-flight-club_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Staples Kit 10.1-12.31",
+      "jumpUrl": "https://www.rewardany.com/store/clinique-online-ca?couponId=648995&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "MERRY5",
+      "tier": 2,
+      "startDateGMT": "2023-10-01 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 476,
+      "storeName": "Clinique CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/clinique-online-ca-1693795451.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Limited Time Only! Pick a free gift on orders $60+!",
+      "jumpUrl": "https://www.rewardany.com/store/clinique-online-ca?couponId=652350&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-19 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 476,
+      "storeName": "Clinique CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/clinique-online-ca-1693795451.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Free 8-piece gift with $65 order. Make your gift 10 pieces on orders $95+. Add a Rinse-Off foaming cleansers (150ml) on orders $110+. PLUS get mascara and eyeliners for just $19. Use code 2LOTION or 2GEL.T&Cs apply. See site for details",
+      "jumpUrl": "https://www.rewardany.com/store/clinique-online-ca?couponId=710122&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "2LOTION",
+      "tier": 2,
+      "startDateGMT": "2023-12-16 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 476,
+      "storeName": "Clinique CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/clinique-online-ca-1693795451.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Pick a free gift on orders $60+. PLUS 25% off Holiday Sets. On orders $110+, add a free overnight mask (100ml) and Smart Night Cream (15ml). Add a Rinse-Off foaming cleansers (150ml) on orders $135+. Use code MYGIFT.",
+      "jumpUrl": "https://www.rewardany.com/store/clinique-online-ca?couponId=715478&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "MYGIFT",
+      "tier": 2,
+      "startDateGMT": "2023-12-20 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 476,
+      "storeName": "Clinique CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/clinique-online-ca-1693795451.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Boxing Day Exclusive",
+      "jumpUrl": "https://www.rewardany.com/store/clinique-online-ca?couponId=715479&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "MYGIFT",
+      "tier": 2,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 476,
+      "storeName": "Clinique CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/clinique-online-ca-1693795451.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Boxing Day Exclusive 12/26-12/27",
+      "jumpUrl": "https://www.rewardany.com/store/clinique-online-ca?couponId=715480&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "MYGIFT",
+      "tier": 2,
+      "startDateGMT": "2023-12-26 00:00:00",
+      "endDateGMT": "2023-12-28 00:00:00",
+      "storeId": 476,
+      "storeName": "Clinique CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/clinique-online-ca-1693795451.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Boxing Day Exclusive",
+      "jumpUrl": "https://www.rewardany.com/store/clinique-online-ca?couponId=715481&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "MYGIFT",
+      "tier": 2,
+      "startDateGMT": "2023-12-28 00:00:00",
+      "endDateGMT": "2023-12-29 00:00:00",
+      "storeId": 476,
+      "storeName": "Clinique CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/clinique-online-ca-1693795451.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "25% off Kate Spade GWP 12/16-12/19",
+      "jumpUrl": "https://www.rewardany.com/store/clinique-online-ca?couponId=720890&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "2LOTION",
+      "tier": 2,
+      "startDateGMT": "2023-12-16 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 476,
+      "storeName": "Clinique CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/clinique-online-ca-1693795451.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 15% off Holiday Value Gifts Sets",
+      "jumpUrl": "https://www.rewardany.com/store/w3ll-people?couponId=636099&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-03 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 510,
+      "storeName": "Well People",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/w3ll-people-1700202223.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Gifts She\u0092ll Love This Mother\u0092s Day!",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=29106&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-04-12 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Gifts She\u0092ll Love This Mother\u0092s Day!",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=29108&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-04-12 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop & Save on \u0093Wow\u0094 Worthy Gifts for Mom!",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=48120&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-05-01 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop & Save on \u0093Wow\u0094 Worthy Gifts for Mom!",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=48128&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-05-01 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "From Bourbon to brews, we\u0092ve got \u0093wow\u0094 worthy gifts and deals for Dad! Shop now.",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=121918&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-06-05 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "From Bourbon to brews, we\u0092ve got \u0093wow\u0094 worthy gifts and deals for Dad! Shop now.",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=121927&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": "",
+      "tier": 2,
+      "startDateGMT": "2023-06-05 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Give the gift of holiday spirits with these great finds under $30!",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=636116&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-13 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "ALMOST GONE: Sample 12 festive spirits flights all holiday long for under $20!",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=636117&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-13 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Buy 2, Save up to $10 on these Select Spirits. One to keep, and one to gift!",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=636127&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": "2023-12-24 00:00:00",
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop the Best Sparkling Wine Under $15 for Hosting and Gifting!",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=636129&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save on Sparkling Wine for gifting and sharing with friends!* See site for exclusions.",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=636130&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Gift Guide",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=636134&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-13 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Give the gift of holiday spirits with these great finds under $30!",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=636136&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-13 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "ALMOST GONE: Sample 12 festive spirits flights all holiday long for under $20!",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=636137&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-13 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save up to $26 on Pinot Noir for gifting and impressing your guests! *See site for exclusions.",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=636138&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-15 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Gift-giving is all wrapped up with gifts under $20! *See site for exclusions.",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=636142&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-24 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Just add a bow to these highly rated gifting Cabs Under $30! *See site for exclusions.",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=636145&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-11-24 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Gifts under $20! Shop wine, gift cards, gift baskets, and more",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=649054&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Give the gift of holiday spirits and save! *See site for details.",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=688303&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Gifting is all wrapped up with bottles under $50! *See site for details.",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=688304&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Gifting is all wrapped up with bottles under $20! *See site for details.",
+      "jumpUrl": "https://www.rewardany.com/store/total-wine?couponId=688305&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": null,
+      "storeId": 515,
+      "storeName": "Total Wine",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/total-wine-1697434857.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Your First Purchase of $75+ with code HELLO15",
+      "jumpUrl": "https://www.rewardany.com/store/haven-well-within?couponId=636148&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "HELLO15",
+      "tier": 2,
+      "startDateGMT": "2023-08-15 00:00:00",
+      "endDateGMT": "2024-11-12 00:00:00",
+      "storeId": 516,
+      "storeName": "Haven Well Within",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/haven-well-within_logo.gif",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Burton's Gifts for Him",
+      "jumpUrl": "https://www.rewardany.com/store/burton-snowboards-canada?couponId=636156&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-24 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 521,
+      "storeName": "Burton Snowboards CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/burton-snowboards-canada_logo.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Shop Burton's Gifts for Kids",
+      "jumpUrl": "https://www.rewardany.com/store/burton-snowboards-canada?couponId=636157&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-24 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 521,
+      "storeName": "Burton Snowboards CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/burton-snowboards-canada_logo.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Shop Burton's Gifts for Peak Performance",
+      "jumpUrl": "https://www.rewardany.com/store/burton-snowboards-canada?couponId=636158&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-24 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 521,
+      "storeName": "Burton Snowboards CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/burton-snowboards-canada_logo.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Shop Burton's Gifts for the Rider Who's Always Cold",
+      "jumpUrl": "https://www.rewardany.com/store/burton-snowboards-canada?couponId=636159&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-24 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 521,
+      "storeName": "Burton Snowboards CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/burton-snowboards-canada_logo.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Shop Burton's Top 25 Gifts!",
+      "jumpUrl": "https://www.rewardany.com/store/burton-snowboards-canada?couponId=636160&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-24 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 521,
+      "storeName": "Burton Snowboards CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/burton-snowboards-canada_logo.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Threadbare - 5% off - Code DECEMBER5",
+      "jumpUrl": "https://www.rewardany.com/store/threadbare-uk?couponId=636169&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "DECEMBER5",
+      "tier": 2,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 527,
+      "storeName": "Threadbare UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/threadbare-uk_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Use code:YOSUDA to get plus 10% off",
+      "jumpUrl": "https://www.rewardany.com/store/yosuda-bikes?couponId=29118&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "yosuda",
+      "tier": 2,
+      "startDateGMT": "2022-08-20 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 535,
+      "storeName": "Yosuda Bikes",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/yosuda-bikes_logo.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Extra 8% OFF Paid TEFL Internship",
+      "jumpUrl": "https://www.rewardany.com/store/premier-tefl?couponId=29136&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "TRAVEL23",
+      "tier": 2,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 559,
+      "storeName": "Premier TEFL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/premier-tefl_logo.gif",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Up to 60% Off New Arrivals from UGG + Free Shipping",
+      "jumpUrl": "https://www.rewardany.com/store/shop-premium-outlets?couponId=127907&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "Click to View",
+      "tier": 2,
+      "startDateGMT": "2023-06-07 00:00:00",
+      "endDateGMT": null,
+      "storeId": 565,
+      "storeName": "Shop Premium Outlets",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shop-premium-outlets-1702977036.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "20% off Sitewide",
+      "jumpUrl": "https://www.rewardany.com/store/safety-1st?couponId=698947&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "FESTIVE20",
+      "tier": 2,
+      "startDateGMT": "2023-12-11 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 581,
+      "storeName": "Safety 1st",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/safety-1st_logo.png",
+      "categories": [
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "JUNE10",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=112670&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "cannot",
+      "tier": 2,
+      "startDateGMT": "2023-06-02 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x250 \u2013 7",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636199&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x600 \u2013 7",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636200&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "320x100 \u2013 7",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636201&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "336x280 \u2013 7",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636202&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "728x90 \u2013 7",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636203&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x250 \u2013 9",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636204&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x600 \u2013 9",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636205&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "320x100 \u2013 9",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636206&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "336x280 \u2013 9",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636207&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "728x90 \u2013 9",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636208&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x250 \u2013 7",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636209&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x600 \u2013 7",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636210&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "320x100 \u2013 7",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636211&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "336x280 \u2013 7",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636212&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "728x90 \u2013 7",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636213&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x250 \u2013 9",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636214&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x600 \u2013 9",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636215&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "320x100 \u2013 9",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636216&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "336x280 \u2013 9",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636217&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "728x90 \u2013 9",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636218&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x250",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636219&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x600",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636220&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "320x100",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636221&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "336x280",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636222&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "728x90",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636223&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x250 \u2013 1",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636224&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x600 \u2013 1",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636225&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "320x100 \u2013 1",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636226&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "336x280 \u2013 1",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636227&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "728x90 \u2013 1",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636228&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x250",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636229&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x600",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636230&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "320x100",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636231&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "336x280",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636232&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "728x90",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636233&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x250 \u2013 1",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636234&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "300x600 \u2013 1",
+      "jumpUrl": "https://www.rewardany.com/store/govee?couponId=636235&pubId=10427&subId={your tracking code}",
+      "type": "gift",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-10-31 00:00:00",
+      "endDateGMT": null,
+      "storeId": 608,
+      "storeName": "GOVEE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/govee_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    }
+  ]
+}

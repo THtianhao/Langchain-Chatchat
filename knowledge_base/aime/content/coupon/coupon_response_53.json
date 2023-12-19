@@ -1,0 +1,1543 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 53,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "Save 25% OFF Your First Purchase. Whatever You Need, We Print It from Business Cards to Stickers, Labels and More.Code: NEW25",
+      "jumpUrl": "https://www.rewardany.com/store/vistaprint-us?couponId=28368&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "NEW25",
+      "tier": 2,
+      "startDateGMT": "2023-03-28 00:00:00",
+      "endDateGMT": "2023-03-28 23:59:00",
+      "storeId": 92031,
+      "storeName": "Vistaprint US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vistaprint-us-1702969376.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off select holiday products: holiday cards, gifting essentials & more with code HOLIDAY50.",
+      "jumpUrl": "https://www.rewardany.com/store/vistaprint-us?couponId=583579&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "HOLIDAY50",
+      "tier": 2,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": "2023-12-31 23:59:00",
+      "storeId": 92031,
+      "storeName": "Vistaprint US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vistaprint-us-1702969376.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy 10% off $100+, 15% off $200+, 20% off $350+ with code SAVEBIG",
+      "jumpUrl": "https://www.rewardany.com/store/vistaprint-us?couponId=583580&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "SAVEBIG",
+      "tier": 2,
+      "startDateGMT": "2023-11-01 00:00:00",
+      "endDateGMT": "2023-12-31 23:59:00",
+      "storeId": 92031,
+      "storeName": "Vistaprint US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/vistaprint-us-1702969376.png",
+      "categories": [
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Wynsors 10% OFF code",
+      "jumpUrl": "https://www.rewardany.com/store/wynsors?couponId=151689&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 92246,
+      "storeName": "Wynsors",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wynsors.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% off mid-season sale",
+      "jumpUrl": "https://www.rewardany.com/store/wynsors?couponId=151690&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 92246,
+      "storeName": "Wynsors",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wynsors.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "50% OFF Season Sale",
+      "jumpUrl": "https://www.rewardany.com/store/wynsors?couponId=151691&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 92246,
+      "storeName": "Wynsors",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wynsors.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Extra 10% OFF Sale - TENAUG10 Code",
+      "jumpUrl": "https://www.rewardany.com/store/wynsors?couponId=151692&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 92246,
+      "storeName": "Wynsors",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wynsors.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Timbaland - Up to 40% OFF",
+      "jumpUrl": "https://www.rewardany.com/store/wynsors?couponId=151693&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 92246,
+      "storeName": "Wynsors",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wynsors.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "10% off Sandals\n\nCode - SANDALS10AF\n\nExcludes Sale & 3rd Party Suppliers",
+      "jumpUrl": "https://www.rewardany.com/store/wynsors?couponId=151694&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 92246,
+      "storeName": "Wynsors",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/wynsors.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "ES 50% Offer",
+      "jumpUrl": "https://www.rewardany.com/store/rosettastone-us?couponId=656889&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-01 00:00:00",
+      "endDateGMT": "2024-07-31 00:00:00",
+      "storeId": 92319,
+      "storeName": "Rosetta Stone",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rosettastone-us.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "EU 50% Offer",
+      "jumpUrl": "https://www.rewardany.com/store/rosettastone-us?couponId=656890&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-01 00:00:00",
+      "endDateGMT": "2024-09-30 00:00:00",
+      "storeId": 92319,
+      "storeName": "Rosetta Stone",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rosettastone-us.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "UK 50% Offer",
+      "jumpUrl": "https://www.rewardany.com/store/rosettastone-us?couponId=656891&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-01 00:00:00",
+      "endDateGMT": "2024-09-30 00:00:00",
+      "storeId": 92319,
+      "storeName": "Rosetta Stone",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rosettastone-us.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "FR 50% Offer",
+      "jumpUrl": "https://www.rewardany.com/store/rosettastone-us?couponId=656892&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-01 00:00:00",
+      "endDateGMT": "2024-09-30 00:00:00",
+      "storeId": 92319,
+      "storeName": "Rosetta Stone",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rosettastone-us.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "IT 50% Offer",
+      "jumpUrl": "https://www.rewardany.com/store/rosettastone-us?couponId=656893&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-01 00:00:00",
+      "endDateGMT": "2024-09-30 00:00:00",
+      "storeId": 92319,
+      "storeName": "Rosetta Stone",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rosettastone-us.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "DE 50% Offer",
+      "jumpUrl": "https://www.rewardany.com/store/rosettastone-us?couponId=656894&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-01 00:00:00",
+      "endDateGMT": "2024-09-30 00:00:00",
+      "storeId": 92319,
+      "storeName": "Rosetta Stone",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rosettastone-us.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Sale 50% Off At The Dressing Room - Free UK Standard Delivery",
+      "jumpUrl": "https://www.rewardany.com/store/the-dressing-room?couponId=656939&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-11 00:00:00",
+      "endDateGMT": "2029-07-11 00:00:00",
+      "storeId": 92685,
+      "storeName": "The Dressing Room",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-dressing-room-1693809966.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Sale 50% Off Womens Designer Clothing At The Dressing Room - Free UK Standard Delivery",
+      "jumpUrl": "https://www.rewardany.com/store/the-dressing-room?couponId=656940&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-11 00:00:00",
+      "endDateGMT": "2029-07-11 00:00:00",
+      "storeId": 92685,
+      "storeName": "The Dressing Room",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-dressing-room-1693809966.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Sale 50% Off Womens Designer Footwear At The Dressing Room - Free UK Standard Delivery",
+      "jumpUrl": "https://www.rewardany.com/store/the-dressing-room?couponId=656941&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-11 00:00:00",
+      "endDateGMT": "2029-07-10 00:00:00",
+      "storeId": 92685,
+      "storeName": "The Dressing Room",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-dressing-room-1693809966.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Sale 50% Off Womens Designer Jewellery At The Dressing Room - Free UK Standard Delivery",
+      "jumpUrl": "https://www.rewardany.com/store/the-dressing-room?couponId=656942&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-11 00:00:00",
+      "endDateGMT": "2029-07-11 00:00:00",
+      "storeId": 92685,
+      "storeName": "The Dressing Room",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-dressing-room-1693809966.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Sale 50% Off Womens Designer Accessories At The Dressing Room - Free UK Standard Delivery",
+      "jumpUrl": "https://www.rewardany.com/store/the-dressing-room?couponId=656943&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-11 00:00:00",
+      "endDateGMT": "2029-07-11 00:00:00",
+      "storeId": 92685,
+      "storeName": "The Dressing Room",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-dressing-room-1693809966.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Up To 50% Off Sale",
+      "jumpUrl": "https://www.rewardany.com/store/snow-and-rock?couponId=682397&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-29 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 92754,
+      "storeName": "Snow and Rock",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/snow-and-rock-1693808636.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "20% OFF First Order",
+      "jumpUrl": "https://www.rewardany.com/store/primarycom?couponId=28394&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-03-28 00:00:00",
+      "endDateGMT": "2023-03-28 23:59:00",
+      "storeId": 92997,
+      "storeName": "Primary.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/primarycom.png",
+      "categories": [
+        "Clothing",
+        "Baby & Toddler"
+      ]
+    },
+    {
+      "couponTitle": "Start The New Year With 15% Off",
+      "jumpUrl": "https://www.rewardany.com/store/hippowaste?couponId=682424&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2024-01-08 00:00:00",
+      "endDateGMT": "2024-01-17 00:00:00",
+      "storeId": 93595,
+      "storeName": "Hippowaste UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hippowaste.jpg",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Tot -25% op tweedehands bureaus",
+      "jumpUrl": "https://www.rewardany.com/store/albeka?couponId=682434&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2024-03-31 00:00:00",
+      "storeId": 93644,
+      "storeName": "Albeka NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/albeka.png",
+      "categories": [
+        "Home & Garden",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Sale: pak tot wel 40% korting op designmeubelen!",
+      "jumpUrl": "https://www.rewardany.com/store/albeka?couponId=682435&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2024-03-31 00:00:00",
+      "storeId": 93644,
+      "storeName": "Albeka NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/albeka.png",
+      "categories": [
+        "Home & Garden",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Kortingen tot 30% op nieuwe bureaustoelen",
+      "jumpUrl": "https://www.rewardany.com/store/albeka?couponId=682436&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2024-03-31 00:00:00",
+      "storeId": 93644,
+      "storeName": "Albeka NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/albeka.png",
+      "categories": [
+        "Home & Garden",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Onze Super Deals met flinke kortingen!",
+      "jumpUrl": "https://www.rewardany.com/store/albeka?couponId=682437&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 93644,
+      "storeName": "Albeka NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/albeka.png",
+      "categories": [
+        "Home & Garden",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Opgeruimd het jaar in met -15% op alle roldeurkasten, klapdeurkasten en stellingen!",
+      "jumpUrl": "https://www.rewardany.com/store/albeka?couponId=682438&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-31 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 93644,
+      "storeName": "Albeka NL",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/albeka.png",
+      "categories": [
+        "Home & Garden",
+        "Office Supplies"
+      ]
+    },
+    {
+      "couponTitle": "Find your perfect shoe in just a few minutes. Try Shoe Finder Quiz",
+      "jumpUrl": "https://www.rewardany.com/store/hoka-one-us?couponId=28395&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-03-28 00:00:00",
+      "endDateGMT": "2023-03-28 23:59:00",
+      "storeId": 93731,
+      "storeName": "Hoka One US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/hoka-one-us-1698652483.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "General Fall - Main Deals Page",
+      "jumpUrl": "https://www.rewardany.com/store/national-car-rental?couponId=656977&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-24 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 93950,
+      "storeName": "National Car Rental",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/national-car-rental.png",
+      "categories": [
+        "Digital Services & Streaming"
+      ]
+    },
+    {
+      "couponTitle": "Early Bird Offer - Up to 35% off on your stay | Lopesan, Spain",
+      "jumpUrl": "https://www.rewardany.com/store/lopesan-hoteles-us?couponId=682461&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-27 00:00:00",
+      "endDateGMT": "2024-03-31 00:00:00",
+      "storeId": 94051,
+      "storeName": "Lopesan US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lopesan-hoteles-us.png",
+      "categories": null
+    },
+    {
+      "couponTitle": "Enjoy Free Shipping & Returns\r\n",
+      "jumpUrl": "https://www.rewardany.com/store/tommy-bahama-us-ca?couponId=28400&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-03-28 00:00:00",
+      "endDateGMT": "2023-03-28 23:59:00",
+      "storeId": 94216,
+      "storeName": "Tommy Bahama US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tommy-bahama-us-ca.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Budget Australia - Pay Now & Save up to 25%",
+      "jumpUrl": "https://www.rewardany.com/store/budget-au?couponId=656997&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-22 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 94263,
+      "storeName": "Budget AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/budget-au-1694581458.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Shop Spring Sale",
+      "jumpUrl": "https://www.rewardany.com/store/burrow?couponId=28404&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-03-29 00:00:00",
+      "endDateGMT": "2023-03-29 23:59:00",
+      "storeId": 94871,
+      "storeName": "Burrow",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/burrow.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Sign up for  our playful world of luxury  10% off your first order + special offers.",
+      "jumpUrl": "https://www.rewardany.com/store/simon-miller-us?couponId=93802&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-10-14 00:00:00",
+      "endDateGMT": null,
+      "storeId": 95199,
+      "storeName": "Simon Miller US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/simon-miller-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "30% Off - FALL FAVORITES ! Sale in ON",
+      "jumpUrl": "https://www.rewardany.com/store/simon-miller-us?couponId=93803&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-11-19 00:00:00",
+      "endDateGMT": null,
+      "storeId": 95199,
+      "storeName": "Simon Miller US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/simon-miller-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Black Friday Sale Starts Tomorrow!",
+      "jumpUrl": "https://www.rewardany.com/store/simon-miller-us?couponId=93804&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-11-22 00:00:00",
+      "endDateGMT": null,
+      "storeId": 95199,
+      "storeName": "Simon Miller US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/simon-miller-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "The Black Friday Jungle Hunt Day 1: SHOP RIB",
+      "jumpUrl": "https://www.rewardany.com/store/simon-miller-us?couponId=93805&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-11-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 95199,
+      "storeName": "Simon Miller US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/simon-miller-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "The Black Friday Jungle Hunt Shop Stretch + Vegan",
+      "jumpUrl": "https://www.rewardany.com/store/simon-miller-us?couponId=93806&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-11-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 95199,
+      "storeName": "Simon Miller US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/simon-miller-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "New Discount Sticker Added to the Cyber Monday Jungle Hunt!",
+      "jumpUrl": "https://www.rewardany.com/store/simon-miller-us?couponId=93807&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-11-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 95199,
+      "storeName": "Simon Miller US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/simon-miller-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "New Markdowns - Sale Now up to 60% Off !",
+      "jumpUrl": "https://www.rewardany.com/store/simon-miller-us?couponId=93808&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-12-16 00:00:00",
+      "endDateGMT": null,
+      "storeId": 95199,
+      "storeName": "Simon Miller US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/simon-miller-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "SALE NOW 50% OFF - With New Styles Added",
+      "jumpUrl": "https://www.rewardany.com/store/simon-miller-us?couponId=93809&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2021-04-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 95199,
+      "storeName": "Simon Miller US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/simon-miller-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "ENJOY 10% OFF YOUR FIRST ORDER WHEN YOU JOIN OUR NEWSLETTER",
+      "jumpUrl": "https://www.rewardany.com/store/simon-miller-us?couponId=93810&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-08-29 00:00:00",
+      "endDateGMT": null,
+      "storeId": 95199,
+      "storeName": "Simon Miller US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/simon-miller-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "UP TO 50% OFF SALE! Select styles only, while supplies last!",
+      "jumpUrl": "https://www.rewardany.com/store/simon-miller-us?couponId=93811&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-12-19 00:00:00",
+      "endDateGMT": null,
+      "storeId": 95199,
+      "storeName": "Simon Miller US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/simon-miller-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "'Tis the Season Sale",
+      "jumpUrl": "https://www.rewardany.com/store/simon-miller-us?couponId=682507&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": null,
+      "storeId": 95199,
+      "storeName": "Simon Miller US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/simon-miller-us.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Deal of the Day",
+      "jumpUrl": "https://www.rewardany.com/store/flexispot-us?couponId=657036&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2025-03-31 00:00:00",
+      "storeId": 95427,
+      "storeName": "FlexiSpot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flexispot-us-1699436825.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "FlexiSpot's Labor Day Flash Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/flexispot-us?couponId=657037&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2025-03-31 00:00:00",
+      "storeId": 95427,
+      "storeName": "FlexiSpot US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/flexispot-us-1699436825.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Summer Clearance Sale",
+      "jumpUrl": "https://www.rewardany.com/store/petco?couponId=657105&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-25 00:00:00",
+      "endDateGMT": null,
+      "storeId": 97285,
+      "storeName": "PETCO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petco.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Summer Clearance Sale up to 50% off beds, toys, apparel and more",
+      "jumpUrl": "https://www.rewardany.com/store/petco?couponId=657106&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-02 00:00:00",
+      "endDateGMT": null,
+      "storeId": 97285,
+      "storeName": "PETCO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petco.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Summer Clearance Sale up to 50% off beds, toys, apparel and more",
+      "jumpUrl": "https://www.rewardany.com/store/petco?couponId=657107&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 97285,
+      "storeName": "PETCO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petco.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Up to 50% Off Clearance Sale (0)",
+      "jumpUrl": "https://www.rewardany.com/store/petco?couponId=657108&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-20 00:00:00",
+      "endDateGMT": null,
+      "storeId": 97285,
+      "storeName": "PETCO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petco.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Up to 30% Off Dog Toys",
+      "jumpUrl": "https://www.rewardany.com/store/petco?couponId=657110&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 97285,
+      "storeName": "PETCO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petco.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Up to 40% Off Clothing & Accessories",
+      "jumpUrl": "https://www.rewardany.com/store/petco?couponId=657111&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 97285,
+      "storeName": "PETCO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petco.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Up to 40% Off Clothing & Accessories",
+      "jumpUrl": "https://www.rewardany.com/store/petco?couponId=687169&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 97285,
+      "storeName": "PETCO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petco.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Dog Toys",
+      "jumpUrl": "https://www.rewardany.com/store/petco?couponId=687171&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 97285,
+      "storeName": "PETCO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petco.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Up to 30% Off Beds & Crates",
+      "jumpUrl": "https://www.rewardany.com/store/petco?couponId=687173&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 97285,
+      "storeName": "PETCO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petco.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "50% Off Select Aquariums & Aquarium Kits",
+      "jumpUrl": "https://www.rewardany.com/store/petco?couponId=687175&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-03 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 97285,
+      "storeName": "PETCO",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/petco.png",
+      "categories": [
+        "Pets"
+      ]
+    },
+    {
+      "couponTitle": "Discover our NEW Infinite Bottle, made from 100% recycled aluminum. Enjoy FREE Shipping on all orders.",
+      "jumpUrl": "https://www.rewardany.com/store/molton-brown-us?couponId=108554&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-15 00:00:00",
+      "endDateGMT": "2029-05-15 00:00:00",
+      "storeId": 97348,
+      "storeName": "Molton Brown",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/molton-brown-us.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "ALL Footwear 25% Off",
+      "jumpUrl": "https://www.rewardany.com/store/berettausa-com?couponId=657258&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-18 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 99568,
+      "storeName": "Beretta USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/berettausa-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Early Black Friday Deals - Up to 50% off select items",
+      "jumpUrl": "https://www.rewardany.com/store/berettausa-com?couponId=657259&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 99568,
+      "storeName": "Beretta USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/berettausa-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Early Black Friday Deals - Up to 50% off select items",
+      "jumpUrl": "https://www.rewardany.com/store/berettausa-com?couponId=657264&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 99568,
+      "storeName": "Beretta USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/berettausa-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Year End Sale - Up to 60% off Select Items at Beretta.com",
+      "jumpUrl": "https://www.rewardany.com/store/berettausa-com?couponId=687331&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": null,
+      "storeId": 99568,
+      "storeName": "Beretta USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/berettausa-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Year End Sale - Up to 60% off Select Items at Beretta.com",
+      "jumpUrl": "https://www.rewardany.com/store/berettausa-com?couponId=687332&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": null,
+      "storeId": 99568,
+      "storeName": "Beretta USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/berettausa-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "0% APR Financing Available",
+      "jumpUrl": "https://www.rewardany.com/store/maytag-com?couponId=93889&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-01-07 00:00:00",
+      "endDateGMT": "2026-01-07 00:00:00",
+      "storeId": 99616,
+      "storeName": "Maytag",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/maytag-com.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Buy 2 or more full priced items get 10% off! No Code Needed!",
+      "jumpUrl": "https://www.rewardany.com/store/maytag-com?couponId=93891&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 99616,
+      "storeName": "Maytag",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/maytag-com.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Healthcare workers, military and veterans save an additional 5% off most products site wide with a verified whirlpool account!",
+      "jumpUrl": "https://www.rewardany.com/store/maytag-com?couponId=93892&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 99616,
+      "storeName": "Maytag",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/maytag-com.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Subscribe and Save - 20% Off Your First Filter + Free Shipping and 20% Off All Refills",
+      "jumpUrl": "https://www.rewardany.com/store/maytag-com?couponId=93893&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-04-28 00:00:00",
+      "endDateGMT": "2024-06-05 00:00:00",
+      "storeId": 99616,
+      "storeName": "Maytag",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/maytag-com.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Current Promo (1) - 10% Off",
+      "jumpUrl": "https://www.rewardany.com/store/montanadecoy-com?couponId=93897&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-03-09 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 99623,
+      "storeName": "Montana Decoy",
+      "logoImg": null,
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Current Promo (2) - 10% Off - Turkey Time Is Here",
+      "jumpUrl": "https://www.rewardany.com/store/montanadecoy-com?couponId=93898&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-03-09 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 99623,
+      "storeName": "Montana Decoy",
+      "logoImg": null,
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Current Promo (4) - 10% Off - ILEY TOM, MISS PURR-FECT, JAKE PURR-FECT",
+      "jumpUrl": "https://www.rewardany.com/store/montanadecoy-com?couponId=93900&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-03-09 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 99623,
+      "storeName": "Montana Decoy",
+      "logoImg": null,
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Current Promo (5) - 10% Off - Turkey Decoys",
+      "jumpUrl": "https://www.rewardany.com/store/montanadecoy-com?couponId=93901&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-03-09 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 99623,
+      "storeName": "Montana Decoy",
+      "logoImg": null,
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Sale Items",
+      "jumpUrl": "https://www.rewardany.com/store/safariland-com?couponId=95914&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-08-19 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 99652,
+      "storeName": "Safariland",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/safariland-com.png",
+      "categories": null
+    },
+    {
+      "couponTitle": "Coldesina Designs Sign Up & Save 15%",
+      "jumpUrl": "https://www.rewardany.com/store/coldesinadesigns-com?couponId=151960&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-11-05 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108093,
+      "storeName": "Coldesina Designs",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/coldesinadesigns-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Coldesina Designs 300x250",
+      "jumpUrl": "https://www.rewardany.com/store/coldesinadesigns-com?couponId=151961&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-11-05 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108093,
+      "storeName": "Coldesina Designs",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/coldesinadesigns-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Coldesina Designs 300x200",
+      "jumpUrl": "https://www.rewardany.com/store/coldesinadesigns-com?couponId=151962&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-11-05 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108093,
+      "storeName": "Coldesina Designs",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/coldesinadesigns-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Sign Up & Save 15% at Donald Pliner",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165516&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-01-26 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner Logo 150x150",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165518&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-10-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner Logo 300x250",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165519&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-10-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner Logo 120x60",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165520&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-10-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Shop our sale page for the latest deals at DonaldPliner.com!",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165521&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2020-10-21 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Sign Up & Save 15% on Your First Order at Donald Pliner",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165522&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2021-01-26 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner FALL/WINTER 2022",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165523&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-09-12 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner FALL/WINTER 2022",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165524&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-09-12 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner FALL/WINTER 2022",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165525&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-09-12 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner FALL/WINTER 2022",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165526&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-09-12 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner New Markdowns",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165527&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-09-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner New Markdowns",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165528&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-09-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner New Markdowns",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165529&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-09-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner New Markdowns",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165530&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-09-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner New Markdowns",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165531&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-09-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Donald Pliner Women's New Markdowns",
+      "jumpUrl": "https://www.rewardany.com/store/donaldpliner-com?couponId=165532&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-09-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108123,
+      "storeName": "Donald Pliner",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/donaldpliner-com.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "10% off  - First Online Order Offer(Promo code: NEWEMPHASIS)",
+      "jumpUrl": "https://www.rewardany.com/store/emphasis-com?couponId=165533&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-12-04 00:00:00",
+      "endDateGMT": "2029-03-29 00:00:00",
+      "storeId": 108125,
+      "storeName": "EMPHASIS",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/emphasis-com.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "MMXXI 18K White Gold Diamond Necklace",
+      "jumpUrl": "https://www.rewardany.com/store/emphasis-com?couponId=165534&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2022-04-20 00:00:00",
+      "endDateGMT": "2028-04-19 00:00:00",
+      "storeId": 108125,
+      "storeName": "EMPHASIS",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/emphasis-com.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Save 50% on Climbing Skins With Ski Purchase",
+      "jumpUrl": "https://www.rewardany.com/store/haganskimountaineering-com?couponId=165535&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-09-28 00:00:00",
+      "endDateGMT": "2037-12-31 00:00:00",
+      "storeId": 108137,
+      "storeName": "Hagan Ski Mountaineering",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/haganskimountaineering-com.png",
+      "categories": [
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Olight Australia - i5T Plus, 30% off",
+      "jumpUrl": "https://www.rewardany.com/store/olightstore-com-au?couponId=172758&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-12-28 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108148,
+      "storeName": "Olight AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/olightstore-com-au.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Olight Australia - I3T Plus, 25% off",
+      "jumpUrl": "https://www.rewardany.com/store/olightstore-com-au?couponId=172759&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-12-28 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108148,
+      "storeName": "Olight AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/olightstore-com-au.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Olight Australia - Olight Baton 3 Kit, 50% off",
+      "jumpUrl": "https://www.rewardany.com/store/olightstore-com-au?couponId=172760&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2022-12-28 00:00:00",
+      "endDateGMT": null,
+      "storeId": 108148,
+      "storeName": "Olight AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/olightstore-com-au.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "New season, big mood: Get into a season of style and culture at Selfridges",
+      "jumpUrl": "https://www.rewardany.com/store/selfridges-com?couponId=331737&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-07-20 00:00:00",
+      "endDateGMT": "2023-07-20 23:59:00",
+      "storeId": 124828,
+      "storeName": "Selfridges",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/selfridges-com.png",
+      "categories": [
+        "Clothing",
+        "Health & Beauty",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Use Code: AFREWARD15 to Enjoy 15% OFF Sitewide, No Minimum Spending Requirement",
+      "jumpUrl": "https://www.rewardany.com/store/beautyamora-com-au?couponId=704490&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "AFREWARD15",
+      "tier": 2,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2023-12-31 23:59:00",
+      "storeId": 129201,
+      "storeName": "Beauty Amora AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/beautyamora-com-au-1702975320.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Join bealls loyalty program to save when you shop! The more you shop, the more you earn!",
+      "jumpUrl": "https://www.rewardany.com/store/bealls-com?couponId=657627&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2020-03-05 00:00:00",
+      "endDateGMT": null,
+      "storeId": 166892,
+      "storeName": "bealls",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bealls-com.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    }
+  ]
+}

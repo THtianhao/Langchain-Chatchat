@@ -1,0 +1,1511 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 81,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "Save up to 30% on car rentals in Seattle when you book with Rentalcars.com!",
+      "jumpUrl": "https://www.rewardany.com/store/rentalcarscom?couponId=636733&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-22 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 2834,
+      "storeName": "RentalCars.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rentalcarscom_logo.gif",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 30% on car rentals in Denver when you book with Rentalcars.com!",
+      "jumpUrl": "https://www.rewardany.com/store/rentalcarscom?couponId=636734&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-22 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 2834,
+      "storeName": "RentalCars.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rentalcarscom_logo.gif",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 30% on car rentals in Atlanta when you book with Rentalcars.com!",
+      "jumpUrl": "https://www.rewardany.com/store/rentalcarscom?couponId=636735&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-22 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 2834,
+      "storeName": "RentalCars.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rentalcarscom_logo.gif",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 30% on car rentals in Las Vegas when you book with Rentalcars.com!",
+      "jumpUrl": "https://www.rewardany.com/store/rentalcarscom?couponId=636736&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-22 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 2834,
+      "storeName": "RentalCars.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rentalcarscom_logo.gif",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 30% on car rentals in New Orleans when you book with Rentalcars.com!",
+      "jumpUrl": "https://www.rewardany.com/store/rentalcarscom?couponId=636737&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-22 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 2834,
+      "storeName": "RentalCars.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rentalcarscom_logo.gif",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 30% on car rentals in San Diego when you book with Rentalcars.com!",
+      "jumpUrl": "https://www.rewardany.com/store/rentalcarscom?couponId=636738&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-22 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 2834,
+      "storeName": "RentalCars.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rentalcarscom_logo.gif",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 30% on car rentals in Nashville when you book with Rentalcars.com!",
+      "jumpUrl": "https://www.rewardany.com/store/rentalcarscom?couponId=636739&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-22 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 2834,
+      "storeName": "RentalCars.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rentalcarscom_logo.gif",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 30% on car rentals in Orlando when you book with Rentalcars.com!",
+      "jumpUrl": "https://www.rewardany.com/store/rentalcarscom?couponId=636740&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-22 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 2834,
+      "storeName": "RentalCars.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rentalcarscom_logo.gif",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 30% on car rentals in Austin when you book with Rentalcars.com!",
+      "jumpUrl": "https://www.rewardany.com/store/rentalcarscom?couponId=636741&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-22 00:00:00",
+      "endDateGMT": "2025-01-01 00:00:00",
+      "storeId": 2834,
+      "storeName": "RentalCars.com",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rentalcarscom_logo.gif",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Refer a Friend!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-us-and-ca?couponId=636764&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2839,
+      "storeName": "LOOKFANTASTIC US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-us-and-ca_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sign up to receive our emails today and we'll send you an exclusive 15% off to use on your next order!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-us-and-ca?couponId=636766&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-29 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2839,
+      "storeName": "LOOKFANTASTIC US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-us-and-ca_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Refer a Friend! Refer your friend and receive $15 off your next order!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-us-and-ca?couponId=636767&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-05 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2839,
+      "storeName": "LOOKFANTASTIC US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-us-and-ca_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get Free US Shipping when you spend $40 or more!",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-us-and-ca?couponId=636768&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-05 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2839,
+      "storeName": "LOOKFANTASTIC US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-us-and-ca_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Beauty Advent Calendar! Worth over $700 Yours for $165",
+      "jumpUrl": "https://www.rewardany.com/store/lookfantastic-us-and-ca?couponId=636769&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-05 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2839,
+      "storeName": "LOOKFANTASTIC US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/lookfantastic-us-and-ca_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get up to 25% off on select grills, patio, and outdoor!",
+      "jumpUrl": "https://www.rewardany.com/store/costway?couponId=206549&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-09-20 20:31:00",
+      "endDateGMT": "2027-09-20 07:00:00",
+      "storeId": 2848,
+      "storeName": "Costway",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/costway_logo.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Costway December Sales: An entra 10% off selected items. Code: DELIGHT10.",
+      "jumpUrl": "https://www.rewardany.com/store/costway?couponId=702242&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-11 03:39:00",
+      "endDateGMT": "2023-12-31 08:00:00",
+      "storeId": 2848,
+      "storeName": "Costway",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/costway_logo.jpg",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Free click and collect on orders over \u00a330 | Deliver to your nearest store!",
+      "jumpUrl": "https://www.rewardany.com/store/peacocks?couponId=351791&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-09-07 07:50:00",
+      "endDateGMT": "2027-09-06 23:00:00",
+      "storeId": 2861,
+      "storeName": "Peacocks",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/peacocks_logo.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Save $250 on your Wedding Look with 6-Paid Rentals!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=365021&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-28 21:51:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Gifts for the Man in your Life Under $100, $50 and $25",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=567698&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-24 17:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Gifts Under $25",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=567699&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-24 17:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Gifts Under $50",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=567700&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-24 17:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Gifts Under $75",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=567701&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-24 17:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Gifts Under $100",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=567702&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-24 17:40:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "30% Off Boots!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=649927&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 06:00:00",
+      "endDateGMT": "2023-12-31 14:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "$99.99 Select Sportcoats!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=729456&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:20:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Buy One Get One 50% Off Select Jeans!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=729457&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:20:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "$199.99 Select Suits!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=729458&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:20:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "50% Off Slippers!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=729459&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:20:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "25% Off Boots!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=729460&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:20:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Buy One Get One 50% Off Dress Shirts!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=729461&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:20:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "$39.99 Merino Sweaters!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=729462&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:20:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "50% Off All Outerwear!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=729463&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:20:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "$39.99 select Puffer Jackets!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=729464&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 18:20:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "25% Off Sportswear!",
+      "jumpUrl": "https://www.rewardany.com/store/the-mens-wearhouse?couponId=729465&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 00:00:00",
+      "endDateGMT": "2023-12-25 06:00:00",
+      "storeId": 2872,
+      "storeName": "The Men's Wearhouse",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/the-mens-wearhouse_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Online at the Zanotti's Official Outlet. Enjoy up to 75% Off Every Day!",
+      "jumpUrl": "https://www.rewardany.com/store/giuseppe-zanotti-design-us?couponId=344002&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-13 21:14:00",
+      "endDateGMT": "2027-04-13 04:00:00",
+      "storeId": 2873,
+      "storeName": "Giuseppe Zanotti US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/giuseppe-zanotti-design-us-1701229734.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Get up to 50% OFF Giuseppe Zanotti Woman",
+      "jumpUrl": "https://www.rewardany.com/store/giuseppe-zanotti-design-us?couponId=608804&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-16 05:00:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2873,
+      "storeName": "Giuseppe Zanotti US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/giuseppe-zanotti-design-us-1701229734.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Get up to 50% OFF Giuseppe Zanotti Man",
+      "jumpUrl": "https://www.rewardany.com/store/giuseppe-zanotti-design-us?couponId=608805&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-16 05:00:00",
+      "endDateGMT": "2024-02-01 05:00:00",
+      "storeId": 2873,
+      "storeName": "Giuseppe Zanotti US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/giuseppe-zanotti-design-us-1701229734.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Save up To 60% Off on Clearance Items at Plow & Hearth!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646448&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-02-05 00:00:00",
+      "endDateGMT": "2025-01-14 00:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Newly Marked Down Home and Yard Accents Now On Sale!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646449&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-03-17 14:41:00",
+      "endDateGMT": "2028-03-17 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 20% Off Best Selling Cushions at Plow & Hearth!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646450&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-16 14:32:00",
+      "endDateGMT": "2028-06-16 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Deal of the Day and Save on Home Decor and More- Updated Daily!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646451&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-30 15:44:00",
+      "endDateGMT": "2028-09-30 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sign Up To Receive Plow & Hearth Emails and Receive 20% Off Your First Order!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646452&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-24 16:00:00",
+      "endDateGMT": "2029-03-24 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sign Up To Receive Plow & Hearth Deals via Email and Receive 20% Off Your First Order!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646453&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-12 19:26:00",
+      "endDateGMT": "2029-09-12 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy Special Savings on Select Patio and Outdoor Decor - Now on Sale up To 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646454&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-19 13:12:00",
+      "endDateGMT": "2029-09-19 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy Special Savings on Select Indoor Furniture and Decor - Now on Sale up To 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646455&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-19 13:13:00",
+      "endDateGMT": "2029-09-19 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy Special Savings on Select Hearth and Fireplace Essentials - Now on Sale up To 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646456&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-19 13:14:00",
+      "endDateGMT": "2029-09-19 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy Special Savings on Select Indoor and Outdoor Rugs - Now on Sale up To 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646457&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-19 13:15:00",
+      "endDateGMT": "2029-09-19 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy Special Savings on Select Indoor and Outdoor Furniture - Now on Sale up To 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646458&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-19 13:15:00",
+      "endDateGMT": "2029-09-19 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy Special Savings on Select Seasonal Decor - Now on Sale up To 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646459&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-19 13:16:00",
+      "endDateGMT": "2029-09-19 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Find Your New Favorites in Our Sale $30 and Under at Plow & Hearth!",
+      "jumpUrl": "https://www.rewardany.com/store/plow-and-hearth?couponId=646460&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-19 13:17:00",
+      "endDateGMT": "2029-09-19 04:00:00",
+      "storeId": 2914,
+      "storeName": "Plow & Hearth",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/plow-and-hearth_logo.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping on Orders Over $25 when you sign up!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599923&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-04-25 00:00:00",
+      "endDateGMT": "2026-04-25 00:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Buy 1 Get 1 50% Off - Men's Graphic T-Shirts!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599924&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-01-19 22:46:00",
+      "endDateGMT": "2027-01-19 23:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Womens | Buy 1 Get 1 50% Off - Graphic Tees",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599925&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-12 00:33:00",
+      "endDateGMT": "2027-03-11 05:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Mens | Buy 1 Get 1 50% Off - Graphic Tees",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599926&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-12 00:33:00",
+      "endDateGMT": "2027-03-11 05:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Mens | 2 For $20 T-Shirts",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599927&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-12 00:33:00",
+      "endDateGMT": "2027-03-11 05:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Mens | 2 For $30 Tops",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599928&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-12 00:33:00",
+      "endDateGMT": "2027-03-11 05:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Kids | Buy 1 Get 1 50% Off - T-Shirts",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599929&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-12 00:33:00",
+      "endDateGMT": "2027-03-11 05:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Kids | Buy 1 Get 1 50% Off - Pyjama's",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599930&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-12 00:33:00",
+      "endDateGMT": "2027-03-11 05:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "2 For $10 Socks",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599931&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-12 00:36:00",
+      "endDateGMT": "2027-03-11 05:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "SALE 50% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599932&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-03-12 00:36:00",
+      "endDateGMT": "2027-03-11 05:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Body | 3 For $18 Undies!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599933&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-09 21:27:00",
+      "endDateGMT": "2027-04-09 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Body | 2 For $25 Bralettes!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599934&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-14 21:43:00",
+      "endDateGMT": "2027-04-14 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Womens | 2 For $30 Tops!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599935&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-14 21:53:00",
+      "endDateGMT": "2027-04-14 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Rubi | 3 For $10 Scrunchies!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599936&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-22 23:03:00",
+      "endDateGMT": "2027-04-22 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Rubi | 2 For $15 Flip Flops!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599937&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-22 23:03:00",
+      "endDateGMT": "2027-04-22 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Typo | 3 For $5 Pens!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599938&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-22 23:04:00",
+      "endDateGMT": "2027-04-22 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Typo | 3 For $10 Cards!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599939&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-22 23:07:00",
+      "endDateGMT": "2027-04-22 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Typo | 2 For $30 Cushions!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599940&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-22 23:07:00",
+      "endDateGMT": "2027-04-22 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Mens | Up To 50% Off Original Prices (Limited Time Only!)!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599941&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-17 04:00:00",
+      "endDateGMT": "2027-06-17 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Womens | Half Price Off Hundreds Of Styles (Limited Time)!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599942&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-24 04:00:00",
+      "endDateGMT": "2027-06-24 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Mens | Half Price Off Hundreds Of Styles (Limited Time)!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599943&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-24 04:00:00",
+      "endDateGMT": "2027-06-24 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Body | Half Price Off Hundreds Of Styles (Limited Time)!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599944&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-24 04:00:00",
+      "endDateGMT": "2027-06-24 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Kids | Half Price Off Hundreds Of Styles (Limited Time)!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599945&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-24 04:00:00",
+      "endDateGMT": "2027-06-24 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Rubi | Half Price Off Hundreds Of Styles (Limited Time)!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599946&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-24 04:00:00",
+      "endDateGMT": "2027-06-24 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Typo | Half Price Off Hundreds Of Styles (Limited Time)!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599947&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-24 04:00:00",
+      "endDateGMT": "2027-06-24 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Group Offer | Half Price Off Hundreds Of Styles (Limited Time)!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599948&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-24 04:00:00",
+      "endDateGMT": "2027-06-24 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "$25 Off on All Full Price Orders when You Sign up Online Only!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599949&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-23 14:03:00",
+      "endDateGMT": "2027-06-23 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton On Body | 2 For $40 Swimwear!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599950&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-07-19 17:44:00",
+      "endDateGMT": "2027-07-19 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Limited Time Only - BOGO 50% Off Denim, Graphic Tees, and More!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599951&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-08-17 20:45:00",
+      "endDateGMT": "2027-08-27 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Join Cotton On's Rewards Program and Get 20% Off Your First Online Purchase as A Member. Exclusions Apply!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599952&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-02 21:59:00",
+      "endDateGMT": "2028-05-02 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton on Women | 2 for $30 Gym Tops!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599953&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-16 04:30:00",
+      "endDateGMT": "2028-05-16 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Cotton on Womens | 2 for $30 Swim Separates!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599954&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-16 04:32:00",
+      "endDateGMT": "2028-05-16 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Rubi | 2 for $25 Sunglasses!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599955&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-16 04:36:00",
+      "endDateGMT": "2028-05-16 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Rubi | 2 for $10 Socks!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599956&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-05-16 04:37:00",
+      "endDateGMT": "2028-05-16 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Sale Items $5 & Under!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599957&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-08 22:29:00",
+      "endDateGMT": "2028-06-08 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Sale Items $10 & Under!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599958&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-08 22:29:00",
+      "endDateGMT": "2028-06-08 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Sale Items $20 & Under!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599959&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-08 22:29:00",
+      "endDateGMT": "2028-06-08 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Shop Sale Items $20 & Over!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599960&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-06-08 22:29:00",
+      "endDateGMT": "2028-06-08 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Sign up for Cotton On Perks and get 20% Off your first online order!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599961&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-09 12:23:00",
+      "endDateGMT": "2028-09-09 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Sweaters & Shirts Now $20. Online Exclusive. Selected Styles. Limited Time Only!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599962&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-15 04:00:00",
+      "endDateGMT": "2028-09-15 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Online Exclusive - $20 Selected Women's Sweaters. Exclusions Apply!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599963&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-15 04:00:00",
+      "endDateGMT": "2028-09-15 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "$20 Selected Women's Shirts. Exclusions Apply!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599964&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-15 04:00:00",
+      "endDateGMT": "2028-09-15 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Swim Is In! 2 for $40 Swim",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=599965&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-27 15:09:00",
+      "endDateGMT": "2029-04-10 04:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Mother Puffers Now $40",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=665553&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 23:44:00",
+      "endDateGMT": "2023-12-21 08:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "2 for $30 Women's Tops!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=665554&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 23:51:00",
+      "endDateGMT": "2029-12-04 08:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "2 for $30 Men's Tops!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=665555&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 23:51:00",
+      "endDateGMT": "2029-12-04 08:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Bogo 50% Off Women's Graphics!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=665556&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 23:51:00",
+      "endDateGMT": "2029-12-04 08:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Bogo 50% Off Men's Graphics!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=665557&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 23:51:00",
+      "endDateGMT": "2029-12-04 08:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "2 for $40 Activewear!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=665558&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-04 23:51:00",
+      "endDateGMT": "2029-12-04 08:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "40% Off Winter Warmers!",
+      "jumpUrl": "https://www.rewardany.com/store/cotton-on-us-?couponId=674649&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-07 08:00:00",
+      "endDateGMT": "2023-12-21 08:00:00",
+      "storeId": 2922,
+      "storeName": "Cotton On US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/cotton-on-us-_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    }
+  ]
+}

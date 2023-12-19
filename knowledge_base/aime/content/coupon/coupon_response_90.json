@@ -1,0 +1,1538 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 90,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "Save on Top Selling Bowling Gear Plus Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/bowlersmart?couponId=256566&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-16 20:28:00",
+      "endDateGMT": "2027-04-16 04:00:00",
+      "storeId": 89622,
+      "storeName": "BowlersMart",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bowlersmart.png",
+      "categories": [
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% Off Top Selling Bowling Balls Plus Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/bowlersmart?couponId=256567&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-04-16 20:29:00",
+      "endDateGMT": "2027-04-16 04:00:00",
+      "storeId": 89622,
+      "storeName": "BowlersMart",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bowlersmart.png",
+      "categories": [
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "New Babe -- 15% Off Your Next Purchase When You Sign Up for Our Email List!",
+      "jumpUrl": "https://www.rewardany.com/store/buxom-cosmetics?couponId=431105&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2018-01-15 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 89652,
+      "storeName": "Buxom Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/buxom-cosmetics.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Buxom Has Just Launched a Trio of Full-Size Babe Faves - Including Buxom's Best-Selling Lip Balm, Lip Gloss, and Mascara - for Perfectly Plumped Lips and Lashes!",
+      "jumpUrl": "https://www.rewardany.com/store/buxom-cosmetics?couponId=431106&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-05-03 00:00:00",
+      "endDateGMT": "2025-03-07 00:00:00",
+      "storeId": 89652,
+      "storeName": "Buxom Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/buxom-cosmetics.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sign Up Now with Canvas Champ!",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=165007&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-14 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "FREECANVAS12X12",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636975&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-09-13 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "CANVAS PHOTO COLLAGE",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636978&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-18 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "CUSTOM PHOTO PILLOWS",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636979&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-18 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "CONJURE UP A BIT OF FUN. CREATE YOUR OWN PERSONALIZED MAGIC MUGS.",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636980&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-22 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Split Canvas Prints From CanvasChamp",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636983&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-02 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Metal Prints From CanvasChamp",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636984&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-02 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "NEW YEAR SALE",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636985&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-05 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Custom Canvas Prints",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636986&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-11 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Use Coupon Code: MUGUS12 | Frosted Mugs Exclusive Bulk Order Deal!",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636996&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-22 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Frosted Mugs",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636997&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-22 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "WHOLESALE Canvas Prints",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636998&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-06-22 00:00:00",
+      "endDateGMT": "2023-12-30 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Ready Made Christmas Gifts",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=636999&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-04 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "CANVAS PRINTS - Perfect for Decorating Your Home!",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=637000&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-04 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "PHOTO PILLOWS - Forever Treasured Memories!",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=637001&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-04 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "ACRYLIC PRINTS - Turn Your Home into a Personal Gallery!",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=637002&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-04 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Best Price Guarantee",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=640393&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-28 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "50% off CUSTOM SOCKS",
+      "jumpUrl": "https://www.rewardany.com/store/canvas-champ?couponId=644128&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-29 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89673,
+      "storeName": "Canvas Champ",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/canvas-champ.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "15% off when you sign up!",
+      "jumpUrl": "https://www.rewardany.com/store/caudalie?couponId=182443&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-07-22 00:21:00",
+      "endDateGMT": "2028-07-22 00:00:00",
+      "storeId": 89692,
+      "storeName": "Caudalie US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/caudalie.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Free Shipping for Orders Over $500!",
+      "jumpUrl": "https://www.rewardany.com/store/curtain-wonderland?couponId=676171&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-12-05 04:00:00",
+      "endDateGMT": "2027-04-28 14:00:00",
+      "storeId": 89786,
+      "storeName": "Curtain Wonderland",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/curtain-wonderland-1701923921.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Refer A Friend!",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=637007&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "The Holiday Shop! Our curated picks for everyone on your list.",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=637008&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-02 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Be a Good Friend with 15% off Earn $15 for each friend you introduce to Dermstore & they'll receive 15% off their first order.",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=637009&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-02 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Up to 30% off Last Minute Gifts!",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=651155&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop December's Editor Obsession: Dermalogica!",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=671703&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Receive a Dermalogica Smoothing + Firming Results Made Easy Duo ($22.50 Value) when you spend $90 or more on the brand.",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=671704&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Limited Time Only Eminence Organic Skin Care Gift! Choose a Free Travel Set when you spend $175 on 2 or more on the brand",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=676192&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-28 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 25% on select Eminence Organic Skin Care Bundles!",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=676193&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop the December BeautyFix! Including products from Olaplex, Oribe, TULA Skincare & more",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=676194&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Shop Limited Edition SkinCeuticals Bundles!",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=682024&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-07 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Reward Members Only! Order by 12/20 to Get Free Express Shipping on Orders $150+",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=735943&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Receive a EltaMD Oil-in-Gel Cleanser 0.33 fl. oz ($10 Value) when you spend $115 or more on the brand.",
+      "jumpUrl": "https://www.rewardany.com/store/dermstore?couponId=735944&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-18 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 89816,
+      "storeName": "Dermstore",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dermstore.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Hundreds Of New Markdowns Up to 40% off - Shop Now At Finishline.com!",
+      "jumpUrl": "https://www.rewardany.com/store/finish-line?couponId=182476&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-07-30 00:00:00",
+      "endDateGMT": "2025-07-18 00:00:00",
+      "storeId": 89958,
+      "storeName": "Finish Line",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/finish-line-1702975701.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Sign up to be a Status Member! Earn Points & Trade in for Rewards at Finishline.com!",
+      "jumpUrl": "https://www.rewardany.com/store/finish-line?couponId=182477&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-02-05 00:00:00",
+      "endDateGMT": "2026-02-04 00:00:00",
+      "storeId": 89958,
+      "storeName": "Finish Line",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/finish-line-1702975701.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Tees & Shorts up to 50% off",
+      "jumpUrl": "https://www.rewardany.com/store/finish-line?couponId=573633&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-27 19:25:00",
+      "endDateGMT": "2029-10-27 14:00:00",
+      "storeId": 89958,
+      "storeName": "Finish Line",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/finish-line-1702975701.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Sweatshirts & Joggers up to 30% off",
+      "jumpUrl": "https://www.rewardany.com/store/finish-line?couponId=573634&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-27 19:25:00",
+      "endDateGMT": "2029-10-27 04:00:00",
+      "storeId": 89958,
+      "storeName": "Finish Line",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/finish-line-1702975701.png",
+      "categories": [
+        "Clothing",
+        "Shoes",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Sign up to Globo Rewards & receive $10 OFF your next purchase  at GLOBOShoes.com!",
+      "jumpUrl": "https://www.rewardany.com/store/globo-canada?couponId=261202&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-17 20:05:00",
+      "endDateGMT": "2027-06-17 04:00:00",
+      "storeId": 90033,
+      "storeName": "GLOBOShoes.com CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/globo-canada.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Inscrivez-vous \u00e0 Globo Privil\u00e8ges et recevez 10$ de rabais sur votre prochain achat  \u00e0 Globo.com!",
+      "jumpUrl": "https://www.rewardany.com/store/globo-canada?couponId=261203&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-17 20:14:00",
+      "endDateGMT": "2027-06-17 04:00:00",
+      "storeId": 90033,
+      "storeName": "GLOBOShoes.com CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/globo-canada.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Enjoy Up to 60% off the regular price on all sale at GLOBOShoes.com! (Valid for a limited time)!",
+      "jumpUrl": "https://www.rewardany.com/store/globo-canada?couponId=261204&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-10 18:39:00",
+      "endDateGMT": "2028-02-10 05:00:00",
+      "storeId": 90033,
+      "storeName": "GLOBOShoes.com CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/globo-canada.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Profitez de Jusqu'\u00e0 60% de rabais sur le prix r\u00e9gulier de tous les soldes chez GLOBOShoes.com! (Valide pour une dur\u00e9e limit\u00e9e)!",
+      "jumpUrl": "https://www.rewardany.com/store/globo-canada?couponId=261205&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-10 20:27:00",
+      "endDateGMT": "2028-02-11 05:00:00",
+      "storeId": 90033,
+      "storeName": "GLOBOShoes.com CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/globo-canada.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Profitez d'une Livraison Gratuite sur Toutes Les Commandes de $99+ chez GLOBOShoes.com! (Valide pour un temps limit\u00e9)!",
+      "jumpUrl": "https://www.rewardany.com/store/globo-canada?couponId=261206&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-02-10 21:00:00",
+      "endDateGMT": "2028-02-10 00:00:00",
+      "storeId": 90033,
+      "storeName": "GLOBOShoes.com CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/globo-canada.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Get Free Shipping and a Free Bottle of Wine with Every Order!",
+      "jumpUrl": "https://www.rewardany.com/store/just-wines-australia?couponId=212023&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-06-24 06:58:00",
+      "endDateGMT": "2027-06-23 14:00:00",
+      "storeId": 90204,
+      "storeName": "Just Wines AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/just-wines-australia.png",
+      "categories": [
+        "Food, Drinks & Restaurants"
+      ]
+    },
+    {
+      "couponTitle": "Shop Ethically Embroidered Tees!",
+      "jumpUrl": "https://www.rewardany.com/store/kind-clothing?couponId=553434&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-17 00:00:00",
+      "endDateGMT": "2024-02-29 00:00:00",
+      "storeId": 90237,
+      "storeName": "Kind Clothing",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kind-clothing.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Shop Our Tape Measure Embroidered Hoodie!",
+      "jumpUrl": "https://www.rewardany.com/store/kind-clothing?couponId=557235&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-19 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 90237,
+      "storeName": "Kind Clothing",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kind-clothing.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Shop Epic Embroidered Christmas Gifts!",
+      "jumpUrl": "https://www.rewardany.com/store/kind-clothing?couponId=637026&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 90237,
+      "storeName": "Kind Clothing",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kind-clothing.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Shop Our Boba Bubble Tea Hoodie!",
+      "jumpUrl": "https://www.rewardany.com/store/kind-clothing?couponId=637027&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2024-08-31 00:00:00",
+      "storeId": 90237,
+      "storeName": "Kind Clothing",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kind-clothing.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Shop Uno inspired Nostalgic 90s Embroidered Hoodie!",
+      "jumpUrl": "https://www.rewardany.com/store/kind-clothing?couponId=637028&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2024-05-31 00:00:00",
+      "storeId": 90237,
+      "storeName": "Kind Clothing",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kind-clothing.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Festive Mince Pie Christmas Sweatshirt!",
+      "jumpUrl": "https://www.rewardany.com/store/kind-clothing?couponId=637029&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-10 00:00:00",
+      "endDateGMT": "2024-02-29 00:00:00",
+      "storeId": 90237,
+      "storeName": "Kind Clothing",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/kind-clothing.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Save Up to 90% Off Newsstand Price of Top Magazines!",
+      "jumpUrl": "https://www.rewardany.com/store/magazines?couponId=220130&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-11-19 00:00:00",
+      "endDateGMT": "2025-11-18 00:00:00",
+      "storeId": 90338,
+      "storeName": "Magazines",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magazines.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Popular Magazine Subscriptions for just $10 or Less!",
+      "jumpUrl": "https://www.rewardany.com/store/magazines?couponId=220131&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-11-19 00:00:00",
+      "endDateGMT": "2025-11-18 00:00:00",
+      "storeId": 90338,
+      "storeName": "Magazines",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magazines.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Full Year of Magnolia Journal an Extra 37% Off Plus Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/magazines?couponId=220132&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-08-19 04:00:00",
+      "endDateGMT": "2028-08-19 04:00:00",
+      "storeId": 90338,
+      "storeName": "Magazines",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magazines.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Give the Perfect Gift and Save up To 92% Off Plus Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/magazines?couponId=220133&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-08-19 04:00:00",
+      "endDateGMT": "2028-08-19 04:00:00",
+      "storeId": 90338,
+      "storeName": "Magazines",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magazines.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Shop Our Best Sellers and Save up To 86% Off Plus Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/magazines?couponId=220134&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-08-19 04:00:00",
+      "endDateGMT": "2028-08-19 04:00:00",
+      "storeId": 90338,
+      "storeName": "Magazines",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magazines.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Save 84% Off a Full Year of Time Magazine plus Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/magazines?couponId=647721&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90338,
+      "storeName": "Magazines",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magazines.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Get a Captain Marvel Comic Book Subscription Today for 37% Off Newsstand plus Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/magazines?couponId=647722&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90338,
+      "storeName": "Magazines",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magazines.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "37% Off a Comic Book Subscription plus Free Shipping!",
+      "jumpUrl": "https://www.rewardany.com/store/magazines?couponId=647723&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-01 00:00:00",
+      "endDateGMT": "2023-12-31 23:00:00",
+      "storeId": 90338,
+      "storeName": "Magazines",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magazines.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "$5 Off Sale\u2014Take an EXTRA $5 Off Full Year Subscriptions Plus FREE SHIPPING!",
+      "jumpUrl": "https://www.rewardany.com/store/magazines?couponId=725227&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-17 00:00:00",
+      "endDateGMT": "2023-12-23 23:00:00",
+      "storeId": 90338,
+      "storeName": "Magazines",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magazines.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "Special Offer\u2014Find Full Year Subscriptions Now Just $2 or Less per Issue!",
+      "jumpUrl": "https://www.rewardany.com/store/magazines?couponId=725228&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-17 00:00:00",
+      "endDateGMT": "2023-12-23 23:00:00",
+      "storeId": 90338,
+      "storeName": "Magazines",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/magazines.png",
+      "categories": [
+        "Subscription Boxes & Services"
+      ]
+    },
+    {
+      "couponTitle": "10% Off Your First Order When Signing Up To Our Newsletter!",
+      "jumpUrl": "https://www.rewardany.com/store/masdings?couponId=323912&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-09-13 00:00:00",
+      "endDateGMT": "2025-09-12 00:00:00",
+      "storeId": 90354,
+      "storeName": "Masdings",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/masdings.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "*IE OFFER ONLY*",
+      "jumpUrl": "https://www.rewardany.com/store/myprotein-uk?couponId=553453&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-16 00:00:00",
+      "endDateGMT": "2024-10-16 00:00:00",
+      "storeId": 90440,
+      "storeName": "My Protein UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/myprotein-uk-1697447513.png",
+      "categories": [
+        "Clothing",
+        "Health & Beauty",
+        "Accessories",
+        "Food, Drinks & Restaurants",
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Grab the Myprotein Impact Protein bundle!",
+      "jumpUrl": "https://www.rewardany.com/store/myprotein-uk?couponId=671786&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90440,
+      "storeName": "My Protein UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/myprotein-uk-1697447513.png",
+      "categories": [
+        "Clothing",
+        "Health & Beauty",
+        "Accessories",
+        "Food, Drinks & Restaurants",
+        "Sports, Outdoors & Fitness"
+      ]
+    },
+    {
+      "couponTitle": "Winter Sale - up To 60% Off!",
+      "jumpUrl": "https://www.rewardany.com/store/naylors?couponId=709107&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-13 11:06:00",
+      "endDateGMT": "2024-01-31 00:00:00",
+      "storeId": 90461,
+      "storeName": "Naylors",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/naylors.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "14-day returns",
+      "jumpUrl": "https://www.rewardany.com/store/oak-furniture-superstore-uk?couponId=637039&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-03 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90498,
+      "storeName": "Oak Furniture Superstore UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oak-furniture-superstore-uk.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "0% Interest Free - up to 12 months available",
+      "jumpUrl": "https://www.rewardany.com/store/oak-furniture-superstore-uk?couponId=637040&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-01-30 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 90498,
+      "storeName": "Oak Furniture Superstore UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oak-furniture-superstore-uk.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Shop the clearance range",
+      "jumpUrl": "https://www.rewardany.com/store/oak-furniture-superstore-uk?couponId=637041&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90498,
+      "storeName": "Oak Furniture Superstore UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oak-furniture-superstore-uk.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "48 Hour Delivery on 1000's of products",
+      "jumpUrl": "https://www.rewardany.com/store/oak-furniture-superstore-uk?couponId=637045&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-09-19 00:00:00",
+      "endDateGMT": "2024-12-31 00:00:00",
+      "storeId": 90498,
+      "storeName": "Oak Furniture Superstore UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oak-furniture-superstore-uk.png",
+      "categories": [
+        "Home & Garden"
+      ]
+    },
+    {
+      "couponTitle": "Beauty for a cause, Think Pink Set with @nbcf is now available!",
+      "jumpUrl": "https://www.rewardany.com/store/ofra-cosmetics?couponId=290834&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2022-10-04 19:17:00",
+      "endDateGMT": "2028-10-04 04:00:00",
+      "storeId": 90509,
+      "storeName": "OFRA Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ofra-cosmetics.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Now Available! 2023 Premium Mystery Box - 7 Full Sized Items Valued at $268 only For $99!",
+      "jumpUrl": "https://www.rewardany.com/store/ofra-cosmetics?couponId=290836&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-24 04:00:00",
+      "endDateGMT": "2029-05-24 04:00:00",
+      "storeId": 90509,
+      "storeName": "OFRA Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ofra-cosmetics.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "All-new Face It Vacay Glow PR BOX $89 ($105 Value)!",
+      "jumpUrl": "https://www.rewardany.com/store/ofra-cosmetics?couponId=290837&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2021-05-28 14:02:00",
+      "endDateGMT": "2027-05-28 00:00:00",
+      "storeId": 90509,
+      "storeName": "OFRA Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ofra-cosmetics.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Glow Into the Holidays with 50% Off Highlighters - No Code Necessary!",
+      "jumpUrl": "https://www.rewardany.com/store/ofra-cosmetics?couponId=709111&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-13 05:00:00",
+      "endDateGMT": "2023-12-20 04:00:00",
+      "storeId": 90509,
+      "storeName": "OFRA Cosmetics",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/ofra-cosmetics.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Join O+ Auto-Ship Program and Save 15%!",
+      "jumpUrl": "https://www.rewardany.com/store/oxygen-plus-us?couponId=182493&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-01-16 00:00:00",
+      "endDateGMT": "2025-01-15 00:00:00",
+      "storeId": 90538,
+      "storeName": "Oxygen Plus US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oxygen-plus-us.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Save 15% Now and Always with Auto-Ship Program!",
+      "jumpUrl": "https://www.rewardany.com/store/oxygen-plus-us?couponId=182494&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-01-16 00:00:00",
+      "endDateGMT": "2025-01-15 00:00:00",
+      "storeId": 90538,
+      "storeName": "Oxygen Plus US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oxygen-plus-us.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "15% Off Everytime with O+ Auto-Ship Program!",
+      "jumpUrl": "https://www.rewardany.com/store/oxygen-plus-us?couponId=182495&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-01-16 00:00:00",
+      "endDateGMT": "2025-01-15 00:00:00",
+      "storeId": 90538,
+      "storeName": "Oxygen Plus US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/oxygen-plus-us.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Free Express Shipping when You Spend Over $50!",
+      "jumpUrl": "https://www.rewardany.com/store/princess-polly-au?couponId=441097&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2019-04-18 00:00:00",
+      "endDateGMT": "2025-04-12 00:00:00",
+      "storeId": 90607,
+      "storeName": "Princess Polly AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/princess-polly-au-1694143125.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Qatar Airways Canada Default Homepage",
+      "jumpUrl": "https://www.rewardany.com/store/qatar-canada?couponId=644239&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-30 00:00:00",
+      "endDateGMT": "2025-01-31 00:00:00",
+      "storeId": 90619,
+      "storeName": "Qatar CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/qatar-canada.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Free express shipping for orders $79 and over!",
+      "jumpUrl": "https://www.rewardany.com/store/rusty-au?couponId=329783&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2020-10-08 23:11:00",
+      "endDateGMT": "2026-10-08 13:00:00",
+      "storeId": 90671,
+      "storeName": "Rusty AU",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/rusty-au.jpg",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Sam Ash Music Flash Deals: Special Discounts on Musical Instruments & Music Studio Gear",
+      "jumpUrl": "https://www.rewardany.com/store/sam-ash?couponId=228302&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-28 04:00:00",
+      "endDateGMT": "2029-03-28 04:00:00",
+      "storeId": 90681,
+      "storeName": "Sam Ash",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sam-ash.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Shop Used Musical Instruments, Used Guitars, Used Drums, Used Pianos, Used Pro Audio Gear, Used DJ Equipment",
+      "jumpUrl": "https://www.rewardany.com/store/sam-ash?couponId=228303&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-28 04:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 90681,
+      "storeName": "Sam Ash",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sam-ash.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Samson Recording Headphones: Save Up to 70%",
+      "jumpUrl": "https://www.rewardany.com/store/sam-ash?couponId=228304&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-03-28 04:00:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 90681,
+      "storeName": "Sam Ash",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sam-ash.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save Up to $200: Michael Kelly Electric Guitars",
+      "jumpUrl": "https://www.rewardany.com/store/sam-ash?couponId=600934&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-11 15:24:00",
+      "endDateGMT": "2029-11-11 05:00:00",
+      "storeId": 90681,
+      "storeName": "Sam Ash",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sam-ash.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Fender Guitar Sale: Save Up to $200!",
+      "jumpUrl": "https://www.rewardany.com/store/sam-ash?couponId=600936&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-12 00:02:00",
+      "endDateGMT": "2023-12-31 05:00:00",
+      "storeId": 90681,
+      "storeName": "Sam Ash",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sam-ash.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Sam Ash Deals Shop: Save Up to 60% on Musical Instruments and Pro Sound Equipment!",
+      "jumpUrl": "https://www.rewardany.com/store/sam-ash?couponId=600937&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-12 00:06:00",
+      "endDateGMT": "2024-12-31 05:00:00",
+      "storeId": 90681,
+      "storeName": "Sam Ash",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sam-ash.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Shop the new 57 inch Odyssey Neo G9 Gaming Monitor",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=527680&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-10-02 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Buy 4 or more, save 25%! Buy 2 Samsung Built-In Home Appliances and save 10%, or buy 3 and save 15%",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=612186&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-17 00:00:00",
+      "endDateGMT": "2024-02-01 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "0% Financing up to 36 months",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=637046&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-10 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1 year supply water filter",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=637047&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-02-10 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save $1,000 on your Home Theatre",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=637048&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-30 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Receive $100 Off Eligible Subwoofer or Speaker when you purchase an eligible Samsung soundbar",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=637049&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-05-30 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Save $40 when you buy the Ultra Slim Soundbar With the purchase of an Ultra Slim Soundbar Skin for a stylish look.",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=637050&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-06 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Ready2Fit\u2122 Guarantee: If your new Samsung 30\u201d slide-in range does not fit your current 30\u201d range space, you can receive up to $300 toward a cabinet retrofit.",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=637051&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-06 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Bonus Lagostina Cookware Set* Purchase any induction range or cooktop and get a 5pc cookware set ($449 savings)",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=637052&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-06 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Capture in 8K. Watch in 8K",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=637053&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-07-24 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "$250 off the Freestyle 2nd Gen",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=637058&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-11-22 00:00:00",
+      "endDateGMT": "2024-01-05 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Buy 4 or more, save 25% Buy 2 Samsung Built-In Home Appliances and save 10%, or buy 3 and save 15%.",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=686741&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-08 00:00:00",
+      "endDateGMT": "2024-01-05 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "$800 off the Exclusive QE1 TV",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=686742&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-08 00:00:00",
+      "endDateGMT": "2024-01-05 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Bonus Cookware Set",
+      "jumpUrl": "https://www.rewardany.com/store/samsung-ca?couponId=714480&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 5,
+      "startDateGMT": "2023-12-14 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 90682,
+      "storeName": "Samsung CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/samsung-ca.png",
+      "categories": [
+        "Electronics"
+      ]
+    }
+  ]
+}

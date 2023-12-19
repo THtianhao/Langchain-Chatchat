@@ -1,0 +1,1518 @@
+{
+  "code": "success",
+  "msg": "Request successfully processed!",
+  "pageNumber": 44,
+  "pageSize": 100,
+  "totalRecords": 9624,
+  "totalPages": 97,
+  "results": [
+    {
+      "couponTitle": "Email Signups",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654017&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-17 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Sale, MOMENTUM True Wireless 3 Black, White and Graphite Colors for $80 off, 11/6-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654018&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-06 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "AMBEO Soundbar Max $500 off, $1,999.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654019&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "AMBEO Soundbar PLUS for $300 off, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654020&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "AMBEO Soundbar Mini for $50 off, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654021&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "AMBEO Sub for $100 off, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654022&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "MOMENTUM 4 Wireless for $80 off, $299.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654023&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "IE 200 for $30 off, $119.95, 11/6-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654024&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-06 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "IE 600 for $200 off, $599.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654025&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "IE 600 for $300 off, $599.95, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654026&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "IE 900 for $300 off, $1,199.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654027&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 569 for $30 off, $119.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654028&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 560S for $50 off, $179.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654029&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 599 for $50 off, $149.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654030&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 600 for $100 off, $349.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654031&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 650 for $100 off, $399.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654032&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 660 S2 for $100 off, $499.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654033&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 800 S for $200 off, $1,599.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654034&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 820 for $200 off, $1,799.95, 12/4-12/24",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654035&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-25 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "$800 off AMBEO Soundbar Max, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654036&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "$500 off AMBEO Soundbar Plus, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654037&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "$100 off AMBEO Soundbar Mini, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654038&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "AMBEO Sub for $100 off, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654039&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "MOMENTUM 4 Wireless for $100 off, $279.95, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654040&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "IE 900 for $500 off, $999.95, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654041&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 569 for $50 off, $119.95, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654042&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 599 for $70 off, $129.95, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654043&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Holiday Offers Page",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654044&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-07 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 600 for $150 off, $399.95, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654045&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 600 for $150 off, $399.95, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654046&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 660S2 for $200 off, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654047&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 800 S for $300 off, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654048&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "HD 820 for $400 off, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654049&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "RS 195-U for $120 off, 12/25-12/31",
+      "jumpUrl": "https://www.rewardany.com/store/sennheiser?couponId=654050&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-25 00:00:00",
+      "endDateGMT": "2024-01-01 00:00:00",
+      "storeId": 2392,
+      "storeName": "Sennheiser",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/sennheiser_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Comfort in Sandals",
+      "jumpUrl": "https://www.rewardany.com/store/crocs-sg?couponId=106977&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-30 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2460,
+      "storeName": "Crocs SG",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/crocs-sg_logo.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Evergreen sale - 30% off",
+      "jumpUrl": "https://www.rewardany.com/store/tumi-us?couponId=654062&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-06 00:00:00",
+      "endDateGMT": "2029-11-16 00:00:00",
+      "storeId": 2472,
+      "storeName": "Tumi US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/tumi-us_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Save up to 20% on best-sellers",
+      "jumpUrl": "https://www.rewardany.com/store/charlotte-tilbury-us?couponId=679644&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-22 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2500,
+      "storeName": "Charlotte Tilbury US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charlotte-tilbury-us_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "15% OFF FOR NEW CUSTOMERS",
+      "jumpUrl": "https://www.rewardany.com/store/charlotte-tilbury-us?couponId=679645&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-17 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2500,
+      "storeName": "Charlotte Tilbury US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charlotte-tilbury-us_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Get 25% OFF Charlotte Tilbury\u2019s Beautiful Skin Foundation. Exclusively on CharlotteTilbury.com for a Limited Time ONLY!",
+      "jumpUrl": "https://www.rewardany.com/store/charlotte-tilbury-us?couponId=679647&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": null,
+      "endDateGMT": null,
+      "storeId": 2500,
+      "storeName": "Charlotte Tilbury US",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/charlotte-tilbury-us_logo.jpg",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "10% Off First Order",
+      "jumpUrl": "https://www.rewardany.com/store/just-geek?couponId=674254&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-07-24 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2533,
+      "storeName": "Just Geek UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/just-geek_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Unlock 10% Off Your Order",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=654102&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-13 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "Sign-up for our newsletter for 10% off your first order",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=654103&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-11-13 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 120x600",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674260&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 160x600",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674261&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 234x60",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674262&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 250x250",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674263&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 300x50",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674264&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 300x250",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674265&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 320x50",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674266&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 320x100",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674267&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 392x72",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674268&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 468x60",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674269&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 728x90",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674270&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "1MORE Christmas 2023 Sale - 1200x1200",
+      "jumpUrl": "https://www.rewardany.com/store/1more?couponId=674271&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-26 00:00:00",
+      "storeId": 2544,
+      "storeName": "1MORE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/1more_logo.png",
+      "categories": [
+        "Electronics"
+      ]
+    },
+    {
+      "couponTitle": "25% Off Almost Everything. Online and in stores for a limited time. Exclusions apply.",
+      "jumpUrl": "https://www.rewardany.com/store/club-monaco-canada?couponId=674274&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-06 00:00:00",
+      "endDateGMT": "2023-12-20 00:00:00",
+      "storeId": 2553,
+      "storeName": "Club Monaco Canada",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/club-monaco-canada_logo.jpg",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Shop our last call section, several items up to 60% off! No code needed.",
+      "jumpUrl": "https://www.rewardany.com/store/7-for-all-mankind?couponId=654109&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-14 00:00:00",
+      "endDateGMT": "2029-09-14 00:00:00",
+      "storeId": 2567,
+      "storeName": "7 For All Mankind",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/7-for-all-mankind-1694575504.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Shop sale styles now and save before they're gone!",
+      "jumpUrl": "https://www.rewardany.com/store/7-for-all-mankind?couponId=654110&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-10-24 00:00:00",
+      "endDateGMT": "2029-10-24 00:00:00",
+      "storeId": 2567,
+      "storeName": "7 For All Mankind",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/7-for-all-mankind-1694575504.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "FREE DELIVERY on all orders over \u00a3200 and FREE RETURNS\r\n",
+      "jumpUrl": "https://www.rewardany.com/store/matchesfashioncom-uk?couponId=313936&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-07-11 00:00:00",
+      "endDateGMT": "2023-07-11 23:59:00",
+      "storeId": 2570,
+      "storeName": "MATCHES UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/matchesfashioncom-uk.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Further Reductions Up to 70% off, plus new items added to sale - WW",
+      "jumpUrl": "https://www.rewardany.com/store/matchesfashioncom-uk?couponId=684070&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-12 00:00:00",
+      "endDateGMT": "2024-01-06 00:00:00",
+      "storeId": 2570,
+      "storeName": "MATCHES UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/matchesfashioncom-uk.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Further Reductions Up to 70% off, plus new items added to sale - MW",
+      "jumpUrl": "https://www.rewardany.com/store/matchesfashioncom-uk?couponId=684071&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-12 00:00:00",
+      "endDateGMT": "2024-01-06 00:00:00",
+      "storeId": 2570,
+      "storeName": "MATCHES UK",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/matchesfashioncom-uk.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Up to 70% off designer eyewear Summer Sale",
+      "jumpUrl": "https://www.rewardany.com/store/fashion-eyewear?couponId=674290&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-26 00:00:00",
+      "endDateGMT": "2024-01-30 00:00:00",
+      "storeId": 2572,
+      "storeName": "Fashion Eyewear",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/fashion-eyewear_logo.png",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Aero: 50-70% OFF SITEWIDE!",
+      "jumpUrl": "https://www.rewardany.com/store/aeropostale?couponId=665146&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 2579,
+      "storeName": "Aeropostale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aeropostale.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Aero: Up To 50% Off New Arrivals!",
+      "jumpUrl": "https://www.rewardany.com/store/aeropostale?couponId=674299&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 2579,
+      "storeName": "Aeropostale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aeropostale.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Aero Puffers: $14.99 & Up!",
+      "jumpUrl": "https://www.rewardany.com/store/aeropostale?couponId=674302&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 2579,
+      "storeName": "Aeropostale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aeropostale.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Aero Fleece: $11.99 & Up!",
+      "jumpUrl": "https://www.rewardany.com/store/aeropostale?couponId=674303&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 2579,
+      "storeName": "Aeropostale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aeropostale.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Aero Loungewear: $7.99 & Up!",
+      "jumpUrl": "https://www.rewardany.com/store/aeropostale?couponId=674304&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 2579,
+      "storeName": "Aeropostale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aeropostale.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Aero Flannels: $11.99 & Up!",
+      "jumpUrl": "https://www.rewardany.com/store/aeropostale?couponId=674305&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-05 00:00:00",
+      "endDateGMT": "2023-12-21 00:00:00",
+      "storeId": 2579,
+      "storeName": "Aeropostale",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/aeropostale.png",
+      "categories": [
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Get 10% with newsletter sign up on Bogner.com. Shop now!",
+      "jumpUrl": "https://www.rewardany.com/store/bogner-global-?couponId=674307&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-09-20 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2589,
+      "storeName": "Bogner (Global)",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/bogner-global-_logo.png",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "40% off all remaining 2023 breaks!",
+      "jumpUrl": "https://www.rewardany.com/store/shorefield-holidays?couponId=674373&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-12-04 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2619,
+      "storeName": "Shorefield Holidays",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/shorefield-holidays_logo.jpg",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "20% Off on First Online Order",
+      "jumpUrl": "https://www.rewardany.com/store/weird-fish?couponId=140441&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-25 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2631,
+      "storeName": "Weird Fish",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/weird-fish_logo.jpg",
+      "categories": [
+        "Clothing"
+      ]
+    },
+    {
+      "couponTitle": "Up to 80% Off Select Fabric from Onlinefabricstore.com",
+      "jumpUrl": "https://www.rewardany.com/store/online-fabric-store?couponId=107034&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-05-23 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2645,
+      "storeName": "Online Fabric Store",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/online-fabric-store_logo.jpg",
+      "categories": [
+        "Gifts, Flowers & Parties"
+      ]
+    },
+    {
+      "couponTitle": "General Fall - Main Deals Page",
+      "jumpUrl": "https://www.rewardany.com/store/enterprise-rent-a-car-usa?couponId=654190&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-29 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2652,
+      "storeName": "Enterprise Rent a Car USA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/enterprise-rent-a-car-usa_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Introducing the Satya Jewelry Protected Spirit Collection - Symbolic evil eye and hamsa talismans crafted in 18kt gold plate with healing gemstones guard against negative energy and honor your spiritual journey. Shop now and save 15% on your purchase!",
+      "jumpUrl": "https://www.rewardany.com/store/satya-jewelry?couponId=654192&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2654,
+      "storeName": "Satya Jewelry",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/satya-jewelry_logo.gif",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "Introducing the Satya Jewelry Protected Spirit Collection - Symbolic evil eye and hamsa talismans crafted in 18kt gold plate with healing gemstones guard against negative energy and honor your spiritual journey. Shop now and save 15% on your purchase!",
+      "jumpUrl": "https://www.rewardany.com/store/satya-jewelry?couponId=654193&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-08 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2654,
+      "storeName": "Satya Jewelry",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/satya-jewelry_logo.gif",
+      "categories": [
+        "Accessories"
+      ]
+    },
+    {
+      "couponTitle": "10% Rabatt f\u00fcr neue Anmeldungen",
+      "jumpUrl": "https://www.rewardany.com/store/white-stuff-de?couponId=669928&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-01 00:00:00",
+      "endDateGMT": "2023-12-31 00:00:00",
+      "storeId": 2680,
+      "storeName": "White Stuff DE",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/white-stuff-de_logo.png",
+      "categories": [
+        "Travel & Vacations"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_160x600",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654216&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_300x50",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654217&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_300x250",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654218&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_300x600",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654219&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_320x50",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654220&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_320x480",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654221&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_720x480",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654222&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_728x90",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654223&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_768x1024",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654224&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_800x1100",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654225&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_900x550",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654226&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_970x66",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654227&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_970x90",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654228&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_970x250",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654229&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_1600x500",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654230&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Paramount+ NFL on CBS Student Offer_1920x480",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654231&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Students get 25% OFF Paramount+! Spend your study breaks streaming the NFL on CBS and so much more. Redeem now!",
+      "jumpUrl": "https://www.rewardany.com/store/paramount?couponId=654232&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-08-30 00:00:00",
+      "endDateGMT": "2024-02-11 00:00:00",
+      "storeId": 2685,
+      "storeName": "Paramount",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/paramount_logo.png",
+      "categories": [
+        "Auto & Tires"
+      ]
+    },
+    {
+      "couponTitle": "Evergreen - Medical Professionals",
+      "jumpUrl": "https://www.rewardany.com/store/avedaca?couponId=654296&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-28 00:00:00",
+      "endDateGMT": "2029-06-28 00:00:00",
+      "storeId": 2687,
+      "storeName": "Aveda CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/avedaca-1693795595.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Evergreen - Military Personnel",
+      "jumpUrl": "https://www.rewardany.com/store/avedaca?couponId=654297&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-28 00:00:00",
+      "endDateGMT": "2029-06-28 00:00:00",
+      "storeId": 2687,
+      "storeName": "Aveda CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/avedaca-1693795595.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Evergreen - First Responders",
+      "jumpUrl": "https://www.rewardany.com/store/avedaca?couponId=654298&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-28 00:00:00",
+      "endDateGMT": "2029-06-28 00:00:00",
+      "storeId": 2687,
+      "storeName": "Aveda CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/avedaca-1693795595.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Evergreen - Students & Teachers",
+      "jumpUrl": "https://www.rewardany.com/store/avedaca?couponId=654299&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 3,
+      "startDateGMT": "2023-06-28 00:00:00",
+      "endDateGMT": "2029-06-28 00:00:00",
+      "storeId": 2687,
+      "storeName": "Aveda CA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/avedaca-1693795595.png",
+      "categories": [
+        "Health & Beauty"
+      ]
+    },
+    {
+      "couponTitle": "Sale - Save Up to 60% OFF",
+      "jumpUrl": "https://www.rewardany.com/store/dtlr-villa?couponId=28406&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": null,
+      "tier": 2,
+      "startDateGMT": "2023-03-29 00:00:00",
+      "endDateGMT": "2023-03-29 23:59:00",
+      "storeId": 2689,
+      "storeName": "DTLR-VILLA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dtlr-villa-1702979070.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Spring Sale is going on now at DTLR, shop today and save up to 60%!",
+      "jumpUrl": "https://www.rewardany.com/store/dtlr-villa?couponId=107147&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-03 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2689,
+      "storeName": "DTLR-VILLA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dtlr-villa-1702979070.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Spring Sale is going on now at DTLR, shop today and save up to 60%!",
+      "jumpUrl": "https://www.rewardany.com/store/dtlr-villa?couponId=107151&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-03 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2689,
+      "storeName": "DTLR-VILLA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dtlr-villa-1702979070.png",
+      "categories": [
+        "Shoes"
+      ]
+    },
+    {
+      "couponTitle": "Get 20% off Select New Balance styles using code 'NB550' at DTLR, save today!",
+      "jumpUrl": "https://www.rewardany.com/store/dtlr-villa?couponId=107152&pubId=10427&subId={your tracking code}",
+      "type": "sale",
+      "couponCode": "",
+      "tier": 3,
+      "startDateGMT": "2023-05-09 00:00:00",
+      "endDateGMT": null,
+      "storeId": 2689,
+      "storeName": "DTLR-VILLA",
+      "logoImg": "https://gstatic.rewardany.com/web/storelogo/dtlr-villa-1702979070.png",
+      "categories": [
+        "Shoes"
+      ]
+    }
+  ]
+}

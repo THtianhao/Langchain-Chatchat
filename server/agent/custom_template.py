@@ -1,4 +1,7 @@
 from __future__ import annotations
+
+import re
+
 from langchain.agents import Tool, AgentOutputParser
 from langchain.agents.chat.prompt import FORMAT_INSTRUCTIONS
 from langchain.prompts import StringPromptTemplate
@@ -69,7 +72,7 @@ class CustomOutputParser(AgentOutputParser):
 
 
 class SalesConvoOutputParser(AgentOutputParser):
-    ai_prefix: str = "AI"  # change for salesperson_name
+    ai_prefix: str = "cashbacks.ai"  # change for salesperson_name
     verbose: bool = False
 
     def get_format_instructions(self) -> str:

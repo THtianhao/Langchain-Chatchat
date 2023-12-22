@@ -34,20 +34,19 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
                                             description="使用的prompt模板名称(在configs/prompt_config.py中配置)"),
                     # top_p: float = Body(TOP_P, description="LLM 核采样。勿与temperature同时设置", gt=0.0, lt=1.0),
                     ):
+    print("toto aime chat")
     history = [History.from_data(h) for h in history]
-    import pydevd_pycharm
-    pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
 
     async def aime_chat_iterator(
             query: str,
             history: Optional[List[History]],
             model_name: str = LLM_MODELS[0],
             prompt_name: str = prompt_name,
-
     ) -> AsyncIterable[str]:
+        nonlocal max_tokens
         import pydevd_pycharm
         pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
-        nonlocal max_tokens
+
         assistant_name = "cashbacks.ai",
         assistant_role = "smart AI agent",
         work_purpose = "exciting discounts, coupons, and rebate websites from brands around the world",
@@ -67,7 +66,6 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
 
         ## 传入全局变量来实现agent调用
         kb_list = {x["kb_name"]: x for x in get_kb_details()}
-        print(kb_list)
         # model_container.DATABASE = {name: details['kb_info'] for name, details in kb_list.items()}
         model_container.DATABASE = {name: details['kb_info'] for name, details in kb_list.items()}
 
@@ -83,7 +81,7 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
         else:
             model_container.MODEL = model
 
-        prompt_template = get_prompt_template("agent_chat", prompt_name)
+        prompt_template = get_prompt_template("aime_chat", prompt_name)
         prompt_template_agent = CustomPromptTemplate(
             template=prompt_template,
             tools=aime_tools,
@@ -95,13 +93,17 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
                 "work_purpose",
                 "conversation_purpose",
                 "conversation_type",
-                "conversation_stage",
+                "conversation_history"
             ],
         )
         output_parser = SalesConvoOutputParser()
         llm_chain = LLMChain(llm=model, prompt=prompt_template_agent)
         # 把history转成agent的memory
-        memory = ConversationBufferWindowMemory(k=HISTORY_LEN * 2)
+        memory = ConversationBufferWindowMemory(
+            ai_prefix = assistant_name,
+            input_key="input",
+            memory_key="conversation_history",
+            k=HISTORY_LEN * 2)
         for message in history:
             # 检查消息的角色
             if message.role == 'user':
@@ -128,14 +130,13 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
                 task = asyncio.create_task(wrap_done(
                     agent_executor.acall(
                         inputs=dict(
-                            input="",
-                            assistant_name="cashbacks.ai",
-                            assistant_role="smart AI agent",
-                            work_purpose="exciting discounts, coupons, and rebate websites from brands around the world",
-                            conversation_purpose="find out whether they are looking to get cheaper items by using coupons",
-                            conversation_type="online chat",
+                            input=query,
+                            assistant_name=assistant_name,
+                            assistant_role=assistant_role,
+                            work_purpose=work_purpose,
+                            conversation_purpose=conversation_purpose,
+                            conversation_type=conversation_type,
                             # conversation_stage=conversation_stages.get("1"),
-                            # product_catalog="sample_product_catalog.txt",
                         ),
                         callbacks=[callback],
                         include_run_info=True
@@ -203,8 +204,10 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
             yield json.dumps({"answer": answer, "final_answer": final_answer}, ensure_ascii=False)
         await task
 
+    import pydevd_pycharm
+    pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
     return StreamingResponse(aime_chat_iterator(query=query,
                                                 history=history,
                                                 model_name=model_name,
-                                                prompt_name=prompt_name ),
+                                                prompt_name=prompt_name),
                              media_type="text/event-stream")

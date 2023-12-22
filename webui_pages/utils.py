@@ -362,8 +362,6 @@ class ApiRequest:
             max_tokens: int = None,
             prompt_name: str = "default",
     ):
-        import pydevd_pycharm
-        pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
 
         '''
         对应api.py/chat/aime_chat 接口

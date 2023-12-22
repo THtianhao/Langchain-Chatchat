@@ -2,7 +2,7 @@ import nltk
 import sys
 import os
 
-from server.chat.aime_chat import aime_chat
+
 
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 
@@ -145,6 +145,7 @@ def mount_knowledge_routes(app: FastAPI):
     from server.chat.knowledge_base_chat import knowledge_base_chat
     from server.chat.file_chat import upload_temp_docs, file_chat
     from server.chat.agent_chat import agent_chat
+    from server.chat.aime_chat import aime_chat
     from server.knowledge_base.kb_api import list_kbs, create_kb, delete_kb
     from server.knowledge_base.kb_doc_api import (list_files, upload_docs, delete_docs,
                                                   update_docs, download_doc, recreate_vector_store,

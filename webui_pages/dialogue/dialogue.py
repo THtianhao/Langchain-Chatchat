@@ -364,8 +364,6 @@ def dialogue_page(api: ApiRequest, is_lite: bool = False):
                 chat_box.update_msg(ans, element_index=0, streaming=False)
                 chat_box.update_msg(text, element_index=1, streaming=False)
             elif dialogue_mode == "aime对话":
-                import pydevd_pycharm
-                pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
                 if not any(agent in llm_model for agent in SUPPORT_AGENT_MODEL):
                     chat_box.ai_say([
                         f"正在思考... \n\n <span style='color:red'>该模型并没有进行Agent对齐，请更换支持Agent的模型获得更好的体验！</span>\n\n\n",

@@ -47,12 +47,12 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
         import pydevd_pycharm
         pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
 
-        assistant_name = "cashbacks.ai",
-        assistant_role = "smart AI agent",
-        work_purpose = "exciting discounts, coupons, and rebate websites from brands around the world",
-        conversation_purpose = "find out whether they are looking to get cheaper items by using coupons",
+        assistant_name = "cashbacks.ai"
+        assistant_role = "smart AI agent"
+        work_purpose = "exciting discounts, coupons, and rebate websites from brands around the world"
+        conversation_purpose = "find out whether they are looking to get cheaper items by using coupons"
         conversation_history = [],
-        conversation_type = "online chat",
+        conversation_type = "online chat"
         callback = CustomAsyncIteratorCallbackHandler()
         if isinstance(max_tokens, int) and max_tokens <= 0:
             max_tokens = None
@@ -100,7 +100,7 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
         llm_chain = LLMChain(llm=model, prompt=prompt_template_agent)
         # 把history转成agent的memory
         memory = ConversationBufferWindowMemory(
-            ai_prefix = assistant_name,
+            ai_prefix=assistant_name,
             input_key="input",
             memory_key="conversation_history",
             k=HISTORY_LEN * 2)

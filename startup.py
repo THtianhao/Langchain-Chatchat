@@ -7,8 +7,6 @@ from multiprocessing import Process
 from datetime import datetime
 from pprint import pprint
 # 设置numexpr最大线程数，默认为CPU核心数
-# import pydevd_pycharm
-# pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True)
 
 try:
     import numexpr

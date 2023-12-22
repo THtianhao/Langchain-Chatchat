@@ -7,9 +7,6 @@ import nltk
 nltk.data.path = [NLTK_DATA_PATH] + nltk.data.path
 from datetime import datetime
 import sys
-import pydevd_pycharm
-
-pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
 
 if __name__ == "__main__":
     import argparse

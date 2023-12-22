@@ -1,10 +1,10 @@
 from langchain.memory import ConversationBufferWindowMemory
 
 from server.agent.custom_agent.ChatGLM3Agent import initialize_glm3_agent
-from server.agent.tools_select import tools, tool_names
+from server.agent.tools_select import tools, tool_names, aime_tools_names, aime_tools
 from server.agent.callbacks import CustomAsyncIteratorCallbackHandler, Status
 from langchain.agents import LLMSingleActionAgent, AgentExecutor
-from server.agent.custom_template import CustomOutputParser, CustomPromptTemplate
+from server.agent.custom_template import CustomOutputParser, CustomPromptTemplate, SalesConvoOutputParser
 from fastapi import Body
 from fastapi.responses import StreamingResponse
 from configs import LLM_MODELS, TEMPERATURE, HISTORY_LEN, Agent_MODEL
@@ -18,34 +18,42 @@ import json
 from server.agent import model_container
 from server.knowledge_base.kb_service.base import get_kb_details
 
-async def agent_chat(query: str = Body(..., description="用户输入", examples=["恼羞成怒"]),
-                     history: List[History] = Body([],
-                                                   description="历史对话",
-                                                   examples=[[
-                                                       {"role": "user", "content": "请使用知识库工具查询今天北京天气"},
-                                                       {"role": "assistant",
-                                                        "content": "使用天气查询工具查询到今天北京多云，10-14摄氏度，东北风2级，易感冒"}]]
-                                                   ),
-                     stream: bool = Body(False, description="流式输出"),
-                     model_name: str = Body(LLM_MODELS[0], description="LLM 模型名称。"),
-                     temperature: float = Body(TEMPERATURE, description="LLM 采样温度", ge=0.0, le=1.0),
-                     max_tokens: Optional[int] = Body(None, description="限制LLM生成Token数量，默认None代表模型最大值"),
-                     prompt_name: str = Body("default",
-                                             description="使用的prompt模板名称(在configs/prompt_config.py中配置)"),
-                     # top_p: float = Body(TOP_P, description="LLM 核采样。勿与temperature同时设置", gt=0.0, lt=1.0),
-                     ):
+async def aime_chat(query: str = Body(..., description="用户输入", examples=["恼羞成怒"]),
+                    history: List[History] = Body([],
+                                                  description="历史对话",
+                                                  examples=[[
+                                                      {"role": "user", "content": "请使用知识库工具查询今天北京天气"},
+                                                      {"role": "assistant",
+                                                       "content": "使用天气查询工具查询到今天北京多云，10-14摄氏度，东北风2级，易感冒"}]]
+                                                  ),
+                    stream: bool = Body(False, description="流式输出"),
+                    model_name: str = Body(LLM_MODELS[0], description="LLM 模型名称。"),
+                    temperature: float = Body(TEMPERATURE, description="LLM 采样温度", ge=0.0, le=1.0),
+                    max_tokens: Optional[int] = Body(None, description="限制LLM生成Token数量，默认None代表模型最大值"),
+                    prompt_name: str = Body("default",
+                                            description="使用的prompt模板名称(在configs/prompt_config.py中配置)"),
+                    # top_p: float = Body(TOP_P, description="LLM 核采样。勿与temperature同时设置", gt=0.0, lt=1.0),
+                    ):
     history = [History.from_data(h) for h in history]
     import pydevd_pycharm
     pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
-    async def agent_chat_iterator(
+
+    async def aime_chat_iterator(
             query: str,
             history: Optional[List[History]],
             model_name: str = LLM_MODELS[0],
             prompt_name: str = prompt_name,
+
     ) -> AsyncIterable[str]:
         import pydevd_pycharm
         pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
         nonlocal max_tokens
+        assistant_name = "cashbacks.ai",
+        assistant_role = "smart AI agent",
+        work_purpose = "exciting discounts, coupons, and rebate websites from brands around the world",
+        conversation_purpose = "find out whether they are looking to get cheaper items by using coupons",
+        conversation_history = [],
+        conversation_type = "online chat",
         callback = CustomAsyncIteratorCallbackHandler()
         if isinstance(max_tokens, int) and max_tokens <= 0:
             max_tokens = None
@@ -59,6 +67,8 @@ async def agent_chat(query: str = Body(..., description="用户输入", examples
 
         ## 传入全局变量来实现agent调用
         kb_list = {x["kb_name"]: x for x in get_kb_details()}
+        print(kb_list)
+        # model_container.DATABASE = {name: details['kb_info'] for name, details in kb_list.items()}
         model_container.DATABASE = {name: details['kb_info'] for name, details in kb_list.items()}
 
         if Agent_MODEL:
@@ -76,10 +86,19 @@ async def agent_chat(query: str = Body(..., description="用户输入", examples
         prompt_template = get_prompt_template("agent_chat", prompt_name)
         prompt_template_agent = CustomPromptTemplate(
             template=prompt_template,
-            tools=tools,
-            input_variables=["input", "intermediate_steps", "history"]
+            tools=aime_tools,
+            input_variables=[
+                "input",
+                "intermediate_steps",
+                "assistant_name",
+                "assistant_role",
+                "work_purpose",
+                "conversation_purpose",
+                "conversation_type",
+                "conversation_stage",
+            ],
         )
-        output_parser = CustomOutputParser()
+        output_parser = SalesConvoOutputParser()
         llm_chain = LLMChain(llm=model, prompt=prompt_template_agent)
         # 把history转成agent的memory
         memory = ConversationBufferWindowMemory(k=HISTORY_LEN * 2)
@@ -92,33 +111,35 @@ async def agent_chat(query: str = Body(..., description="用户输入", examples
                 # 添加AI消息
                 memory.chat_memory.add_ai_message(message.content)
 
-        if "chatglm3" in model_container.MODEL.model_name:
-            agent_executor = initialize_glm3_agent(
-                llm=model,
-                tools=tools,
-                callback_manager=None,
-                # Langchain Prompt is not constructed directly here, it is constructed inside the GLM3 agent.
-                prompt=prompt_template,
-                input_variables=["input", "intermediate_steps", "history"],
-                memory=memory,
-                verbose=True,
-            )
-        else:
-            agent = LLMSingleActionAgent(
-                llm_chain=llm_chain,
-                output_parser=output_parser,
-                stop=["\nObservation:", "Observation"],
-                allowed_tools=tool_names,
-            )
-            agent_executor = AgentExecutor.from_agent_and_tools(agent=agent,
-                                                                tools=tools,
-                                                                verbose=True,
-                                                                memory=memory,
-                                                                )
+        agent = LLMSingleActionAgent(
+            llm_chain=llm_chain,
+            output_parser=output_parser,
+            stop=["\nObservation:", "Observation"],
+            allowed_tools=aime_tools_names,
+            verbose=True
+        )
+        agent_executor = AgentExecutor.from_agent_and_tools(agent=agent,
+                                                            tools=aime_tools,
+                                                            verbose=True,
+                                                            memory=memory,
+                                                            )
         while True:
             try:
                 task = asyncio.create_task(wrap_done(
-                    agent_executor.acall(query, callbacks=[callback], include_run_info=True),
+                    agent_executor.acall(
+                        inputs=dict(
+                            input="",
+                            assistant_name="cashbacks.ai",
+                            assistant_role="smart AI agent",
+                            work_purpose="exciting discounts, coupons, and rebate websites from brands around the world",
+                            conversation_purpose="find out whether they are looking to get cheaper items by using coupons",
+                            conversation_type="online chat",
+                            # conversation_stage=conversation_stages.get("1"),
+                            # product_catalog="sample_product_catalog.txt",
+                        ),
+                        callbacks=[callback],
+                        include_run_info=True
+                    ),
                     callback.done))
                 break
             except:
@@ -182,8 +203,8 @@ async def agent_chat(query: str = Body(..., description="用户输入", examples
             yield json.dumps({"answer": answer, "final_answer": final_answer}, ensure_ascii=False)
         await task
 
-    return StreamingResponse(agent_chat_iterator(query=query,
-                                                 history=history,
-                                                 model_name=model_name,
-                                                 prompt_name=prompt_name),
+    return StreamingResponse(aime_chat_iterator(query=query,
+                                                history=history,
+                                                model_name=model_name,
+                                                prompt_name=prompt_name ),
                              media_type="text/event-stream")

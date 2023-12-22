@@ -1,4 +1,5 @@
 from langchain.tools import Tool
+
 from server.agent.tools import *
 
 ## 请注意，如果你是为了使用AgentLM，在这里，你应该使用英文版本。
@@ -53,5 +54,16 @@ tools = [
         args_schema=YoutubeInput,
     ),
 ]
+
+aime_tools = [
+    Tool(
+        name="ensemble_search",
+        func=search_knowledgebase_complex,
+        description="useful for when you need to answer questions about brand or coupon or cashback",
+        args_schema=KnowledgeSearchInput,
+    ),
+]
+aime_tools_names = [tool.name for tool in aime_tools]
+
 
 tool_names = [tool.name for tool in tools]

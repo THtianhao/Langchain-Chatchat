@@ -2,6 +2,8 @@ import nltk
 import sys
 import os
 
+from server.chat.aime_chat import aime_chat
+
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 
 from configs import VERSION
@@ -27,10 +29,8 @@ from typing import List, Literal
 
 nltk.data.path = [NLTK_DATA_PATH] + nltk.data.path
 
-
 async def document():
     return RedirectResponse(url="/docs")
-
 
 def create_app(run_mode: str = None):
     app = FastAPI(
@@ -51,7 +51,6 @@ def create_app(run_mode: str = None):
         )
     mount_app_routes(app, run_mode=run_mode)
     return app
-
 
 def mount_app_routes(app: FastAPI, run_mode: str = None):
     app.get("/",
@@ -122,11 +121,12 @@ def mount_app_routes(app: FastAPI, run_mode: str = None):
              )(list_search_engines)
 
     @app.post("/server/get_prompt_template",
-             tags=["Server State"],
-             summary="获取服务区配置的 prompt 模板")
+              tags=["Server State"],
+              summary="获取服务区配置的 prompt 模板")
     def get_server_prompt_template(
-        type: Literal["llm_chat", "knowledge_base_chat", "search_engine_chat", "agent_chat"]=Body("llm_chat", description="模板类型，可选值：llm_chat，knowledge_base_chat，search_engine_chat，agent_chat"),
-        name: str = Body("default", description="模板名称"),
+            type: Literal["llm_chat", "knowledge_base_chat", "search_engine_chat", "agent_chat"] = Body("llm_chat",
+                                                                                                        description="模板类型，可选值：llm_chat，knowledge_base_chat，search_engine_chat，agent_chat"),
+            name: str = Body("default", description="模板名称"),
     ) -> str:
         return get_prompt_template(type=type, name=name)
 
@@ -137,10 +137,9 @@ def mount_app_routes(app: FastAPI, run_mode: str = None):
              )(completion)
 
     app.post("/other/embed_texts",
-            tags=["Other"],
-            summary="将文本向量化，支持本地模型和在线模型",
-            )(embed_texts_endpoint)
-
+             tags=["Other"],
+             summary="将文本向量化，支持本地模型和在线模型",
+             )(embed_texts_endpoint)
 
 def mount_knowledge_routes(app: FastAPI):
     from server.chat.knowledge_base_chat import knowledge_base_chat
@@ -148,8 +147,8 @@ def mount_knowledge_routes(app: FastAPI):
     from server.chat.agent_chat import agent_chat
     from server.knowledge_base.kb_api import list_kbs, create_kb, delete_kb
     from server.knowledge_base.kb_doc_api import (list_files, upload_docs, delete_docs,
-                                                update_docs, download_doc, recreate_vector_store,
-                                                search_docs, DocumentWithScore, update_info)
+                                                  update_docs, download_doc, recreate_vector_store,
+                                                  search_docs, DocumentWithScore, update_info)
 
     app.post("/chat/knowledge_base_chat",
              tags=["Chat"],
@@ -163,6 +162,10 @@ def mount_knowledge_routes(app: FastAPI):
     app.post("/chat/agent_chat",
              tags=["Chat"],
              summary="与agent对话")(agent_chat)
+
+    app.post("/chat/aime_chat",
+             tags=["AIME Chat"],
+             summary="与aime对话")(aime_chat)
 
     # Tag: Knowledge Base Management
     app.get("/knowledge_base/list_knowledge_bases",
@@ -231,7 +234,6 @@ def mount_knowledge_routes(app: FastAPI):
              summary="上传文件到临时目录，用于文件对话。"
              )(upload_temp_docs)
 
-
 def mount_filename_summary_routes(app: FastAPI):
     from server.knowledge_base.kb_summary_api import (summary_file_to_vector_store, recreate_summary_vector_store,
                                                       summary_doc_ids_to_vector_store)
@@ -250,8 +252,6 @@ def mount_filename_summary_routes(app: FastAPI):
              summary="重建单个知识库文件摘要"
              )(recreate_summary_vector_store)
 
-
-
 def run_api(host, port, **kwargs):
     if kwargs.get("ssl_keyfile") and kwargs.get("ssl_certfile"):
         uvicorn.run(app,
@@ -262,7 +262,6 @@ def run_api(host, port, **kwargs):
                     )
     else:
         uvicorn.run(app, host=host, port=port)
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(prog='langchain-ChatGLM',

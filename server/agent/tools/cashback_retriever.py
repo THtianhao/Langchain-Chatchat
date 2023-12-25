@@ -1,7 +1,9 @@
 from langchain.chains.query_constructor.schema import AttributeInfo
 from langchain.retrievers import EnsembleRetriever, SelfQueryRetriever
 
+from server.agent import model_container
 from server.knowledge_base.kb_service.base import KBServiceFactory
+from server.knowledge_base.kb_service.chroma_kb_service import ChromaKBService
 from server.utils import get_ChatOpenAI
 
 metadata_field_info = [
@@ -27,14 +29,19 @@ metadata_field_info = [
     )
 
 ]
-document_content_description = "Brief name of a brand"
-couponServer = KBServiceFactory.get_service_by_name("aime")
-coupon_retriever = couponServer.load_vector_store()
-# retriever = SelfQueryRetriever.from_llm(
-#     llm,
-#     coupon_retriever,
-#     document_content_description,
-#     metadata_field_info,
-#     enable_limit=True,
-#     search_kwargs={"k": 40}
-# )
+
+import pydevd_pycharm
+pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
+def get_aime_retriever():
+    document_content_description = "Brief name of a brand"
+    couponServer = KBServiceFactory.get_service_by_name("aime")
+    if isinstance(couponServer, ChromaKBService):
+        coupon_retriever = couponServer.load_vector_store()
+        return SelfQueryRetriever.from_llm(
+            model_container.MODEL,
+            coupon_retriever,
+            document_content_description,
+            metadata_field_info,
+            enable_limit=True,
+            search_kwargs={"k": 10}
+        )

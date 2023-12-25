@@ -80,7 +80,7 @@ def file_to_kbfile(kb_name: str, files: List[str]) -> List[KnowledgeFile]:
                     metadata["country"] = record.get("country") if record.get("country") is not None else ""
                     # metadata["caskbackDetail"] = record.get("caskbackDetail") if record.get("caskbackDetail") is not None else ""
                     # metadata["categories"] = record.get("categories") if record.get("categories") is not None else ""
-                    metadata["upto"] = record.get("upto") if record.get("upto") is not None else ""
+                    # metadata["upto"] = record.get("upto") if record.get("upto") is not None else ""
                     return metadata
 
                 args = {}

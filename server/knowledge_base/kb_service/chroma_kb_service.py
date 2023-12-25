@@ -47,6 +47,7 @@ class ChromaKBService(KBService):
         self.vector_name = self.vector_name or self.embed_model
         self.kb_path = self.get_kb_path()
         self.vs_path = self.get_vs_path()
+        self.load_vector_store()
 
     def do_create_kb(self):
         if not os.path.exists(self.vs_path):
@@ -65,11 +66,7 @@ class ChromaKBService(KBService):
                   top_k: int,
                   score_threshold: float = SCORE_THRESHOLD,
                   ) -> List[Document]:
-        embed_func = EmbeddingsFunAdapter(self.embed_model)
-        # embeddings = embed_func.embed_query(query)
         docs = self.load_vector_store().similarity_search(query, k=top_k, score_threshold=score_threshold)
-        # with self.load_vector_store().acquire() as vs:
-        #     docs = vs.similarity_search_with_score_by_vector(embeddings, k=top_k, score_threshold=score_threshold)
         return docs
 
     def do_add_doc(self,
@@ -86,28 +83,16 @@ class ChromaKBService(KBService):
     def do_delete_doc(self,
                       kb_file: KnowledgeFile,
                       **kwargs):
-
-        query_result = chromaService.load_vector_store().get(where={"source"} == kb_file.filename)
+        # query_result = chromaService.load_vector_store().get(where={"source"} == kb_file.filename)
+        query_result = self.load_vector_store().get(where={"source": {"$eq": kb_file.filename}})
         ids = query_result['ids']
         self.load_vector_store().delete(ids)
         if not kwargs.get("not_refresh_vs_cache"):
             self.save_vector_store()
         return ids
-        # with self.load_vector_store().acquire() as vs:
-        #     ids = [k for k, v in vs.docstore._dict.items() if v.metadata.get("source") == kb_file.filename]
-        #     if len(ids) > 0:
-        #         vs.delete(ids)
-        #     if not kwargs.get("not_refresh_vs_cache"):
-        #         vs.save_local(self.vs_path)
-        # return ids
 
     def do_clear_vs(self):
-        # with kb_faiss_pool.atomic:
-        #     kb_faiss_pool.pop((self.kb_name, self.vector_name))
-        # try:
-        shutil.rmtree(self.vs_path)
-        # except Exception:
-        #     ...
+        self.chroma.delete_collection()
         os.makedirs(self.vs_path, exist_ok=True)
 
     def exist_doc(self, file_name: str):
@@ -122,19 +107,20 @@ class ChromaKBService(KBService):
 
 
 if __name__ == '__main__':
-    chromaService = ChromaKBService("samples", )
-    chromaService.add_doc(KnowledgeFile("test_files/test.txt", "samples"))
-    print("query result =====", chromaService.search_docs("chatGPT是什么？"))
+    chromaService = ChromaKBService("aime", )
+    file_name = "cashback/cashback_response_1.json"
+    chromaService.add_doc(KnowledgeFile(file_name, "aime"))
+    print("query result =====", chromaService.search_docs("ciherb"))
     # chromaService.delete_doc(KnowledgeFile("test_files/test.txt", "samples"))
     # chromaService.do_drop_kb()
-    ids = chromaService.load_vector_store().get(where={"source"} == "test_files/test.txt")['ids']
+    ids = chromaService.load_vector_store().get(where={"source"} == file_name)['ids']
     print('ids ======  length = ', len(ids))
     doc1 = chromaService.get_doc_by_ids([ids[0], ids[1]])
     print("doc =====", doc1)
     chromaService.load_vector_store().delete([ids[0], ids[1]])
-    ids = chromaService.load_vector_store().get(where={"source"} == "test_files/test.txt")['ids']
+    ids = chromaService.load_vector_store().get(where={"source"} == file_name)['ids']
     print('delete ids ==', [ids[0], ids[1]])
     print('after delete ids ======  length = ', len(ids))
     chromaService.do_delete_doc(KnowledgeFile("test_files/test.txt", knowledge_base_name="aaa"))
-    ids = chromaService.load_vector_store().get(where={"source"} == "test_files/test.txt")['ids']
+    ids = chromaService.load_vector_store().get(where={"source"} == file_name)['ids']
     print('after delete know ======  length = ', len(ids))

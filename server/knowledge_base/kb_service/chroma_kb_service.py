@@ -5,6 +5,9 @@ from typing import List, Dict
 from langchain.vectorstores.chroma import Chroma
 from langchain_core.documents import Document
 
+import pysqlite3
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from configs import SCORE_THRESHOLD
 from server.knowledge_base.kb_service.base import KBService, SupportedVSType, EmbeddingsFunAdapter
 from server.knowledge_base.utils import get_vs_path, get_kb_path, KnowledgeFile
@@ -84,15 +87,16 @@ class ChromaKBService(KBService):
                       kb_file: KnowledgeFile,
                       **kwargs):
         # query_result = chromaService.load_vector_store().get(where={"source"} == kb_file.filename)
-        query_result = self.load_vector_store().get(where={"source": {"$eq": kb_file.filename}})
-        ids = query_result['ids']
-        self.load_vector_store().delete(ids)
+        # query_result = self.load_vector_store().get(where={"source": {"$eq": kb_file.filename}})
+        # ids = query_result['ids']
+        # self.load_vector_store().delete(ids)
         if not kwargs.get("not_refresh_vs_cache"):
             self.save_vector_store()
-        return ids
+        return []
+        # return ids
 
     def do_clear_vs(self):
-        self.chroma.delete_collection()
+        self.load_vector_store().delete_collection()
         os.makedirs(self.vs_path, exist_ok=True)
 
     def exist_doc(self, file_name: str):

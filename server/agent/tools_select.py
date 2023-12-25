@@ -56,14 +56,17 @@ tools = [
 ]
 
 aime_tools = [
-    Tool(
-        name="ensemble_search",
+    Tool.from_function(
         func=search_knowledgebase_complex,
+        name="ensemble_search",
         description="useful for when you need to answer questions about brand or coupon or cashback",
         args_schema=KnowledgeSearchInput,
     ),
+    Tool(
+        name="ensemble_search",
+        description="useful for when you need to answer questions about brand or coupon or cashback",
+    ),
 ]
 aime_tools_names = [tool.name for tool in aime_tools]
-
 
 tool_names = [tool.name for tool in tools]

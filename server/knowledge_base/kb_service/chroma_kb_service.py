@@ -7,16 +7,13 @@ from langchain_core.documents import Document
 
 import pysqlite3
 import sys
-
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from configs import SCORE_THRESHOLD
 from server.knowledge_base.kb_service.base import KBService, SupportedVSType, EmbeddingsFunAdapter
 from server.knowledge_base.utils import get_vs_path, get_kb_path, KnowledgeFile
 from server.utils import torch_gc
 
-import pydevd_pycharm
 
-pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
 
 class ChromaKBService(KBService):
     vs_path: str

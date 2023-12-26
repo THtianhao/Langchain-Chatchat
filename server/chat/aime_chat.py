@@ -1,4 +1,5 @@
 from langchain.memory import ConversationBufferWindowMemory
+from langchain_core.prompts import PromptTemplate
 
 from server.agent.custom_agent.ChatGLM3Agent import initialize_glm3_agent
 from server.agent.tools_select import tools, tool_names, aime_tools_names, aime_tools
@@ -36,6 +37,19 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
                     ):
     print("toto aime chat")
     history = [History.from_data(h) for h in history]
+    conversation_stages = {
+        "1": "Introduction: Greet users politely, Start the conversation by introducing yourself. Be polite and respectful while keeping the tone of the conversation professional. Your greeting should be welcoming. Always clarify in your greeting the reason why you are contacting the prospect.",
+        "2": "Qualification: Qualify the prospect by confirming if they are the right person to talk to regarding your product/service. Ensure that they have the authority to make purchasing decisions.",
+        "3": "Value proposition: Briefly explain how your product/service can benefit the prospect. Focus on the unique selling points and value proposition of your product/service that sets it apart from competitors.",
+        "4": "Needs analysis: Ask open-ended questions to uncover the prospect's needs and pain points. Listen carefully to their responses and take notes.",
+        "5": "Solution presentation: Based on the prospect's needs, present your product/service as the solution that can address their pain points.",
+        "6": "Objection handling: Address any objections that the prospect may have regarding your product/service. Be prepared to provide evidence or testimonials to support your claims.",
+        "7": "Close: Ask for the sale by proposing a next step. This could be a demo, a trial or a meeting with decision-makers. Ensure to summarize what has been discussed and reiterate the benefits.",
+    }
+    stage_prompt = ""
+    for key, value in conversation_stages.items():
+        stage_prompt += f"{key}. {value}\n"
+    verbose = True
 
     async def aime_chat_iterator(
             query: str,
@@ -53,6 +67,7 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
         conversation_purpose = "find out whether they are looking to get cheaper items by using coupons"
         conversation_history = [],
         conversation_type = "online chat"
+        conversation_stage_id = 1
         callback = CustomAsyncIteratorCallbackHandler()
         if isinstance(max_tokens, int) and max_tokens <= 0:
             max_tokens = None
@@ -81,6 +96,7 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
         else:
             model_container.MODEL = model
 
+        # aime chain
         prompt_template = get_prompt_template("aime_chat", prompt_name)
         prompt_template_agent = CustomPromptTemplate(
             template=prompt_template,
@@ -93,12 +109,23 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
                 "work_purpose",
                 "conversation_purpose",
                 "conversation_type",
+                "conversation_stage",
                 "conversation_history"
             ],
+            partial_variables={"conversation_stages": stage_prompt},
         )
         output_parser = SalesConvoOutputParser()
         llm_chain = LLMChain(llm=model, prompt=prompt_template_agent)
         # 把history转成agent的memory
+
+        # aime stage
+        stage_prompt_template = get_prompt_template("aime_chat", "stage_analyzer")
+        stage_prompt_template_agent = PromptTemplate(
+            template=stage_prompt_template,
+            input_variables=["conversation_history"],
+            partial_variables={"conversation_stages": stage_prompt},
+        )
+        stage_chain = LLMChain(llm=model, prompt=stage_prompt_template_agent, verbose=verbose)
         memory = ConversationBufferWindowMemory(
             ai_prefix=assistant_name,
             input_key="input",
@@ -112,20 +139,24 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
             else:
                 # 添加AI消息
                 memory.chat_memory.add_ai_message(message.content)
+        if query != "":
+            memory.chat_memory.add_user_message(query)
 
         agent = LLMSingleActionAgent(
             llm_chain=llm_chain,
             output_parser=output_parser,
             stop=["\nObservation:", "Observation"],
             allowed_tools=aime_tools_names,
-            verbose=True
+            verbose=verbose
         )
         agent_executor = AgentExecutor.from_agent_and_tools(agent=agent,
                                                             tools=aime_tools,
-                                                            verbose=True,
+                                                            verbose=verbose,
                                                             memory=memory,
                                                             )
+
         while True:
+            conversation_stage_id = stage_chain.run(conversation_history=memory.buffer)
             try:
                 task = asyncio.create_task(wrap_done(
                     agent_executor.acall(
@@ -136,7 +167,7 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
                             work_purpose=work_purpose,
                             conversation_purpose=conversation_purpose,
                             conversation_type=conversation_type,
-                            # conversation_stage=conversation_stages.get("1"),
+                            conversation_stage=conversation_stages[conversation_stage_id],
                         ),
                         callbacks=[callback],
                         include_run_info=True
@@ -168,6 +199,7 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
                     tools_use.append("工具输入: " + data["input_str"])
                     tools_use.append("工具输出: " + data["output_str"])
                     tools_use.append("\n```\n")
+                    # yield json.dumps({"final_answer": data["output_str"]}, ensure_ascii=False)
                     yield json.dumps({"tools": tools_use}, ensure_ascii=False)
                 elif data["status"] == Status.agent_finish:
                     yield json.dumps({"final_answer": data["final_answer"]}, ensure_ascii=False)

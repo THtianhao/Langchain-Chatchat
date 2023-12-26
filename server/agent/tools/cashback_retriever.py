@@ -4,8 +4,7 @@ from langchain.retrievers import EnsembleRetriever, SelfQueryRetriever
 from server.agent import model_container
 from server.knowledge_base.kb_service.base import KBServiceFactory
 from server.knowledge_base.kb_service.chroma_kb_service import ChromaKBService
-from server.utils import get_ChatOpenAI
-
+from pydantic import BaseModel, Field
 metadata_field_info = [
     AttributeInfo(
         name="couponTitle",
@@ -30,18 +29,19 @@ metadata_field_info = [
 
 ]
 
-import pydevd_pycharm
-pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
-def get_aime_retriever():
+def get_aime_retriever(query:str):
     document_content_description = "Brief name of a brand"
     couponServer = KBServiceFactory.get_service_by_name("aime")
     if isinstance(couponServer, ChromaKBService):
-        coupon_retriever = couponServer.load_vector_store()
+        chroma_vs = couponServer.load_vector_store()
         return SelfQueryRetriever.from_llm(
             model_container.MODEL,
-            coupon_retriever,
+            chroma_vs,
             document_content_description,
             metadata_field_info,
             enable_limit=True,
-            search_kwargs={"k": 10}
-        )
+            search_kwargs={"k": 20}
+        ).invoke(query)
+
+class aimeInput(BaseModel):
+    question: str = Field(description="Questions to inquire")

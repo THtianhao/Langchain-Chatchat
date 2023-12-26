@@ -1,5 +1,6 @@
 from __future__ import annotations
 from uuid import UUID
+from langchain.docstore.document import Document
 from langchain.callbacks import AsyncIteratorCallbackHandler
 import json
 import asyncio
@@ -8,10 +9,8 @@ from typing import Any, Dict, List, Optional
 from langchain.schema import AgentFinish, AgentAction
 from langchain.schema.output import LLMResult
 
-
 def dumps(obj: Dict) -> str:
     return json.dumps(obj, ensure_ascii=False)
-
 
 class Status:
     start: int = 1
@@ -21,7 +20,6 @@ class Status:
     agent_finish: int = 5
     error: int = 6
     tool_finish: int = 7
-
 
 class CustomAsyncIteratorCallbackHandler(AsyncIteratorCallbackHandler):
     def __init__(self):
@@ -36,7 +34,7 @@ class CustomAsyncIteratorCallbackHandler(AsyncIteratorCallbackHandler):
                             metadata: Dict[str, Any] | None = None, **kwargs: Any) -> None:
 
         # 对于截断不能自理的大模型，我来帮他截断
-        stop_words = ["Observation:", "Thought","\"","（", "\n","\t"]
+        stop_words = ["Observation:", "Thought", "\"", "（", "\n", "\t"]
         for stop_word in stop_words:
             index = input_str.find(stop_word)
             if index != -1:
@@ -58,7 +56,7 @@ class CustomAsyncIteratorCallbackHandler(AsyncIteratorCallbackHandler):
 
     async def on_tool_end(self, output: str, *, run_id: UUID, parent_run_id: UUID | None = None,
                           tags: List[str] | None = None, **kwargs: Any) -> None:
-        self.out = True ## 重置输出
+        self.out = True  ## 重置输出
         self.cur_tool.update(
             status=Status.tool_finish,
             output_str=output.replace("Answer:", ""),
@@ -116,16 +114,17 @@ class CustomAsyncIteratorCallbackHandler(AsyncIteratorCallbackHandler):
             llm_token="",
         )
         self.queue.put_nowait(dumps(self.cur_tool))
+
     async def on_chat_model_start(
-        self,
-        serialized: Dict[str, Any],
-        messages: List[List],
-        *,
-        run_id: UUID,
-        parent_run_id: Optional[UUID] = None,
-        tags: Optional[List[str]] = None,
-        metadata: Optional[Dict[str, Any]] = None,
-        **kwargs: Any,
+            self,
+            serialized: Dict[str, Any],
+            messages: List[List],
+            *,
+            run_id: UUID,
+            parent_run_id: Optional[UUID] = None,
+            tags: Optional[List[str]] = None,
+            metadata: Optional[Dict[str, Any]] = None,
+            **kwargs: Any,
     ) -> None:
         self.cur_tool.update(
             status=Status.start,
@@ -153,9 +152,18 @@ class CustomAsyncIteratorCallbackHandler(AsyncIteratorCallbackHandler):
             **kwargs: Any,
     ) -> None:
         # 返回最终答案
+        result = finish.return_values['output']
+        finish_output = ""
+        if isinstance(result, list):
+            for index, i in enumerate(result):
+                if isinstance(i, Document):
+                    finish_output += f'* {index + 1}: {i.page_content}' \
+                                     f'url: {i.metadata.get("jumpUrl") if i.metadata.get("jumpUrl") is not None else i.metadata.get("cashbackLink")}\n'
+        else:
+            finish_output = result
         self.cur_tool.update(
             status=Status.agent_finish,
-            final_answer=finish.return_values["output"],
+            final_answer=finish_output,
         )
         self.queue.put_nowait(dumps(self.cur_tool))
         self.cur_tool = {}

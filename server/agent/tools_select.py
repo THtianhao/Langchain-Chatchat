@@ -1,6 +1,7 @@
 from langchain.tools import Tool
 
 from server.agent.tools import *
+from server.agent.tools.aime_qa import qa_tool, FQAInput
 from server.agent.tools.cashback_retriever import get_aime_retriever, aimeInput
 
 ## 请注意，如果你是为了使用AgentLM，在这里，你应该使用英文版本。
@@ -57,12 +58,6 @@ tools = [
 ]
 
 aime_tools = [
-    Tool.from_function(
-        func=search_knowledgebase_complex,
-        name="ensemble_search",
-        description="useful for when you need to answer questions about brand or coupon or cashback",
-        args_schema=KnowledgeSearchInput,
-    ),
     Tool(
         name="ensemble_search",
         func=get_aime_retriever,
@@ -70,7 +65,14 @@ aime_tools = [
         return_direct=True,
         args_schema=aimeInput,
     ),
+    Tool.from_function(
+        func=qa_tool,
+        name="fqa_search",
+        description="useful for when users ask questions about cashback.ai or how to use coupons and cashback or have questions.",
+        args_schema=FQAInput,
+    ),
 ]
+
 aime_tools_names = [tool.name for tool in aime_tools]
 
 tool_names = [tool.name for tool in tools]

@@ -2,17 +2,18 @@ import os
 import shutil
 from typing import List, Dict
 
+from langchain.chains import RetrievalQA
 from langchain.vectorstores.chroma import Chroma
 from langchain_core.documents import Document
 
 import pysqlite3
 import sys
+
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from configs import SCORE_THRESHOLD
 from server.knowledge_base.kb_service.base import KBService, SupportedVSType, EmbeddingsFunAdapter
 from server.knowledge_base.utils import get_vs_path, get_kb_path, KnowledgeFile
-from server.utils import torch_gc
-
+from server.utils import torch_gc, get_ChatOpenAI
 
 
 class ChromaKBService(KBService):
@@ -117,10 +118,24 @@ class ChromaKBService(KBService):
             return False
 
 if __name__ == '__main__':
-    chromaService = ChromaKBService("aime", )
-    file_name = "cashback/cashback_response_1.json"
-    chromaService.add_doc(KnowledgeFile(file_name, "aime"))
-    print("query result =====", chromaService.search_docs("ciherb"))
+    chromaService = ChromaKBService("FQA", )
+    file_name = "FQA.md"
+    kb = KnowledgeFile(file_name, "FQA")
+    kb.text_splitter_name = "MarkdownHeaderTextSplitter"
+    chromaService.add_doc(kb)
+    model = get_ChatOpenAI(
+        model_name='openai-api',
+        temperature=0.8
+    )
+    result = RetrievalQA.from_chain_type(llm=model, chain_type="stuff", retriever=chromaService.load_vector_store().as_retriever()).run("How can I earn cashback?")
+    print("qa result =====", result)
+
+    print("query result =====", chromaService.search_docs("How can I earn cashback?"))
+
+    # chromaService = ChromaKBService("aime", )
+    # file_name = "cashback/cashback_response_1.json"
+    # chromaService.add_doc(KnowledgeFile(file_name, "aime"))
+    # print("query result =====", chromaService.search_docs("ciherb"))
     # chromaService.delete_doc(KnowledgeFile("test_files/test.txt", "samples"))
     # chromaService.do_drop_kb()
     ids = chromaService.load_vector_store().get(where={"source"} == file_name)['ids']

@@ -236,8 +236,6 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
             yield json.dumps({"answer": answer, "final_answer": final_answer}, ensure_ascii=False)
         await task
 
-    import pydevd_pycharm
-    pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
     return StreamingResponse(aime_chat_iterator(query=query,
                                                 history=history,
                                                 model_name=model_name,

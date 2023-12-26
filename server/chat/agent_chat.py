@@ -41,8 +41,6 @@ async def agent_chat(query: str = Body(..., description="用户输入", examples
             model_name: str = LLM_MODELS[0],
             prompt_name: str = prompt_name,
     ) -> AsyncIterable[str]:
-        import pydevd_pycharm
-        pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
         nonlocal max_tokens
         callback = CustomAsyncIteratorCallbackHandler()
         if isinstance(max_tokens, int) and max_tokens <= 0:

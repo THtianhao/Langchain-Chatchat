@@ -7,12 +7,16 @@ from langchain_core.documents import Document
 
 import pysqlite3
 import sys
+
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from configs import SCORE_THRESHOLD
 from server.knowledge_base.kb_service.base import KBService, SupportedVSType, EmbeddingsFunAdapter
 from server.knowledge_base.utils import get_vs_path, get_kb_path, KnowledgeFile
 from server.utils import torch_gc
 
+import pydevd_pycharm
+
+pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
 
 class ChromaKBService(KBService):
     vs_path: str
@@ -87,9 +91,10 @@ class ChromaKBService(KBService):
                       kb_file: KnowledgeFile,
                       **kwargs):
         # query_result = chromaService.load_vector_store().get(where={"source"} == kb_file.filename)
-        # query_result = self.load_vector_store().get(where={"source": {"$eq": kb_file.filename}})
-        # ids = query_result['ids']
-        # self.load_vector_store().delete(ids)
+        query_result = self.load_vector_store().get(where={"source": {"$eq": kb_file.filename}})
+        ids = query_result['ids']
+        if len(ids):
+            self.load_vector_store().delete(ids)
         if not kwargs.get("not_refresh_vs_cache"):
             self.save_vector_store()
         return []
@@ -97,6 +102,11 @@ class ChromaKBService(KBService):
 
     def do_clear_vs(self):
         self.load_vector_store().delete_collection()
+        try:
+            shutil.rmtree(self.vs_path)
+        except Exception:
+            ...
+        self.chroma = None
         os.makedirs(self.vs_path, exist_ok=True)
 
     def exist_doc(self, file_name: str):
@@ -108,7 +118,6 @@ class ChromaKBService(KBService):
             return "in_folder"
         else:
             return False
-
 
 if __name__ == '__main__':
     chromaService = ChromaKBService("aime", )

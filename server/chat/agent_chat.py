@@ -35,8 +35,6 @@ async def agent_chat(query: str = Body(..., description="用户输入", examples
                      # top_p: float = Body(TOP_P, description="LLM 核采样。勿与temperature同时设置", gt=0.0, lt=1.0),
                      ):
     history = [History.from_data(h) for h in history]
-    import pydevd_pycharm
-    pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
     async def agent_chat_iterator(
             query: str,
             history: Optional[List[History]],

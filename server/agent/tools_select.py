@@ -61,14 +61,14 @@ aime_tools = [
     Tool(
         name="ensemble_search",
         func=get_aime_retriever,
-        description="useful for when you need to answer questions about brand or coupon or cashback",
+        description="useful for when you need to query the cashback or coupon data of related brands",
         return_direct=True,
         args_schema=aimeInput,
     ),
     Tool.from_function(
         func=qa_tool,
         name="fqa_search",
-        description="useful for when users ask questions about cashback.ai or how to use coupons and cashback or have questions.",
+        description="useful for when you ask questions about FQA about cashback.ai or cashback or coupon.",
         args_schema=FQAInput,
     ),
 ]

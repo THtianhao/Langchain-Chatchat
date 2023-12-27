@@ -30,7 +30,7 @@ metadata_field_info = [
 ]
 
 def get_aime_retriever(query:str):
-    document_content_description = "Brief name of a brand"
+    document_content_description = "Brief name of a brand of cashback or coupon"
     couponServer = KBServiceFactory.get_service_by_name("aime")
     if isinstance(couponServer, ChromaKBService):
         chroma_vs = couponServer.load_vector_store()

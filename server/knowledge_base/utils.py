@@ -303,6 +303,8 @@ class KnowledgeFile:
         if not docs:
             return []
         if self.ext not in [".csv"]:
+            if self.ext == '.md':
+                self.text_splitter_name = "MarkdownHeaderTextSplitter"
             if text_splitter is None:
                 text_splitter = make_text_splitter(splitter_name=self.text_splitter_name, chunk_size=chunk_size,
                                                    chunk_overlap=chunk_overlap)

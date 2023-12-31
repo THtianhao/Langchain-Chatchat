@@ -11,7 +11,7 @@ import sys
 
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from configs import SCORE_THRESHOLD
-from server.knowledge_base.kb_service.base import KBService, SupportedVSType, EmbeddingsFunAdapter
+from server.knowledge_base.kb_service.base import KBService, SupportedVSType, EmbeddingsFunAdapter, KBServiceFactory
 from server.knowledge_base.utils import get_vs_path, get_kb_path, KnowledgeFile
 from server.utils import torch_gc, get_ChatOpenAI
 
@@ -118,34 +118,45 @@ class ChromaKBService(KBService):
             return False
 
 if __name__ == '__main__':
-    chromaService = ChromaKBService("FQA", )
+    #====== FQA
+    # chromaService = ChromaKBService("FQA", )
     file_name = "FQA.md"
-    kb = KnowledgeFile(file_name, "FQA")
-    kb.text_splitter_name = "MarkdownHeaderTextSplitter"
-    chromaService.add_doc(kb)
-    model = get_ChatOpenAI(
-        model_name='openai-api',
-        temperature=0.8
-    )
-    result = RetrievalQA.from_chain_type(llm=model, chain_type="stuff", retriever=chromaService.load_vector_store().as_retriever()).run("How can I earn cashback?")
-    print("qa result =====", result)
+    # kb = KnowledgeFile(file_name, "FQA")
+    # kb.text_splitter_name = "MarkdownHeaderTextSplitter"
+    # chromaService.add_doc(kb)
+    # model = get_ChatOpenAI(
+    #     model_name='openai-api',
+    #     temperature=0.8
+    # )
+    # result = RetrievalQA.from_chain_type(llm=model, chain_type="stuff", retriever=chromaService.load_vector_store().as_retriever()).run("How can I earn cashback?")
+    # print("qa result =====", result)
+    #
+    # print("query result =====", chromaService.search_docs("How can I earn cashback?"))
+    # ===== FQA end
 
-    print("query result =====", chromaService.search_docs("How can I earn cashback?"))
+
+    # ====== start aime
+    chromaService = KBServiceFactory.get_service_by_name("aime")
+    if isinstance(chromaService, ChromaKBService):
+        print("query result =====",  chromaService.load_vector_store().search('nike'))
+
+
+    # ====== end aime
 
     # chromaService = ChromaKBService("aime", )
-    # file_name = "cashback/cashback_response_1.json"
+    # filename = "cashback/cashback_response_1.json"
     # chromaService.add_doc(KnowledgeFile(file_name, "aime"))
     # print("query result =====", chromaService.search_docs("ciherb"))
     # chromaService.delete_doc(KnowledgeFile("test_files/test.txt", "samples"))
     # chromaService.do_drop_kb()
-    ids = chromaService.load_vector_store().get(where={"source"} == file_name)['ids']
-    print('ids ======  length = ', len(ids))
-    doc1 = chromaService.get_doc_by_ids([ids[0], ids[1]])
-    print("doc =====", doc1)
-    chromaService.load_vector_store().delete([ids[0], ids[1]])
-    ids = chromaService.load_vector_store().get(where={"source"} == file_name)['ids']
-    print('delete ids ==', [ids[0], ids[1]])
-    print('after delete ids ======  length = ', len(ids))
-    chromaService.do_delete_doc(KnowledgeFile("test_files/test.txt", knowledge_base_name="aaa"))
-    ids = chromaService.load_vector_store().get(where={"source"} == file_name)['ids']
-    print('after delete know ======  length = ', len(ids))
+        ids = chromaService.load_vector_store().get(where={"source"} == file_name)['ids']
+        print('ids ======  length = ', len(ids))
+        doc1 = chromaService.get_doc_by_ids([ids[0], ids[1]])
+        print("doc =====", doc1)
+        chromaService.load_vector_store().delete([ids[0], ids[1]])
+        ids = chromaService.load_vector_store().get(where={"source"} == file_name)['ids']
+        print('delete ids ==', [ids[0], ids[1]])
+        print('after delete ids ======  length = ', len(ids))
+        chromaService.do_delete_doc(KnowledgeFile("test_files/test.txt", knowledge_base_name="aaa"))
+        ids = chromaService.load_vector_store().get(where={"source"} == file_name)['ids']
+        print('after delete know ======  length = ', len(ids))

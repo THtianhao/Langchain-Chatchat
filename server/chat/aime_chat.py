@@ -58,8 +58,8 @@ async def aime_chat(query: str = Body(..., description="用户输入", examples=
             prompt_name: str = prompt_name,
     ) -> AsyncIterable[str]:
         nonlocal max_tokens
-        import pydevd_pycharm
-        pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
+        # import pydevd_pycharm
+        # pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
 
         assistant_name = "cashbacks.ai"
         assistant_role = "smart AI agent"

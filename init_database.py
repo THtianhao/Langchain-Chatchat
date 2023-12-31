@@ -102,7 +102,8 @@ if __name__ == "__main__":
     if args.clear_tables:
         reset_tables()
         print("database talbes reseted")
-
+    import pydevd_pycharm
+    pydevd_pycharm.settrace('49.7.62.197', port=10090, stdoutToServer=True, stderrToServer=True, suspend=False)
     if args.recreate_vs:
         create_tables()
         print("recreating all vector stores")

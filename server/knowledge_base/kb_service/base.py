@@ -30,7 +30,6 @@ from server.embeddings_api import embed_texts
 from server.embeddings_api import embed_documents
 from server.knowledge_base.model.kb_document_model import DocumentWithVSId
 
-
 def normalize(embeddings: List[List[float]]) -> np.ndarray:
     '''
     sklearn.preprocessing.normalize 的替代（使用 L2），避免安装 scipy, scikit-learn
@@ -40,7 +39,6 @@ def normalize(embeddings: List[List[float]]) -> np.ndarray:
     norm = np.tile(norm, (1, len(embeddings[0])))
     return np.divide(embeddings, norm)
 
-
 class SupportedVSType:
     CHROMA = 'chroma'
     FAISS = 'faiss'
@@ -49,7 +47,6 @@ class SupportedVSType:
     ZILLIZ = 'zilliz'
     PG = 'pg'
     ES = 'es'
-
 
 class KBService(ABC):
 
@@ -275,7 +272,6 @@ class KBService(ABC):
         """
         pass
 
-
 class KBServiceFactory:
 
     @staticmethod
@@ -321,7 +317,6 @@ class KBServiceFactory:
     def get_default():
         return KBServiceFactory.get_service("default", SupportedVSType.DEFAULT)
 
-
 def get_kb_details() -> List[Dict]:
     kbs_in_folder = list_kbs_from_folder()
     kbs_in_db = KBService.list_kbs()
@@ -355,7 +350,6 @@ def get_kb_details() -> List[Dict]:
         data.append(v)
 
     return data
-
 
 def get_kb_file_details(kb_name: str) -> List[Dict]:
     kb = KBServiceFactory.get_service_by_name(kb_name)
@@ -396,7 +390,6 @@ def get_kb_file_details(kb_name: str) -> List[Dict]:
 
     return data
 
-
 class EmbeddingsFunAdapter(Embeddings):
 
     def __init__(self, embed_model: str = EMBEDDING_MODEL):
@@ -419,7 +412,6 @@ class EmbeddingsFunAdapter(Embeddings):
 
     # async def aembed_query(self, text: str) -> List[float]:
     #     return normalize(await self.embeddings.aembed_query(text))
-
 
 def score_threshold_process(score_threshold, k, docs):
     if score_threshold is not None:

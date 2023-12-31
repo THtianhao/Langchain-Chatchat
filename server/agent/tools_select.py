@@ -69,6 +69,7 @@ aime_tools = [
         func=qa_tool,
         name="fqa_search",
         description="useful for when you ask questions about FQA about cashback.ai or cashback or coupon.",
+        return_direct=True,
         args_schema=FQAInput,
     ),
 ]

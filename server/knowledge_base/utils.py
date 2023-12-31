@@ -18,9 +18,8 @@ from langchain.text_splitter import TextSplitter
 from pathlib import Path
 from server.utils import run_in_thread_pool, get_model_worker_config
 import json
-from typing import List, Union,Dict, Tuple, Generator
+from typing import List, Union, Dict, Tuple, Generator
 import chardet
-
 
 def validate_kb_name(knowledge_base_id: str) -> bool:
     # 检查是否包含预期外的字符或路径攻击关键字
@@ -28,27 +27,21 @@ def validate_kb_name(knowledge_base_id: str) -> bool:
         return False
     return True
 
-
 def get_kb_path(knowledge_base_name: str):
     return os.path.join(KB_ROOT_PATH, knowledge_base_name)
-
 
 def get_doc_path(knowledge_base_name: str):
     return os.path.join(get_kb_path(knowledge_base_name), "content")
 
-
 def get_vs_path(knowledge_base_name: str, vector_name: str):
     return os.path.join(get_kb_path(knowledge_base_name), "vector_store", vector_name)
-
 
 def get_file_path(knowledge_base_name: str, doc_name: str):
     return os.path.join(get_doc_path(knowledge_base_name), doc_name)
 
-
 def list_kbs_from_folder():
     return [f for f in os.listdir(KB_ROOT_PATH)
             if os.path.isdir(os.path.join(KB_ROOT_PATH, f))]
-
 
 def list_files_from_folder(kb_name: str):
     doc_path = get_doc_path(kb_name)
@@ -83,7 +76,6 @@ def list_files_from_folder(kb_name: str):
 
     return result
 
-
 LOADER_DICT = {"UnstructuredHTMLLoader": ['.html'],
                "TextLoader": ['.md'],
                "JSONLoader": [".json"],
@@ -110,7 +102,6 @@ LOADER_DICT = {"UnstructuredHTMLLoader": ['.html'],
                }
 SUPPORTED_EXTS = [ext for sublist in LOADER_DICT.values() for ext in sublist]
 
-
 # patch json.dumps to disable ensure_ascii
 def _new_json_dumps(obj, **kwargs):
     kwargs["ensure_ascii"] = False
@@ -120,24 +111,21 @@ if json.dumps is not _new_json_dumps:
     _origin_json_dumps = json.dumps
     json.dumps = _new_json_dumps
 
-
 class JSONLinesLoader(langchain.document_loaders.JSONLoader):
     '''
     行式 Json 加载器，要求文件扩展名为 .jsonl
     '''
+
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self._json_lines = True
 
-
 langchain.document_loaders.JSONLinesLoader = JSONLinesLoader
-
 
 def get_LoaderClass(file_extension):
     for LoaderClass, extensions in LOADER_DICT.items():
         if file_extension in extensions:
             return LoaderClass
-
 
 # 把一些向量化共用逻辑从KnowledgeFile抽取出来，等langchain支持内存文件的时候，可以将非磁盘文件向量化
 def get_loader(loader_name: str, file_path: str, loader_kwargs: Dict = None):
@@ -146,7 +134,7 @@ def get_loader(loader_name: str, file_path: str, loader_kwargs: Dict = None):
     '''
     loader_kwargs = loader_kwargs or {}
     try:
-        if loader_name in ["RapidOCRPDFLoader", "RapidOCRLoader","FilteredCSVLoader"]:
+        if loader_name in ["RapidOCRPDFLoader", "RapidOCRLoader", "FilteredCSVLoader"]:
             document_loaders_module = importlib.import_module('document_loaders')
         else:
             document_loaders_module = importlib.import_module('langchain.document_loaders')
@@ -179,7 +167,6 @@ def get_loader(loader_name: str, file_path: str, loader_kwargs: Dict = None):
 
     loader = DocumentLoader(file_path, **loader_kwargs)
     return loader
-
 
 def make_text_splitter(
         splitter_name: str = TEXT_SPLITTER_NAME,
@@ -257,7 +244,6 @@ def make_text_splitter(
         TextSplitter = getattr(text_splitter_module, "RecursiveCharacterTextSplitter")
         text_splitter = TextSplitter(chunk_size=250, chunk_overlap=50)
     return text_splitter
-
 
 class KnowledgeFile:
     def __init__(
@@ -349,7 +335,6 @@ class KnowledgeFile:
     def get_size(self):
         return os.path.getsize(self.filepath)
 
-
 def files2docs_in_thread(
         files: List[Union[KnowledgeFile, Tuple[str, str], Dict]],
         chunk_size: int = CHUNK_SIZE,
@@ -394,7 +379,6 @@ def files2docs_in_thread(
 
     for result in run_in_thread_pool(func=file2docs, params=kwargs_list):
         yield result
-
 
 if __name__ == "__main__":
     from pprint import pprint

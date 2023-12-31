@@ -4,7 +4,6 @@ from server.knowledge_base.kb_service.base import KBServiceFactory
 from server.knowledge_base.kb_service.chroma_kb_service import ChromaKBService
 from pydantic import BaseModel, Field
 
-
 def qa_tool(query: str):
     fqa_service = KBServiceFactory.get_service_by_name("FQA")
     if isinstance(fqa_service, ChromaKBService):

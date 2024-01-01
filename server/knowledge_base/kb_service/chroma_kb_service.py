@@ -3,6 +3,7 @@ import shutil
 from typing import List, Dict
 
 from langchain.chains import RetrievalQA
+from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores.chroma import Chroma
 from langchain_core.documents import Document
 
@@ -33,9 +34,14 @@ class ChromaKBService(KBService):
 
     def load_vector_store(self) -> Chroma:
         if self.chroma is None:
-            self.chroma = Chroma(collection_name=self.kb_name,
-                                 embedding_function=EmbeddingsFunAdapter(self.embed_model),
-                                 persist_directory=self.get_vs_path())
+            if self.embed_model == "text-embedding-ada-002":
+                self.chroma = Chroma(collection_name=self.kb_name,
+                                     embedding_function=OpenAIEmbeddings(),
+                                     persist_directory=self.get_vs_path())
+            else:
+                self.chroma = Chroma(collection_name=self.kb_name,
+                                     embedding_function=EmbeddingsFunAdapter(self.embed_model),
+                                     persist_directory=self.get_vs_path())
         return self.chroma
 
     def save_vector_store(self):
@@ -117,8 +123,9 @@ class ChromaKBService(KBService):
         else:
             return False
 
+
 if __name__ == '__main__':
-    #====== FQA
+    # ====== FQA
     # chromaService = ChromaKBService("FQA", )
     file_name = "FQA.md"
     # kb = KnowledgeFile(file_name, "FQA")
@@ -134,21 +141,19 @@ if __name__ == '__main__':
     # print("query result =====", chromaService.search_docs("How can I earn cashback?"))
     # ===== FQA end
 
-
     # ====== start aime
     chromaService = KBServiceFactory.get_service_by_name("aime")
     if isinstance(chromaService, ChromaKBService):
-        print("query result =====",  chromaService.load_vector_store().search('nike'))
+        print("query result =====", chromaService.load_vector_store().search('nike'))
 
+        # ====== end aime
 
-    # ====== end aime
-
-    # chromaService = ChromaKBService("aime", )
-    # filename = "cashback/cashback_response_1.json"
-    # chromaService.add_doc(KnowledgeFile(file_name, "aime"))
-    # print("query result =====", chromaService.search_docs("ciherb"))
-    # chromaService.delete_doc(KnowledgeFile("test_files/test.txt", "samples"))
-    # chromaService.do_drop_kb()
+        # chromaService = ChromaKBService("aime", )
+        # filename = "cashback/cashback_response_1.json"
+        # chromaService.add_doc(KnowledgeFile(file_name, "aime"))
+        # print("query result =====", chromaService.search_docs("ciherb"))
+        # chromaService.delete_doc(KnowledgeFile("test_files/test.txt", "samples"))
+        # chromaService.do_drop_kb()
         ids = chromaService.load_vector_store().get(where={"source"} == file_name)['ids']
         print('ids ======  length = ', len(ids))
         doc1 = chromaService.get_doc_by_ids([ids[0], ids[1]])

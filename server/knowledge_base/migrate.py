@@ -153,8 +153,6 @@ def folder2db(
 
     kb_names = kb_names or list_kbs_from_folder()
     for kb_name in kb_names:
-        if kb_name != 'FQA':
-            continue
         if kb_name == 'samples' or kb_name == 'test':
             continue
         kb = KBServiceFactory.get_service(kb_name, vs_type, embed_model)

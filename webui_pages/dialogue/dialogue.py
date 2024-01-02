@@ -132,12 +132,13 @@ def dialogue_page(api: ApiRequest, is_lite: bool = False):
                     text = f"{text} 当前知识库： `{cur_kb}`。"
             st.toast(text)
 
-        dialogue_modes = ["LLM 对话",
+        dialogue_modes = ["aime对话",
+                          "LLM 对话",
                           "知识库问答",
                           "文件对话",
                           "搜索引擎问答",
                           "自定义Agent问答",
-                          "aime对话",
+
                           ]
         dialogue_mode = st.selectbox("请选择对话模式：",
                                      dialogue_modes,
@@ -197,12 +198,12 @@ def dialogue_page(api: ApiRequest, is_lite: bool = False):
                     st.session_state["prev_llm_model"] = llm_model
 
         index_prompt = {
+            "aime对话": "aime_chat",
             "LLM 对话": "llm_chat",
             "自定义Agent问答": "agent_chat",
             "搜索引擎问答": "search_engine_chat",
             "知识库问答": "knowledge_base_chat",
             "文件对话": "knowledge_base_chat",
-            "aime对话": "aime_chat",
         }
         prompt_templates_kb_list = list(PROMPT_TEMPLATES[index_prompt[dialogue_mode]].keys())
         prompt_template_name = prompt_templates_kb_list[0]
@@ -379,11 +380,11 @@ def dialogue_page(api: ApiRequest, is_lite: bool = False):
                 text = ""
                 ans = ""
                 for d in api.aime_chat(prompt,
-                                        history=history,
-                                        model=llm_model,
-                                        prompt_name=prompt_template_name,
-                                        temperature=temperature,
-                                        ):
+                                       history=history,
+                                       model=llm_model,
+                                       prompt_name=prompt_template_name,
+                                       temperature=temperature,
+                                       ):
                     try:
                         d = json.loads(d)
                     except:
